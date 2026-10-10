@@ -314,3 +314,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA cấu trúc: đúng 100 ID, chỉ vi/status/notes thay đổi; bất biến tiếng Anh/offset/source hash/source_review/order; NFC, số newline, prefix và placeholder, 0 nguồn trùng có hai bản dịch khác. Tất cả vẫn candidate/draft. Không đụng Merienda V3, game binary, ROM/ISO; talk/cmc chưa repack/test RPCS3.
 - Tổng **5.311/11.886 draft**, còn **6.575 todo** trong dữ liệu trích xuất.
 - **Tiếp theo:** `talk/en/tk202_en.bin_@0000d0d1`; GitHub Actions chạy validator/unittest sau commit.
+
+## Lượt 025c — 11/10/2026 (hoàn tất 318 mục cuối tk202)
+
+- Dịch **318 mục todo→draft** từ `talk/en/tk202_en.bin_@0000d0d1` đến `talk/en/tk202_en.bin_@0001daaf`; **273** nguồn trùng bản đã dịch (giữ nguyên từng chữ), **45** source mới dịch nháp có ghi chú khi ngữ cảnh thiếu. Rà cấu trúc theo sáu nhóm ~50. `tk202` đạt **518/518 draft**, còn 0 todo.
+- Bối cảnh: Doolin, người chết, Sứ giả, vũ khí cổ, Lính Máy (tạm), lính máy hệ Sét, pháo đài, ký ức, hy sinh. Những từ máy/giáp/bình chứa, ngôi xưng, mảnh câu thiếu chủ ngữ được giữ draft+notes, không suy speaker.
+- QA: chỉ sửa vi/status/notes của đúng 318 mục; English/source SHA/offset/source_review/order và mọi trường khác giữ nguyên; Unicode NFC, newline, mã đầu, placeholders, nguồn trùng không xung đột. Chưa có parser/repacker talk/cmc hoặc kiểm tra runtime RPCS3, không thay Merienda V3 hay binary/ROM/ISO.
+- Tổng repo 158 catalog: **5.629/11.886 draft**, còn **6.257 todo**. Đây chỉ là độ phủ ứng viên text, không phải phần trăm patch đã chạy được.
+- **Tiếp theo:** `talk/en/tk203_en.bin_@00001158` (`To Netherworld`), catalog tk203 có 663 mục. Bắt đầu theo nguồn trùng trước, sau đó mới dịch fragment mới; không có giới hạn cứng lô nhưng QA theo cảnh và commit vừa sức.
+- GitHub Actions trên Windows/Linux chạy validator + unittest khi push.
