@@ -251,3 +251,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: đúng 100 ID, chỉ `vi/status/notes` thay đổi; bảo toàn nguồn English, SHA-256, offset, source_review=candidate, thứ tự; Unicode NFC, số newline, prefix và khoảng trắng cuối, placeholder; không có mâu thuẫn bản Việt của source trùng giữa các catalog được rà.
 - **Chính sách theo yêu cầu mới:** không cố đạt 200 hay hơn trong một lượt khi có nguy cơ crash; ưu tiên commit có kiểm tra sau mỗi khối 50–100. Parser/repacker talk chưa có; không vá ROM/binary/font Merienda V3.
 - Tổng **4.435/11.886 draft**, còn **7.451 todo**. Tiếp từ `talk/en/tk200_en.bin_@00006cf8`.
+
+## Lượt 023b — 11/10/2026 (180 mục còn lại tk200; hoàn tất catalog)
+
+- Tiếp tục từ checkpoint GitHub `7219d5fbd100`, đúng `talk/en/tk200_en.bin_@00006cf8` đến `talk/en/tk200_en.bin_@0000f6b3`, không lặp lại 100 mục lượt 023a.
+- Hoàn tất **180 mục `todo→draft`**: **167** câu/mảnh trùng nguyên nguồn đã có bản Việt tk100–105/tk200 được tái sử dụng để đồng nhất cách xưng hô/thuật ngữ; **13** mảnh mới dịch nháp, ghi notes khi ngữ cảnh thiếu. **tk200 280/280 draft, 0 todo.**
+- Nội dung: đá bí ẩn, chiến đấu với Folk, Sứ giả, người chết; các câu điều tra Doolin, bác sĩ, quán rượu, thư từ và bí ẩn gia đình. Không đoán speaker, giữ dấu tiền tố/ngắt dòng/source tiếng Anh.
+- QA cấu trúc trước commit: chỉ `vi/status/notes` thay đổi trong 180 mục; ID, source, SHA-256, offset, source_review, thứ tự giữ nguyên; NFC/newline/placeholder/tiền tố không thất lạc; 0 xung đột với bản Việt của nguồn trùng tk100–105. Chưa có parser/repacker dialogue hay thử RPCS3; giữ `source_review=candidate`, `status=draft` và Merienda V3 không đổi.
+- Tổng **4.615/11.886 draft**, còn **7.271 todo** trong dữ liệu trích xuất; không phải tỷ lệ tiếng Việt đã tích hợp trong game.
+- **Tiếp theo:** `talk/en/tk201_en.bin_@00001158` (`To Netherworld`), tệp tk201 có 496 mục todo. GitHub Actions chạy validator/unittest sau commit.

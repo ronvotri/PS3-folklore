@@ -213,3 +213,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - 29 bản dịch tái dùng từ nguồn đã dịch, 11 lần lặp nội bộ, 60 nguồn chưa có draft được dịch; ngữ cảnh Doolin, Halflive, người chết, quán rượu, Faery. Xưng hô tạm/notes cho fragment; chưa khẳng định speaker.
 - QA bất biến ID/English/hash/offset/source_review, NFC/newline/placeholder/tiền tố, source trùng không mâu thuẫn; tất cả mới chỉ `candidate/draft`. Chưa repack thoại hay test RPCS3, giữ Merienda V3 nguyên.
 - Tổng **4.435 draft/11.886**, **7.451 todo**. Tiếp `talk/en/tk200_en.bin_@00006cf8`. CI Windows/Ubuntu kiểm tra sau khi push.
+
+## Lượt 023b — 11/10/2026 (tk200 hoàn tất)
+
+- Chuyển 180 mục cuối tk200 từ todo sang draft (167 bản trùng nguồn tái sử dụng, 13 mảnh mới); **tk200 280/280 draft**. Toàn bộ 158 catalog: **4.615/11.886 draft**, còn **7.271 todo**.
+- QA chỉ sửa vi/status/notes; ID, English, source hash, offset, source_review, thứ tự, Unicode NFC, newline, control markers và bản Việt của cùng nguồn đều nhất quán. Mọi câu vẫn là ASCII NUL candidate, chưa xác minh speaker; ghi notes chỗ cần ráp cảnh.
+- Chưa có talk/cmc parser/repacker hoặc kiểm chứng RPCS3; không đụng Merienda V3, ISO/ROM/binary, không đánh dấu reviewed/tested.
+- Chuyển hàng đợi sang `talk/en/tk201_en.bin_@00001158`; CI validator/unittest Windows/Linux chạy sau push.
