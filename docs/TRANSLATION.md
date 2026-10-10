@@ -19,6 +19,15 @@ Trạng thái: todo → draft → reviewed → tested. skip dành cho mục khô
 văn bản cần dịch, phải giải thích trong notes. 134 mục menu mẫu đang draft:
 đã dịch thử, nhưng không phải tất cả đã được người dùng xem trong game.
 
+## Xưng hô và khẩu khí nhân vật
+
+- **Không đặt đại từ theo một công thức cố định.** Dùng tên, người nói, người nghe, tuổi/quan hệ, mức độ thân thiết và sắc thái tình huống *chỉ khi đã xác minh trong cảnh*. Không gán “anh–em”, “ông–cháu”, “mày–tao”, “ta–ngươi” theo cảm giác hoặc vì nhân vật thuộc Cõi âm.
+- Khi người kể tự nói về mẹ/quá khứ (như các câu có “my mother”), giữ nội dung gốc; chưa xác minh speaker thì tạm dùng “tôi/mẹ tôi”, không khẳng định đó là Ellen. “I” thường là “tôi” trong đối thoại với người lạ; “mình” chỉ khi biết đó là độc thoại/ý nghĩ tự nhiên.
+- Với đối tượng chưa rõ, ưu tiên lược đại từ khi câu vẫn tự nhiên, hoặc “bạn” ở bản nháp khi ngôi thứ hai là bắt buộc; đánh dấu cần QA. Từ “he/she” chỉ giới tính ngữ pháp chứ không đủ để đoán nhân vật, độ tuổi hoặc quan hệ.
+- Khẩu ngữ Doolin (ye/yer/askin') giữ chất thân thiện địa phương bằng nhịp nói, “nào/nhé/chứ” và ngữ điệu; không tự chuyển sang “mày/tao” hay tạo phương ngữ Việt gây lệch không khí truyện cổ u tối.
+- Câu ngắn không được cộc lốc như văn máy: linh hoạt hư từ khi **đã đủ ngữ cảnh**; nhưng với candidate cắt mảnh, tuyệt đối không thêm chủ ngữ, lời mời, động cơ hoặc tình tiết chưa có trong tiếng Anh.
+- Kiểm tra các lựa chọn đại từ lặp trên toàn **cảnh đã dựng lại**, không chỉ các ID kế nhau. Bản `source_review=candidate` chưa có parser/speaker phải giữ `draft` kèm notes, không chuyển reviewed/tested theo suy đoán.
+
 ## Mã điều khiển và tiền tố chưa rõ
 
 Giữ tag <...>, placeholder %s/%d, {0}, dấu $ và các ngắt dòng nguồn.

@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314 mục tk100 `draft` và 8 mục tk101 `draft`. Còn 10.502 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 322 ứng viên talk có bản nháp (314 tk100, 8 tk101). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314 mục tk100 `draft` và 208 mục tk101 `draft`. Còn 10.302 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 522 ứng viên talk có bản nháp (314 tk100, 208 tk101). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -137,3 +137,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Rà tiền tố như `$`, `(`, chữ số 0/4/8, dấu câu đầu chuỗi, xuống dòng; không gán người nói, không chỉnh sửa source/offset/metadata. Đánh dấu notes cho các candidate thiếu ngữ cảnh; kiểm tra NFC/newline/tokens và không có xung đột bản dịch nguồn trùng.
 - Khảo sát cấu trúc: `tools/catalog.py` mới quét mảnh ASCII kết thúc NUL; 217/314 ứng viên tk100 mở đầu bằng newline, 23/314 mở đầu bằng space. Chưa đủ bằng chứng để suy pointer table/speaker, và chưa có repacker. Phân tích chi tiết và kế hoạch xác minh trong `docs/DIALOGUE_CANDIDATE_AUDIT.md`.
 - Chưa thử RPCS3, chưa thay font Merienda V3, không có patch/binary. Sau commit, CI Windows/Ubuntu chạy validator + unittest. Checkpoint tiếp theo: `talk/en/tk101_en.bin_@000016b4`.
+
+## Lượt 014 — 10/10/2026 (200 câu/mảnh tk101)
+
+- Thêm 200 mục `draft` trong `tk101`, từ `talk/en/tk101_en.bin_@000016b4` đến `talk/en/tk101_en.bin_@0000c427`; tk101 đạt 208/447, còn 239 todo. Tổng dự án: 1.584 draft, 10.302 todo.
+- Rà xưng hô theo bối cảnh có thể suy từ chữ nguồn: mẹ/con, ký ức 17 năm, nhân vật điều tra, người dân Doolin, Gam/Gee. Không tự gán tên speaker hay quan hệ từ ID; dùng cách diễn đạt trung tính/lược đại từ khi mất chủ ngữ; đánh dấu notes cho mảnh không đủ nghĩa. Bổ sung quy tắc rõ trong TRANSLATION.md.
+- QA NFC, số dòng, placeholder, tiền tố; không sửa source/hash/offset/metadata/source_review. Soát 12 cặp chuỗi lặp nội bộ và các source trùng với tk100, 0 mâu thuẫn.
+- Không cập nhật font V3/binary và chưa thử RPCS3. CMC/talk chưa có repacker đã xác minh. Sau commit GitHub Actions kiểm tra Windows/Ubuntu.
+- Checkpoint lượt 015: `talk/en/tk101_en.bin_@0000c5ec`.

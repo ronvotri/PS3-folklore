@@ -91,2000 +91,2000 @@
       "file_offset": 5812,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001714",
       "file_offset": 5908,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001777",
       "file_offset": 6007,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000017e4",
       "file_offset": 6116,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001844",
       "file_offset": 6212,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001924",
       "file_offset": 6436,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001984",
       "file_offset": 6532,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@000019e0",
       "file_offset": 6624,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001a44",
       "file_offset": 6724,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001aa8",
       "file_offset": 6824,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001b08",
       "file_offset": 6920,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001c27",
       "file_offset": 7207,
       "source": "$There's too much I don't know.",
       "source_sha256": "5a8e3e761e965dd31592c30b5563a23e4592b330b99af87489d7c5e2820e401c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có quá nhiều điều tôi chưa biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001dd1",
       "file_offset": 7633,
       "source": "\nWas it all just a dream?",
       "source_sha256": "407dfdf56205cda3ccfab3dcbcf35813789cb29440a115dbe2972c6a4acc4e73",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChẳng lẽ tất cả chỉ là một giấc mơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001e65",
       "file_offset": 7781,
       "source": " to find out.",
       "source_sha256": "5249cac5ba27d78dc28a88b1b66d213b21cf0304fa5104ab58a9d32d869fc57e",
-      "vi": "",
-      "status": "todo",
+      "vi": " để tìm hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00001f3a",
       "file_offset": 7994,
       "source": "\nthe cliff is staying.",
       "source_sha256": "e5c3d2cf4be012e92c202f5ece17ecdcf30c0adf34bbb72b42cdb113c3d700ab",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvẫn ở vách đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Cụm 'the cliff is staying' khó xác định chủ ngữ trong nguồn quét; tạm dịch không suy nhân vật ở vách đá."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002022",
       "file_offset": 8226,
       "source": " first.",
       "source_sha256": "d7c03157c4c44dc1b932b67cd82b7ff0a6f2e7f6ffb02dcc7a0803d6287fe904",
-      "vi": "",
-      "status": "todo",
+      "vi": " trước đã.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002372",
       "file_offset": 9074,
       "source": "\nfew questions.",
       "source_sha256": "f05b61fde31be4f19e330eb2ab08b62de952979fbb3b6ff519f027c5f2768f62",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvài câu hỏi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002640",
       "file_offset": 9792,
       "source": "\neh? This I have to try.",
       "source_sha256": "508fab05f30fb93c339652440377b0126d64d73047b8b66cfcd75a7ad53094b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhả? Chuyện này phải thử mới biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000027aa",
       "file_offset": 10154,
       "source": "\nWouldn't want to be rude.",
       "source_sha256": "d3b1d05193f23aea85c1e8fbe9b4a511d06bf425cbc62da448cea758593d7c13",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không muốn thất lễ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002975",
       "file_offset": 10613,
       "source": "\nas you, and offered mementos",
       "source_sha256": "3c534cc95557962225f0ba70d11bc5f9ac6e6d640a5b7ac50cb222763b9eb7fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiống như bạn và đã dâng kỷ vật",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Memento giữ nghĩa kỷ vật, nhân xưng ở mảnh so sánh chưa rõ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002a87",
       "file_offset": 10887,
       "source": "$What happens when it's offered?",
       "source_sha256": "1b3643c6b9673897a59708205bd13b9057cfaa8b26203ae40a13a67d44b0a730",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Điều gì xảy ra khi dâng kỷ vật?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002bd6",
       "file_offset": 11222,
       "source": "\nwhilst still alive.",
       "source_sha256": "e0924f61012bd335d49db078ad456477d071fa4d1d8bef84aab616e317be48e2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi vẫn còn sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002cc8",
       "file_offset": 11464,
       "source": ".It's worth trying out.",
       "source_sha256": "90e2895deced3fe0234d3cf9e8af42aec8c01b6578df3a0d7d9949f7a36ce37f",
-      "vi": "",
-      "status": "todo",
+      "vi": ".Cũng đáng thử đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002f77",
       "file_offset": 12151,
       "source": "\nShe will offer you guidance.",
       "source_sha256": "8118558276c1b4a6250cf52a1fc8e6f307669b6ec3f021dd9dccbe89457e5c24",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCô ấy sẽ chỉ dẫn cho bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. She không có tên/speaker được xác minh; không mặc định Ellen hoặc Suzette."
     },
     {
       "id": "talk/en/tk101_en.bin_@00002ffc",
       "file_offset": 12284,
       "source": "\nbut I can find her up ahead?",
       "source_sha256": "d6866aa94c529dc07da416a052cf14fcfe2fe51f1b5c143bdf9d2a55edbc37fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng tôi có thể gặp cô ấy ở phía trước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003065",
       "file_offset": 12389,
       "source": "\nAnd take this with you.",
       "source_sha256": "642a2357296ed91955111b040e734393cf692377fea0da6a88e8aeb109fd4570",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVà hãy mang theo thứ này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003334",
       "file_offset": 13108,
       "source": "\nabout?",
       "source_sha256": "1c546f8b265b729d0488f54c2abf6579c248045c094a7800429a680afd9561e4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000033f1",
       "file_offset": 13297,
       "source": " to you.",
       "source_sha256": "8196d3b9cb501e0f33774b2e46d7a586445427faef264510d5b6868a7b5c0cc5",
-      "vi": "",
-      "status": "todo",
+      "vi": " cho bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003440",
       "file_offset": 13376,
       "source": "Do you seek the truth?",
       "source_sha256": "284d0e3c22267f39516775ad8e60145360fe12c13ea292da72b0c80fe207ca9c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn đang tìm kiếm sự thật sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003565",
       "file_offset": 13669,
       "source": "\nyou can do that.",
       "source_sha256": "436cc8ed79159f795541ddb2ff5d4d6bac846059b23e9efb00de3f7bd50ca2ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn có thể làm được điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000370f",
       "file_offset": 14095,
       "source": "\ndead?",
       "source_sha256": "a92e8c8a17d3e26f00131b109dfe9e1959d56dffd09f2b8593eeb682ef5f6620",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000379f",
       "file_offset": 14239,
       "source": "\nsouls and memories.",
       "source_sha256": "260fe626c9b32ca3cdacaae1b966707877a2a73eddf279abff78a41de17f7ec2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững linh hồn và ký ức.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000382c",
       "file_offset": 14380,
       "source": "\nSums it up to me!",
       "source_sha256": "b0a7c8f6990f76a8d10c4148a39c4963fedfb2a41e599e1e4c69deba0643c44b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi hiểu đại khái rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000038b4",
       "file_offset": 14516,
       "source": "\nseek will be drawn to you.",
       "source_sha256": "409f4ebd9bee33e9344c83b052c9bc4a551b51802eed3c6df6473a69de394b5a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang tìm sẽ bị thu hút về phía bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003913",
       "file_offset": 14611,
       "source": " Take this, just in case.",
       "source_sha256": "201fc3c763af342f10be21afb95fdd95708a71d76edc68a9e93fb7503fce10b1",
-      "vi": "",
-      "status": "todo",
+      "vi": " Cầm lấy, phòng khi cần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003af9",
       "file_offset": 15097,
       "source": "\nlies beyond.",
       "source_sha256": "b94d877662eaad5aa50ae02041c1a593f67bc39ea758cfb6530969156220f7df",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnằm ở phía bên kia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003b67",
       "file_offset": 15207,
       "source": "\nan audience.",
       "source_sha256": "9bf613a9261ac805001b5360d2ba040e4a3f2ca2b8fe9287a71a029d48bf1a95",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người lắng nghe.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003cbb",
       "file_offset": 15547,
       "source": " Oh well. Better get back.",
       "source_sha256": "af0f488a258969f1d67fe4a18b5cc78272793832bab33a095e44513c66962012",
-      "vi": "",
-      "status": "todo",
+      "vi": " Thôi được. Tốt nhất nên quay lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003d98",
       "file_offset": 15768,
       "source": "\nperson, in the flesh...",
       "source_sha256": "7881336e79b4ade819975ff7ae94f9b44365d44ce5a019782e709c6fa518a1a5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người bằng xương bằng thịt...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003df7",
       "file_offset": 15863,
       "source": "$I must hear this one's story.",
       "source_sha256": "db98a55e599067064fb3312618fb0cb4fc4bea340078b1f3fd5a739ad5170b4c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi phải nghe câu chuyện của người này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003ee7",
       "file_offset": 16103,
       "source": "$Looks like we can talk today.",
       "source_sha256": "2f8d1cc3e4abd147f9450d0d01ef35b561fd4f7cb9d93978eb2b60284e9a2eaa",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có vẻ hôm nay nói chuyện được rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00003f7f",
       "file_offset": 16255,
       "source": " to the cliff?",
       "source_sha256": "e05408f17df8f37e933805129ad041ca714154ce5cbb52c7a20af15ba3ad3ee4",
-      "vi": "",
-      "status": "todo",
+      "vi": " đến vách đá sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004052",
       "file_offset": 16466,
       "source": "\nmystery caller was...",
       "source_sha256": "7e6bb142a360abebae5c6697baf3aad4399a14083230d314a562e70dffc8a00d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười gọi điện bí ẩn là...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000040e8",
       "file_offset": 16616,
       "source": "\nisn't it?",
       "source_sha256": "9d915649607494788e6f5428c8f9f182b06272622565cdbb1664e5cba0abbec0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000042b3",
       "file_offset": 17075,
       "source": "\nat this time...",
       "source_sha256": "b74a4e68d0d317038dc72e5b22910e67c20b65d90eba1896e147534cf5f1cf96",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào lúc này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004347",
       "file_offset": 17223,
       "source": "\nfamily. What was it?",
       "source_sha256": "78cdb0322d6a75fc7cc941286c3f2076d2b780c02e604d22fff0aab6e975848d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngia đình. Đó là chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000043f7",
       "file_offset": 17399,
       "source": "... so I left.",
       "source_sha256": "8692521163e29bbf13aaf5faa6396e4d69d20afce8b8ec545799324356e32de0",
-      "vi": "",
-      "status": "todo",
+      "vi": "... vậy nên tôi bỏ đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000446a",
       "file_offset": 17514,
       "source": "\nto do anything for her...",
       "source_sha256": "444bf532c63eccfbebb739b39ab003282e2c20c78cef2250c6a3cce256cb71e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm bất cứ điều gì cho cô ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000044e9",
       "file_offset": 17641,
       "source": "\nme to tell her for you?",
       "source_sha256": "07cfbd3f2e6f2222f79055e43101221426fd4c0ba40b174cc8182474cd9dc69d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn tôi nhắn gì với cô ấy thay bạn không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000045af",
       "file_offset": 17839,
       "source": "\nlive her life, and be happy.",
       "source_sha256": "6eda91ecfd92645e9ecd223770dd2d58ffabde9cda7dd71fc0c9ec845ec15710",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsống cuộc đời của mình và hạnh phúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004692",
       "file_offset": 18066,
       "source": "\nhappened that changed you?",
       "source_sha256": "fec9a598608058eb9305328f4906d959df8a8d1578e0439fa82097b9f4472d0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện gì đã khiến bạn thay đổi như vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004777",
       "file_offset": 18295,
       "source": " What happened at church?",
       "source_sha256": "7255eb5bbe83c122e4aa085fbee9af1f3b14d094807bdef15cbf9b6a799ebb19",
-      "vi": "",
-      "status": "todo",
+      "vi": " Chuyện gì đã xảy ra ở nhà thờ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000047d7",
       "file_offset": 18391,
       "source": " Oh Lord, have mercy...!!",
       "source_sha256": "5e43fb9b211f2bd6651e9697f83519d92cf0aa26036a5aba7760d8d9b377e254",
-      "vi": "",
-      "status": "todo",
+      "vi": " Lạy Chúa, xin thương xót...!!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000048ca",
       "file_offset": 18634,
       "source": "\nuseful?",
       "source_sha256": "fa7d2330b706be4f3e542575e2e1b6c59a925b0e663ef1f49f6b417ff1b536eb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó ích sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004974",
       "file_offset": 18804,
       "source": ", do they?",
       "source_sha256": "defa9b833052fff2ac904590f4763aed964eab20208580fff7ab1f8ecb3722e3",
-      "vi": "",
-      "status": "todo",
+      "vi": ", phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004a30",
       "file_offset": 18992,
       "source": "\ndo not think as humans do.",
       "source_sha256": "4fc06d27a7ec69fbae9ae94888a90232122a3849bfb032a30f531c3db41aeac9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông suy nghĩ giống con người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004b48",
       "file_offset": 19272,
       "source": "\nmay open.",
       "source_sha256": "0b1afba7f007a85571a3aae3b51550505dbf8858a727e6f1cca1a171a95dd867",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể mở ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004c0b",
       "file_offset": 19467,
       "source": "$As many as stars in the sky.",
       "source_sha256": "c02d54b411765866876784e58f5c755f2de4cc54570d777c47306844b0f42054",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Nhiều như sao trên trời.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004cb6",
       "file_offset": 19638,
       "source": "\nshould open.",
       "source_sha256": "5d26680c5b5bdc80e5d9590494f232e6e6570d3209295eca5624177649966aba",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnên mở ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004d23",
       "file_offset": 19747,
       "source": "\nanother memento of the dead.",
       "source_sha256": "85667e6a8e6a1ddee878d9f91686dc63be2046e8545207fe0cb84234b771d6be",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột kỷ vật khác của người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004da1",
       "file_offset": 19873,
       "source": "\nUntil we next meet.",
       "source_sha256": "3daccda9bcc1e41f3425469fe1421cea12e0bebc67e68cf1aaff33226e1a7ab4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHẹn ngày gặp lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004f16",
       "file_offset": 20246,
       "source": " house.",
       "source_sha256": "8decbe700a034b06e28a17a372f45b2eb93fcc8e664579cda63986733c686c44",
-      "vi": "",
-      "status": "todo",
+      "vi": " ngôi nhà.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00004fdb",
       "file_offset": 20443,
       "source": "(I've uncovered more information.",
       "source_sha256": "d62ecdedc7aae8c2034784fc1d91ed154c890b73c69b77990eaabef53d8b3f55",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi đã tìm ra thêm thông tin.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000507a",
       "file_offset": 20602,
       "source": "\nthe church, 17 years ago.",
       "source_sha256": "80f7956e8e317007a55dda8147d551befcfdb54c7fc7498d34f6935fbad02476",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhà thờ, 17 năm trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000051ac",
       "file_offset": 20908,
       "source": ", died...",
       "source_sha256": "d3e6319dcecab101d876bccfb3e40537550a1f77eb30da5fc8508978395ca156",
-      "vi": "",
-      "status": "todo",
+      "vi": ", đã chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000521b",
       "file_offset": 21019,
       "source": "\nexactly happened...",
       "source_sha256": "9aa8a99e8335696d657500500d77f5340e1c53c5d3fb5c63acdda085a41627e2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchính xác đã xảy ra chuyện gì...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000052a8",
       "file_offset": 21160,
       "source": "\nyour mother changed.",
       "source_sha256": "08682dcb79d21e248250162eb49da33c917eb2ceea7ad4fa625a826a50a5531b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ của bạn đã thay đổi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005321",
       "file_offset": 21281,
       "source": "\nbelieve me is up to you.",
       "source_sha256": "e9ae75f14bf5109d85a4f4c61e07f0e9b039fe5874e8fd660b39712cd1f28b6d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin hay không là tùy bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000053e0",
       "file_offset": 21472,
       "source": "\naround, too.",
       "source_sha256": "a27d5a4cbbb8c974b466b4fd44d4d827f84b8bbfc3f7a2e718866ec41b1984da",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxung quanh nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005433",
       "file_offset": 21555,
       "source": "$I know why my mother hates me.",
       "source_sha256": "e0e42b5f7ec213ccf51cc86fe7862ef76a26c6fe73c8638d6cd44730adbef666",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi biết vì sao mẹ ghét tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật. 'my mother' của người kể, tạm dùng mẹ/tôi; cần đối chiếu xem là Ellen và cảnh độc thoại hay đối thoại."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005517",
       "file_offset": 21783,
       "source": "\npregnant with me.",
       "source_sha256": "6e8b7629de5dc5a23ac5933c0e4ad4fc2ec0240055f3e0fc8bc4c3d94eeeefb5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmang thai tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Mảnh 'pregnant with me' không chứng minh thời điểm/ai kể nếu thiếu trước; giữ ngắn."
     },
     {
       "id": "talk/en/tk101_en.bin_@000055b0",
       "file_offset": 21936,
       "source": "\nbehind, died.",
       "source_sha256": "2d78a496e17e45d7a439da175588d7874e7ca8316ce01def3df5c498bd5dae28",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbị bỏ lại, đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Fragment 'behind, died.' không rõ ai chết; không thêm chủ ngữ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005620",
       "file_offset": 22048,
       "source": "\nblamed me for what happened.",
       "source_sha256": "7780899554f980756f2bb8cecff56ea91f5833c073c01f0846da315401da5496",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđổ lỗi cho tôi về chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Câu nhắc bị đổ lỗi trong bối cảnh gia đình; chưa xác minh nhân vật nói."
     },
     {
       "id": "talk/en/tk101_en.bin_@000056bd",
       "file_offset": 22205,
       "source": "\nthe story.",
       "source_sha256": "0891d332e708f0081f51e29a57856f7498fec71faa96c2aedcab024366a98714",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncâu chuyện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005742",
       "file_offset": 22338,
       "source": "\nwhat happened to my family.",
       "source_sha256": "5806a8431e55df85dd872783e2b41424cf7febc0e548a1e3efc322bc1f036aa0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện xảy ra với gia đình tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000057e2",
       "file_offset": 22498,
       "source": "\nfamily so.",
       "source_sha256": "6c92d4d5dfe5449d0e446ea23d4b8318eeb0569beb013ee2e22ad376ad835155",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngia đình đến thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000058bb",
       "file_offset": 22715,
       "source": "\nyou something.",
       "source_sha256": "0b2ad5fe6c032f239b7a7dc92b86f795a700278ebf02e790a011e0423160229c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn biết một điều.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000592f",
       "file_offset": 22831,
       "source": "\nyour life... and be happy.",
       "source_sha256": "97d9d54ed208c7c7ee5325ee3c9e2d25e6fb1eac0483e5a8bba4c5b5fb5ab598",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuộc đời của bạn... và sống hạnh phúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005bfb",
       "file_offset": 23547,
       "source": "\nbeen in service for ages.",
       "source_sha256": "c7b0d0f0403aacfbd893e2972606d129c17cba3659c2cd1f9c3d018ad5bac013",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã phục vụ nhiều năm rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005d7f",
       "file_offset": 23935,
       "source": "\nwas the end of the world.",
       "source_sha256": "2a7ed1191639e9d01fad0a683244cb08b814bc72c1b3f5f0fa1166f73da57b63",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđó là ngày tận thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005e00",
       "file_offset": 24064,
       "source": "\nin this region.",
       "source_sha256": "b5f5b04d581c62a8c9ad7e5970c2c0c64aa4e441ff0a76819d3811addd518aaa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở vùng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005e75",
       "file_offset": 24181,
       "source": "\noff the dead from here.",
       "source_sha256": "886d31fff412c8883d0c937f02b830754dc4b748a69035018cf66818edf30ae2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđuổi những người đã khuất khỏi nơi đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00005f6e",
       "file_offset": 24430,
       "source": "\nwith the graveyard.",
       "source_sha256": "4fc480779aeccca34ba2198c67210ab176d085c332a8d3ec40498b7882215cf7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới nghĩa địa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006046",
       "file_offset": 24646,
       "source": "\nwhere I first arrived.",
       "source_sha256": "ed5c2b97822fe18079db31d1037daf5bcb866e2ac002d64e75d84748899a47ea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi tôi đến đầu tiên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000060de",
       "file_offset": 24798,
       "source": "\nbring it to an end.",
       "source_sha256": "08f69e29b0563735063c7fe271efbcc743ddbb46bcf82a0ceb888e7a89a2d26f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchấm dứt chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006153",
       "file_offset": 24915,
       "source": "\nright leads to the coast.",
       "source_sha256": "c2e5f1eea5744fa2ba67529e4914c6fac0bff5ac1702807547c41407d91fbf54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphía bên phải dẫn ra bờ biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000062df",
       "file_offset": 25311,
       "source": "\nable to hear a voice.",
       "source_sha256": "7b9da6e085b617ee97e7def7860945e4fcb1fddc6b9473ab1b1a0f8da550258a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể nghe thấy tiếng nói.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000063bf",
       "file_offset": 25535,
       "source": "\nwould like you to meet.",
       "source_sha256": "1fcce638491e960e0189e1565f432dab756d9afe066a9c60d59867f20932035f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn bạn gặp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000643a",
       "file_offset": 25658,
       "source": "\nto the dead one you seek.",
       "source_sha256": "5e93bf29fd2a21dcbf6192a8ddcc3666b64c63accc98f1eb5294ec44a93fcf36",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến với người đã khuất mà bạn đang tìm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006556",
       "file_offset": 25942,
       "source": "\nwill be able to meet the dead.",
       "source_sha256": "5975ecf8483b1cf25f630cb17eca0be728bd5d46cf96371a6c92aa17dbb1b3c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ có thể gặp người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000065bc",
       "file_offset": 26044,
       "source": "Where is this thing?",
       "source_sha256": "b9d5763978e75165e31fd0b0037b673e1cf12c2f8c9f9ef3081fce51ae274416",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thứ này ở đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006636",
       "file_offset": 26166,
       "source": "\nthe forest of the Faerys.",
       "source_sha256": "d52721969a13bc0ae8c7a212aa72947f794a8a8bfbf28f7ebc9d58d602a0ce56",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhu rừng của các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006727",
       "file_offset": 26407,
       "source": "\nwhat seems like ages...",
       "source_sha256": "a5190a1f4dc472c02150c2738f21a166639e248ba3843ab331d202c033a714b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntưởng như đã nhiều năm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000698f",
       "file_offset": 27023,
       "source": "$We will join you when you do.",
       "source_sha256": "f1d9a2d9e551b5e28eb44e93a97e55722220fda6f6e5d55bf122351fb0a28c19",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chúng tôi sẽ đi cùng khi bạn đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006a33",
       "file_offset": 27187,
       "source": "\nmemory of the dead.",
       "source_sha256": "ca8aec0ad5a4b77f254edfbeabde3973e5c84081ecc027c1d468b6982d52d2de",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nký ức của người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006b4a",
       "file_offset": 27466,
       "source": "\nmy mother.",
       "source_sha256": "897c2a4c7a6a68f64fca8367f595608de00e18b8c0b18be989d0b889b0eacbca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006b9c",
       "file_offset": 27548,
       "source": "She wasn't even alive!",
       "source_sha256": "fc50fbfd0bec82b2fb55b7e3128cbce4b89ca286b5689f203b848f5e4ee37e9a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bà ấy thậm chí còn chưa từng sống!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006c2c",
       "file_offset": 27692,
       "source": "\nwhy this happened?",
       "source_sha256": "e1b39cb5fa86edf9a6759707345c4c72ee329f45051c4bacef778bbe8cda019a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì sao chuyện đó lại xảy ra?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Không gán nguyên nhân cái chết vì câu là fragment."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006cb4",
       "file_offset": 27828,
       "source": "\nMaybe while I'm at it...",
       "source_sha256": "6ccc2811403d5414c117f86bf42e2789c913afb1bf4041d934beb2512d50cdb2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhân tiện thì...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006d49",
       "file_offset": 27977,
       "source": "\nabout this case.",
       "source_sha256": "23aa839afa72dcb3f7940d716354b673165d5de9bb248db430b66afbf3f9230a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề vụ việc này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00006eb6",
       "file_offset": 28342,
       "source": "\nA photo for the story.",
       "source_sha256": "9263ebdcb3e5c87965be64721906d86dc7f311c8309a20462501185b61178105",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMột tấm ảnh để đưa vào bài báo.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000070a1",
       "file_offset": 28833,
       "source": "\nin some way or other. And you?",
       "source_sha256": "aac2e806246be9aa85acd214d3c4a9c01755af8a624c8ed2eee9d7b7a7e5d826",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbằng cách này hay cách khác. Còn bạn?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007149",
       "file_offset": 29001,
       "source": "\nI heard he's dead.",
       "source_sha256": "97654567b3b3d4769c2311b28a6e51fa98f60c0518d0ca95fdcd8afa135e8a8f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNghe nói người đó đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000071da",
       "file_offset": 29146,
       "source": "\nquestion about that.",
       "source_sha256": "70a62d409e745b9c77bf93d2c4362fd6cc24904bbd87746eda6c7f880d3c1676",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột câu hỏi về chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007247",
       "file_offset": 29255,
       "source": "... Do you also...?",
       "source_sha256": "eb25ef1497f9a1383c2ad980e5ec73af7b1df73e34b8476e111074df2c503486",
-      "vi": "",
-      "status": "todo",
+      "vi": "... Bạn cũng vậy sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000072ab",
       "file_offset": 29355,
       "source": "\nHave strange dreams?",
       "source_sha256": "112ccdd30522abf43abe7710136add2f4ffad05aa8b43945bfce69896c7f9aa0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCũng mơ những giấc mơ kỳ lạ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007308",
       "file_offset": 29448,
       "source": "Um, nevermind...",
       "source_sha256": "8927bd3905f81a3d710a962ff9d586e92fdc6624419047a05be7a5265dcf23e9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừm, thôi bỏ đi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007570",
       "file_offset": 30064,
       "source": "\npast?",
       "source_sha256": "0bd68f9075ba08e034b8b0e19061d9e5f4b3d32de23b8b5e6414ef33cb74ef0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquá khứ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000075f8",
       "file_offset": 30200,
       "source": "\nwhy I was called here.",
       "source_sha256": "5ba956948b9202cdf038218e8c547be5d16c34705d1ab94de7174ebfc2f67c05",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì sao tôi được gọi đến đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007706",
       "file_offset": 30470,
       "source": "\nin the village?",
       "source_sha256": "bea6d4ed1a25b427654c01fcaa646634b948d5cb22049a5c7f43f0d876537468",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong làng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007778",
       "file_offset": 30584,
       "source": "\nsee what I can find out.",
       "source_sha256": "b3ab3920562d926ecb7684b5c6c43a2c7ec928df24902ed559f378cf9725c12a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxem tôi có thể tìm ra điều gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007828",
       "file_offset": 30760,
       "source": "\nmy past.",
       "source_sha256": "9356368a950e770f44498fcd6e0696e2f3975919b5803cec3591690f5d3a670c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquá khứ của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000079a2",
       "file_offset": 31138,
       "source": "\nanyway?",
       "source_sha256": "af88bc404228ec9a4dc6009b6933cb20d08044a246cbd7472bee44c704a3ca9e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndù sao thì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007a1f",
       "file_offset": 31263,
       "source": "\nWhy was she killed?",
       "source_sha256": "53053d8c4ae7e5de3585fe2087a1a7f0e2bd75458e57c1a9aff7ac4834801265",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVì sao cô ấy bị giết?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007b02",
       "file_offset": 31490,
       "source": "\ninvestigating?",
       "source_sha256": "605b0468b0b882bb004be4bf2e0be34a70bd567bfa1ec140e57c735826ee72cc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang điều tra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007bd6",
       "file_offset": 31702,
       "source": "\nmeeting the dead, too?!",
       "source_sha256": "8da0ef5d67d9944ac2199b985c44ee04883a5e0ee611fcfab263e011d23deef6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng gặp được người chết sao?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007c46",
       "file_offset": 31814,
       "source": "\nYou have a wild imagination!",
       "source_sha256": "d877b337c74a06536929dd0b5b862d88e3e25a9f634d5676affa85a2fdb69a59",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn tưởng tượng phong phú thật đấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007cdc",
       "file_offset": 31964,
       "source": "\nfaces in it.",
       "source_sha256": "88842419357fe2977262c82817e9e75e5ac8b823ce6c0d75c156a06113d46fb6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững khuôn mặt trong đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007d2f",
       "file_offset": 32047,
       "source": " Perfectly understandable...",
       "source_sha256": "2af2d18b658fcc1deffe273b5f357accf61193a9012e29a3047b25ac5a5ce846",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hoàn toàn dễ hiểu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007ed0",
       "file_offset": 32464,
       "source": "\nme for what happened.",
       "source_sha256": "dd65e49bd49973b93c2ccec154d69405c415bf726f953eff36093bdaafc6788f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđổ lỗi cho tôi về chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Mảnh về bị đổ lỗi, được dùng hai lần trong cùng catalog."
     },
     {
       "id": "talk/en/tk101_en.bin_@00007f65",
       "file_offset": 32613,
       "source": "\nyears ago?",
       "source_sha256": "a95cced4568e681fce4783dbf86a01f50ae9794ec3f925f402f8b1d1c7a71778",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhiều năm trước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000804c",
       "file_offset": 32844,
       "source": "\nme for what happened.",
       "source_sha256": "dd65e49bd49973b93c2ccec154d69405c415bf726f953eff36093bdaafc6788f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđổ lỗi cho tôi về chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Mảnh về bị đổ lỗi, được dùng hai lần trong cùng catalog."
     },
     {
       "id": "talk/en/tk101_en.bin_@000080e1",
       "file_offset": 32993,
       "source": "\nyears ago?",
       "source_sha256": "a95cced4568e681fce4783dbf86a01f50ae9794ec3f925f402f8b1d1c7a71778",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhiều năm trước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000081cb",
       "file_offset": 33227,
       "source": "\nof the lady on the cliff?",
       "source_sha256": "6a0bbedb59c3a868977f67cb073dbf04bf016fb9fe74929506c9851770f94b1d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề người phụ nữ trên vách đá sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000824b",
       "file_offset": 33355,
       "source": "\nif you ask me.",
       "source_sha256": "b26412c72dd3556cdc9dab32f5b8c391e2067dda91d33c64d949835296727be7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntheo tôi thấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000082e1",
       "file_offset": 33505,
       "source": "\nfrom the past.",
       "source_sha256": "c29ac0e7abb0b123da529a0f47fe7061fcfa7a05cdec4d820546ebad056c9b62",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ quá khứ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000083bc",
       "file_offset": 33724,
       "source": "\ndiscussing events from the past.",
       "source_sha256": "946ea505baafab4e57b12fb45efb54f4fa6000769a77e9f37a8622f71a65f9d3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbàn về những chuyện đã qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008487",
       "file_offset": 33927,
       "source": " A ceramic doll, you say?",
       "source_sha256": "2c4ab585605fa2a4b423f564541f79c6d583d238e969d7935462d51cfd5853b8",
-      "vi": "",
-      "status": "todo",
+      "vi": " Một con búp bê gốm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008578",
       "file_offset": 34168,
       "source": "\nhouse. Why do you ask?",
       "source_sha256": "b2a8e566e9d2b8a2fd1dd67995f9dd436a5c05e47e1b738eac32017204930a0f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi nhà. Sao bạn hỏi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008676",
       "file_offset": 34422,
       "source": "\nnothing I can't handle.",
       "source_sha256": "27ffe61b8d1de150764b38fd016849baaa78dfdad80d9adc14f50e44247bd379",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông có gì tôi không xử lý được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000086d4",
       "file_offset": 34516,
       "source": "Pardon me...?",
       "source_sha256": "3bd7c281c8dc31477aa9b15d5936997b2ca08935517d0ad7de9551313fc86294",
-      "vi": "",
-      "status": "todo",
+      "vi": "Xin lỗi...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@000087aa",
       "file_offset": 34730,
       "source": "\nThat much is evident.",
       "source_sha256": "8451ac6ad088d14f291e0fc1bb9c79e95a4e34478418c77ee292b78d95854bf8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐiều đó rõ như ban ngày.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008807",
       "file_offset": 34823,
       "source": "$I'll take that as a compliment.",
       "source_sha256": "bdc5f054d4372c5e6cfaa32ba8fc30ef20f97bb0ab6608e3c475022a7d6faeca",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi sẽ coi đó là một lời khen.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008935",
       "file_offset": 35125,
       "source": "\non you, you talk like a lunatic.",
       "source_sha256": "baeffa4c614cde2792d1ca84bbfb96899b284cbf80821eef806b25639e7b0f0f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncòn bạn thì nói như người mất trí.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Câu có 'you' nhưng thiếu chủ ngữ chính nên chỉ dịch vế chắc nghĩa, chưa xác định người bị mắng."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008abc",
       "file_offset": 35516,
       "source": "\nShe couldn't have come back!!!",
       "source_sha256": "7158ee149425885bf738ac33182b36bab29bb6505c5f037eb8ce4afcecf62f15",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông thể nào cô ấy quay lại được!!!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008b3c",
       "file_offset": 35644,
       "source": "\nWhy did she return?",
       "source_sha256": "03ed56963e6d03a32dcf81b6ad3f326fb5b226c0ad0b6f4d51e6f328561458c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSao cô ấy lại quay về?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008bae",
       "file_offset": 35758,
       "source": "\nTo have changed so...",
       "source_sha256": "4ba94aaf03ce49851f052a10d17849ed72284b5577a09bd6802ad127113aed52",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nLại thay đổi đến vậy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008cba",
       "file_offset": 36026,
       "source": "\nmight happen again...",
       "source_sha256": "6c1617db2cc961cab0cadab661952a744b4346d5efa0f26aa5f90af6a4dc21a0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể lại xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008d9b",
       "file_offset": 36251,
       "source": "\nof the lady on the cliff?",
       "source_sha256": "6a0bbedb59c3a868977f67cb073dbf04bf016fb9fe74929506c9851770f94b1d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề người phụ nữ trên vách đá sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008e18",
       "file_offset": 36376,
       "source": "\nit. I can't go to the cliff.",
       "source_sha256": "969fb02d7e3204c35a0786de159c1e71b8f176f64644ef026dadd35f227a1772",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện đó. Tôi không thể đến vách đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008efc",
       "file_offset": 36604,
       "source": "\nit. I can't go to the cliff.",
       "source_sha256": "969fb02d7e3204c35a0786de159c1e71b8f176f64644ef026dadd35f227a1772",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện đó. Tôi không thể đến vách đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00008fd4",
       "file_offset": 36820,
       "source": "\nNo, can't say I've seen one.",
       "source_sha256": "142d0f895f91626d6d62dc30aca3cb190eb37e99316e66a2afdaa5e4a47b028f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông, tôi chưa thấy cái nào.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009055",
       "file_offset": 36949,
       "source": "\nme digging up the past?",
       "source_sha256": "e10e81207b0676ae8f326c0a59f080a4b8b0b36077d6c2a4be7237493d6afdad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện tôi đào bới quá khứ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000090b4",
       "file_offset": 37044,
       "source": "Whatever do you mean?",
       "source_sha256": "a0ef4f6cf1173171d6a9e6470300483a1dae22901f93893feba9d3e5778cbb1e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ý bạn là sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000912b",
       "file_offset": 37163,
       "source": "\nJust thought I'd ask.",
       "source_sha256": "bcaeed379c979c75faf6c290a35bbd7ff5a07995d4cdc478df05e02c183502bb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi chỉ hỏi vậy thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000924b",
       "file_offset": 37451,
       "source": "\nabsolutely drained me!",
       "source_sha256": "8b03dcd0a2cdc152a9771e65084b53f47bd89c946709fca270f15e57715386c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhiến tôi kiệt sức!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000932a",
       "file_offset": 37674,
       "source": "\nand not just villagers.",
       "source_sha256": "72b602b73d68f653e443c25c0cdca73a83e76b582c9892b47f5bd07cb5ac0500",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà không chỉ dân làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000093b9",
       "file_offset": 37817,
       "source": "\nCliff of Sidhe.",
       "source_sha256": "c5cc66bc09c25025bd6bc62ddbe77037a4aa5039cf5b72b090f5f36fec17973b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVách đá Sidhe.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009492",
       "file_offset": 38034,
       "source": "\nand not just villagers.",
       "source_sha256": "72b602b73d68f653e443c25c0cdca73a83e76b582c9892b47f5bd07cb5ac0500",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà không chỉ dân làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000958c",
       "file_offset": 38284,
       "source": "\nturned detective, has he?",
       "source_sha256": "303c22532575d914bf10e930aaa2fc0c4c363e17b6f0e5c6784806eaa96eb075",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyển sang làm thám tử rồi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. 'turned detective' là nhận xét về một nhân vật nam, không suy tên/độ tuổi."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000961f",
       "file_offset": 38431,
       "source": "\ndripping wet...",
       "source_sha256": "ed3b5e6f75d46edf28706bbc5f6c28b1f66c86ec35aa39218215ff87527e2aa3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nướt sũng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000973b",
       "file_offset": 38715,
       "source": "\nbut I don't believe it.",
       "source_sha256": "1317d126a8ec4a29115ef03793d7a9cf96cded8f1865c71b56e7875b3bff9e9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng tôi không tin.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009819",
       "file_offset": 38937,
       "source": "\nis bound to raise suspicion.",
       "source_sha256": "9b2cedb61a767b9a1d5e8cbc001179c1983263b37cb08bff090af9e9894e24f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc chắn sẽ khiến người ta nghi ngờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@000099df",
       "file_offset": 39391,
       "source": "\ndid you move here?",
       "source_sha256": "32a7c970c44410b41db7b76b8f7fa314282f929867aeb1c17966e67d4dc84b0d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn chuyển đến đây khi nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009a52",
       "file_offset": 39506,
       "source": "\nknow much about the others.",
       "source_sha256": "87d8167b9706f852d9e70e924a334f4c033f4f7f58640aa7a828fec676af314d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông biết nhiều về những người khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009ab3",
       "file_offset": 39603,
       "source": "$I see. So you're an outsider.",
       "source_sha256": "bbf12bcff6ecf9de4d54b718f5f7aefcdec367881c8f6cb1515d8001859307e2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$À, ra là người từ nơi khác đến.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật. Outsider chỉ người mới đến nơi này; dùng 'người từ nơi khác đến' thay vì xưng hô áp đặt."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009b7b",
       "file_offset": 39803,
       "source": "$One thing I can say for sure.",
       "source_sha256": "deb72f37c598d950bec32ebf88986ffae457e34c358bbdb6afeb5c8b0445b5f5",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có một điều tôi dám chắc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009bfb",
       "file_offset": 39931,
       "source": "\nI can't help you.",
       "source_sha256": "86e000e71b0f5a06c0baa26cf731f7e128c943690da18442b24dbb2d40b67091",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không giúp được bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009c71",
       "file_offset": 40049,
       "source": "\nokay?",
       "source_sha256": "d5a3d812c2c5f07e741e085ee9471deefe6f69b0536628bad4aa16167bb17e7a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009d3e",
       "file_offset": 40254,
       "source": "\nsacred ground by the ancients.",
       "source_sha256": "fb915ec36ffbceaaf0dd927fd563526c88e2e174b57df3a4d38e5118a9437e25",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvùng đất thiêng của người xưa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009dd6",
       "file_offset": 40406,
       "source": "\nuntil it was deserted.",
       "source_sha256": "a92d35954820ced06f7fb1c1087ae6ec78403373012c48ac4e63937b38590dd9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho đến khi bị bỏ hoang.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@00009eca",
       "file_offset": 40650,
       "source": "\nuntil it was deserted.",
       "source_sha256": "a92d35954820ced06f7fb1c1087ae6ec78403373012c48ac4e63937b38590dd9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho đến khi bị bỏ hoang.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a03e",
       "file_offset": 41022,
       "source": "\nclose early.",
       "source_sha256": "52d782cc68e2f1d85372e76e960796701931a81ba46850f7dd6742fb979752d9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđóng cửa sớm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a26c",
       "file_offset": 41580,
       "source": "\nwere here 17 years ago are...",
       "source_sha256": "9a026ef6fd816a5575d62ef0a52ee037f06aad1be7d09b7dd756d0e31b1a01e2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người ở đây 17 năm trước là...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a30a",
       "file_offset": 41738,
       "source": " and myself.",
       "source_sha256": "b31976ae396e3a586f684456457432eb940f46338d2bf55e66b27fd2b27720c5",
-      "vi": "",
-      "status": "todo",
+      "vi": " và chính tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a35c",
       "file_offset": 41820,
       "source": "That's all?",
       "source_sha256": "9c18ac3df391530ecac68e4870e08f9054c1afab2d1a06b5c4e951a3bacba15b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chỉ vậy thôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a3ab",
       "file_offset": 41899,
       "source": "$Excluding the dead of course.",
       "source_sha256": "609678b8a68b69ae7415cfd66e7c1911fd3721e95e62fbe203ce5d84e5b59ae0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tất nhiên là không tính người đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a410",
       "file_offset": 42000,
       "source": "Why is that?",
       "source_sha256": "bba4fa1e9b68ef15f85d5c23cd5548a46e5786c574a877847fc5c2b0fbca6558",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tại sao lại vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a5ae",
       "file_offset": 42414,
       "source": "\nmost dear are among the dead.",
       "source_sha256": "9fa6364c80fa0eb6ffc3b6d6b6904d32944eb4aa7acd573c8c06a28acba2d308",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người thân yêu nhất đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a696",
       "file_offset": 42646,
       "source": " who died...",
       "source_sha256": "88ea028c2b48cd7549fc68163dbd5f15f126f2775d3bdfe4c421760bd757bb58",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Mảnh 'who died...' không đủ căn cứ chỉ ai; dịch trung tính."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a76a",
       "file_offset": 42858,
       "source": " who died...",
       "source_sha256": "88ea028c2b48cd7549fc68163dbd5f15f126f2775d3bdfe4c421760bd757bb58",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Mảnh 'who died...' không đủ căn cứ chỉ ai; dịch trung tính."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a8d0",
       "file_offset": 43216,
       "source": "\npeople, you know.",
       "source_sha256": "a76c68d706a6c8a283eb5901de238114f5be452daa1a74d780481a43fa2e54a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncon người mà, bạn biết đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a945",
       "file_offset": 43333,
       "source": "\nfor help.",
       "source_sha256": "a9e157fcf58edd56a58e94161d6d9d97fd2aa7cf0e098d3d9a72ff16f8844b7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhờ giúp đỡ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000a993",
       "file_offset": 43411,
       "source": " I hope you can help, too!",
       "source_sha256": "3db8fb36cf5bf3252e046d28aeb20ee268a24ef2143d54816800271fd0d08163",
-      "vi": "",
-      "status": "todo",
+      "vi": " Mong bạn cũng giúp được!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000aa7a",
       "file_offset": 43642,
       "source": "\nask you to help. You never know!",
       "source_sha256": "59a5f20f23d5cb4ccdafb60321f6adf5a3b0957d0929dd93d59266e5a96cd42d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhờ bạn giúp. Biết đâu được!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000aafd",
       "file_offset": 43773,
       "source": "\nbefore long!",
       "source_sha256": "73ff38a3c7b4c346e6bc3047526dc524a9208b95b4286fdf3da54e138a86b4b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng bao lâu nữa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000ac36",
       "file_offset": 44086,
       "source": "\nget a reward!",
       "source_sha256": "0ee04ee4f986ce4a265eb1eaafab717a1dab4ebb655d08a43dde6a34b54d1cb7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhận được phần thưởng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000ad89",
       "file_offset": 44425,
       "source": "\nduring the day.",
       "source_sha256": "ab9f9bc9fca8e4ef68d16304620c8320d4eb40d25661923c4f6801d875036144",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào ban ngày.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000adfc",
       "file_offset": 44540,
       "source": "\nhere at night.",
       "source_sha256": "b66f0608052b700a783a22fc5914b52f19cab986d2e29549377bab342cb3c2a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đây vào ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000aed2",
       "file_offset": 44754,
       "source": "\nbelieve they can meet the dead.",
       "source_sha256": "5f70a0a994938a22024681eca57de285b2d872b1328e6f8f1e7e027731ded0ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin rằng họ có thể gặp người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000af55",
       "file_offset": 44885,
       "source": "\nI don't understand grown-ups...",
       "source_sha256": "97520eccfe5d50564b509174a655800d537be5a0a8e38084c7039f4b89670ea5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi thật chẳng hiểu người lớn...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b05a",
       "file_offset": 45146,
       "source": "\nI don't understand grown-ups...",
       "source_sha256": "97520eccfe5d50564b509174a655800d537be5a0a8e38084c7039f4b89670ea5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi thật chẳng hiểu người lớn...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b170",
       "file_offset": 45424,
       "source": "\naskin' ya for some help.",
       "source_sha256": "88d92cd3ab173fbf6cdd064c6d9808f15420e2b12ee538f237dc7af9cae73106",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn nhờ bạn giúp một tay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Lối nói địa phương askin' ya tạm dịch thân thiện; không tự chuyển sang mày/tao."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b280",
       "file_offset": 45696,
       "source": "\naskin' ya for some help.",
       "source_sha256": "88d92cd3ab173fbf6cdd064c6d9808f15420e2b12ee538f237dc7af9cae73106",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn nhờ bạn giúp một tay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Lối nói địa phương askin' ya tạm dịch thân thiện; không tự chuyển sang mày/tao."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b4bb",
       "file_offset": 46267,
       "source": "\nmake yerself useful.",
       "source_sha256": "0ac4fc5650e5d433205227056f3815ea3204d06066e6684a1225c2db9c7eda35",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm gì đó cho có ích đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Lối nói địa phương 'make yerself useful' tạm thân mật nhưng chưa gán người nói."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b59b",
       "file_offset": 46491,
       "source": "\nmake yerself useful.",
       "source_sha256": "0ac4fc5650e5d433205227056f3815ea3204d06066e6684a1225c2db9c7eda35",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm gì đó cho có ích đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ. Lối nói địa phương 'make yerself useful' tạm thân mật nhưng chưa gán người nói."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b670",
       "file_offset": 46704,
       "source": "I have a bad feeling...",
       "source_sha256": "c1dde825ba5c213df2c7c71edd121f668c1026f60063132cee4159ddf664fea1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi có linh cảm không lành...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b6e0",
       "file_offset": 46816,
       "source": "\nis going to die...",
       "source_sha256": "f70c2cfbcedbd05a3ddb44d2553c7f1e9b4173057bb5ae097a7fb523d09fa64e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsắp chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b7c4",
       "file_offset": 47044,
       "source": "\nis going to die...",
       "source_sha256": "f70c2cfbcedbd05a3ddb44d2553c7f1e9b4173057bb5ae097a7fb523d09fa64e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsắp chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b8cf",
       "file_offset": 47311,
       "source": " for people.",
       "source_sha256": "7a612f7ad0359e527a4074a30501e9252e52dfc389bb18db26c03c83a0042e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": " cho mọi người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b950",
       "file_offset": 47440,
       "source": "\nDay or night regardless!",
       "source_sha256": "3da795a41ebe692a2f3bcb7e19da56ecbe36003d389f58437a8ca5c3851713cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBất kể ngày hay đêm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000b9ee",
       "file_offset": 47598,
       "source": "\non your own, though.",
       "source_sha256": "273630f9dbbe7dfe5b58e7d3d3deb9d62beb3c3ae2ec8734e9e2bbbe8846beaa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng phải tự làm thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000bac7",
       "file_offset": 47815,
       "source": "\ncurious enough to let you?",
       "source_sha256": "9bda5eafdf8aed6fead37520571973b1ac536ac1df397676636d10ccde1eab4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđủ tò mò để cho bạn thử sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000bda0",
       "file_offset": 48544,
       "source": "My name is Gam.",
       "source_sha256": "b3b86acf71c6c7cc8f207586ad892d169aec465de91e2d669a599c5e6657845a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi tên Gam.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Gam và Gee tự giới thiệu, giữ tên riêng; chưa rõ quan hệ hai nhân vật."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000be03",
       "file_offset": 48643,
       "source": "$No, it is not. My name is Gee.",
       "source_sha256": "ab1714b1fa96664cb6c83caacdc3284708bb4fb8e1cadd5854a0f273758af5ea",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Không phải. Tôi tên Gee.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật. Gam và Gee tự giới thiệu, giữ tên riêng; chưa rõ quan hệ hai nhân vật."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000be70",
       "file_offset": 48752,
       "source": "No... Gam.",
       "source_sha256": "af40037aae54eadd8f890d235cfce8c340eb22bad3073ec9fd427b334147dc7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không... Gam.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000bfa8",
       "file_offset": 49064,
       "source": "\ntip. I was going to do that!",
       "source_sha256": "02d9b0d16b83f89ac8a2eabd79ec574fd0d837a14cfef99314c7d1ac6b747ddc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹo đó. Tôi cũng định làm vậy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Mảnh câu có thể thiếu chủ ngữ/vế trước; không gán anh–em, ông–tôi khi chưa có cảnh đủ."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000c013",
       "file_offset": 49171,
       "source": "(*squeak*... Shut your trap, Gam!",
       "source_sha256": "5ba77bc33a8171bc824b1dd6df35ddf6ca56b220b2992c3a567a871b12fde6d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "(*chít chít*... Im đi, Gam!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật. Có dấu '(*squeak*' trong source, giữ dấu mở ngoặc và cặp dấu * trong lời Việt; không suy giới tính vai nói."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000c35b",
       "file_offset": 50011,
       "source": "(Have you found the picture book?",
       "source_sha256": "0c9f7c30df23d7f54152207bfbc40b2e228ad130461aa737d87bd275f7139290",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Bạn đã tìm được sách tranh chưa?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật. Giữ mở ngoặc nguồn và tên vật phẩm sách tranh; chưa rõ người nói."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000c427",
       "file_offset": 50215,
       "source": "(Have you found the picture book?",
       "source_sha256": "0c9f7c30df23d7f54152207bfbc40b2e228ad130461aa737d87bd275f7139290",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Bạn đã tìm được sách tranh chưa?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: chưa xác minh người nói, ngôi xưng và thứ tự trình chiếu; giữ bản dịch nháp, chưa có parser/repacker. Giữ tiền tố chưa rõ nghĩa kỹ thuật. Giữ mở ngoặc nguồn và tên vật phẩm sách tranh; chưa rõ người nói."
     },
     {
       "id": "talk/en/tk101_en.bin_@0000c5ec",

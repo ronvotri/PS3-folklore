@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk101_en.bin_.json`: tiếp tục từ `talk/en/tk101_en.bin_@000016b4` (`Harriet's home`), còn 439 ứng viên `todo` trong tệp. Rà các mảnh câu trước khi chuyển `draft` và không gán speaker từ thứ tự offset.
+1. `translations/catalogs/talk/tk101_en.bin_.json`: tiếp tục từ `talk/en/tk101_en.bin_@0000c5ec` (` / spirits in your world.`), còn 239 `todo`. Giữ phương án xưng hô trung tính khi chưa xác minh speaker; ghi chú các mảnh câu trước khi xét sửa theo bối cảnh.
 2. `translations/catalogs/talk/tk100_en.bin_.json`: đã đủ 314/314 `draft`; `LCmc000`, `LCmc002`, `LCmc004` có 46/46 `draft`. Các ứng viên cần được parser xác minh trước khi nâng `source_review`.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu đã đủ 1.016/1.016 `draft`; CMC 46 `draft` (LCmc000/002/004); tk100 314/314 `draft`; tk101 8/447 `draft`. Còn 10.502 mục `todo` trên 158 catalog. Tất cả hội thoại mới chỉ `draft`, chưa parser/repacker/test.
+Menu đã đủ 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314 `draft`; tk101 208/447 `draft`. Còn 10.302 mục `todo` trên 158 catalog. Tất cả hội thoại vẫn là draft, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -148,3 +148,13 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Phân tích scanner `tools/catalog.py`: `candidate_runs` lấy ASCII dài ≥4 kết thúc NUL, không xác định bảng speaker hay đầy đủ câu; trong 314 ứng viên tk100 có 217 source bắt đầu bằng newline và 23 source bắt đầu bằng khoảng trắng. Xem `docs/DIALOGUE_CANDIDATE_AUDIT.md`. **Không** coi bản nháp là văn bản đã sẵn sàng repack.
 - Font Merienda V3, binary/ROM/ISO không đổi; chưa kiểm thử RPCS3. Sau commit chạy GitHub Actions trên Windows/Ubuntu (validator + unittest).
 - **Tiếp theo:** `talk/en/tk101_en.bin_@000016b4` và nghiên cứu parser dựa trên byte dữ liệu local trước khi tạo repacker.
+
+## Lượt 014 — 10/10/2026 (200 ứng viên tk101, QA xưng hô)
+
+- Dịch 200 mục `todo → draft` của `translations/catalogs/talk/tk101_en.bin_.json`, từ `talk/en/tk101_en.bin_@000016b4` đến `talk/en/tk101_en.bin_@0000c427`. Tệp hiện 208/447 draft, còn 239 todo.
+- Trọng tâm: quá khứ của Ellen và mẹ, nhà thờ và biến cố 17 năm trước, các cuộc điều tra/hỏi chuyện ở Doolin, lời người dân địa phương, Gam và Gee. Chỉ dùng `tôi/bạn` trung tính khi thật sự cần; lược chủ ngữ ở mảnh thoại thiếu speaker, không áp đặt `anh/em`, `ông/cháu`, `mày/tao` và không gán người nói từ offset.
+- Giữ câu Gam/Gee tự giới thiệu và danh xưng, trạng thái cảm xúc, mẫu `$`/`(`, số newline, dấu cách đầu nguồn. 12 source trùng trong lượt và 11 source trùng tk100 được kiểm tra, 0 mâu thuẫn bản dịch; các cụm khó xác minh ghi notes riêng.
+- QA: đúng 200 ID todo theo thứ tự, chỉ chỉnh vi/status/notes, giữ English/source sha256/file_offset/source_review/metadata; Unicode NFC, placeholder và newline; font Merienda V3/ROM/payload không thay. Các mảnh vẫn chưa sẵn sàng repack.
+- Bổ sung chính sách xưng hô vào `docs/TRANSLATION.md`: đại từ phải theo người nói/quan hệ đã xác minh; không nhất loạt dùng một cặp cho mọi nhân vật; tiếng Ireland khẩu ngữ dịch tự nhiên nhưng không suy thân thiết; đặc biệt các fragment phải giữ draft + notes.
+- Chưa chạy game; sau commit kiểm tra CI Windows/Ubuntu validator + unittest.
+- **Tiếp theo:** `talk/en/tk101_en.bin_@0000c5ec` — ` / spirits in your world.`.
