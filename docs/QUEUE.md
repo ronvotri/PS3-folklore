@@ -347,3 +347,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: chỉ vi/status/notes thay đổi ở 200 ID; English/source SHA/offset/source_review và thứ tự bất biến; NFC, newline, mã dẫn, ký tự kết thúc khoảng trắng, token và bản dịch nguồn trùng nhất quán. Tất cả candidate/draft; chưa có parser/repacker thoại hoặc kiểm tra RPCS3, giữ Merienda V3 và binary nguyên.
 - Tổng 158 catalog: **6.029/11.886 draft**, còn **5.857 todo** của dữ liệu trích xuất, chưa phải phần trăm Việt hóa playable.
 - **Tiếp theo:** `talk/en/tk203_en.bin_@00018773`; còn 263 mục tk203, trong đó nhiều nguồn trùng tk202/tk201. GitHub Actions validator + unittest được kích hoạt sau commit.
+
+## Lượt 026d — 11/10/2026 (hoàn tất 263 mục tk203)
+
+- Hoàn tất **263 mục todo→draft** từ `talk/en/tk203_en.bin_@00018773` đến `talk/en/tk203_en.bin_@00025ffb`, QA theo sáu lô. Trong đó **196 nguồn trùng** đã có bản Việt ở tk100–202/tk203, **1 nguồn trùng** ngay trong lượt và **66 mảnh nguồn mới** được dịch nháp. `tk203` hoàn tất **663/663 draft, 0 todo**.
+- Nội dung: Cu Sidhe, cơ chế chiến đấu và vật phẩm, Oblivion, Cõi âm, chuyện ký ức người chết, người mẹ giả mạo, phòng khám và nhà thờ 17 năm trước. Dùng đại từ trung tính, ghi notes khi mảnh bị cắt hoặc cần soát bối cảnh; chưa tự xác minh người nói.
+- QA: chỉ vi/status/notes thay đổi đúng 263 mục; giữ nguyên ID, tiếng Anh, source_sha256, offset, source_review và thứ tự. Đảm bảo NFC, số newline, tiền tố/trailing blank, protected tokens, đồng bộ tuyệt đối source trùng. Không thay font Merienda V3, ROM/ISO/binary và chưa test RPCS3. Dialogue vẫn thiếu parser/repacker.
+- Toàn bộ 158 catalog: **6.292/11.886 draft (52,9%)**, còn **5.594 todo** trong dữ liệu trích xuất; đây không phải tỷ lệ bản vá playable.
+- **Tiếp theo:** `talk/en/tk204_en.bin_@00001158` (`To Netherworld`); tk204 có 823 mục. Dùng lại nguồn trùng và dịch source mới theo cảnh; luôn lưu/QA theo batch an toàn.
+- GitHub Actions validator và unittest Windows/Linux chạy sau khi push.
