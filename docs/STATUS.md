@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft` và 67/578 mục tk103 `draft`. Còn 9.502 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 1.322 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 67 tk103). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft` và 267/578 mục tk103 `draft`. Còn 9.302 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 1.522 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 267 tk103). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -171,3 +171,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Hoàn thành 133 mục `tk102` (494/494 draft), tất cả có nguồn trùng `tk100/tk101` và dùng bản dịch đã thống nhất. Thêm 67 bản nháp trong `tk103` (67/578; 20 copy đúng nguồn cũ, 47 mảnh mới) có chủ đề bác sĩ/người chồng mất tích/Lãng quên. Tổng **2.384 draft**, **9.502 todo** trên 158 catalog.
 - QA chỉ vi/status/notes, giữ nguyên id/source/hash/file_offset/source_review và thứ tự; đảm bảo NFC, dòng, marker và source trùng nhất quán. Đánh dấu chỗ xưng hô, danh xưng chưa rõ trong notes; không suy người nói từ offset.
 - Chưa có repacker thoại và chưa chạy RPCS3/test font Merienda V3 cho các câu mới. Sau commit kiểm tra CI Windows/Ubuntu. Lượt 019 tiếp tại `talk/en/tk103_en.bin_@00004c8b`.
+
+## Lượt 019 — 11/10/2026 (200 mục hội thoại tk103)
+
+- `tk103` tăng 67→267 draft trên 578 ứng viên, còn 311 todo. Trong 200 lượt dịch, 34 nguồn trùng tái sử dụng bản Việt hóa, 166 lượt đầu tiên có bản nháp (tính lượt dịch, không phải 166 nguồn duy nhất). Tổng **2.584/11.886 draft**, còn **9.302 todo**.
+- Ngữ cảnh: Herve, Đầm lầy, lãng quên, phóng viên, bác sĩ và các vụ án ở Doolin; đại từ chỉ tạm thời trong mảnh câu; ghi notes những từ/vai nói cần QA. 159/200 nguồn bắt đầu newline, cảnh chưa có parser xác minh.
+- QA metadata immutable (source/ID/offset/hash/source_review), NFC/newline/placeholders/prefix, không có xung đột chuỗi trùng. Chỉ dịch catalog, chưa repack/test RPCS3; font Merienda V3 không đổi.
+- Lượt 020 bắt đầu `talk/en/tk103_en.bin_@0000fe1a`. Sau push xác minh GitHub Actions validator + unittest trên Windows và Ubuntu.

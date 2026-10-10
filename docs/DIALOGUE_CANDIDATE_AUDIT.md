@@ -25,3 +25,9 @@ Catalog JSON không kèm bytes xung quanh chuỗi, bảng tham chiếu, opcode, 
 - Hoàn tất nháp `tk100` và ba catalog `LCmc000/002/004`, không đánh dấu `reviewed`/`tested`.
 - `tk101` mới có 8/447 `draft`; mục kế tiếp `talk/en/tk101_en.bin_@000016b4`.
 - Toàn bộ 158 catalog: 11.886 mục, 1.384 `draft`, còn 10.502 `todo` — đây là tiến độ ứng viên đã trích, **không phải tỷ lệ Việt hóa có thể chơi được của toàn game**.
+
+## Bổ sung lượt 019 (11/10/2026)
+
+- `tk103` đã được dịch nháp đến `@0000fc9a` (267/578), còn 311 candidate; 200 mục mới trong lượt có **159 nguồn mở đầu newline**, **11 nguồn mở đầu dấu cách** và chỉ **172 nguồn tiếng Anh phân biệt**. Nhiều source xuất hiện lặp lại ngay trong một tệp; đây không phải bằng chứng chúng nằm chung một lời thoại.
+- Các trường hợp cần parser kiểm chứng: `@000051d2` (bị xóa khỏi ký ức mọi người?), `@000065f5` (will: di nguyện hay ý chí?), `@000074bd` (chủ ngữ/động từ thiếu), `@0000b30d` (Hag là tên riêng hay danh từ?), `@0000e9c5` (nhịp nói lắp của nhân vật). Giữ các bản Việt hóa dạng draft và notes, không khẳng định speaker.
+- Phạm vi cloud: `tools/catalog.py` vẫn chỉ quét ASCII-NUL; đã xác minh không có trong dữ liệu catalog cấu trúc pointer/speaker đủ an toàn để tạo repacker. Việc phân tích dữ liệu byte nguyên gốc và vòng parse→serialize byte-for-byte vẫn là việc còn thiếu. **Không dựng patch dựa vào `file_offset` của candidate.**
