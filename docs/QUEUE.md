@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@00006583`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00006833`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 484 mục `draft` (134 mẫu V3 + 350 mục qua 7 lượt), còn 532 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 534 mục `draft` (134 mẫu V3 + 400 mục qua 8 lượt), còn 482 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -95,3 +95,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA cấu trúc trước commit: đúng 50 ID từ todo; chỉ chỉnh vi/status/notes, nguồn/ID/hash/offset/order/source_review bất biến; kiểm tra NFC, newline, mã đặc biệt, 0 source trùng có bản dịch xung đột.
 - Không thay đổi Merienda V3, ROM, ISO, alias/font payload; chưa thử runtime RPCS3, giữ `draft`. CI Windows/Linux chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` sau commit.
 - **Tiếp theo:** `lang_en.bi5_@00006583` (`Barrier`), thêm 50 mục menu kế tiếp.
+
+## Lượt menu 008 — 10/10/2026
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: xử lý đúng 50 mục `todo` thành `draft`, từ `lang_en.bi5_@00006583` đến `lang_en.bi5_@00006821`.
+- Nội dung: 9 chỉ số/hệ/hiệu ứng (Barrier, Earth, Ice, Fire, Thunder, Wind, Bond, Charm, Sleep); 12 thông báo nâng cấp Folk/Karma; 4 mục nhiệm vụ; 20 nhãn bộ đếm còn lại từ 20 đến 1; 5 thông báo phát hiện Folk/lối ra/liên kết vật phẩm/Karma.
+- Giữ nguyên thuật ngữ chuẩn Folk, Karma, MC, Malabaricus và placeholder `%s`; khớp Barrier → Kết giới, Bond → Trói buộc, Charm → Mê hoặc, Thunder → Sét với các lượt cũ. Thuật ngữ Charge Level, Element Ability, Ammo count và Link item còn cần xác minh hiển thị/cơ chế: có notes.
+- QA: đối chiếu 50 ID theo `todo`, chỉ thay vi/status/notes; bất biến source/hash/offset/order/source_review, bảo toàn NFC/newline/token; 0 xung đột giữa bản dịch cùng nguồn. Không can thiệp font V3, ROM, ISO hoặc payload.
+- Chưa thử runtime RPCS3, mọi mục vẫn `draft`. GitHub Actions chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` trên Windows/Linux sau commit.
+- **Tiếp theo:** `lang_en.bi5_@00006833` — `Receive Folk` và 49 mục `todo` kế tiếp.
