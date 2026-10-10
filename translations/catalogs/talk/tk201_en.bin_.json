@@ -3511,1460 +3511,1460 @@
       "file_offset": 84763,
       "source": "\nthe dead that got hold of him.",
       "source_sha256": "035692d98992c84ef917de1e603a6611fb95271978d36023d95a7c9bb92861f6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chết đã bắt lấy anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00014d30",
       "file_offset": 85296,
       "source": "Why...?",
       "source_sha256": "41573511eea4a80396edea006b0a404c9578c304851ebc16fc83889068d8811c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tại sao chứ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00014ed1",
       "file_offset": 85713,
       "source": "\nin the first place?",
       "source_sha256": "76306cdf836d80d8b3cfd520ae2073245e346077fe3007071d74bc091810e704",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay từ đầu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00014f4c",
       "file_offset": 85836,
       "source": "\nto give him treatment?",
       "source_sha256": "6d0d545463a406c410ab57a399d0798e6d9a7b516c263ce0cdc17151aa981d8b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể chữa trị cho anh ấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00014fe4",
       "file_offset": 85988,
       "source": "\nopened the place.",
       "source_sha256": "dd5fd89cd4e15de4bd71ab563aae32651c7239edfbfd98bc2a12a665e7ff8f9d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã mở nơi đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000150c9",
       "file_offset": 86217,
       "source": "\nhas a crush on someone!",
       "source_sha256": "71d989cabbd8532217aec096fc782f9b1eb92d8955ad8a3ecc22de4142377995",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang phải lòng ai đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015151",
       "file_offset": 86353,
       "source": "\ndon't ye go and calm him down?",
       "source_sha256": "bddff07e964a117140a50eb8bb61f458721a9e2b877e2fc8d6b284d65745aa3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsao không đến dỗ anh ấy đi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000151de",
       "file_offset": 86494,
       "source": "\none? Ah, poor thing.",
       "source_sha256": "b8ff474486b8f9be2393f7e219c47493ce50e3fffe7996536b2d8fb90c7b3881",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người sao? Tội nghiệp thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000153d5",
       "file_offset": 86997,
       "source": "\ncreated it were wiped out.",
       "source_sha256": "f2ddec367b34721e27394da2bbb0ed3b623319583ddff0912f0c5152909998b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người tạo ra nó đều bị xóa sổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015452",
       "file_offset": 87122,
       "source": "\ntruth behind that story.",
       "source_sha256": "f250d1c6d7e078ccae332a977af5b3f019fb554cc4d350b58e001fed552bee17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự thật đằng sau câu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015539",
       "file_offset": 87353,
       "source": "\nclinic at the church.",
       "source_sha256": "3c0e7ea6cce2266667f4a8c2bc18e37ea5ad4c2e1f3583d119445dee6ae75641",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng khám ở nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000155de",
       "file_offset": 87518,
       "source": "\nand won't wake up.",
       "source_sha256": "34086347488b680ae58874dac3ed6469fc0cd0f91b2529df8236cd5aa7595149",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà không tỉnh lại nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015675",
       "file_offset": 87669,
       "source": "\nbeen badly hurt.",
       "source_sha256": "8c463e86133697aa79898ab1f4dc3bf29fbd0f0a7c7f567dbe2d47e028529618",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbị thương rất nặng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000156ea",
       "file_offset": 87786,
       "source": "\nan end to this.",
       "source_sha256": "ef8af93dc739620990ecb3bfc063f7a48751b3603970d0c87a09267c2920613f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchấm dứt chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000157ea",
       "file_offset": 88042,
       "source": "\nto be expected.",
       "source_sha256": "43077cccdb663d2be6962b7364f0f549279b57b635a5204f237413c2f0237646",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng là chuyện dễ hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001585a",
       "file_offset": 88154,
       "source": "\nanything to help matters.",
       "source_sha256": "455e740dfebb374c98622d904df40675ec600a794d749cbd16fddf5bd0491239",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm được gì để cải thiện tình hình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000158d7",
       "file_offset": 88279,
       "source": "\nsetting off on her own.",
       "source_sha256": "1d09bab87ce8553e65b0bd8eb1416c1272bea6d12cdde81d3e6af174e82497db",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntự mình lên đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001595d",
       "file_offset": 88413,
       "source": "\nmight be willing to meet you.",
       "source_sha256": "4c6e30713ca58465fc38edd03d0a3036f671ead796e43ae524af5ba2e52db3b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó lẽ sẽ chịu gặp bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000159c9",
       "file_offset": 88521,
       "source": "\nYou're joking.",
       "source_sha256": "92fed841b3babbc1379b9fc53e85bff9e7a9d8253e7fe5ab2af8b246d546cb7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đùa đấy à.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015a6b",
       "file_offset": 88683,
       "source": "\nthat you want to know about.",
       "source_sha256": "ed9db3b839be29b0700e09d67d8b0462730f159945b264d7252b08ade3500068",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều bạn muốn biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015aee",
       "file_offset": 88814,
       "source": "\nfew things that don't make sense.",
       "source_sha256": "8eadbaab56c2e7d95e497a5157bd4aa25ad442f862a85642e7fe05a759200d57",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvài chuyện nghe chẳng hợp lý.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015b6f",
       "file_offset": 88943,
       "source": "\nThe phone call for help...",
       "source_sha256": "70727f986f25354972f08bde5285848cb417fcfd41ff7ebdb5654c101e4db34c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCuộc gọi cầu cứu ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015c47",
       "file_offset": 89159,
       "source": "\nI'd like to find out.",
       "source_sha256": "c1babe5c74546823a10421ad4f3a1690a098d257672b148b54b5617ceffc2fd8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi muốn tìm hiểu rõ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015cbf",
       "file_offset": 89279,
       "source": "\nworth asking about.",
       "source_sha256": "31267642f2eafb1cf74c80baa9d3a995d33762450dea1ea03ad095bb0a15c7ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáng để hỏi thử.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015dab",
       "file_offset": 89515,
       "source": " was writing it.",
       "source_sha256": "4c392009e4c19e7cbab5abbe6f8f29251ebb2f0ba185a1b5c047914d93065db5",
-      "vi": "",
-      "status": "todo",
+      "vi": " đang viết nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015e4a",
       "file_offset": 89674,
       "source": "\nSounds like a child's tale to me.",
       "source_sha256": "418872cea35ccd0e7005161be526b7ae205b55e762b4ecc1c8a656a2aa7bfaba",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNghe giống truyện trẻ con quá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015efb",
       "file_offset": 89851,
       "source": " What's wrong with yer???",
       "source_sha256": "22b2b5d7bdfb776a7729269e7a6bee5b369993446249a05ab72fdc1e6939be44",
-      "vi": "",
-      "status": "todo",
+      "vi": " Ông bị làm sao thế???",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00015f7a",
       "file_offset": 89978,
       "source": "\nlike something isn't right.",
       "source_sha256": "34e40a683055a5f233f15dff173aa82cd11f0ab0fc2d031341f6ed313001f426",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncảm thấy có gì đó không ổn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016088",
       "file_offset": 90248,
       "source": "\npart can be obtained now.",
       "source_sha256": "4129dcda0a3fabcc43f82b57ab8d9102812efe48e1bf2bccbdcdd1321ae2b5c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ có thể lấy được phần ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000160e8",
       "file_offset": 90344,
       "source": "Oh yeah?",
       "source_sha256": "3ee865676f6e4c9903fd4e855996034d731c7d27799b0aa56ab48db3f4824adb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016156",
       "file_offset": 90454,
       "source": "\ninto it.",
       "source_sha256": "ba5b46a411d96bf8152565b5334cd279473c18ecfa84ce08217bbe5e07131813",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm hiểu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001623c",
       "file_offset": 90684,
       "source": "\nthe search for the grail ends.",
       "source_sha256": "69b32c2bb52bf737067da98ed38b38c62a5108da26577299028d7c2063028e11",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuộc tìm kiếm Chén Thánh kết thúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000162be",
       "file_offset": 90814,
       "source": "\ncreated by a little child.",
       "source_sha256": "dc27b5d85cadb7dc34841b1b1b75dc46a628141b731dff7e8f90ab149d834497",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndo một đứa trẻ tạo ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000164e4",
       "file_offset": 91364,
       "source": "\nwhat he was doing up there?",
       "source_sha256": "98c460d9f0e14f97676e8aeadde39edee0ddd60380e3ccc788f7494de3d44a10",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nanh ấy làm gì trên đó vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001658c",
       "file_offset": 91532,
       "source": "\nhim down.",
       "source_sha256": "ebf555bddd181c6bdcdb29af172be6e0e6a6ca2fad46710e8cb96103932fcf8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđưa anh ấy xuống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000166c9",
       "file_offset": 91849,
       "source": "\nsaxophone! Yeah, saxophone.",
       "source_sha256": "3ac7c9a133fd4bb356bf1018d25dba65d9c94591dd4513685107dfcafbb55f69",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkèn saxophone! Đúng rồi, saxophone.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000167c5",
       "file_offset": 92101,
       "source": "\nperform for us!",
       "source_sha256": "370489f0771d890726055d19e966ab2f8a9b13aeed59e740b219a22fc167bf52",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiểu diễn cho chúng tôi xem!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016851",
       "file_offset": 92241,
       "source": "\nhas some kind of problem.",
       "source_sha256": "13cf590435a627a0f127e48e95775ea601e72f8d68b6a4b7ccda8cd7720b2ce3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang gặp chuyện gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000168dd",
       "file_offset": 92381,
       "source": " and talk to Charlie?",
       "source_sha256": "2b27ee65ae03e18b8253801094aabcedc518bc0c739fa10bd7f3ee5bf1f573f6",
-      "vi": "",
-      "status": "todo",
+      "vi": " rồi nói chuyện với Charlie không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000169ca",
       "file_offset": 92618,
       "source": " that doesn't fit.",
       "source_sha256": "ba8fab8233558a20e43fa8c39d79fcbba11d66301303624a6f903218802960d8",
-      "vi": "",
-      "status": "todo",
+      "vi": " không hợp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016a64",
       "file_offset": 92772,
       "source": "\nwon't even tell us.",
       "source_sha256": "b81b8cca7b5aa6a43bfe625a10db55b4b00fe972e139915ecf33a1db7bd8e81a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncòn chẳng chịu nói cho chúng tôi biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016ad7",
       "file_offset": 92887,
       "source": "\nsomeone in the past?",
       "source_sha256": "b6f600123046faca28c0796b493e24df29712446b4c912e188b0e1a82371c2db",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người trong quá khứ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016c49",
       "file_offset": 93257,
       "source": "\nyou a letter.",
       "source_sha256": "55f10927d2ca2133564b467cb6bca0b828bd5c3ca1babdd9bcc8f53182568bcb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn một lá thư.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016cb8",
       "file_offset": 93368,
       "source": "\nSo I didn't.",
       "source_sha256": "226592f936aef0c0dc1928a8389ac989bfc151e53fcca0fafa771a90e29d3d19",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThế nên tôi đã không làm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016d0c",
       "file_offset": 93452,
       "source": "Let me see...",
       "source_sha256": "cf81b83e28e92b1fb3e94c3b8d729bfb6dd173d50c640a79d54c023fa4c0d039",
-      "vi": "",
-      "status": "todo",
+      "vi": "Để tôi xem nào...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016ded",
       "file_offset": 93677,
       "source": "\nHe says he gets bad headaches.)",
       "source_sha256": "02a6b51309b0e1daf315c56f51dfd839780051c252dc74e975795eeb9b0dd423",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nAnh ấy bảo mình hay bị đau đầu.)",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016e9c",
       "file_offset": 93852,
       "source": "...She must be worried.",
       "source_sha256": "2bbce778e40e503b2eedfd22772b98bdcc33a7c6883ca6df7da37ad7ff520713",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Chắc cô ấy lo lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00016fb4",
       "file_offset": 94132,
       "source": "\nstop him from drinking.)",
       "source_sha256": "a4b1c83d74f7a829608bbed8052c49ad8070b67daad9d0f211918e4bc90844d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngăn anh ấy uống rượu.)",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017031",
       "file_offset": 94257,
       "source": "\n bring that medicine to me.)",
       "source_sha256": "edcd45c1fc550ae44bb229f2bb88a611c79549525dc1f5b2765eb3b8cce0a975",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n mang thuốc đó về cho tôi.)",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000170dc",
       "file_offset": 94428,
       "source": "...What's wrong?",
       "source_sha256": "05a9a32abccc67b543ec95df4e87507b12e6de8153c51f61e15515b73920c4a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Có chuyện gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017161",
       "file_offset": 94561,
       "source": "\nthat I will do it.",
       "source_sha256": "9d1cd8b04894f68b520429f8b6227678a94591a683badafaf07043332b3dabee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi sẽ làm việc đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001726a",
       "file_offset": 94826,
       "source": "\nforget his dead girlfriend.",
       "source_sha256": "e918ad3d7b29b89cdc463effbfc03a71eeda7542c7e835149a1e087c7fde14fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquên đi người bạn gái đã mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017316",
       "file_offset": 94998,
       "source": "\nDo you know what that means?",
       "source_sha256": "dbca90e71d7d138f61c0a7909fd35f293ed5bd4134e6dc477f6370858768a4ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn biết điều đó nghĩa là gì không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000173c0",
       "file_offset": 95168,
       "source": "Yes. I'll look into it.",
       "source_sha256": "fd6c217930902da94813be18153f14911069aaa53a8600f5c499cca14ddb7971",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừ. Tôi sẽ tìm hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000174cc",
       "file_offset": 95436,
       "source": "\nDON'T FIGHT in her sleep.",
       "source_sha256": "95d9e4eb542c72ee890577c1fe11afc952c18b3b8e71014892559df09daa99bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐỪNG ĐÁNH NHAU khi cô ấy đang ngủ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017555",
       "file_offset": 95573,
       "source": "\ndaughter, is she?",
       "source_sha256": "292aefdf8224b8148b1440cf4c512730ccf99ebcdb70229d6e065a696e5c9827",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncon gái bà ấy phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000175ac",
       "file_offset": 95660,
       "source": "It's a family thing.",
       "source_sha256": "ac491a3d99faade1f332dfd9590a518dd674198a0265c392fde53a9c7d97e114",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chuyện gia đình thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017645",
       "file_offset": 95813,
       "source": "\nupsets her now.",
       "source_sha256": "0e2b81716844fca2aad159422c475a4b27d9bafe73446dba73636114f6347d97",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ khiến cô ấy buồn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000176b9",
       "file_offset": 95929,
       "source": "\nfighting, even in her dreams.",
       "source_sha256": "7121a57856f0783fe28243ab54159c56d8ab9b2eef69576ed192bf3faa8d7461",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđánh nhau, ngay cả trong mơ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017733",
       "file_offset": 96051,
       "source": "\nin her sleep?",
       "source_sha256": "e15c8b81ef1492d172f73bbfd3914c178705ac6fd8e26f37cc3c6e6e2ece2fd1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi cô ấy ngủ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017850",
       "file_offset": 96336,
       "source": "\nthat they really exist.",
       "source_sha256": "90e6bad8b21dd48036f2d696748f8ca6ebbcd9d8df73649116377bda55d0b7e7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrằng họ thực sự tồn tại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000178b0",
       "file_offset": 96432,
       "source": "I see.",
       "source_sha256": "420c703b11610f7b7a8e910dc406505b7bda360bb628955d4625a5a8d7c3005c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi hiểu rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017978",
       "file_offset": 96632,
       "source": "\njust after that.",
       "source_sha256": "658e82d673fdaff1c7fea2b3844985738c4d71e120c3241f1a50f74253db8ea3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay sau đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017a0b",
       "file_offset": 96779,
       "source": "\nvillage and see you again.",
       "source_sha256": "53295e57ce8d11db7186c0473fd1283435fee3abe8b5e46cd3a170b870297cae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng rồi gặp lại bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017a6c",
       "file_offset": 96876,
       "source": "Yes... Thank you.",
       "source_sha256": "7ef3eaeaf523fec4bd7d269fbf2d94f8d21b53dea15012cc11f432eab316ad35",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vâng... Cảm ơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017ae1",
       "file_offset": 96993,
       "source": "\nsay, but...",
       "source_sha256": "c02000d97d41081623a052f3cba49f861c4f88859b3537ec1bb12c14c6db5a50",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói ra, nhưng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017b53",
       "file_offset": 97107,
       "source": "\ntime to talk to her?",
       "source_sha256": "ab9ada59911c40868bd9d0493a4ca58c3e04c3c702276bd73602e8fed42c3349",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thời gian nói chuyện với cô ấy không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017beb",
       "file_offset": 97259,
       "source": "\ngo to see her there?",
       "source_sha256": "b9540d1b071b709047009920d9b8f197acec8be0695a3fa00d2d963e619d2470",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến đó gặp cô ấy được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017c48",
       "file_offset": 97352,
       "source": "Yes, perhaps...",
       "source_sha256": "d37019df5c3ff552c1e99b75e5f61485d47fd55647ab04c3acdc3e02e1b39cd8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừ, có lẽ vậy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017d15",
       "file_offset": 97557,
       "source": " is still out cold...",
       "source_sha256": "500de2b6943cfbef9cd21cb8f0066c3716c0560c9529628c3fa1d651bb611575",
-      "vi": "",
-      "status": "todo",
+      "vi": " vẫn đang bất tỉnh...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017db7",
       "file_offset": 97719,
       "source": "\nher trauma.",
       "source_sha256": "1bf6cff54ee37468b810a75919ea80b350eea8e901da0ef424f07db19f00622b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi sang chấn của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017e25",
       "file_offset": 97829,
       "source": "\nshe committed those murders.",
       "source_sha256": "e73d3ed8f0e7e7dd4a137dd68e1105c27d45e1b37e620510fcd73d1520f3a8da",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy đã gây ra những vụ giết người ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00017f26",
       "file_offset": 98086,
       "source": "\nmy responsibility, indeed.",
       "source_sha256": "3d0925f204f1dad2d1a1add813f1958d9baacd4b35220b6162546ceb42a2dc16",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđúng là trách nhiệm của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018034",
       "file_offset": 98356,
       "source": "\nquite popular amongst us.",
       "source_sha256": "7f54c92ba5123999e9bddef1b197718059ad12fe2996c2ee157b42c98c75943c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhá được lòng chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000180de",
       "file_offset": 98526,
       "source": "\nthe story ends?",
       "source_sha256": "2e931a038ea2e584ddd3fb0524a52594ddac77fb5781b2e2303442bd56ec1c9e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncâu chuyện kết thúc thế nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001817d",
       "file_offset": 98685,
       "source": "\nHow odd...",
       "source_sha256": "041cc0de7d88b2fce9f0e8406569b808cdc2196a30792d1ed76e8facd9c340c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nLạ thật...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018259",
       "file_offset": 98905,
       "source": "\nWe've found the next parts.",
       "source_sha256": "e30d7d0b4f06015406c62107e9457f356edcd8b11c066368815ebbdab5a1690b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChúng ta đã tìm thấy những phần tiếp theo.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000182d6",
       "file_offset": 99030,
       "source": "\nto this.",
       "source_sha256": "48f52657ec7aa0adba853b3b6ce31209dc8921ca7c1fb2a7b8f6806eba6cb4d4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001835c",
       "file_offset": 99164,
       "source": "\nIt takes place in Hell!",
       "source_sha256": "920559f7dc5a8987b4f552504b1ae98fa53bd6a5f34ebe9d69cef7cb7ff66685",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBối cảnh ở Địa Ngục!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018441",
       "file_offset": 99393,
       "source": "\nit seems to be a bit miserable.",
       "source_sha256": "502727f377d5e86c769e8914335d3236269c69eaf553f0bf5184a5c52d5762c9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó vẻ hơi thảm hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000185b9",
       "file_offset": 99769,
       "source": "\nThey're a kind of military group.",
       "source_sha256": "4b322ba1627d5329fdeb04147bca1f188bca93a4b4b9518aa9163435d6417d5e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHọ là một nhóm quân sự.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018637",
       "file_offset": 99895,
       "source": "\nalways picks on them.",
       "source_sha256": "7ec8a814b81d2d2e46d87a614a7640029eec78b58748042155eb07d5d11c41ca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nluôn bắt nạt họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000186ae",
       "file_offset": 100014,
       "source": "\nget back at him.",
       "source_sha256": "42b132cb37ebd4ad584c0d683a3e748fbf17a0a87b02e87e7fa6f5dc802e353c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrả đũa hắn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001871d",
       "file_offset": 100125,
       "source": "\nwilling to help them?",
       "source_sha256": "e97abc1b98837359d4a420722420185eeafa1536ac629acfc1832314fe5ceef6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẵn lòng giúp họ không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000187f8",
       "file_offset": 100344,
       "source": "\nthe herd.",
       "source_sha256": "3bfc7c27d263e2b8e04c744fbf0747f4c52e32a66276e0a7323d91f9ca1811f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđàn thú.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018862",
       "file_offset": 100450,
       "source": "\nherd in the Forgotten Palace?",
       "source_sha256": "0020a3dbaad9b2cf79d5b976748303020ab46481b4d1e490a29c2d6fcba14e82",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđàn thú trong Cung điện Lãng quên sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018a07",
       "file_offset": 100871,
       "source": "\nreturn address.",
       "source_sha256": "1e1ff78716d5945bd83928d790cc323cb7877c7826774654874f5ff887e3d93b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđịa chỉ hồi âm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018a74",
       "file_offset": 100980,
       "source": "\nAnyway, here it is.",
       "source_sha256": "d204248494d417179f06830add237fc39a155976b85e7b5dd513c420b8d86e65",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nDù sao thì đây rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018b53",
       "file_offset": 101203,
       "source": "\non its way here.",
       "source_sha256": "3ec5417707f3e98437e904a5147aaea4ba3dbdc57c12e719e62b461509938b54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang trên đường đến đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018bea",
       "file_offset": 101354,
       "source": "\nit back for me?",
       "source_sha256": "e3f86fc161828ab78d37cd10cac7c1685091336d5dca243643f8b3dffcbdfa2f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmang nó về giúp tôi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018cc2",
       "file_offset": 101570,
       "source": "\nI wonder what's wrong this time?",
       "source_sha256": "80d49b9e60db91e5ef7d344dfe780ef203d33ec206f2726d610c7142e699d0f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông biết lần này lại có chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018d42",
       "file_offset": 101698,
       "source": "\nyer business or anything.",
       "source_sha256": "b1b3885c66da13d64a649668c65b9489fb7188fd842cedae5548046a915044cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện riêng của bạn hay gì đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018e3d",
       "file_offset": 101949,
       "source": "\nthis village.",
       "source_sha256": "cb3a17bd217c84f7dde24f970d090dc0b96e60570824ffdf83c0e99694393c45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018eac",
       "file_offset": 102060,
       "source": "\ndo with ye.",
       "source_sha256": "989c0087c8fad77cabe3bf1c0ef6e42aab0a5a202c523db3e6ca5da6f1cc3af9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nliên quan gì tới bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00018f3e",
       "file_offset": 102206,
       "source": "\nor something.",
       "source_sha256": "d56a0b4a91ca49a20be9cc7fcfe548548de4e5deeb217d70c52e9a4017646682",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhay đại loại thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019029",
       "file_offset": 102441,
       "source": ", as always.",
       "source_sha256": "e3722902ead751a2c7edf45a01e5335c9c3e14e255733c62c9d1be7ddc5d4fa7",
-      "vi": "",
-      "status": "todo",
+      "vi": ", như mọi khi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000190b7",
       "file_offset": 102583,
       "source": "\nget past.",
       "source_sha256": "821107d215d94d17ee0f66d3383caa5adf3d583d2033f14a2acc692e533c9653",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđi qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019144",
       "file_offset": 102724,
       "source": "\nye details as to where to go.",
       "source_sha256": "18e83fc116fb5db1b8fbf028eb106acc17f60a24bcf1f9fb0978fa8abbd59e46",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhướng dẫn cho bạn đường đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019225",
       "file_offset": 102949,
       "source": "\nIt looks a little unfit, yeah.",
       "source_sha256": "20f009209de193e8c9867622de1328a9bd71ef52262e5d6c0f7bcbac88e5667b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTrông nó hơi yếu, ừ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000192c2",
       "file_offset": 103106,
       "source": "\nbest in a place it's used to.",
       "source_sha256": "e8d74c259e7db8b11aeaac5540f90c0ee546b0694ea6a23eea1aa9c0b0366abc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntốt nhất ở nơi nó quen thuộc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019431",
       "file_offset": 103473,
       "source": "\nattacking us for no reason.",
       "source_sha256": "5a03a683ccb32bb407953fde72f7b92f2ac8f721e4633381d8c5a54d8e979ed5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntấn công chúng ta vô cớ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000194b3",
       "file_offset": 103603,
       "source": "\nBougainvillea behind it.",
       "source_sha256": "5c28c9851b5a4cd01a4cfcd14ab25b62978c8629a4a9fa783d5590880e53f51a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhoa giấy phía sau nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019552",
       "file_offset": 103762,
       "source": "\ncontrol their actions.",
       "source_sha256": "1f1c1d2ff6b9f798944ee3ec2b8be12ff587d2aedfe40649d7fd8f2be0c1ac43",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkiểm soát hành động của mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000195eb",
       "file_offset": 103915,
       "source": "\nand teach them a lesson for me?",
       "source_sha256": "e6206530cc24e335f6102d1aff088bb60926eac86aa16b33f6195540a1f670c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà dạy cho chúng một bài học giúp tôi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019691",
       "file_offset": 104081,
       "source": "\nare doing, so don't hurt them.",
       "source_sha256": "97a6b1ee6c3f4b667e29572add8b88560d336b1825340425974fa3abb0fb3880",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang làm gì, nên đừng làm chúng bị thương.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001977c",
       "file_offset": 104316,
       "source": "\ngo to the Core grow weaker.",
       "source_sha256": "2365b69d8731455ca75203bb31efb283beb74258118f019342cb5f60437da350",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđi đến Lõi thì yếu đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019801",
       "file_offset": 104449,
       "source": "\nis, but it's probably the Folks.",
       "source_sha256": "7194a979392ccb4401e69c2278aba39dba2969fce732ada280326891b7ae3dfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà gì, nhưng chắc là các Folk.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019885",
       "file_offset": 104581,
       "source": "\nwork out what's happening?",
       "source_sha256": "3cb226eaa91621e5679ff80a468d6d860cf0a5136adf1e3e51d8b4ec8740d8b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm ra chuyện gì đang xảy ra không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019989",
       "file_offset": 104841,
       "source": "\ntree sap harvesting.",
       "source_sha256": "789bb8a391d1fce2835743d760efbf62a6b261a02b9853aa9fac6726ce1a8cca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthu hoạch nhựa cây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019a23",
       "file_offset": 104995,
       "source": "\nWould ye go and sort that out?",
       "source_sha256": "ea077bc6e193b342c039fa6f2cf76010e9769dbcd6a67924b09ee6d89cc4d762",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đi xử lý chuyện đó giúp nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019b29",
       "file_offset": 105257,
       "source": "\nthe Bullseye ran off to escape.",
       "source_sha256": "31f329d9e8837b22fec6ba97e3d65a52bdb82746a58088beb8aaa315d8cd5010",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBullseye đã bỏ chạy để trốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019bcd",
       "file_offset": 105421,
       "source": "\nHelp him escape, will ye?",
       "source_sha256": "c562152e5c77a420c4269f4afdc1837f9781a9540e418ebc128f74984f7eb0c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nGiúp nó thoát đi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019cdb",
       "file_offset": 105691,
       "source": "\nits home was disturbed.",
       "source_sha256": "cd9989a6fedfcfd7eebf7e00b099662af0dffa84506d5cdda35d17dcde451fbf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi ở của nó bị quấy rầy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019d77",
       "file_offset": 105847,
       "source": "\ntry to calm it before it comes out?",
       "source_sha256": "59a3f297fc49005483efc0f2122d76fc8beb231d0fb3da07a0ee6323899a583b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthử làm nó bình tĩnh trước khi nó xuất hiện không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019e6b",
       "file_offset": 106091,
       "source": "\nsleep because of nightmares.",
       "source_sha256": "afa54ff113cab5036e11fb9e9df87a31b1d4435f4e482878888fbe7c31223cad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ngủ được vì ác mộng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019f0e",
       "file_offset": 106254,
       "source": "\nhear a disturbing voice.",
       "source_sha256": "6c64c20eb6dac1b1d2064ff954baa5f5e429cdb6210126d647d2aa7eeedd275e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnghe một giọng nói đáng sợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00019f6c",
       "file_offset": 106348,
       "source": "Can someone help her?",
       "source_sha256": "5571756c5ff6db64658e9a6aebc5953237946cc25f24f65c3613b1700940d14a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có ai giúp được cô ấy không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a04d",
       "file_offset": 106573,
       "source": "\nhas no name of sender.",
       "source_sha256": "923af857c00bbc99b8f07d3c63eb761ce2b9c79d14fe52f023d00d9f968eb7a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ghi tên người gửi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a0cb",
       "file_offset": 106699,
       "source": "\nAnyway, it's yours.",
       "source_sha256": "3c661347513b920d382853fbe4ba8cde190f4d2bdb06577234dc84680367aa90",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nDù sao nó cũng là của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a1e0",
       "file_offset": 106976,
       "source": "\nof the year!",
       "source_sha256": "d574181c5d7c293338055271d8395aed409220c43ba5ab9fdb4e70e9ee29b375",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong năm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a267",
       "file_offset": 107111,
       "source": "\nto get t..together.",
       "source_sha256": "d61f803d301cdf2fdcd4ebed007e764415c4b7fe054f314a3ddd290c2537ab16",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể được ở... ở bên nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a30b",
       "file_offset": 107275,
       "source": "\nteach them a lesson?",
       "source_sha256": "e48e91caf64570dffc67c2a0d9e56cd22132427bd7ce6dc3080565a207885b6b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndạy cho chúng một bài học không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a3cb",
       "file_offset": 107467,
       "source": "(Why do I always run out of honey?",
       "source_sha256": "b70eb80ce4e01d5fff783cde99653ad7bc873343aa208bed58ccef7327777715",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Sao tôi cứ hết mật ong hoài vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a47f",
       "file_offset": 107647,
       "source": "\nand get me some?",
       "source_sha256": "a12a7a0f6274b94492986fb4aa156c60f8cb1f84bb67ac92f0084672bcfd8336",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà lấy giúp tôi ít mật ong nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a575",
       "file_offset": 107893,
       "source": "\nfrom the sea.",
       "source_sha256": "e64674d34b42029f8a66b61655754bfaf40fe9c99e45ea37b3ae092457ad0438",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a5fd",
       "file_offset": 108029,
       "source": "\nfeel free to look into it.",
       "source_sha256": "05347c43e4ac610aa08f304b44bdda13fbb562d8b2e12262a4c018af96082d7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ tự nhiên tìm hiểu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a6e3",
       "file_offset": 108259,
       "source": "\nfood I want to serve.",
       "source_sha256": "1857396becc2e994c163291f2bf439ce11315c786429b206e3dd6184734ede0c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmón ăn tôi muốn phục vụ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a775",
       "file_offset": 108405,
       "source": "\nthree of them for me?",
       "source_sha256": "0d65d599472aac44a4cd34046d2f29fb772a44951aed06733d88ee6a210aab67",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nba con trong số đó giúp tôi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a80a",
       "file_offset": 108554,
       "source": "\nsoon as yer get them.",
       "source_sha256": "e74d2f92b3c87ab29f44ddff08da43ab2027540b11f669af069a8c2aa3b848f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay khi bạn lấy được chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a8cb",
       "file_offset": 108747,
       "source": " Do you know the Gladiolus?",
       "source_sha256": "f98bdfe8882fce8c48d88b8f4c5bab8201ebd6b0ad2b84b7a68c1fdaf3c831c7",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn biết Gladiolus chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001a9b5",
       "file_offset": 108981,
       "source": "\nfrom the stress, though.",
       "source_sha256": "6df539c041a2a0dd4df72afc453ebec3df24d2653288f2606533297cb484e594",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndo căng thẳng thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001aa51",
       "file_offset": 109137,
       "source": "\nof yer mind.",
       "source_sha256": "5e6692e57c0470c06484458b4c196c73df01be09302249d382b224cebef081d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong đầu bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001ab26",
       "file_offset": 109350,
       "source": "\nabout an old army mate of mine.",
       "source_sha256": "72e677555c698da5173a51feea44e04fb44aa3c429a05b40f1c0a44f7b7deb24",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề một đồng đội cũ của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001abc7",
       "file_offset": 109511,
       "source": "\nget somewhere.",
       "source_sha256": "db7b0a00a12903fc3de601533082444fe09472426a24323da9708a5e685c8a7b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến được nơi nào đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001ac5b",
       "file_offset": 109659,
       "source": "\na sad clown.",
       "source_sha256": "9afb24a1aa88a82d4d04cba11088a686703a9b8f241def1231698d544f341c75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột chú hề buồn bã.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001accf",
       "file_offset": 109775,
       "source": "\nthen something gets in his way.",
       "source_sha256": "d4bcf67c89b8a16bee994ca9c7b0cbf4a58e7f9431e0400d7ddfb503fa120701",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrồi lại có thứ cản đường anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001ad50",
       "file_offset": 109904,
       "source": "\nthere's nothing I can do.",
       "source_sha256": "1f0433efea0cd59fa5ce19d8325264e9569b651631bf370b1cb2dcc92f127954",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi cũng chẳng làm gì được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001ade0",
       "file_offset": 110048,
       "source": "\nI won't ask you to do it for free.",
       "source_sha256": "5ea89b6f5c6cd7c143960f9e001f2493bfe7587312175fd3cffa544089b38045",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi sẽ không bắt bạn làm không công.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001aeac",
       "file_offset": 110252,
       "source": "So what are you up for?",
       "source_sha256": "e73afd323272c1c490e2e9d66ff1534e8d4c8ad6048db97282fe8d7f388bc8bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy bạn muốn nhận việc nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001af9a",
       "file_offset": 110490,
       "source": "* Downloaded quests",
       "source_sha256": "8b81fdf107af346c1e47079a1ef203df78e4e815e1141eda355ed406563215f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Nhiệm vụ tải về",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001b064",
       "file_offset": 110692,
       "source": "Cancel current quests?",
       "source_sha256": "39eb6f2ba5a5c4000d060167ee40ceb41cad6828f2e01a11533b17f5731eb3c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hủy các nhiệm vụ hiện tại?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001b187",
       "file_offset": 110983,
       "source": "$Here're the available quests.",
       "source_sha256": "089613a7e5c788fbcd4e7b3f6103f064c93373cf4379915aa61c4a9270e56a11",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đây là các nhiệm vụ hiện có.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001b1ab",
       "file_offset": 111019,
       "source": " Cancel",
       "source_sha256": "24b113e7a0b4eb2fa77e88951bdcbe5fb616a8af4261f6edfe86b7754bc091c2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hủy",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001b1b3",
       "file_offset": 111027,
       "source": "Accept Q",
       "source_sha256": "802abe40170e06d340c1a0cb5d27cf55fb26e9a2fb4918bc2b29309bf2ad8a3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhận NV",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001b1bc",
       "file_offset": 111036,
       "source": "Refuse Q",
       "source_sha256": "c10bd5fb7a528701bfffe1e139852036f0c0905beee7e7bb5b9b93be322e12ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Từ chối NV",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0001b26b",
       "file_offset": 111211,
       "source": " What should I go and do...",
       "source_sha256": "89462683564dcbdf1b7bf875bfd8f0e2e1dd8e396ef3a32b13e03d2ed0fc6605",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi nên đi làm gì đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng hoàn toàn với bản dịch đã soát trong các catalog trước; đồng bộ nguyên văn, không gán thêm speaker/quan hệ. Vẫn là candidate ASCII NUL cần parser và kiểm tra theo cảnh."
     }
   ]
 }

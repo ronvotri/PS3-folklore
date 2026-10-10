@@ -290,3 +290,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Nội dung: Sứ giả, khả năng Folk, chiến đấu theo hệ, Land of the Dead, ký ức, Mnemosyne, Oblivion (tên riêng tạm giữ) và Đại sảnh Tiếp kiến (Audience Hall, thuật ngữ tạm). Chỗ thiếu speaker/ngữ cảnh hoặc điều kiện phủ định cần xác minh có notes. Không áp đặt vai nhân vật theo offset.
 - QA vùng đúng 100 ID, chỉ vi/status/notes thay đổi, id/source/source_sha256/offset/source_review/order bất biến; Unicode NFC, newline, ký tự đầu, placeholder và nguồn trùng không xung đột. Chưa có parser/repacker thoại, chưa thử RPCS3 và không đụng font Merienda V3, ISO/ROM/payload.
 - **Tiếp theo:** `talk/en/tk201_en.bin_@00014b1b`; 146 mục cuối tk201 phần lớn nguồn trùng đã có bản dịch chuẩn từ tk200/tk100–105. CI validator/unittest sau commit.
+
+## Lượt 024e — 11/10/2026 (hoàn tất 146 mục cuối tk201)
+
+- Hoàn tất **146 todo→draft** trong `tk201`, từ `talk/en/tk201_en.bin_@00014b1b` đến `talk/en/tk201_en.bin_@0001b26b`: **146/146** source trùng hoàn toàn với bản dịch đã xác nhận nhất quán ở tk100–105, tk200 hoặc phần đầu tk201, đồng bộ nguyên văn, không viết lại làm lệch xưng hô. `tk201` đạt **496/496 draft**, còn 0 todo.
+- Tổng toàn repo **5.111/11.886 draft**, còn **6.775 todo** của 158 catalog. Chỉ tính độ phủ bản nháp ứng viên trích xuất, không có nghĩa đã có patch hội thoại playable.
+- QA trên 146 dòng cuối: id, source, sha256, file_offset, source_review, thứ tự giữ nguyên; chỉ vi/status/notes, Unicode NFC/newline/marker/placeholder; không source trùng được dịch mâu thuẫn. Không sửa Merienda V3, binary, ROM/ISO; talk/cmc chưa có parser/repacker và chưa thử RPCS3.
+- **Lượt tiếp theo:** `talk/en/tk202_en.bin_@00001158` (`To Netherworld`); `tk202` có 518 todo. Ưu tiên xử lý source trùng trước, dịch các fragment mới theo ngữ cảnh, không tự gán speaker.
+- Commit kích hoạt validator và unittest trên GitHub Actions Windows/Linux.
