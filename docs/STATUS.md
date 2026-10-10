@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 584 mục menu `draft` (134 mục mẫu + 450 mục từ 9 lượt ngày 10/10/2026); còn 11.302 `todo` toàn bộ catalog (trong đó 432 menu).
+viên hội thoại/tương tác/cảnh. Có 784 mục menu `draft` (134 mục mẫu + 650 mục từ 10 lượt ngày 10/10/2026); còn 11.102 `todo` toàn bộ catalog (trong đó 232 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -109,3 +109,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Đã soát đúng 50 mục và các trường chỉ được sửa vi/status/notes; kiểm tra NFC, newline, token, nguồn trùng không xung đột; giữ Merienda V3 và metadata không đổi.
 - Chưa build binary/patch hoặc test hiển thị RPCS3. GitHub Actions chạy validator/unittest Windows/Linux sau commit.
 - Checkpoint lượt 010: `lang_en.bi5_@00007059`.
+
+## Lượt menu 010 — 10/10/2026 (200 mục)
+
+- Dịch 200 mục `todo` thành `draft` từ `lang_en.bi5_@00007059` đến `lang_en.bi5_@0000874e`; hiện `784`/1.016 menu draft, còn `232` menu todo và 11.102 todo trên 158 catalog.
+- Nội dung: điều kiện tấn công nguyên tố/Folk, đá ký ức, sách tranh, cảnh báo HDD, menu tương tác/tùy chọn, tên nhân vật/vai, thoại Ellen–Keats–Livane, phụ đề và chế độ hầm ngục. Giữ đúng ngữ cảnh, tên riêng và thuật ngữ.
+- QA theo bốn nhóm 50: bất biến ID/source/hash/offset/source_review/order, chỉ vi/status/notes thay đổi; NFC, newline, placeholder và kiểm tra trùng nguồn không có xung đột. Các mục chưa rõ ghi notes, font V3 vẫn giữ nguyên.
+- Chưa áp patch và chưa test trực tiếp RPCS3. CI Windows/Linux chạy validator và unittest sau commit. Lượt 011 tại `lang_en.bi5_@00008757`.

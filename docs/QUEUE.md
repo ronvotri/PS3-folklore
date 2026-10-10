@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục khoảng 200 mục `todo` theo thứ tự trong mỗi lượt (hoặc hết phần menu nếu còn ít hơn),
-   bắt đầu từ `lang_en.bi5_@00007059`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00008757`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 584 mục `draft` (134 mẫu V3 + 450 mục qua 9 lượt), còn 432 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 784 mục `draft` (134 mẫu V3 + 650 mục qua 10 lượt), còn 232 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -117,3 +117,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA cấu trúc trước commit: đúng 50 ID tiếp theo, chỉ vi/status/notes thay đổi; source/hash/offset/order/source_review giữ nguyên; NFC, số xuống dòng và protected tokens giữ nguyên; 0 xung đột chuỗi English trùng. Không can thiệp font Merienda V3, ROM/ISO/binary/payload.
 - Vẫn ở mức `draft`, chưa hiển thị/test với RPCS3. GitHub Actions chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` (Windows/Ubuntu) sau commit.
 - **Tiếp theo:** `lang_en.bi5_@00007059` — `Level up for Keats! / Maximum HP increased!`, tiếp 50 mục menu.
+
+## Lượt menu 010 — 10/10/2026 (200 mục)
+
+- Đã xử lý **200 mục** `todo` → `draft` trong `translations/catalogs/menu/lang_en.bi5_.json`, từ `lang_en.bi5_@00007059` đến `lang_en.bi5_@0000874e`. Chia bốn nhóm 50 để QA nhưng chỉ commit/bàn giao một lượt.
+- Nội dung: lên cấp, sách tranh, đá ký ức/hệ chiến đấu, điều kiện mở đường, các địa điểm, UI tương tác, cảnh báo HDD, trang phục/chỉ số, tên nhân vật/Folk, đoạn thoại Ellen–Keats–Livane, menu phụ đề và chế độ hầm ngục.
+- Đồng bộ các thuật ngữ Folk, Id, Karma, MC, HP, HDD, tên nhân vật/cõi; dấu cách thừa tại nguồn Gam, tên vai Scarecrow, Special 1, FF và diễn giải hệ hiệu ứng vẫn có notes cần xác minh. Giữ riêng quan hệ và lời thoại theo nội dung nguồn, không tự suy diễn.
+- QA: đúng 200 ID `todo`, chỉ sửa vi/status/notes, nguồn/sha/offset/order/source_review bất biến; NFC, newline, placeholder/control token giữ nguyên; 0 xung đột ở các English source trùng. Không can thiệp font Merienda V3 hoặc binary/payload game.
+- Chưa test trong RPCS3, vẫn `draft`. Chạy GitHub Actions validator + unittest Windows/Ubuntu sau commit.
+- **Tiếp theo:** `lang_en.bi5_@00008757` — `  Creating Dungeons`; còn 232 mục menu, tiếp tục ~200 mục lượt 011.
