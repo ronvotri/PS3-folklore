@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@0000419f`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00004bc6`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 184 mục `draft` (134 mẫu V3 + 50 mục mới), còn 832 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 234 mục `draft` (134 mẫu V3 + 100 mục qua 2 lượt), còn 782 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -39,3 +39,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Đối chiếu chuỗi trùng trước khi build map nguồn → dịch; không âm thầm lấy bản sau đè bản trước. Trong game chưa được người dùng xác nhận lượt này.
 - Kiểm tra trước commit: đối chiếu 50 ID, nguồn/metadata bất biến, NFC, số dòng và placeholder; GitHub Actions sẽ chạy validator/unittest Windows+Linux sau commit.
 - **Tiếp theo:** xử lý `lang_en.bi5_@0000419f` (`Ellen traveled into the Faery Realm to discover the secret of her past.  The family bond that she discovers  brings Suzette to tears...`), rồi các mục `todo` phía sau; sau đó chuyển sang nhóm CMC theo thứ tự của hàng đợi.
+
+## Lượt menu 002 — 10/10/2026
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: dịch đúng 50 mục `todo` kế tiếp → `draft`, từ `lang_en.bi5_@0000419f` đến `lang_en.bi5_@00004bb3` (IDs không liên tục do xen kẽ mục đã có bản dịch).
+- Nội dung: 7 tóm tắt/câu chọn truyện Ellen–Keats; đi lại, áo choàng, hiệu ứng; các cõi và tên vùng trên bản đồ.
+- Giữ nguyên nguồn, thứ tự, hash, offset, ID và `source_review`; giữ số ngắt dòng và ký hiệu ○○○○○○○○○. Bản dịch NFC, chưa kiểm thử RPCS3.
+- Tham chiếu tên: `Faery Realm` → `Cõi Faery`; `Hellrealm` → `Cõi Địa Ngục`; `Netherworld` → `Cõi âm`; `Undersea City` → `Thành phố đáy biển`; `Endless Corridor` → `Hành lang Vô tận`. Giữ nguyên các tên riêng Daru/Gesh/Avalon/Brahma/Warcadia/Fleshrum. Thuật ngữ hiệu ứng Bond/Destroy, MC, KB, Eternal Regress và Cromlech còn cần rà; xem notes từng mục.
+- QA: kiểm soát 50 ID kế tiếp, chỉ đổi vi/status/notes, giữ newline/control tokens, kiểm tra bản dịch trùng không có xung đột. Sau commit, đối chiếu GitHub Actions (validator + unittest trên Windows/Linux).
+- **Tiếp theo:** `lang_en.bi5_@00004bc6` — `Inquisition Bridge`. Tiếp tục 50 mục `todo` theo thứ tự, chưa đánh dấu mục nào `reviewed`/`tested` nếu chưa kiểm thử.
