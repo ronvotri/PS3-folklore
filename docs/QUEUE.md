@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@00005982`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00006243`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 384 mục `draft` (134 mẫu V3 + 250 mục qua 5 lượt), còn 632 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 434 mục `draft` (134 mẫu V3 + 300 mục qua 6 lượt), còn 582 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -77,3 +77,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA cấu trúc trước commit: 50 ID và thứ tự `todo` đúng checkpoint, chỉ thay `vi/status/notes`, giữ source/hash/offset/source_review; NFC, số ngắt dòng, placeholder/control token; 0 source trùng có bản dịch xung đột.
 - Không can thiệp font Merienda V3, ROM/ISO, payload; các mục mới vẫn `draft`, chưa test trong RPCS3. CI GitHub Actions chạy validator + unittest cho Windows/Ubuntu sau khi push.
 - **Tiếp theo:** `lang_en.bi5_@00005982` — `Left side of a photo / that was torn in half`, rồi 49 mục `todo` kế tiếp.
+
+## Lượt menu 006 — 10/10/2026
+
+- `translations/catalogs/menu/lang_en.bi5_.json`: dịch đúng 50 mục `todo` kế tiếp thành `draft`, từ `lang_en.bi5_@00005982` đến `lang_en.bi5_@00006235`.
+- Nội dung: 28 mô tả vật phẩm, tranh/đồ liên kết; 6 áo choàng Sidhe; 13 sách tranh Folk; 3 nhãn Game Over/Continue/Save and exit.
+- Giữ nguyên các tên Herve, Cecilia, Lester, Sidhe, Faery, Folk; các cõi Cõi Faery, Cõi Địa Ngục, Lõi Cõi âm, Hành lang Vô tận và Làng Tha hóa (tạm) đã dùng. Giữ nguyên chỉ dấu `[Link item]` và MC. Có ghi chú trong các mục chưa rõ.
+- QA: kiểm soát đúng 50 ID, chỉ đổi vi/status/notes, không đụng source/hash/offset/order/source_review; NFC, newline, tokens, bản dịch nguồn trùng: 0 xung đột.
+- Không đụng font V3, payload, ROM/ISO; chưa thử hiển thị trong RPCS3, không đánh dấu tested. GitHub Actions chạy validator/unittest trên Windows/Linux khi push.
+- **Tiếp theo:** `lang_en.bi5_@00006243` — `Exit`, dịch tiếp 50 mục menu.

@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 384 mục menu `draft` (134 mục mẫu + 250 mục từ 5 lượt ngày 10/10/2026); còn 11.502 `todo` toàn bộ catalog (trong đó 632 menu).
+viên hội thoại/tương tác/cảnh. Có 434 mục menu `draft` (134 mục mẫu + 300 mục từ 6 lượt ngày 10/10/2026); còn 11.452 `todo` toàn bộ catalog (trong đó 582 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -80,3 +80,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA trước commit: chỉ sửa trường vi/status/notes cho 50 entry, bất biến ID/source/hash/offset/metadata/thứ tự; đảm bảo Unicode NFC, bảo toàn newline và control tokens, không xung đột source lặp.
 - Font Merienda V3 được giữ nguyên; chưa triển khai patch, chưa kiểm thử bố cục trong RPCS3. GitHub Actions chạy validator và unittest Windows/Linux sau commit.
 - Lượt tiếp theo bắt đầu ở `lang_en.bi5_@00005982`.
+
+## Lượt menu 006 — 10/10/2026
+
+- Đã thêm 50 bản dịch nháp (`lang_en.bi5_@00005982` → `lang_en.bi5_@00006235`). Tổng `434`/1.016 menu đã có draft; `582` menu todo, 11.452 todo toàn bộ 158 catalog.
+- Nhóm: mô tả vật phẩm, tác dụng áo choàng Sidhe, sách tranh Folk, nút kết thúc/lưu game. Giữ nguyên `[Link item]`, MC, tên nhân vật và tên cõi; tên chưa rõ có notes.
+- Trước commit đã rà 50 ID, metadata bất biến, NFC, số dòng, token bảo vệ, nguồn lặp không xung đột; chỉ vi/status/notes được đổi. Font Merienda V3 không thay đổi.
+- Chưa thử game hoặc bản build; GitHub Actions chạy validator + unittest Windows/Ubuntu. Lượt 007 tại `lang_en.bi5_@00006243`.
