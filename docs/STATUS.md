@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 284 mục menu `draft` (134 mục mẫu + 150 mục từ 3 lượt ngày 10/10/2026); còn 11.602 `todo` toàn bộ catalog (trong đó 732 menu).
+viên hội thoại/tương tác/cảnh. Có 334 mục menu `draft` (134 mục mẫu + 200 mục từ 4 lượt ngày 10/10/2026); còn 11.552 `todo` toàn bộ catalog (trong đó 682 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -63,3 +63,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Chỉ sửa `vi/status/notes` cho đúng 50 mục, không sửa nguồn, ID, metadata, offset hay font Merienda V3. Đã rà token, NFC, ngắt dòng và xung đột nguồn trùng ở tầng dữ liệu.
 - Chưa test trong game, chưa xác nhận bố cục/font mới. Validator và unittest được chạy qua GitHub Actions Windows/Linux sau commit; cần xác nhận trạng thái run.
 - Lượt sau bắt đầu tại `lang_en.bi5_@00004ea3`.
+
+## Lượt menu 004 — 10/10/2026
+
+- 50 mục menu mới từ `lang_en.bi5_@00004ea3` đến `lang_en.bi5_@00005386` chuyển từ `todo` sang `draft`. Tổng menu `334` draft / 1.016, còn `682` todo.
+- Dịch 16 tên vật phẩm và 34 nhãn trang sách thuộc Cõi Faery, Warcadia, Thành phố đáy biển, Hành lang Vô tận. Những vật phẩm có nghĩa/màu còn bất định được gắn notes để xác minh sau.
+- Kiểm tra cấu trúc trước commit: giữ nguyên source/metadata/offset/source_review/order, chỉ đổi vi/status/notes; bảo toàn NFC, newline, control token; không có xung đột chuỗi nguồn trùng.
+- Bản dịch chỉ ở mức catalog, chưa dựng patch hoặc thử trong RPCS3; font V3 vẫn nguyên vẹn. GitHub Actions tự chạy validator + unittest Windows/Linux sau push.
+- Checkpoint tiếp theo: `lang_en.bi5_@000053ab`.

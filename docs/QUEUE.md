@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@00004ea3`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@000053ab`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 284 mục `draft` (134 mẫu V3 + 150 mục qua 3 lượt), còn 732 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 334 mục `draft` (134 mẫu V3 + 200 mục qua 4 lượt), còn 682 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -57,3 +57,13 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA trước commit: 50 ID liên tiếp trong dãy `todo`, 50 mục đổi đúng `vi/status/notes`; tất cả nguồn/hash/offset/`source_review` giữ nguyên; NFC, số dòng, placeholder/token; không có xung đột khi hai mục trùng nguồn; không sửa font hay binary.
 - Chưa có kiểm thử hiển thị RPCS3; chỉ `draft`, chưa `reviewed/tested`. GitHub Actions chạy validator + unittest trên Windows/Linux sau commit.
 - **Tiếp theo:** bắt đầu `lang_en.bi5_@00004ea3` (`Yellow liquid`), dịch 50 mục `todo` tiếp theo; sau menu tiếp tục CMC/talk theo hàng đợi.
+
+## Lượt menu 004 — 10/10/2026
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: dịch đúng 50 mục `todo` kế tiếp → `draft`, từ `lang_en.bi5_@00004ea3` đến `lang_en.bi5_@00005386`.
+- Nhóm: 16 tên vật phẩm/nguyên liệu (chất lỏng, đá/quặng, bụi, hạt cây); 34 nhãn trang sách tranh thuộc 4 cõi, có các chuỗi lặp tại nhiều vị trí.
+- Bản dịch trang sách thống nhất `Sách tranh <tên cõi>, tr. N`; giữ các tên cõi đã chốt từ lượt 002. Nhãn lặp dùng cùng bản dịch, không tự ghi đè nguồn.
+- Chưa xác minh hình ảnh: `Pulse Tree Nut` → `Hạt cây Mạch đập` (tạm), `Aqua liquid` → `Chất lỏng màu xanh ngọc` (tạm), `Golden Ore` → `Quặng ánh vàng` (tạm). Có notes tại ID tương ứng.
+- QA trên dữ liệu: 50 ID đúng checkpoint; chỉ chỉnh `vi/status/notes`, giữ nguyên thứ tự/source/hash/offset/`source_review`; NFC, số ngắt dòng và control token; không có xung đột bản dịch cho cùng source. GitHub Actions chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` trên Windows/Linux sau khi push.
+- Không đụng font Merienda V3, ROM/ISO hay payload; 50 mục mới là `draft`, chưa được thử trực tiếp trong RPCS3.
+- **Tiếp theo:** `lang_en.bi5_@000053ab` — `Endless Corridor picture book, pg. 5`, dịch 50 mục `todo` kế tiếp.
