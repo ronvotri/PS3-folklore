@@ -234,3 +234,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Các đoạn gồm cô nhi viện, ký ức từ nhỏ, hải đăng, Faery, thư từ/án mạng, mẹ và cha, người chết, câu chuyện bị bạo hành. Đa số source là fragment ASCII NUL nên không tự suy người nói hoặc quan hệ nhân vật. Đánh notes nơi đại từ hoặc nghĩa cần ráp cảnh.
 - QA: chỉ vi/status/notes thay đổi, 100 ID theo đúng checkpoint; bảo toàn id/source/offset/hash/source_review/thứ tự, Unicode NFC, newline, ký hiệu đầu và placeholder; 0 xung đột khi câu nguồn trùng. Chưa có parser/repacker talk/cmc, chưa thử RPCS3, giữ Merienda V3/ROM/payload nguyên.
 - **Tiếp theo:** `talk/en/tk201_en.bin_@0000884d` (`every thing we see in our dreams?`). GitHub Actions validator/unittest được kích hoạt qua commit.
+
+## Lượt 024c — 11/10/2026 (100 mục tiếp tk201)
+
+- `tk201`: dịch thêm **100 todo→draft**, từ `talk/en/tk201_en.bin_@0000884d` đến `talk/en/tk201_en.bin_@0000eca9`: **29** nguồn trùng catalog trước, **7** lặp nguồn trong lô, **64** mảnh mới khác nhau. `tk201` đạt **250/496 draft, 246 todo**. Toàn bộ 158 catalog đạt **4.865/11.886 draft**, còn **7.021 todo**.
+- Nội dung: điều tra ở nhà thờ, dân làng/nhà nghiên cứu, người sống và người chết, gia đình, quán rượu, Gam/Gee, Sứ giả, hướng dẫn Faery và Folk. Giữ nguyên tên riêng đã thống nhất, không tự gán speaker/quan hệ.
+- QA đúng vùng 100 ID, chỉ thay vi/status/notes; giữ source/ID/SHA/offset/source_review/order, NFC, newline, dấu đầu, placeholder và nguồn trùng đồng nhất. Những mảnh lược chủ ngữ và ngôi xưng nghi vấn đã ghi notes. Tất cả vẫn candidate/draft, không có parser/repacker hay test RPCS3; font Merienda V3, ROM/binary không đổi.
+- **Tiếp:** `talk/en/tk201_en.bin_@0000ed26` (`Many different tricks to try!`) và phần còn lại của `tk201`. CI validator/unittest chạy trên GitHub Actions sau commit.
