@@ -2031,18 +2031,18 @@
       "file_offset": 19398,
       "source": "Inquisition Bridge",
       "source_sha256": "9f13a333ff46915fe29cafe76250f17caf594ce0a861d9dd8ed6d7ca4379be6f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cầu Thẩm vấn",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Inquisition có thể chỉ xét xử tôn giáo; 'Cầu Thẩm vấn' là tên tạm, cần đối chiếu tên địa điểm hiển thị trên bản đồ."
     },
     {
       "id": "lang_en.bi5_@00004bd9",
       "file_offset": 19417,
       "source": "Heaven's Fields",
       "source_sha256": "a84f4545b8bc53d502d81a88dcff5765d20c44d39508eb9ead2346338bfcdb83",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cánh đồng Thiên đường",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2051,8 +2051,8 @@
       "file_offset": 19433,
       "source": "Palace of Memory",
       "source_sha256": "212b2cf9d273c747d614536827745437e0bca49a0268c219136b36c981d4ddfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cung điện Ký ức",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2061,8 +2061,8 @@
       "file_offset": 19450,
       "source": "The Twin Trees",
       "source_sha256": "e81f0b6fcd68d227ea36466ee30f4c0d7cc191905e43608abdf9914c3f9e88ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cặp cây Song sinh",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2071,18 +2071,18 @@
       "file_offset": 19465,
       "source": "Murk",
       "source_sha256": "6128e12f9b18f04dde71a50032fe574603d2ee2ffac7db1029b519e2c6a3a556",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vùng Mù mịt",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Murk là tên khu vực, tạm dịch 'Vùng Mù mịt'; cần đối chiếu hình/bối cảnh game."
     },
     {
       "id": "lang_en.bi5_@00004c0e",
       "file_offset": 19470,
       "source": "Doolin Village",
       "source_sha256": "afaef5b451eb5436d2f660e6f989383443825eaac99f447476b71ff2e770133e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Làng Doolin",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2091,8 +2091,8 @@
       "file_offset": 19485,
       "source": "Old Lighthouse Cape",
       "source_sha256": "597d3f2482b92404e164616276a908f1af32e656ff2c869bbc52fb8584b38a59",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mũi Hải đăng cũ",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2101,8 +2101,8 @@
       "file_offset": 19505,
       "source": "Dwarf Beach",
       "source_sha256": "eea13f9be58c37ed6c2224782e3b8d79ad42aff3a1a71ca2409ae5d1ca076640",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bãi biển Người lùn",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2111,8 +2111,8 @@
       "file_offset": 19517,
       "source": "Cliff of Sidhe",
       "source_sha256": "b603f5e52eca80fe7c4b3947d93ddcf070ef5e7dfca9e2f031b259be353e3d99",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vách đá Sidhe",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2121,8 +2121,8 @@
       "file_offset": 19532,
       "source": "Church of Orland",
       "source_sha256": "e12b9b9ca39da080725ba5cd9232e4f950be3984616cc93b94ea5ae1dc95c234",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà thờ Orland",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2131,18 +2131,18 @@
       "file_offset": 19549,
       "source": "Henge",
       "source_sha256": "c778caf525e095a414e5e7daf262ebc478841aa610e26d718409806942024080",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vòng đá cổ",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Henge là kiến trúc/vòng đất đá cổ; tạm dịch 'Vòng đá cổ', cần kiểm tra cảnh thật và quy ước bản đồ."
     },
     {
       "id": "lang_en.bi5_@00004c63",
       "file_offset": 19555,
       "source": "Divine Sanctuary",
       "source_sha256": "5e37c2673bddb8e5e09ee623d394b9e15670f1d95617d897939af14ea60704a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thánh địa Thần linh",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2151,8 +2151,8 @@
       "file_offset": 19572,
       "source": "Doolin Village",
       "source_sha256": "afaef5b451eb5436d2f660e6f989383443825eaac99f447476b71ff2e770133e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Làng Doolin",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2161,8 +2161,8 @@
       "file_offset": 19587,
       "source": "Old Lighthouse Cape",
       "source_sha256": "597d3f2482b92404e164616276a908f1af32e656ff2c869bbc52fb8584b38a59",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mũi Hải đăng cũ",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2171,8 +2171,8 @@
       "file_offset": 19607,
       "source": "Dwarf Beach",
       "source_sha256": "eea13f9be58c37ed6c2224782e3b8d79ad42aff3a1a71ca2409ae5d1ca076640",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bãi biển Người lùn",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2181,8 +2181,8 @@
       "file_offset": 19619,
       "source": "Cliff of Sidhe",
       "source_sha256": "b603f5e52eca80fe7c4b3947d93ddcf070ef5e7dfca9e2f031b259be353e3d99",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vách đá Sidhe",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2191,8 +2191,8 @@
       "file_offset": 19634,
       "source": "Church of Orland",
       "source_sha256": "e12b9b9ca39da080725ba5cd9232e4f950be3984616cc93b94ea5ae1dc95c234",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà thờ Orland",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2201,18 +2201,18 @@
       "file_offset": 19651,
       "source": "Henge",
       "source_sha256": "c778caf525e095a414e5e7daf262ebc478841aa610e26d718409806942024080",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vòng đá cổ",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Henge trùng tên ở vị trí khác; giữ cùng bản dịch tạm 'Vòng đá cổ'."
     },
     {
       "id": "lang_en.bi5_@00004cc9",
       "file_offset": 19657,
       "source": "Divine Sanctuary",
       "source_sha256": "5e37c2673bddb8e5e09ee623d394b9e15670f1d95617d897939af14ea60704a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thánh địa Thần linh",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2221,20 +2221,20 @@
       "file_offset": 19674,
       "source": "HP",
       "source_sha256": "9449a7aaa80c99ead5ca08d4c72f0905780cb5008036127b26fe20da07419ac0",
-      "vi": "",
-      "status": "todo",
+      "vi": "HP",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Giữ HP (chỉ số máu) dạng viết tắt tiêu chuẩn trên giao diện."
     },
     {
       "id": "lang_en.bi5_@00004cdd",
       "file_offset": 19677,
       "source": "EXP",
       "source_sha256": "06a1ad637e7f4fbad56e29164490368f0526f429ee39a31dd1180c3722af1e4e",
-      "vi": "",
-      "status": "todo",
+      "vi": "EXP",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Giữ EXP (điểm kinh nghiệm) dạng viết tắt tiêu chuẩn trên giao diện."
     },
     {
       "id": "lang_en.bi5_@00004ce1",
@@ -2341,38 +2341,38 @@
       "file_offset": 19777,
       "source": "Destroy",
       "source_sha256": "ea9bb7ea83febba109130b5765f3f35d1ccaa5c5fced54557040e5676d4fcaf6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hủy diệt",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Tên thuộc tính/kiểu sát thương Destroy; giữ khớp mô tả áo choàng [Kháng hủy diệt và chém] ở lượt 002."
     },
     {
       "id": "lang_en.bi5_@00004d49",
       "file_offset": 19785,
       "source": "Slash",
       "source_sha256": "9c92721ec67ac82c7a922abfd7e8c24c4fb666dce75cb1e0f875b30fdf3bcc4e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chém",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Tên thuộc tính/kiểu sát thương Slash; giữ khớp mô tả áo choàng ở lượt 002."
     },
     {
       "id": "lang_en.bi5_@00004d4f",
       "file_offset": 19791,
       "source": "Guard/Barrier",
       "source_sha256": "18e77ac255cd0b995b49b1be3a4b227d479fd935ffec5ac7954bdfc282665f35",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đỡ đòn/Kết giới",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Guard/Barrier tạm dịch 'Đỡ đòn/Kết giới'; cần xác minh cơ chế để chốt."
     },
     {
       "id": "lang_en.bi5_@00004d5d",
       "file_offset": 19805,
       "source": "Fire",
       "source_sha256": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lửa",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2381,8 +2381,8 @@
       "file_offset": 19810,
       "source": "Ice",
       "source_sha256": "2a1a6355ed7e30b0eea3a7967a31e9c42f6afa817fbf6555df3befdf05ae38e0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Băng",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2391,8 +2391,8 @@
       "file_offset": 19814,
       "source": "Earth",
       "source_sha256": "b7c9b5ccd3e3ec741ecfa5864b577f5dab1d987bfd3caa4815f1b3f8354a5f16",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đất",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2401,8 +2401,8 @@
       "file_offset": 19820,
       "source": "Thunder",
       "source_sha256": "519bce7bc2dab47f9794b45e2e2c4f6d63f90d340f44a80f3504d5ad9f82ed9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sét",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2411,8 +2411,8 @@
       "file_offset": 19828,
       "source": "Wind",
       "source_sha256": "d151346fe7eea3c6a0865199579ca6017487dbf981d59cdd1fcadadb03518dc8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gió",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2421,8 +2421,8 @@
       "file_offset": 19833,
       "source": "Water",
       "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nước",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2431,18 +2431,18 @@
       "file_offset": 19839,
       "source": "Bond",
       "source_sha256": "8f8fd9ecdd4abade9e242bbe78dfce031a19b5ae23e5f5fa609a3f17fd17ad0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trói buộc",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Bond là hiệu ứng trạng thái, tạm dịch 'Trói buộc'; đồng bộ mô tả áo choàng."
     },
     {
       "id": "lang_en.bi5_@00004d84",
       "file_offset": 19844,
       "source": "Sleep",
       "source_sha256": "d466bcf52eb6921b1e747e51bf2cc1441926455ba146ecc477bed1574e44f9c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ngủ",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2451,8 +2451,8 @@
       "file_offset": 19850,
       "source": "Charm",
       "source_sha256": "cb202ce740ea23b09a039a51724a26f05a05cbd44cb1fb5692f72a7c406b4201",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mê hoặc",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2461,8 +2461,8 @@
       "file_offset": 19856,
       "source": "Life Drops (small)",
       "source_sha256": "f231e6d136665bd0b3ff6fe0d8cf8209461b10bb704c626ab666afe71dd94f01",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giọt Sinh lực (nhỏ)",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2471,8 +2471,8 @@
       "file_offset": 19875,
       "source": "Life Drops (large)",
       "source_sha256": "dde7a06d15b9806496a991c3edd80e6b68fc8063d92f7d9d0e21648e88c5b6de",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giọt Sinh lực (lớn)",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2481,8 +2481,8 @@
       "file_offset": 19894,
       "source": "Ellen's letter",
       "source_sha256": "ce459762026f6595ccd4feb009ab64d83226586ce9f4163d32cc300d927e7192",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lá thư của Ellen",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2491,18 +2491,18 @@
       "file_offset": 19909,
       "source": "Memento Key",
       "source_sha256": "23fddaa961b016fe24a281b7718c16af64e8a88df52fde13e4fd0a78d44aae61",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chìa khóa Kỷ vật",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Memento Key tạm dịch 'Chìa khóa Kỷ vật', cần đối chiếu nhiệm vụ liên quan."
     },
     {
       "id": "lang_en.bi5_@00004dd1",
       "file_offset": 19921,
       "source": "Family photo",
       "source_sha256": "207a5da5e1ba18705e7019b3ede45006e9333e83a63193f01325cc31e242d845",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ảnh gia đình",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2511,8 +2511,8 @@
       "file_offset": 19934,
       "source": "Torn photo, right half",
       "source_sha256": "1df413035d2ed2c7d549f147502aa5792bd1aeeb2789d9274d0e76e217063949",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nửa phải ảnh bị xé",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2521,8 +2521,8 @@
       "file_offset": 19957,
       "source": "Torn photo, left half",
       "source_sha256": "291a567e19bfbec86d07a90f2f1d1b3f4a7a4313829a00964545ca65e8a53fda",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nửa trái ảnh bị xé",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2531,8 +2531,8 @@
       "file_offset": 19979,
       "source": "Photo pieced together",
       "source_sha256": "624c248e2d4c3fdd1dd15400bcc5ae701a2e6b9f541278e1deef724f015f0808",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tấm ảnh đã ghép",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2541,8 +2541,8 @@
       "file_offset": 20001,
       "source": "Medical records ",
       "source_sha256": "497d61ba93c30f587102db40714fe15ed4c73676557eb0171960b1ff5c12fb77",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hồ sơ bệnh án",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2551,8 +2551,8 @@
       "file_offset": 20018,
       "source": "Cecilia's picture",
       "source_sha256": "ded4db9827a14db91423a7fed6306a1c6500772c3883fdb7fc6e0b0d9db44fdf",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ảnh của Cecilia",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2561,28 +2561,28 @@
       "file_offset": 20036,
       "source": "Brass medallion",
       "source_sha256": "36992eadf165a1cb72068eb7b78386465e5f0f17352cc42a3174e24e09e1f094",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mề đay đồng thau",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Medallion dịch tạm 'mề đay' thay vì 'huy chương' vì chưa xác định ngoại hình."
     },
     {
       "id": "lang_en.bi5_@00004e54",
       "file_offset": 20052,
       "source": "Silver medallion",
       "source_sha256": "68071b1499f9e79c4f89d117713311665cc3fc940ccf65c01c3de413417805fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mề đay bạc",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Medallion dịch tạm 'mề đay' thay vì 'huy chương' vì chưa xác định ngoại hình."
     },
     {
       "id": "lang_en.bi5_@00004e65",
       "file_offset": 20069,
       "source": "Portrait",
       "source_sha256": "f71094c30160d155c9b29fd67e3b6f86ad254003a163da4c24d1f0061b0ed0ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chân dung",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2591,8 +2591,8 @@
       "file_offset": 20078,
       "source": "Old photo",
       "source_sha256": "4f9cb83c72ab539325258f2a62d6194b46c13b13495db03eeb04f4b81435d3d9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ảnh cũ",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2601,18 +2601,18 @@
       "file_offset": 20088,
       "source": "Epigraph fragment",
       "source_sha256": "a8d1e7e9b9bae0ed796346cc68d4479b190dd450f05ed954bffc4a0abc065974",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mảnh văn khắc",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Epigraph fragment là mảnh của văn tự khắc; tạm dịch 'Mảnh văn khắc' đến khi kiểm tra hình vật phẩm."
     },
     {
       "id": "lang_en.bi5_@00004e8a",
       "file_offset": 20106,
       "source": "Red liquid",
       "source_sha256": "d953ccb448f15ea1551650406123ba8e4b6ca0c7ea9b9825a8fd5b82ddb3ee14",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chất lỏng màu đỏ",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -2621,8 +2621,8 @@
       "file_offset": 20117,
       "source": "Purple liquid",
       "source_sha256": "c28daf54330f53bc7bfc331168aaa8b7df95f56d761a7f6fe41ff2efc28508c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chất lỏng màu tím",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },

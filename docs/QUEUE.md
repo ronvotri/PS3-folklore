@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@00004bc6`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00004ea3`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 234 mục `draft` (134 mẫu V3 + 100 mục qua 2 lượt), còn 782 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 284 mục `draft` (134 mẫu V3 + 150 mục qua 3 lượt), còn 732 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -48,3 +48,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Tham chiếu tên: `Faery Realm` → `Cõi Faery`; `Hellrealm` → `Cõi Địa Ngục`; `Netherworld` → `Cõi âm`; `Undersea City` → `Thành phố đáy biển`; `Endless Corridor` → `Hành lang Vô tận`. Giữ nguyên các tên riêng Daru/Gesh/Avalon/Brahma/Warcadia/Fleshrum. Thuật ngữ hiệu ứng Bond/Destroy, MC, KB, Eternal Regress và Cromlech còn cần rà; xem notes từng mục.
 - QA: kiểm soát 50 ID kế tiếp, chỉ đổi vi/status/notes, giữ newline/control tokens, kiểm tra bản dịch trùng không có xung đột. Sau commit, đối chiếu GitHub Actions (validator + unittest trên Windows/Linux).
 - **Tiếp theo:** `lang_en.bi5_@00004bc6` — `Inquisition Bridge`. Tiếp tục 50 mục `todo` theo thứ tự, chưa đánh dấu mục nào `reviewed`/`tested` nếu chưa kiểm thử.
+
+## Lượt menu 003 — 10/10/2026
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: xử lý 50 mục `todo` kế tiếp → `draft`, từ `lang_en.bi5_@00004bc6` đến `lang_en.bi5_@00004e95`, một số mục xen kẽ đã có bản nháp từ V3.
+- Chủ đề: 19 địa danh bản đồ (gồm 7 tên Doolin lặp hai lần), HP/EXP, 12 loại hệ/hiệu ứng, 17 tên vật phẩm. Giữ HP/EXP nguyên viết tắt; đồng bộ Doolin/Sidhe với lượt trước.
+- Các tên cần kiểm chứng: Inquisition Bridge → Cầu Thẩm vấn, Murk → Vùng Mù mịt, Henge → Vòng đá cổ; Guard/Barrier → Đỡ đòn/Kết giới; Memento Key → Chìa khóa Kỷ vật, Epigraph fragment → Mảnh văn khắc. Ghi chú cụ thể từng ID trong catalog.
+- QA trước commit: 50 ID liên tiếp trong dãy `todo`, 50 mục đổi đúng `vi/status/notes`; tất cả nguồn/hash/offset/`source_review` giữ nguyên; NFC, số dòng, placeholder/token; không có xung đột khi hai mục trùng nguồn; không sửa font hay binary.
+- Chưa có kiểm thử hiển thị RPCS3; chỉ `draft`, chưa `reviewed/tested`. GitHub Actions chạy validator + unittest trên Windows/Linux sau commit.
+- **Tiếp theo:** bắt đầu `lang_en.bi5_@00004ea3` (`Yellow liquid`), dịch 50 mục `todo` tiếp theo; sau menu tiếp tục CMC/talk theo hàng đợi.
