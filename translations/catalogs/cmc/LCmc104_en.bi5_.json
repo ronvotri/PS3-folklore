@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc104_en.bi5_",
+  "file_sha256": "c1e74a2ce3a68ee841a22aa975d431ddc16872135ade3b1e4392755bb766e7c9",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002a78",
+      "file_offset": 10872,
+      "source": "Good evening.",
+      "source_sha256": "da545bd154e7c63011ee605a38eaddd90e1474e602837ff6e6f01a5da34b060a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002a8b",
+      "file_offset": 10891,
+      "source": "<I am Belgae, and I\ncan instruct you on\nmaking contact.",
+      "source_sha256": "7dea57b869edda7f1a1e0d1561e48ebdf729f64b78ee70091d32fd65b6ff22dc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002ac7",
+      "file_offset": 10951,
+      "source": "0But that get-up! Going\nto a fancy dress?",
+      "source_sha256": "9e9d392f44aec412f67b68982590cf715347ad269a293195641563049efa4f8a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002af7",
+      "file_offset": 10999,
+      "source": "(Headline! Mystery\nVoice Revealed!",
+      "source_sha256": "b3ab9de092439b3583e6b2453381ccc8f498efd7461a539ec8a4fc0f87b723d4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002b1f",
+      "file_offset": 11039,
+      "source": "4Well, you're certainly\ngentle as spirits go.",
+      "source_sha256": "1c9068cde92668fd3d05429e150c9db8881da69fce66a71735c9dc69e17ed3fc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002b53",
+      "file_offset": 11091,
+      "source": "<My apologies. But\ndo oblige me by\nfollowing my lead.",
+      "source_sha256": "0c6518ba5c1915f2d6cf331bfcb5a74550607ffd9079078905046541fd740a3e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002ba3",
+      "file_offset": 11171,
+      "source": "4Even Invisible Men need\nto express themselves.",
+      "source_sha256": "48d1e36ff3cf4162ee14a16d2f4c2f9072368bf9b4b8f7aaac9bb7634f101644",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002bd7",
+      "file_offset": 11223,
+      "source": "(Was the afternoon\nmystery solved?",
+      "source_sha256": "d9ee224e3ec8bddefa647aeba7e52c33591e500bf2797f98e3c51533fcb2f005",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002bff",
+      "file_offset": 11263,
+      "source": " No, and I'm\nwithout a clue.",
+      "source_sha256": "84010effb0a3176774a64358874769d788acb54fea7b623e00fb5d3c15d63bee",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002c67",
+      "file_offset": 11367,
+      "source": "4May I suggest an\ninterview with the\ndeceased?",
+      "source_sha256": "4414fcd1c6a6af0a8923d1efd01e82181c727feb017d2295d0656b7bad1080cf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002ca3",
+      "file_offset": 11427,
+      "source": "0Spiritualism died out\na hundred years ago.",
+      "source_sha256": "443448c90fb2dbae1b4cf0120711a0fd7f53bab3297fc4d1f421885ea524aa97",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002ceb",
+      "file_offset": 11499,
+      "source": "<Ah, but I sense that\nyou are a man of\ndeep curiosity.",
+      "source_sha256": "af4a53dc2493740ad49500dd38f4534616ab4ea6266366548dd2dd3dff31cbb8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002d55",
+      "file_offset": 11605,
+      "source": ", where we\nshall try an experiment.",
+      "source_sha256": "caf2dc0fae83a2aceea51b878371162650f2f58c07bbb94829eccbd3b31315d6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002d7f",
+      "file_offset": 11647,
+      "source": "0You should be most\npleased by the results.",
+      "source_sha256": "b21922fdd5b9fdf99848716cfd921291d20fd8677e2fc9435416c34c2bcd72ca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

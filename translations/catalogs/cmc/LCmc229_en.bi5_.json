@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc229_en.bi5_",
+  "file_sha256": "4c6689e18d55ac58daf264eb143cb348e77f9f7e65b02b6092b664ac5089cfdd",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003c98",
+      "file_offset": 15512,
+      "source": "At first...",
+      "source_sha256": "c864e4f0472efd993ce6c1706d97b2684d3ba137930c4abea10606b4bfe0e6fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003ca8",
+      "file_offset": 15528,
+      "source": "That's it...",
+      "source_sha256": "b6fdb513b0f7fd0c01d6edf96a900cf0537bc0533e6f4f4e6f5e5fe828d10b30",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003cbb",
+      "file_offset": 15547,
+      "source": " That contains\nmy memories.",
+      "source_sha256": "ffa06186320f9d9aa484aab18aec99c18a00cf3b80dd837f0182bc3ff1231ebb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003da3",
+      "file_offset": 15779,
+      "source": "(I bled profusely,\nnearly to death.",
+      "source_sha256": "e27cb3406e625e8d1e47c44ecdbd56ac19d13b9ae4a014f588cbb9ccb0ea7ba7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003dcb",
+      "file_offset": 15819,
+      "source": "(But... I was saved,\nand Herve died.",
+      "source_sha256": "488a82390a03e8782844a3f88487142a3089af73e0bbb028f3dd22d1023b2bf2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003df3",
+      "file_offset": 15859,
+      "source": ",I was injured\ndeep within\nthe ruins.",
+      "source_sha256": "d9e7e45e250ec21286a4d1d7883b9a35579d59d5f614017cfa52ff86772de6e6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003e27",
+      "file_offset": 15911,
+      "source": "0I gave blood to the\nFaerys to save Herve.",
+      "source_sha256": "944e0df3376fe74caa53cfed71b01e9a380dcb6488cf1e2467b88b8ef26660c0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003e57",
+      "file_offset": 15959,
+      "source": "$I'm... I'm not\nscared anymore.",
+      "source_sha256": "dcb37f88b8f9965a7ab84a552eaa2771579da4b0711618936bb69e7089e25c71",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003e84",
+      "file_offset": 16004,
+      "source": "What's this?!?",
+      "source_sha256": "6d0e25325481038547fc3b700c448fe26cde60d31b026c05b16755e892449fd7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003ea0",
+      "file_offset": 16032,
+      "source": "What will...",
+      "source_sha256": "556066f57dd4976e0f36ba6ca28eb856441a0b3f96cb273e95b975399997de9e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003eb4",
+      "file_offset": 16052,
+      "source": "I'm sorry.",
+      "source_sha256": "eb86bd79d9a9c072c03c586de6e151783e90572aad7b3c1761cdd1ec396352ab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003ec4",
+      "file_offset": 16068,
+      "source": "Why?\nBecause I prayed?",
+      "source_sha256": "4c2c4775fe17ebab3fe863117300dd1c09f1a5ac62a8241e34fbb346be58a68e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003edf",
+      "file_offset": 16095,
+      "source": "$Did the Faerys\ntake Herve away?",
+      "source_sha256": "e201fc0c8867c9ebba65717de36d65ae80543687c4b06b720ab75e5db49c6d98",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003f04",
+      "file_offset": 16132,
+      "source": "Herve... you...",
+      "source_sha256": "8f77bde71eeca45c3db8359920443b18ff09cf734232ea8cd4eadd2acd44beca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003f18",
+      "file_offset": 16152,
+      "source": "Dr. Lester",
+      "source_sha256": "16f2d84e3217749b454565aa3dd5a4b8ee5329c4e27740b797b868040848b08d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003f28",
+      "file_offset": 16168,
+      "source": "I have a wish.",
+      "source_sha256": "0ee5327d8003069b8ec7bcac7149ff6decb4a03d82c8f548d93039d064fd194a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003f3b",
+      "file_offset": 16187,
+      "source": "$You can't keep\nrunning forever.",
+      "source_sha256": "8490565a92b560407e6c7c861deb06c14668b5939f5c477ca0895c86697ab358",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003f5f",
+      "file_offset": 16223,
+      "source": ",For young Cecila,\nthe truth was harsh.",
+      "source_sha256": "75730902fa0d9155b2694a451f687c5820783720df022e94d8e1129290c6a6d5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003f8b",
+      "file_offset": 16267,
+      "source": "0She couldn't bear to\naccept what happened.",
+      "source_sha256": "d120b3841fcb40674d1ff49002ad36939b5f282d0474311245caab47c26bbb88",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003fbc",
+      "file_offset": 16316,
+      "source": "I'm frightened.",
+      "source_sha256": "d355987d8178acd3997a3b94f07c88dc73376247579a60477fe9191223aedc6e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003fcf",
+      "file_offset": 16335,
+      "source": "$But you are Cecilia\nno longer.",
+      "source_sha256": "4cd8970ad774293d837e6bfcc5b9486bd7f930e4539327befc09717809cf5bda",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00003ff4",
+      "file_offset": 16372,
+      "source": "It's okay.",
+      "source_sha256": "44fa135c2ae42c96ab120db0b4ea1a2bfd27a3f839fcb13c2f2019cb0e90e439",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc229_en.bi5_@00004004",
+      "file_offset": 16388,
+      "source": "Now, go.",
+      "source_sha256": "02aa53644dcda6430157863084c590b7a584637b77318ab64999329e5f840965",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

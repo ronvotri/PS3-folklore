@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc060_en.bi5_",
+  "file_sha256": "4eefd37430f5785718c8d4e9c0cdf590e5ab5354005b5c8e73bc482221c0c8e5",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00002f68",
+      "file_offset": 12136,
+      "source": "Tsk!\nFoolish Faerys!",
+      "source_sha256": "f52c2d3868ea596d2cd3587fa8fd4ab4e799daef3b4ec9aae60a55088aed4294",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00002f83",
+      "file_offset": 12163,
+      "source": "$Admit your defeat\nin Hellrealm!",
+      "source_sha256": "e36a3fe28e3b6db7673b88e3e6a6ed3a69590da58abbbd26158c9c14eac6227f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00002fa7",
+      "file_offset": 12199,
+      "source": "0Your deeds will go\nunforgiven for eternity!",
+      "source_sha256": "92e01a7ffcb47340f60a2194419c41a8e73a08c5488992ace92497d2843f83e1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00002fd7",
+      "file_offset": 12247,
+      "source": "PWe will bring Keats\nto the Netherworld, and\nsettle this once and for all.",
+      "source_sha256": "90e7602a4059f3b476eefbf35a97ddcb7e497258bd0a755a7d186f4c5f5f383b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00003027",
+      "file_offset": 12327,
+      "source": "0We will never allow\nsuch meddling again!",
+      "source_sha256": "1bcd623c788c52e690cacae01c142e1f908c1d515206b506b015d926d7582544",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00003057",
+      "file_offset": 12375,
+      "source": "DI haven't the time to\nwaste bickering\nwith the likes of you!",
+      "source_sha256": "34092eed60c04170ac34211d4427e0f4d4ce5ae53d33257142aa7d8aacf27de3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@0000309c",
+      "file_offset": 12444,
+      "source": "Damn!\nShe's run away.",
+      "source_sha256": "32364d929dfb639c9f9b47fbe5aa944e86043a031b8530019ab012f4fb3aa401",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@000030b7",
+      "file_offset": 12471,
+      "source": " Our victory is\nimminent.",
+      "source_sha256": "37ee2ae4cd62db4d30697f9b5ca8a0204527d85d5682337bac784b7097fb7767",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@000030d7",
+      "file_offset": 12503,
+      "source": "$Ellen, our hopes rest\nupon you.",
+      "source_sha256": "162d32d38aaabfbdd5fa5d4b9b9d1eb276a8f5e71fb587a4d35d2bc3e37a1cf9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc060_en.bi5_@00003103",
+      "file_offset": 12547,
+      "source": "4Ellen, be patient.\nOur time has almost come.",
+      "source_sha256": "077f9bb08a655fa54b78a6586931a0503e17ae4b05bc5f1cc9193e26a38a9208",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

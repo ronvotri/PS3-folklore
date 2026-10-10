@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc155_en.bi5_",
+  "file_sha256": "3323a5104e53ccea6b059957995aae7b6b4335c830dd5f4cae77ceae03a3808b",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002c3f",
+      "file_offset": 11327,
+      "source": ",I expected to\nfind the Hag hiding\nhere.",
+      "source_sha256": "d2666b38f4744f964a0dd0031da3264dd231364e467c84678c2afffdc9194565",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002c6c",
+      "file_offset": 11372,
+      "source": "Hmm?",
+      "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002c77",
+      "file_offset": 11383,
+      "source": "0The knife that was\nused against Dr. Lester?",
+      "source_sha256": "d1f375df2054f1037aeade6650de722f87fecdfcf0e254f3b86c680115875ea1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002ca7",
+      "file_offset": 11431,
+      "source": "$The Hag has been\nhere recently.",
+      "source_sha256": "cc8080f4e78ee55d67ceb622a3d07d62864d4da50529a0ca873f44444d307180",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002ccc",
+      "file_offset": 11468,
+      "source": "What's this?",
+      "source_sha256": "ddfd032cce17828b78f39a45ec9eb7e08706234daff45da0498cf931407c07a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002ce0",
+      "file_offset": 11488,
+      "source": "Ellen!",
+      "source_sha256": "2df252f69b0dfe3721217e9fc5289b0fc13368ca0151ffed6a8397efcee61a5c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002ceb",
+      "file_offset": 11499,
+      "source": "$Could she be the\nnext target?",
+      "source_sha256": "58de76c9b876c883953752921f39445c1baa621961276e9547cafd64dfd6d361",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc155_en.bi5_@00002d0f",
+      "file_offset": 11535,
+      "source": "(Or is she a part of\nthe mystery?",
+      "source_sha256": "c583f96806b8942f26e11cbe2252f9100a2db1bf993d131b87e7204b050d8cd0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

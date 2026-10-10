@@ -1,0 +1,270 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc042_en.bi5_",
+  "file_sha256": "8440e0273c14c8f2990eae481d18d4887c5026da4ec8551ee9efb49597e04e62",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004b78",
+      "file_offset": 19320,
+      "source": "Livane!",
+      "source_sha256": "3d33b898ca8f051401165865c70bf099ff6d3c45f9f6d1400adbd33352c9639f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004b83",
+      "file_offset": 19331,
+      "source": ",You are a curse\nupon the Netherworld!",
+      "source_sha256": "f0de899e777d730944f77ebafee0b78f28afe8c3591ce3cf664394fb3ad92ae7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004bb7",
+      "file_offset": 19383,
+      "source": "(Tsk! Up to your\nold tricks again?",
+      "source_sha256": "fbe2bb3167c425e287ddb9930e61a96be8cf1778b7ed72e329ba68b4902c1ea5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004bdf",
+      "file_offset": 19423,
+      "source": ",How many Messengers\nhave died this way?",
+      "source_sha256": "82b895f59c2c0546a81b4080f17c781edae8058f1c8690822fae19fce96fa4de",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004c0c",
+      "file_offset": 19468,
+      "source": "Silence!",
+      "source_sha256": "dbb971cf7eb081ef6c8eb572a917eb1e68a25411e3583cd273b6a5f4ce63df12",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004c1b",
+      "file_offset": 19483,
+      "source": "$It is all for the Netherworld!",
+      "source_sha256": "b25ff96dd047090b56ee2afaf4d401d246329c5e39142d3fda57b7fdea25966e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004c48",
+      "file_offset": 19528,
+      "source": " Why?",
+      "source_sha256": "dfda570d34bee43db970bd68bd0370c5b314ac01287cbd1b9ba810447c6bbec0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004c53",
+      "file_offset": 19539,
+      "source": "8Looks like there are two\nsides to this conflict.",
+      "source_sha256": "e5305cfd13332ed35559579fe553a8f5b43af6165627b2b27c9c80808981c8b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004c8c",
+      "file_offset": 19596,
+      "source": "By the way, Ellen...",
+      "source_sha256": "899226ee0bdb547a1c3b93c30af975dc0240f283ca3c0672d26ded8308d23d80",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004caf",
+      "file_offset": 19631,
+      "source": ",He's headed for the\nSwamp of Oblivion.",
+      "source_sha256": "09b49bd42bceff5e73c1dbe0af86a95c9c126be59418b1de356f6a2f08049ac9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004cdc",
+      "file_offset": 19676,
+      "source": "The Swamp?",
+      "source_sha256": "bbb33b051206c33a60eec83f67ab4d95bfe32107ecc729775b4ada6f2aa994c6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004ceb",
+      "file_offset": 19691,
+      "source": "$You can forget about\nthe boy.",
+      "source_sha256": "8c073f29462679ab5f89cae49101912828ef8cbab1fd2293f92d425946add68f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004d0f",
+      "file_offset": 19727,
+      "source": "0The Swamp is a pit of\ngurgling nothingness.",
+      "source_sha256": "613bc3b47e2fd07f87adff499cba42ae400dfa99ab81dd83235336c63a87fe65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004d3f",
+      "file_offset": 19775,
+      "source": "HHe who enters shall\nslip from existence and\nbe forgotten by all.",
+      "source_sha256": "285597c796110d7f64f953cb420269dc383ed8dc2711448ea20ea1f8601f93b8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004d88",
+      "file_offset": 19848,
+      "source": "She's right.",
+      "source_sha256": "8ca3c40994466571595bc2134cf7551cb3d14c461da039ead618d4af078f30ac",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004da7",
+      "file_offset": 19879,
+      "source": "$Ellen!\nDo not listen to him!",
+      "source_sha256": "f06c5cc679d89f618275c30a73c379528a80cc52f7b685dedcfcab68f233d46c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004dcc",
+      "file_offset": 19916,
+      "source": "The Lord, or the boy?",
+      "source_sha256": "8c43e11b43c1287940fcd96daa08ba210995abecd184b2525090cb5448717d42",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004de7",
+      "file_offset": 19943,
+      "source": "$The Netherworld, or reality?",
+      "source_sha256": "1307a8629304cd695c9312c788b4c66b97a4018a6b431f73ec3944fbb79d2f6b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004e0b",
+      "file_offset": 19979,
+      "source": ",Those are awfully\ndifficult choices!",
+      "source_sha256": "323d792e0bcb388f2b54631fb4fd29fa8584b46e4c67ae9c24bc9c4d9bd8c099",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004e3f",
+      "file_offset": 20031,
+      "source": " But choices she must make.",
+      "source_sha256": "8933253b989d33c877829e13314dbd524fe78167e374885c8258d5dcba09fc01",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004e60",
+      "file_offset": 20064,
+      "source": "Ellen!\nYou have come.",
+      "source_sha256": "5ea4bd75140b4aa492dafe21ef06555cd48dadb71cab70f121dd6695c6d2f41d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004e7c",
+      "file_offset": 20092,
+      "source": "Herve?!?",
+      "source_sha256": "6d1248dd0a9ed70369df469a4c55d7b5ee8c6183f4197676c092f4d1b5f6c961",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004e8c",
+      "file_offset": 20108,
+      "source": "Fancy meeting\nyou here.",
+      "source_sha256": "21d4b58c46d058194de5be863be66d0e4f4232059347510a102004e61b489d02",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004eb0",
+      "file_offset": 20144,
+      "source": "About that boy\nHerve...",
+      "source_sha256": "6f0443d4b380a239ab51075cecf5a48dfb54bbd581795907bde408ffef5ceee5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004ecb",
+      "file_offset": 20171,
+      "source": " Ellen.\nPray tell your wish.",
+      "source_sha256": "2db32ff02375493b10210df8042332651d6479cd8dd3749ea2de1b2fe3279234",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004eec",
+      "file_offset": 20204,
+      "source": "This should be good.",
+      "source_sha256": "2cc6799eefbb3298eb70174e158ce7d37a7614f3e0daf0b787a2745951f928ef",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

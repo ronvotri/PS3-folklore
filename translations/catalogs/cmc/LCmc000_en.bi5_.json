@@ -1,0 +1,120 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc000_en.bi5_",
+  "file_sha256": "4af80f46f6521b69248d8c7d7cc0cad7d7223f8a8eb89126c0c0fca36c8569a0",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@000030d8",
+      "file_offset": 12504,
+      "source": "What is it?",
+      "source_sha256": "bbff7b98d6da70612cb94badd2dde68a4dbe1107104b55f330a2225c8ebf55b2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@000030e8",
+      "file_offset": 12520,
+      "source": "...My mother...",
+      "source_sha256": "18d89fef6675f880a313503bffe293cd92ef28483e6a40fbc56a7fb64cb5b79d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@000030fb",
+      "file_offset": 12539,
+      "source": "$She fell down\nfrom the cliff!",
+      "source_sha256": "1aa25e0954ce96cbd125f91f0022dd54bf00c5f8ee4f145be7795b1a3b364d82",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@0000311f",
+      "file_offset": 12575,
+      "source": "$That cliff?\nUh, good luck...",
+      "source_sha256": "997d04777051ad060b6dc922600ec7982d4283f8f69f4a8ee5a98ea2977bd3ad",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@0000315c",
+      "file_offset": 12636,
+      "source": "Poor mother...",
+      "source_sha256": "ca7fb513839261fa9dba5f4445f285c772435cc0c1d39ec52b58b4a5b1c129e9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@0000318c",
+      "file_offset": 12684,
+      "source": "I can't find her!",
+      "source_sha256": "217e040780272a71874f41751fd2bbe61c4c8ce916406dea677e96a39e0fbca2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@000031a4",
+      "file_offset": 12708,
+      "source": "What...\nYour mother?",
+      "source_sha256": "cf6be888ddfba3e726c5fe40242e2d31b9f8bc359302a23e144776188da41915",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@000031d0",
+      "file_offset": 12752,
+      "source": "Hey! You!\nAre you okay?",
+      "source_sha256": "0008ef15e4ec39817e898673148d4d9d9946cea480ec226dfc89123e12fc6cdf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@000031ec",
+      "file_offset": 12780,
+      "source": "Say something...",
+      "source_sha256": "6a1dc61b311df3711af4118a4e60156a7088a811818b9e61e41697fdbbd7de83",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@0000320c",
+      "file_offset": 12812,
+      "source": "Hah? What?",
+      "source_sha256": "b652607085428e9d6beff68502069965d959b3f862321a4147a23dcac67078a7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc000_en.bi5_@0000321b",
+      "file_offset": 12827,
+      "source": " I need to...\nfind her soon!",
+      "source_sha256": "84fbda84db05b715ea84a05557662320ba4258bf3454e1df302230f5c8b9b5a3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

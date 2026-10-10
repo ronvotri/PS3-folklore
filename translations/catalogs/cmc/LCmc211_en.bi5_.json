@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc211_en.bi5_",
+  "file_sha256": "45824ed0604c33590fe793318164194f68c5f1dd25154acf2660d194d7963112",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003108",
+      "file_offset": 12552,
+      "source": "Please!",
+      "source_sha256": "cf10959051d1e18c2b102558f1a34ea49d38b19f1cef8d632427851d71258ee1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003114",
+      "file_offset": 12564,
+      "source": "Please!",
+      "source_sha256": "cf10959051d1e18c2b102558f1a34ea49d38b19f1cef8d632427851d71258ee1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003120",
+      "file_offset": 12576,
+      "source": "What did you do?",
+      "source_sha256": "32189bb58790878bac0aa48d836d846f174da8e210c9160b5d9f85a0219edd33",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003137",
+      "file_offset": 12599,
+      "source": " What did you do\nto Herve?",
+      "source_sha256": "da8604ea501805ce798c49fb16f7f06374e9218996e5968c09072286460f5b62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003168",
+      "file_offset": 12648,
+      "source": "Bring him back!",
+      "source_sha256": "eaff4dcb2ca476021cfe7f02d48971a993b86f42820d2013768f124fe95bfe3f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@0000317c",
+      "file_offset": 12668,
+      "source": "Bring my\nHerve back!",
+      "source_sha256": "a6bae9deeef57d7d837c701940439aa4e987e502975892f427ae1578a5299ca5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@000031a0",
+      "file_offset": 12704,
+      "source": "My darling.",
+      "source_sha256": "659fba365a577800043d8b08d157f3358f21a2860df0f89454e3a11e23c711cd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@000031b0",
+      "file_offset": 12720,
+      "source": "Erg!",
+      "source_sha256": "6cfae34e4cc28a11d26bf566a35a7dd71d7ae023f1e753a36b9827e345a90a1a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@000031bc",
+      "file_offset": 12732,
+      "source": "Aiieeeegh!",
+      "source_sha256": "c8058c458f8ed2dc508f256b7c642ef6d0ce3ed36dbf88854d98c6d3fb84f98e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@000031cc",
+      "file_offset": 12748,
+      "source": "Why, you!",
+      "source_sha256": "a65aa8fde108bd67d80e046bc6c57299d7ca6429a9ed602f60c6a388bdd50d58",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@000031dc",
+      "file_offset": 12764,
+      "source": "What have you done?!?",
+      "source_sha256": "293be6447de406b77c8b01c90a93c4c6f15bd0a05eb2e3440747569183ec44ec",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@000031f8",
+      "file_offset": 12792,
+      "source": "Little witch!",
+      "source_sha256": "2980ad79c446f27daef6919c9bbfd8a9bfe7c76b9ac7f13466b4ade409a5dc31",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003213",
+      "file_offset": 12819,
+      "source": " I'm sorry.\nIt's my fault.",
+      "source_sha256": "fc41aded142cae70c2a864f21ebe45f07c433ad34b3591f7ad57a7488520e599",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc211_en.bi5_@00003234",
+      "file_offset": 12852,
+      "source": "Shush, shush.",
+      "source_sha256": "a56176ae89659dddae726bbfeabfac87c7e6601185092eb69beaa2259683b9ea",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

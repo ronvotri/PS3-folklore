@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc019_en.bi5_",
+  "file_sha256": "54d0cb88ffefbb5a3cf8c93bcb062954d7f8da63026c70923dfb35f4fdb5f468",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003447",
+      "file_offset": 13383,
+      "source": " Ah!\nHeiress of the Cloak.",
+      "source_sha256": "db3851dfe20c942265274b310291f28cb0674bbdaa64692f147d8b68cf53a949",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003467",
+      "file_offset": 13415,
+      "source": "0Why?!?\nI only wanted to know\nabout my past.",
+      "source_sha256": "94dd68cc291b435a4100ae94495f5794e6387f2926fdfddeae38b30d7fcc5e09",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003497",
+      "file_offset": 13463,
+      "source": ",How long we have\nawaited your arrival!",
+      "source_sha256": "ea4baf5f5a6edd1e7b52a501427e801abb96fff495359273f59148477bd9841b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000034c3",
+      "file_offset": 13507,
+      "source": " Your wish shall be granted.",
+      "source_sha256": "655baa2cf088e9d0fd8506854d9f4b6002f24a19eacb454b9ff98803ed453b68",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000034e3",
+      "file_offset": 13539,
+      "source": "8amalgamate into the\nmost powerful types\nof Folks...",
+      "source_sha256": "2210b2505df6bc14310543d3050429da3e69c55c249f0bb0b1a01c27cab03c93",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@0000351b",
+      "file_offset": 13595,
+      "source": "@Humans are weak.\nThey purge memories\nof pain and suffering",
+      "source_sha256": "07e0c36efc15701ea64bc70f11487cb569f67755c6ee9be6dc55845b9f6adf89",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@0000355b",
+      "file_offset": 13659,
+      "source": "4But, where do you think\nsuch memories end up?",
+      "source_sha256": "048e75e51df9efe354504add06939c438b570d109ec2b40dfa285f29ca575847",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@0000358f",
+      "file_offset": 13711,
+      "source": "DIt will be possible\nwith the help of the\npowers of the Folks.",
+      "source_sha256": "f53b0af757940c546533f198062c52da85e00c08c13d19520fb92b4a778dd451",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000035d4",
+      "file_offset": 13780,
+      "source": "Eek!",
+      "source_sha256": "6ee91b281611bc416aa1aabb005dd4634ddee6cad28ba96e1039432d78292938",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000035e0",
+      "file_offset": 13792,
+      "source": "Hmgh?!?",
+      "source_sha256": "b6f372c097fc1d7e68b7b7ba09c9c0af20721a0db806e3ba416fe47dee306a69",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000035ec",
+      "file_offset": 13804,
+      "source": "Your Lordship!",
+      "source_sha256": "10abbfdc4c81cd6bd6a4be13f4c2007d5f547308e3638b6401a2b0ea708ceb11",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000035ff",
+      "file_offset": 13823,
+      "source": "0The Folklore\nCERNUNNOS\nhas materialized!",
+      "source_sha256": "acfc8263b4bd80baf2f59353610d8cd21dcc96bb1a3471e201f38aae4bdfb739",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@0000362f",
+      "file_offset": 13871,
+      "source": "0The time has come.\nGo forth, young Ellen.",
+      "source_sha256": "e42471ed021d4e3f281d029e9fb4dd2007b1bccd72739043c3d3960c85b14c8e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003660",
+      "file_offset": 13920,
+      "source": "I have to fight?",
+      "source_sha256": "80ffaf80e58882a9b7784a078af2391b5b703bc84814d26df8cfa1fbb2d7764b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003677",
+      "file_offset": 13943,
+      "source": "4the great Folklores,\nthat stand in your way.",
+      "source_sha256": "80b95beffee69e6fb02d837c84e6795ffbdbb5764d7c19480772e447a088b028",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000036ab",
+      "file_offset": 13995,
+      "source": "$I'm not sure.\nThe Netherworld?",
+      "source_sha256": "cb36733f591e881ca94185f4990205b5836c3e1151397543c923c95856ff772e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@000036cf",
+      "file_offset": 14031,
+      "source": "@Precisely... And the\nworst of their fears\nand sorrows...",
+      "source_sha256": "851ceababaa56a83089aa1aaca9de1d1d3029b6cfb48f939b9f123d1f94c9796",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003710",
+      "file_offset": 14096,
+      "source": "May you prevail!",
+      "source_sha256": "b271abd0b09b94869771ba43037bff4f532f484539fe6ae5dd9a740bcb78a632",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@0000372f",
+      "file_offset": 14127,
+      "source": ",Trust in the Cloak,\nand fight with us.",
+      "source_sha256": "3c379c4292382e141d9512a6e2106a052fc3f229e45ef069ec48afbf2538e948",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@0000375c",
+      "file_offset": 14172,
+      "source": "Defeat the Folklore",
+      "source_sha256": "8fbcae917bee036cfb1fa3efd608a83adf1bcc5d61364b13c1e80c091f1ad4e5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc019_en.bi5_@00003773",
+      "file_offset": 14195,
+      "source": "$and retrieve your lost\npast.",
+      "source_sha256": "7335284610da3edd87e8c746d943e5acbdecaebc91de954d2d63fbf29a061a74",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc074_en.bi5_",
+  "file_sha256": "3d34f944003e71d057e33f899df6e29df5e67d7aeeeb5a998cc62d075d2a676f",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc074_en.bi5_@00002717",
+      "file_offset": 10007,
+      "source": "(No! I don't know!\nI don't remember!",
+      "source_sha256": "5592ecdaff870dd46b83dd5544e21d23ac498cfbc3def5abe4b575fa0588d8c0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc074_en.bi5_@00002740",
+      "file_offset": 10048,
+      "source": "Hrgg!",
+      "source_sha256": "f8f94d144f6afd1637457736152408988fba2bf64cb6650008170d9cee9156be",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc074_en.bi5_@0000275c",
+      "file_offset": 10076,
+      "source": "C'mon, you can tell me.",
+      "source_sha256": "5781f7b41244fd978fc0fbfc9d09d181e5fd9695c3028e62c3cc934a18c75317",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc074_en.bi5_@00002777",
+      "file_offset": 10103,
+      "source": "(How did you get\ninside the ruins?",
+      "source_sha256": "d04d8b7b20953b1505ee2ca04dc99fc88a8859be9ab8265519723f6143744d06",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

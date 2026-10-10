@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc100_en.bi5_",
+  "file_sha256": "2f394df333eb6aba8de3be724cae237ab60a5ca15ab8685613ca94a0e453f361",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002a88",
+      "file_offset": 10888,
+      "source": "Oh my god!\nWhat the...",
+      "source_sha256": "5a938d112493583261b6e6ad93eac67de543cab9a5cdec4c80af1a58acdaea14",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002ac3",
+      "file_offset": 10947,
+      "source": " So, there is life here...",
+      "source_sha256": "12302721ddc12c3dc59f76051fe5e96eb6355170d6465cdae8e5dfad6c2b9c2d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002ae3",
+      "file_offset": 10979,
+      "source": " What are you doing here?",
+      "source_sha256": "019152c0fe29d77fed4edc3b04db31b3ad1cd134ba8e0c404f0834a97a651795",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002b03",
+      "file_offset": 11011,
+      "source": "(A woman called me\nat my magazine.",
+      "source_sha256": "dd1952ea9b3e311272d1bc8bdda48a4244c09026fa69116b9514adb6556ac3aa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002b2b",
+      "file_offset": 11051,
+      "source": "dWhen I thought I'd found her,\nshe fell from the cliff, and\nthen this girl went into shock...",
+      "source_sha256": "7b7adc0950fd3beda82eb7ac5ee867dc994861b105cb86fa128c7b5ee745d478",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002bb7",
+      "file_offset": 11191,
+      "source": "$She's out cold.\nWhat do we do?",
+      "source_sha256": "478fb9790a2f4739fc48609c6a079276c8834da01ae8e0d00c68852fd9041de0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002be4",
+      "file_offset": 11236,
+      "source": "With her?",
+      "source_sha256": "3e9881a05ab83c7e08cc4a392b3b3f5511326c27f22455c0eb52c8e62ca1180f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002bf3",
+      "file_offset": 11251,
+      "source": " Hm...\nShe may have a link?",
+      "source_sha256": "b99eb8b6cda25049f9759f352ccac83eae52ee085c6e0dfe839d678d9259f3d4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc100_en.bi5_@00002c13",
+      "file_offset": 11283,
+      "source": "0For now...\nIs there a place\nwe can stay?",
+      "source_sha256": "df4cb98cc499462c325245cabd7dcf21f08bf63b173aea94f8c85d3f05aadb98",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

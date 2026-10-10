@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc017_en.bi5_",
+  "file_sha256": "c80cf0bcda3cbaf030009f3b5c9345060f5299a4ee46541c7f41abaccc43cbaa",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc017_en.bi5_@00002c27",
+      "file_offset": 11303,
+      "source": ",I want to take him\nto the lighthouse...",
+      "source_sha256": "ec4ffa1a1024e61ba2de70742e7423bba6a016939b6a036f64a2fbc792708dab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc017_en.bi5_@00002c53",
+      "file_offset": 11347,
+      "source": "(It's my dear son's\nfinal wish...",
+      "source_sha256": "10d6c2c6283dd9d2d9800decba4cc73d03150cd09ed2cb58aa3c37c3a1806075",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc017_en.bi5_@00002c7c",
+      "file_offset": 11388,
+      "source": "...the lighthouse?",
+      "source_sha256": "e7f270a173a13e2e45710968caf68362c1ec770c61535a139075a44c4b855b5c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

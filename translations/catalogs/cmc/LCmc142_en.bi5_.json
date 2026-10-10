@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc142_en.bi5_",
+  "file_sha256": "e18ef359cdfcb123befcdd5f6cd2b4aca1ed40805b543d199fcd71884c6b2eb1",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@00003308",
+      "file_offset": 13064,
+      "source": "Finally ready\nto talk?",
+      "source_sha256": "75dbf173f879503818016e1142df95db42caae7fbf03855758e1b09ffdd769e4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@00003324",
+      "file_offset": 13092,
+      "source": "I'm all ears.",
+      "source_sha256": "ba3bfc9d711211348bcebe8d5d0c01297428caf75f732e066b748b83c501596d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@00003337",
+      "file_offset": 13111,
+      "source": "0Even the dead refuse to\nspeak of Samhain",
+      "source_sha256": "6bd199687f8758817a521f7ac629ef82b6d3433f9bced04bb77e27e3f8850e2a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@0000337b",
+      "file_offset": 13179,
+      "source": "4and the incident that\nhaunts them to this day.",
+      "source_sha256": "7c66e1428d0b2ac25f37ca4b4a4f6e60563eedba8e01b125689a57f43d2e4343",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@000033b0",
+      "file_offset": 13232,
+      "source": "And now, the truth...",
+      "source_sha256": "d805f73f8d1643dc28331d1048a93bdf04b8db8bcdde32f65f1924602c429a0c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@000033d4",
+      "file_offset": 13268,
+      "source": "Damn!",
+      "source_sha256": "12c31896eb20fce89388a4905bf1d33370e59a641604999dd813c510684b0a3c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@000033ec",
+      "file_offset": 13292,
+      "source": "What ungodly\ntiming.",
+      "source_sha256": "0cfc90d1c8db021181fc765557f5e5995f36a4d3f73bad313068c53901d483bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@00003407",
+      "file_offset": 13319,
+      "source": "$I must inform the\nvillagers.",
+      "source_sha256": "c0462fef70e1cd16430c6042b9f623594e4d1f64762b5ca8bcbbb979b3e527c5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@0000342b",
+      "file_offset": 13355,
+      "source": "(Carried out with\nordinary string.",
+      "source_sha256": "181614c111e10684403d5658a3607ee582e0184c898dd5f4df5ce3d70f43660e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@00003454",
+      "file_offset": 13396,
+      "source": "It could be anyone.",
+      "source_sha256": "9a444c16e8f0995e72766b048304c3ecd9cd2b2635b302f0f07495157693b14c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@0000347b",
+      "file_offset": 13435,
+      "source": "0Perhaps she sensed\ndanger, and called me?",
+      "source_sha256": "0c935d9c2faa7cc0593bc4dec4afdd0d91b7c0661af8ec08ae019c8e5353d402",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@000034ab",
+      "file_offset": 13483,
+      "source": "(Harriet and\nDr. Lester are dead.",
+      "source_sha256": "c0e1597cbe4b19ef568eb873df6d33cc11dbb7a66e75238dfbe00b7d958c3e49",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@000034d3",
+      "file_offset": 13523,
+      "source": "0Every person with direct\nknowledge is gone.",
+      "source_sha256": "e819d1b940d5ecac1ae21ab532553b9891d334bb10b5cecaca7feeefc84f4edf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc142_en.bi5_@0000350b",
+      "file_offset": 13579,
+      "source": " Let's see how they react.",
+      "source_sha256": "4f20d242fdae7da0eafa2074b129ea26777f892c9648049ce66a967c81735a9d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

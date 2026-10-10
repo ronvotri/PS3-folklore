@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "policy": "Tên riêng giữ nguyên; thuật ngữ gợi ý cần xét ngữ cảnh, không thay hàng loạt mù quáng.",
+  "terms": [
+    {
+      "en": "Ellen",
+      "vi": "Ellen",
+      "notes": "Tên riêng"
+    },
+    {
+      "en": "Keats",
+      "vi": "Keats",
+      "notes": "Tên riêng"
+    },
+    {
+      "en": "Doolin",
+      "vi": "Doolin",
+      "notes": "Địa danh"
+    },
+    {
+      "en": "Folk",
+      "vi": "Folk",
+      "notes": "Tên sinh vật/hệ thống, giữ nguyên"
+    },
+    {
+      "en": "Folks",
+      "vi": "Folk",
+      "notes": "Không thêm s số nhiều vào từ Việt"
+    },
+    {
+      "en": "Id",
+      "vi": "Id",
+      "notes": "Thuật ngữ game, giữ nguyên"
+    },
+    {
+      "en": "Karma",
+      "vi": "Karma",
+      "notes": "Giữ thuật ngữ"
+    },
+    {
+      "en": "Netherworld",
+      "vi": "Cõi âm",
+      "notes": "Gợi ý; rà theo ngữ cảnh"
+    },
+    {
+      "en": "Cloak",
+      "vi": "áo choàng",
+      "notes": "Tên vật phẩm riêng giữ phần tên riêng"
+    },
+    {
+      "en": "New Game",
+      "vi": "Chơi mới",
+      "notes": "Menu mẫu"
+    },
+    {
+      "en": "Load Game",
+      "vi": "Tải game",
+      "notes": "Menu mẫu"
+    },
+    {
+      "en": "Options",
+      "vi": "Cài đặt",
+      "notes": "Menu mẫu"
+    },
+    {
+      "en": "Dungeon Trial",
+      "vi": "Thử thách hầm ngục",
+      "notes": "Menu mẫu"
+    },
+    {
+      "en": "Tutorial",
+      "vi": "Hướng dẫn",
+      "notes": "Menu mẫu"
+    },
+    {
+      "en": "Quest",
+      "vi": "nhiệm vụ",
+      "notes": "Gợi ý"
+    },
+    {
+      "en": "Prologue",
+      "vi": "Mở đầu",
+      "notes": "Cần cập nhật mẫu chưa dấu khi mở rộng"
+    }
+  ]
+}

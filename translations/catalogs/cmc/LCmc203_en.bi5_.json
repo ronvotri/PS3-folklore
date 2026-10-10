@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc203_en.bi5_",
+  "file_sha256": "d1e8dac030ca9a4b6b24f12b0ecf052b76e25a059ad39d82b08a7a391b4c552d",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002cf8",
+      "file_offset": 11512,
+      "source": "Ellen?!?\nWhy here?",
+      "source_sha256": "18ce1abf48c06c28bfbdfe22e473ed2e9be5c7a2fc544635f0a8f11b36dbb083",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d1d",
+      "file_offset": 11549,
+      "source": " She\nnever disappeared.",
+      "source_sha256": "88505859020f967aa57527097213d86060351a2ae410a2bfae7ac78ab5f6c0ab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d3b",
+      "file_offset": 11579,
+      "source": " She was here\nall the time.",
+      "source_sha256": "bfad017be2bb41e0fb6601bc0e5f8c47a74b9e701c35afad97a68fe05728e127",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d5c",
+      "file_offset": 11612,
+      "source": "Is the Hag\nhere?",
+      "source_sha256": "2f804808efecca945e21e5d051533c202874a8e8ac444d5dfbd3c5fe87ea4b0c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d74",
+      "file_offset": 11636,
+      "source": "I don't know.",
+      "source_sha256": "810d7c3ca6aa6411102588f8636833035138a35f32f5e7b2df96d2ab2dc4d660",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d88",
+      "file_offset": 11656,
+      "source": "Oh, well...",
+      "source_sha256": "d8bb807c4486577d4a3aeb2079440a4f9c83a251fa4a6c1181a0fef6dc65b064",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d97",
+      "file_offset": 11671,
+      "source": "$It seems that\nit won't be long",
+      "source_sha256": "d241a222b5a87942483d886a907989366540558b1dd91c595f7bae39e00cbe7f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002dbb",
+      "file_offset": 11707,
+      "source": "(before the mystery\nis fully solved.",
+      "source_sha256": "e1ecafd5c296a98343ee0cb09096f0b72a72631171781b4e9bad58c712c127fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

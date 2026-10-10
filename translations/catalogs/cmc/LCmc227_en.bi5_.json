@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc227_en.bi5_",
+  "file_sha256": "19d21594ac5a4d6a45331cd0da6325928e6a7748c64b34107be898535ce0f133",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000040d7",
+      "file_offset": 16599,
+      "source": " Have you decided,\nEllen?",
+      "source_sha256": "f52ed600022ffd4f92e9f8cf721b9e42b486f8dae77cf94e504def45cf8cf7c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004107",
+      "file_offset": 16647,
+      "source": "<So, this is what you have\nguarded for five millennia?",
+      "source_sha256": "75fb669e81a07664f0fc8c487e7c8b2e8e5a2731d42d4ce885b71e6c5dbe1e14",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004143",
+      "file_offset": 16707,
+      "source": ",Remove the spear to\nreverse the effect!",
+      "source_sha256": "95279cd23af0dbf5210be7b887f72f7493fdae3b7d467f649e482aa5613863e0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000416f",
+      "file_offset": 16751,
+      "source": "8Free the Netherworld from\nthe curse of the living!",
+      "source_sha256": "c5660627d845c0e56690d9e96e49fba49b779368ba292edf645db11ebc9ae9de",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000041a7",
+      "file_offset": 16807,
+      "source": ",No, it will only create\nchaos on Earth.",
+      "source_sha256": "31b7b0a2784b11e7aea6cbd541170ab3faa94c0bbb38b61df33d3b950ca347c8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000041d3",
+      "file_offset": 16851,
+      "source": "4With no fear of death,\nman will go unbridled.",
+      "source_sha256": "2b9b628599f438a91480524c98ff8aceda2229a37e01bb0fe576ef1dc03d3dee",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004207",
+      "file_offset": 16903,
+      "source": "DBut what good is\nthe present state of\nthe Land of the Living?",
+      "source_sha256": "c2e3cd22b6669a2a8b931e931d4a287b79be17e3e77b52d93a4bf04da419e0e3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000424b",
+      "file_offset": 16971,
+      "source": " Saddled by culture and war.",
+      "source_sha256": "f8ea12158ed375e407edc4cfd1054dc1191cd2392d83b007843888118579e8fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000426c",
+      "file_offset": 17004,
+      "source": "Driven by animosity",
+      "source_sha256": "9f8627c5cb674a1656bb02be89b2ffa52f2b2e70cd7c0386b0f25226750fd200",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004284",
+      "file_offset": 17028,
+      "source": "in a cycle of conflict.",
+      "source_sha256": "fbde68c8dd2e846d3372735d9a0b94de5b1c90695e163500af4ad14ed9b59344",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000042a7",
+      "file_offset": 17063,
+      "source": "$Ellen, you agreed to\nhelp us",
+      "source_sha256": "e868461cb5c2697c86733739478afc694bf19e60935030659792f9897674429d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000042cb",
+      "file_offset": 17099,
+      "source": "4and correct the wrongs\nof that backwards place.",
+      "source_sha256": "03812e3279b05f3b0af58cf3186de4b278e33d30f39a5871c3d0bde0e83bc693",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000042ff",
+      "file_offset": 17151,
+      "source": "4You know all too well\nhow painful life can be!",
+      "source_sha256": "3284ace5784a37ae545f5f01125d8c1b3df6949dfbba3275dac5014e8aaed2e5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000433c",
+      "file_offset": 17212,
+      "source": "I often dreamed...",
+      "source_sha256": "4300346880bc5a0641e75afec84c5d8d5a47afe4245fc647ac72d64c6c3f581a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004353",
+      "file_offset": 17235,
+      "source": "4Dreamed of journeys\nto the Land of the\nFaerys.",
+      "source_sha256": "654ef99eb75b65d101474ef69100073380762eafbf5e3308e3dc353542defa9b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004388",
+      "file_offset": 17288,
+      "source": "My life was not easy.",
+      "source_sha256": "ac1df232e609dc4efce99c41643c15e54023296a5b54a4ee60bba3a5ddda6d5a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000043a3",
+      "file_offset": 17315,
+      "source": "4And I never liked the\nmercilessness of society.",
+      "source_sha256": "79a1c66384e4b4007f95b20cc26bcae1064b7df3eaf85c0c18e27ff424058bd3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000043d7",
+      "file_offset": 17367,
+      "source": "0I had pleasant memories\nhidden deep within.",
+      "source_sha256": "19c48af38bc1ac4bf27a7e174c865c04954435e4f61c384a3347f12adb3c8b9d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004407",
+      "file_offset": 17415,
+      "source": "0I must find out what\nother memories remain.",
+      "source_sha256": "449b5dc5b671de6189eb08637717f0db08d25648b0eef80a38535a9289f40b63",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@00004438",
+      "file_offset": 17464,
+      "source": "But even I...",
+      "source_sha256": "50fdb48dd109ba1e2eb237f18f2f6e8b60c6e6fc99098e25c48098c445930542",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000444b",
+      "file_offset": 17483,
+      "source": " Then I suggest you\nproceed.",
+      "source_sha256": "1e41cf6f2f10e6c2459220d6cc390c879b81641261b4a4483709f40d23db7c21",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000446b",
+      "file_offset": 17515,
+      "source": "LEllen, decisions should\nbe made after one has\nacquired all the facts.",
+      "source_sha256": "17d809ba00daa90d906c5d8cba2107d69cd3ac2cf410891dca8516430db2d866",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000044b7",
+      "file_offset": 17591,
+      "source": "0Besides... I have a\nbad feeling about this.",
+      "source_sha256": "7c16a28cb4c9864a2b385d329ebce344d158e014d164b89f436cd8e74e5b8206",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@000044e7",
+      "file_offset": 17639,
+      "source": "0And what happened to\nmake me forget them!",
+      "source_sha256": "13213f57780e449a71e6d1cb13ef83724c5bfe6a53a587523484af10e50b270e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc227_en.bi5_@0000453f",
+      "file_offset": 17727,
+      "source": "(Ellen! Don't\nforget your promise!",
+      "source_sha256": "2b0922ae12e254be53287a70aa503dbadb6100f926f93cc1407de46a5b5f926c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

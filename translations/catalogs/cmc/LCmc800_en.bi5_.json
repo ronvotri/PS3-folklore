@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc800_en.bi5_",
+  "file_sha256": "5d83487e9331b4c8144149e4f8f3da9acbcad5fb59407f7de6ac9c9eb51fb170",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00002f27",
+      "file_offset": 12071,
+      "source": "beautiful...\n So this is life after death?",
+      "source_sha256": "644c4bffbdd6cda1ff74c24d215a9485b85ff185ce00452c022636d965bfa448",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00002f9f",
+      "file_offset": 12191,
+      "source": " that people have dreamed of...",
+      "source_sha256": "4981db1305c32ed476349f096daef106ad2c13d206ad5c17856e0c31df13edb6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00002fdd",
+      "file_offset": 12253,
+      "source": "\nmight be here.",
+      "source_sha256": "c50777086916961475696827bd5fbb824e18639d2632bd3bad7b1f3e43da6b32",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@0000300b",
+      "file_offset": 12299,
+      "source": ",\n how can I find her?",
+      "source_sha256": "ccd138ab97013600efd55bdffd3439d4383e939dd96fb5fc5278e950d3f5be50",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003094",
+      "file_offset": 12436,
+      "source": " will find her\n for you.",
+      "source_sha256": "42818d96c36b514296090a4cd86c1050b1d2b947aa7198c883b6099536ed493b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@000030f2",
+      "file_offset": 12530,
+      "source": "\n who resides in the depths of the forest.",
+      "source_sha256": "c7974ff03cb0cd78b87915040ffeb41df75e239f482c957effdedd0ecb17b5e4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003124",
+      "file_offset": 12580,
+      "source": "But me? \n fight...?",
+      "source_sha256": "0e7af692c58df059339afa930c96bb83a58f41b3aebb74363bca4c29fc81f0b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003174",
+      "file_offset": 12660,
+      "source": " will fight for you.",
+      "source_sha256": "e0f13be06105dd7ef01c2c6c7dc53942f7ece799efb5fc8d555057a0b4f20898",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@000031ef",
+      "file_offset": 12783,
+      "source": " who live here,",
+      "source_sha256": "34c55bbd4beea877f714517f7424d11de18ad9798706a7576602422bb2dd4e45",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003225",
+      "file_offset": 12837,
+      "source": "\nand make them your own.",
+      "source_sha256": "b93ec063e33c786089cd8619c77ef9eefb1cc730d56ea2cb9705c7f9a5d29fe8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003243",
+      "file_offset": 12867,
+      "source": "DThen you will be able to use them\n freely as your own powers.",
+      "source_sha256": "dcc505c42ed99dfef25c1b55259245c698a04208f68d6e3a45a132f17db070b3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003287",
+      "file_offset": 12935,
+      "source": "$Take these trusty companions...",
+      "source_sha256": "c23450867497bb758f08581cdddfe9fe8b2c5702d18f856cc0cdf228d73ed05b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@000032f7",
+      "file_offset": 13047,
+      "source": "@Good luck Ellen!\nI hope you make it back alive\nHe he hee...",
+      "source_sha256": "a4e401efaf5911242589f6802b68580cac47f8a054869a89abd39dd882e71074",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003354",
+      "file_offset": 13140,
+      "source": "\nwill be your shield.",
+      "source_sha256": "ef9b247c7dbbdac50a1ca748cc5635758b9c6861d47043ca393a17fba4bd65ca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

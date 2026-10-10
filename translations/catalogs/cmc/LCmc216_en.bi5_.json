@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc216_en.bi5_",
+  "file_sha256": "f851c0f3f6cc80f14a9c07b8fa0df0e6b9ee1eb852ecb43634842f8566d66964",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002b68",
+      "file_offset": 11112,
+      "source": "(pant)... (pant)...",
+      "source_sha256": "9349291b681b225a86ea05263766cf79cd5cc35eafff04f1c4e170bff904c0fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002b88",
+      "file_offset": 11144,
+      "source": "That witch!",
+      "source_sha256": "414e311954e7ea7381a26329a487a2959af96485244c6e55f0d08ee63aa3089e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002b97",
+      "file_offset": 11159,
+      "source": " I won't give\nup my chase.",
+      "source_sha256": "7875c8b2fdcd92cb03a42eee4e84cb0e4459ab0844d207ab8d6803183c769cfd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002bb7",
+      "file_offset": 11191,
+      "source": "(I'll make certain\nthat she pays.",
+      "source_sha256": "cd86c02252be3428d5d034616661955c8e51cc03865bffdb5106276743a42931",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002bef",
+      "file_offset": 11247,
+      "source": " We must leave\nthis village.",
+      "source_sha256": "6cd4c6e9a5464e7e82ae2aa28c03cdf2fffc22e7de0a42daf913503b2fc68ef2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002c10",
+      "file_offset": 11280,
+      "source": "You must hide,\nCecilia.",
+      "source_sha256": "0b9b4a319a065ac349d32ce74b5880ce4e03fbe0b3de72dfa3d4ad72fb398b7a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002c2b",
+      "file_offset": 11307,
+      "source": " You will need\na new name.",
+      "source_sha256": "7d17f6be3029d007ecce3371ec5a1f2c6232ff16171539010a26eee60e4d4639",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002c4c",
+      "file_offset": 11340,
+      "source": "Say farewell,\nCecilia.",
+      "source_sha256": "cbfda156d3db493b4e9d1244b70815a522ed8e92814fc717c0b5b54d0c03c4a1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002c70",
+      "file_offset": 11376,
+      "source": "I will protect you",
+      "source_sha256": "659b99232b06ec82b4019a12ae83648f4f928fdcade6bfacfd8db33e97a9d38e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002c88",
+      "file_offset": 11400,
+      "source": "no matter what.",
+      "source_sha256": "82189e67d81ca5ff80add03fe2a0810be4d15623160eae306495ae9688c09591",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002ca3",
+      "file_offset": 11427,
+      "source": " You are now\nEllen, my dear.",
+      "source_sha256": "695ea9532ee45a31076fca6d1a3387ab8e3dcc217b6f68fc59f13cbf771e3a07",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc216_en.bi5_@00002cc4",
+      "file_offset": 11460,
+      "source": "Where's she gone?!?",
+      "source_sha256": "e5c965e1882abb0dc2ab0e6cd09483c450dcdcbf4e9aba53975d51ab590b8c8a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

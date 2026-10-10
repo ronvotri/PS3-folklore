@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc130_en.bi5_",
+  "file_sha256": "86ad43ce11dd4d029d85b895bef7696b69e39bbab9a1e07db4fb9d978fba2542",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002a87",
+      "file_offset": 10887,
+      "source": "$I met Ryan in\nthe Netherworld.",
+      "source_sha256": "e0a709f1ac2e1214038bcda7299295bb8da5bb777378f788396df3fa8abe20bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002aab",
+      "file_offset": 10923,
+      "source": "4What did you see at the\nchurch 17 years ago?",
+      "source_sha256": "00d6b94109fd327a55e5e47429309f49ce62dd57ed070f36a89ecc9cd379ded4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002adf",
+      "file_offset": 10975,
+      "source": "(Well!\nYou have been\npoking around!",
+      "source_sha256": "229164f8771b5f022228c209f5007afbf393d8e3468e6befe48220038b386a1c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002b07",
+      "file_offset": 11015,
+      "source": "$What did you\nask Ryan to do?",
+      "source_sha256": "18c9ea8e0c13c784852c7075fe631d86ce74fa170be29c89d9010b89cd4e1a2d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002b2b",
+      "file_offset": 11051,
+      "source": "(Ryan died where\nyou should have.",
+      "source_sha256": "56afd3e7fa2ed053762d0914194a525c81be50a3fc9ae6d3a4f3ed1789b6d0c3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002b53",
+      "file_offset": 11091,
+      "source": "4I'm not accusing you.\nI just want the truth.",
+      "source_sha256": "0761aef3925eeed054109dbba1f526b3dcc34f086fe6a08e0eaa5209855c0bfe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002b87",
+      "file_offset": 11143,
+      "source": " What did you say to Ellen?",
+      "source_sha256": "0622ece970b11214bf6086c86f4e8c88f813afe781c8df84fc43adb042d77897",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002ba7",
+      "file_offset": 11175,
+      "source": " Tee hee.\nShe is special.",
+      "source_sha256": "da358835e78a5cffc21ba0e5bc7866946c464358b07fc5d34d661b8feaf3e91c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002bc7",
+      "file_offset": 11207,
+      "source": "(I just wanted to\ntest my theory.",
+      "source_sha256": "249e943471a304a7833a91314764bf81ea25414bc113cbb929fd52991841555f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002bfc",
+      "file_offset": 11260,
+      "source": " Ellen.\nShe was in the\nvillage 17 years ago.",
+      "source_sha256": "826ec91925e5e9f25a024a82931f3c8f5374f788fec457bf376f289f5a1a6716",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002c30",
+      "file_offset": 11312,
+      "source": "Get to the point.",
+      "source_sha256": "24c382ce3184fb8361b57db9ad10d64203107083c25c40e32a0c1aed51b4801c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002c48",
+      "file_offset": 11336,
+      "source": "What?!?",
+      "source_sha256": "732d80c010f4a2ff7b76e3913d40b68c33178ecd19908006ae3475ccdf78e0c6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002c53",
+      "file_offset": 11347,
+      "source": "(It will all become\nclear very soon.",
+      "source_sha256": "62071a2b9357224c4b6471d116a9b0db1641b87505a359074cc9781c1acce9c1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

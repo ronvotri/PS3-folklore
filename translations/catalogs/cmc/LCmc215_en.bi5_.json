@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc215_en.bi5_",
+  "file_sha256": "1f519d0ad9289c6bcef342c9a8d110fb2737092a7fc17b5f1c0b09cf6a1297fa",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@000027e7",
+      "file_offset": 10215,
+      "source": "$This is no place\nfor a lady.",
+      "source_sha256": "139d62587ce16e98d71c41e20c618da10f5445fad39ba100b39174600c0b21d1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@0000280b",
+      "file_offset": 10251,
+      "source": "4A person who cares for\nyou asked me to come.",
+      "source_sha256": "16c154d5b23c7f59ded64d4cf944bb5c92f468abac51602ded1930f025d838ba",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@00002840",
+      "file_offset": 10304,
+      "source": "To rescue you.",
+      "source_sha256": "0907c5dc8709fcfa026b17c2c39cbbfa9f4923417a3bead4a826520a6fed5e0e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@0000285c",
+      "file_offset": 10332,
+      "source": "Asked you to\nrescue me?",
+      "source_sha256": "399dab8f9943de5cb600307505f0ff9a417ecad37a53cd952fb0b0f760a1014f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@00002878",
+      "file_offset": 10360,
+      "source": "But who...?",
+      "source_sha256": "c396de50af8a025d0977fdd4b30ffd01ad0a4b7a5f973da7f67d59e75c017a37",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@00002887",
+      "file_offset": 10375,
+      "source": "(You should find out\nfor yourself.",
+      "source_sha256": "e7cd6cf15dc68387cc92498b26119470d546adb993d01708914a205b7817d2be",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc215_en.bi5_@000028b8",
+      "file_offset": 10424,
+      "source": "Keats...?",
+      "source_sha256": "929fddabdc69bfb3ee3b019db7c7c0f1064257f7b5a98efeb3f225ab43d1d3a3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc050_en.bi5_",
+  "file_sha256": "09a6d2691435357ce73228d2d343792281baebc5ada5d517c580ca87b0b41c1f",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc050_en.bi5_@00002488",
+      "file_offset": 9352,
+      "source": "A letter?",
+      "source_sha256": "59fa2bf0522ceaf4a203e65499322643caa64417f92952682d70f5405ec5cce8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc050_en.bi5_@000024c6",
+      "file_offset": 9414,
+      "source": " I'm alive...",
+      "source_sha256": "f9c86036eb8b6e2183db38efd7bbfd21dc564b7c72bc7551c6bbe6f49b55ce26",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc050_en.bi5_@000024d7",
+      "file_offset": 9431,
+      "source": " What's this\nletter for?!?",
+      "source_sha256": "c85d287640ebfbb6c775ff244f8341d6e1bc2b2c7eafd3d336f2e2af96120144",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc050_en.bi5_@00002508",
+      "file_offset": 9480,
+      "source": "Why?!?",
+      "source_sha256": "91dd56ae65158b247d39e972ac414f43c000f2882f29c2991b286e3d911b083a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

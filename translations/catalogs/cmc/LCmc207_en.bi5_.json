@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc207_en.bi5_",
+  "file_sha256": "b1f572304ad33724d9a4ace8df36b835907a52d3f00669310bb205c2cffffbd6",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00002f38",
+      "file_offset": 12088,
+      "source": "Hello?",
+      "source_sha256": "0da72197e898ebe1814471a76048ed137a089f595c1e7038f2b70e98645e7652",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00002f43",
+      "file_offset": 12099,
+      "source": "HAfter killing Renaldo,\nthis is where you hid\nyour beloved daughter.",
+      "source_sha256": "02bf6362e1e8d03d008edb38e04d20889635e189fc7f7532a52702a55cf65746",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00002f8c",
+      "file_offset": 12172,
+      "source": "Cecilia?!?",
+      "source_sha256": "8c3df2f32a0ba93f901c148b04dcb6afe593a60713df292847e0aa8c4bd12c54",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00002f9c",
+      "file_offset": 12188,
+      "source": "Please come out.",
+      "source_sha256": "2db37a962844d3a134c7c33f15d7202a77f2a21f0e8264fbff805aef3e8e077c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00002fb3",
+      "file_offset": 12211,
+      "source": "(But oddly, she was\nnot to be found.",
+      "source_sha256": "6cebcc9e1cb90f63086119864c25648e38677c047b59f837785e75c03a8d43e3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00002fdb",
+      "file_offset": 12251,
+      "source": "0Where could little\nCecilia have gone to?",
+      "source_sha256": "8e06708dc2617338f9c8212cfad12a0808a04b07906b787f4db019297dd8659b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00003017",
+      "file_offset": 12311,
+      "source": "8Ryan threatened\nyour daughter,\nand she ran away.",
+      "source_sha256": "27bfc18c79db8bdeef3b68c4f58a7b21e3390a094d609a77c2a14d663501c925",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@0000304f",
+      "file_offset": 12367,
+      "source": "$And thus began\na new tragedy.",
+      "source_sha256": "51234e847e6396ef49dc2c39c7f712804a2641cc488026248337908b7af298b0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@00003073",
+      "file_offset": 12403,
+      "source": ",But as for me? I'm\njust an onlooker.",
+      "source_sha256": "dfacaf68d51d2fc9a74d1429f590bfea4b4038fd5c84a88931c009867eda1ae4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc207_en.bi5_@000030a0",
+      "file_offset": 12448,
+      "source": "Cecilia!",
+      "source_sha256": "74fc4234f4f3db168cedaa7b8625e5378b6c40d74f8f40234638b3d00e312012",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

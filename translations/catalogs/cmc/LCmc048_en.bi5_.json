@@ -1,0 +1,280 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc048_en.bi5_",
+  "file_sha256": "656e0f91b8aa00caaab1f3d2ec50a867c8ee0fa5473086d3633c95df97002894",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000032b8",
+      "file_offset": 12984,
+      "source": "What's this?",
+      "source_sha256": "ddfd032cce17828b78f39a45ec9eb7e08706234daff45da0498cf931407c07a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000032cc",
+      "file_offset": 13004,
+      "source": "This is\nHerve's tape?",
+      "source_sha256": "34548b670b20160ece344cc8809e489c8b2500fa05f7c3c6ece77e475af69a2f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000032e7",
+      "file_offset": 13031,
+      "source": ",But, he does not\ndespise my husband?",
+      "source_sha256": "4f33633c95fcf3019dee657afa50c91c376997799d41f2ff51a3c09341a5c1ce",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003313",
+      "file_offset": 13075,
+      "source": " Thank you...\nMrs. Lester",
+      "source_sha256": "f6f4de930c1acaa61e9d29a13ae3feca4b3177d01b7ebcefd5f4d283f301d733",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003333",
+      "file_offset": 13107,
+      "source": " This... Is Herve's\nmessage?",
+      "source_sha256": "bc0e59440bf273a2ca5db68696e0b045516facace08d2d92f6bd973755dacb03",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003353",
+      "file_offset": 13139,
+      "source": "8Before Herve died, she\ncame here with an injury.",
+      "source_sha256": "d853967cc3c87a20207b8f18bcb95753c7a90902562f7d8b4e97e5f792c516da",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000338b",
+      "file_offset": 13195,
+      "source": " Could she still be\nalive?",
+      "source_sha256": "db4606a0eb97ea0968a849223b7df50d233cbedbda5cd571f84c7c70c7d13865",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000033ab",
+      "file_offset": 13227,
+      "source": ",And he still feels\nexactly the same?",
+      "source_sha256": "a700bef5a641b2ae5bda1d257a0bd870893da6a6b9bd6777577b79f626646852",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000033d7",
+      "file_offset": 13271,
+      "source": ",You know what? If\nCecilia were alive...",
+      "source_sha256": "5aca338f5724e70b6293c2c3bd47bb7e8b989f4031fae3bb0a2801cc5387cf55",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003403",
+      "file_offset": 13315,
+      "source": "4I believe she would be\njust around your age.",
+      "source_sha256": "b35fbb59a1c9683861e4fe828752edde39954afbc7c3ae72083aa74659e82f4e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003437",
+      "file_offset": 13367,
+      "source": "0We received a letter\ntelling us otherwise.",
+      "source_sha256": "6df9cb6234857ac372f75aee6fab74563db4d0dcec82f3bfd8dd3a67bf7fe73c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003467",
+      "file_offset": 13415,
+      "source": " I don't know what\nhappened.",
+      "source_sha256": "7890eb5ad965f13d21d24297a64053e465ec5793118db9b1bf0c574d8e7e2fbe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003487",
+      "file_offset": 13447,
+      "source": "LShe was saved, but then\nvillagers started dying,\nbeginning with Herve.",
+      "source_sha256": "33d2cae29f9d854b68543a67208338717a39941da25a50ffd302fc8800d80d38",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000034d3",
+      "file_offset": 13523,
+      "source": ",It was tragic news.\nI remember it well.",
+      "source_sha256": "e5011b7dd330d709c2f29ee2be2c5b71aba3e3e1af1465d1ad0bba5fa365863a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003500",
+      "file_offset": 13568,
+      "source": "Hm... I see",
+      "source_sha256": "de4e7b344d3ad9a6d69482dda2b8bd1c01dfddd2887a00361379b0534afe946d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000350f",
+      "file_offset": 13583,
+      "source": "8I felt hopeless when I\nwas told of my condition.",
+      "source_sha256": "92710fd70f3e35951a0de0205da045f8b4aa53dad916982af551fe43c07d1654",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003547",
+      "file_offset": 13639,
+      "source": "8But Dr. Lester taught me\nthe preciousness of life.",
+      "source_sha256": "f07d6be274be35c0a77b62709c4249fc7a9a47839c5518970282db13ca2e7de5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000357f",
+      "file_offset": 13695,
+      "source": "LAlthough my remaining\ntime is little, I live\neach day to the fullest.",
+      "source_sha256": "c241ddf189b139e9100babb4c40e2b6be73d93cc06dd58953d56469da0b78a89",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000035cb",
+      "file_offset": 13771,
+      "source": "@And the warmth of\nthis village has thawed\nmy icy outlook.",
+      "source_sha256": "b1c4d004df7387dbee881871ce56a614ae82f3625442b54708e0eb3b758ef43e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000360b",
+      "file_offset": 13835,
+      "source": "LI owe it to Dr. Lester\nand Cecilia to embrace\nwhat they have given me.",
+      "source_sha256": "49eeed1587875f9bdbf2188e6768df1a9034d4903d4414eadfd9289014c576ba",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003657",
+      "file_offset": 13911,
+      "source": "4This village is my home.\nThank you, Dr. Lester.",
+      "source_sha256": "500634e0d8505b7fdf6536fe0d34db38bc235ee42ecbdd7fe9964b907f8198f3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000368b",
+      "file_offset": 13963,
+      "source": "4May you help many more\nas you have helped me.",
+      "source_sha256": "f7680eb390401be1a08be98f9dbb6ca3d8b25d5ae77fe51a2107431e0bbd622c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000036d4",
+      "file_offset": 14036,
+      "source": "Oh, dear...\nHerve...",
+      "source_sha256": "9195373a6194696802044644eaa8bd11cf2a38ae4cf53862db3d13cb31f6dd98",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@000036ef",
+      "file_offset": 14063,
+      "source": ",Thank you for telling\nme about Herve.",
+      "source_sha256": "aad9bf608954d92fdefc00158ecd0b488523763245360877aeaf2d0a9e5e3df3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000371b",
+      "file_offset": 14107,
+      "source": ",I'm so glad that I\nasked you for help.",
+      "source_sha256": "1855c5a815e28752ece5ac435171ebfe83d9da17f22412800e16481ddc3e5ddd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@00003747",
+      "file_offset": 14151,
+      "source": "DCecilia fled the village\nwith her mother\namongst the confusion.",
+      "source_sha256": "e490ebf7812e4d4a4db183d2661ef9427a68ac8fcec20ce817c1157754387784",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc048_en.bi5_@0000378b",
+      "file_offset": 14219,
+      "source": "4May you find a silver\nlining in your past, too.",
+      "source_sha256": "b1a04ad80d5ca97f171af84fb5401b6393116fda1f7d7da8792ce9b287f53eab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc073_en.bi5_",
+  "file_sha256": "e8f05f353e277ac22171fbd710d36c0522d7ecc9e25497b392f8a7410ac17880",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@000031f7",
+      "file_offset": 12791,
+      "source": "$Can you really\ngrant my wish?",
+      "source_sha256": "027160264f8668c90417ae8199fb49a5c169036fc8f1890e2bacad4a014914e0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@0000321c",
+      "file_offset": 12828,
+      "source": "I want to save\nHerve",
+      "source_sha256": "71518fc3f07557f4534ef3556761bd0ed029447588b34c8a206916b86c0527f7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003238",
+      "file_offset": 12856,
+      "source": "What...\nshould I do?",
+      "source_sha256": "4ac85aac0c0c0405527a2e2bdbe4213378ba480b350af71d93457b9a68960812",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003264",
+      "file_offset": 12900,
+      "source": "Give...your blood...",
+      "source_sha256": "0e0eae43dc0b0d3031ea6224179f03a967e05d7c526a9a8861cb67cbd6bca3c6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@0000327f",
+      "file_offset": 12927,
+      "source": ",There was more...\nBut I can't remember",
+      "source_sha256": "a3c0d48005f68c16d9a5f075a11d18062002de5fd5bf176a5f6f52391219f179",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@000032d7",
+      "file_offset": 13015,
+      "source": "0What else did\nI have to do\nto save Herve?",
+      "source_sha256": "984f049dad677851e1b3710407a704b585540693cb45abe255b27dd95f3a79cd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003308",
+      "file_offset": 13064,
+      "source": "This will save\nhim",
+      "source_sha256": "73fca1944ada68984c73bf28c3c5dacc091473abee5341b55051b4ff5e694f30",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003320",
+      "file_offset": 13088,
+      "source": "His life...extended...",
+      "source_sha256": "a6a190436e8f6420610ebb51f109b5d8422d60697216108f9740447162f4df9e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003354",
+      "file_offset": 13140,
+      "source": "Will be saved!",
+      "source_sha256": "2a4aa293a36f6c621d7fe79787ed93aded4c33e2cf6f9c320c4e5964a7752a93",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003368",
+      "file_offset": 13160,
+      "source": "Are you...",
+      "source_sha256": "ba3471fe97c74e778c7314fc585b61daf00c7c84c5a275c2a2746fe825fa0fa4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003378",
+      "file_offset": 13176,
+      "source": "A Faery?",
+      "source_sha256": "fe14f7d18fffcd1839a9c9bf92cfecf42dfbe4c61e7c4125f8af3cf1bf01f959",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@00003387",
+      "file_offset": 13191,
+      "source": "8Then...\nI cut my own wrist,\nand offered my blood",
+      "source_sha256": "505c0444981c61d6bf25ef31dce137de2b8dd8380386eff2da24e50f6d5a7b4e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc073_en.bi5_@000033e7",
+      "file_offset": 13287,
+      "source": "0I returned, injured...\nWhat did I do next?",
+      "source_sha256": "9899f68425d0f17edaa86f3e69adcecc178c2e2c0e5cf7d15f864e2d780cbe9c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

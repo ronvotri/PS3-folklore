@@ -1,0 +1,120 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc236_en.bi5_",
+  "file_sha256": "9a7d31726f11c30b0746475f4ecbc76fae15d1519ce7741450ec4f18cb451c6e",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002a87",
+      "file_offset": 10887,
+      "source": "(Yes, yes.\nThat would explain it.",
+      "source_sha256": "fa567c634c4dcbf7490e4e80f32f6eba9798d236ec4ccab2671aa8a80d5989e8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002aaf",
+      "file_offset": 10927,
+      "source": "4Farewell, Sir Keats.\n'Twas a wonderful journey.",
+      "source_sha256": "6854a8cbaab42c7d4a55407b7d945a037cdd047ef041c673d67180d151a93ab0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002ae3",
+      "file_offset": 10979,
+      "source": "0I'm afraid we've\nbeen unforgivably brash.",
+      "source_sha256": "e9296f654be39759566b349c185614b0c99006f16029581ea7118358eeab1869",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002b13",
+      "file_offset": 11027,
+      "source": ",Nah, I'm the one\nwho held things up.",
+      "source_sha256": "798402e9e1e35dd6ba30e864663f6ada7faabd581d0ef5c27efe98673803c525",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002b40",
+      "file_offset": 11072,
+      "source": "I do hope that...",
+      "source_sha256": "8f549eb7888a4f491a5c2e0e5f1b3b37f709134ea43d8bd95b64ae290e47a672",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002b57",
+      "file_offset": 11095,
+      "source": "4Livane will forgive yours\ntruly for this one.",
+      "source_sha256": "a06e388b63ec352ff7ca9a71793f306c72bf12d54dc96314f8953fa57bfac67e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002b93",
+      "file_offset": 11155,
+      "source": "LA faithful servant is\nentitled to one little\nbit of folly at the end.",
+      "source_sha256": "b0f125c8401a2d851cdb8a5256a186f2270c9740139c1339c887dc4a83440650",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002bef",
+      "file_offset": 11247,
+      "source": "8If I ever have a chance\nto drop in on this world,",
+      "source_sha256": "9e9ea6f8da685f4f1148d86bf45cc247f6fca05c6668544283a86b82ce990dc3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002c27",
+      "file_offset": 11303,
+      "source": "8perhaps we can ponder\nthe mysteries of existence",
+      "source_sha256": "8fe4308ef2dfbc5b0ce79ab0a822cfb045bbb4cad877b92c8f6347c47688a239",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002c5f",
+      "file_offset": 11359,
+      "source": "Lwhile warming ourselves\nwith some fine ale.\nYou do like ale, Sir Keats?",
+      "source_sha256": "90a3927047fc6d9f0df3540fddbaeb6de59c6f45f1fbbde22b249e2af5e968ac",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc236_en.bi5_@00002cab",
+      "file_offset": 11435,
+      "source": "$Yes... of course.\nUntil then.",
+      "source_sha256": "c07216639c355122c24e39d9d9a98d9c5144ff877467f6fa91c431e3466215d1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

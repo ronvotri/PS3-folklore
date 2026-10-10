@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc106_en.bi5_",
+  "file_sha256": "fabf84ac9dd8c3e87e942f97b67e02b4cd51779612213610f35ac4b36e1cf9f8",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@000035a4",
+      "file_offset": 13732,
+      "source": "Isn't that...",
+      "source_sha256": "d04daa90b585744fb032841d5d7eb99893e5145744118f49d6307c61e5ff1edf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@000035b8",
+      "file_offset": 13752,
+      "source": "What do you mean?",
+      "source_sha256": "c8ac7dce03b1b9b73d09f9d628650393280722336ab394f0fe830107d597c867",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@000035db",
+      "file_offset": 13787,
+      "source": " It's the girl\nat the cliff.",
+      "source_sha256": "8fdd3397f71cb3025bafbc1e1e301bdb4f30b1d25ac8e7207366fd41b8f24512",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@000035fc",
+      "file_offset": 13820,
+      "source": "Which means...",
+      "source_sha256": "b3186054e48402a6ce3ce32927b562cd6bf3f49702b12d91412d148b754ebed0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@0000360f",
+      "file_offset": 13839,
+      "source": "(That must be the\nwoman who fell.",
+      "source_sha256": "3438290591af50382fc1ac261a0350f96d9029597d0e124a71d8f3ea854edbb9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@00003637",
+      "file_offset": 13879,
+      "source": "(Why not go and\nask her yourself?",
+      "source_sha256": "ab51da363d91a8d1f1276461b9ac28327bf5dffe9af2933ba79d3b3618d7f253",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@00003660",
+      "file_offset": 13920,
+      "source": "A reporter observes.",
+      "source_sha256": "6b6beafee845ede832fb38612faee93eadfb00fdf6ea2ade9824f8b4fec66607",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@0000367c",
+      "file_offset": 13948,
+      "source": "Why, you...",
+      "source_sha256": "1e29fd64c99f3486bf2cdb34367bbeded43976426e9743ee35e6afc2d7081c9b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@0000369b",
+      "file_offset": 13979,
+      "source": ",This should be an\nemotional reunion.",
+      "source_sha256": "27e6ac809b94f83d23b0ef4f0a491fa005516a7beb28e07a90edea32e84b5d43",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@000036c8",
+      "file_offset": 14024,
+      "source": "...\nso very lonely...",
+      "source_sha256": "b8418719539724856c9e2a96538c517ae0ac70f5656f015bcc7b039caf135a2d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@000036e4",
+      "file_offset": 14052,
+      "source": "...look this way...",
+      "source_sha256": "527669742c2e406dbc2842aebe826f6798fe3bd7cbb80ce3ef389dba4ba0470c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@0000372c",
+      "file_offset": 14124,
+      "source": "You horrid girl!",
+      "source_sha256": "9d3d4e0f74b9a73b7e3ff92bbc1d79cf10488d4fdc658b5875a34a07546bfada",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@00003753",
+      "file_offset": 14163,
+      "source": ",You're possessed!\nIt's all your fault!",
+      "source_sha256": "009b1e7f93a39835482fc1e39d50850ba25bdaf6fd5a54c45c8fae2bdb97e855",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@00003780",
+      "file_offset": 14208,
+      "source": "I'll kill you!",
+      "source_sha256": "6a97eb97bd0fda3edf335a64bceaeebbe8d06f0ae1e130b4fa75478ebd3d8559",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc106_en.bi5_@00003794",
+      "file_offset": 14228,
+      "source": "Aieeek!",
+      "source_sha256": "73212244f096ffef4e457d189af1f5ae551bb0210632bc8a61f75004c76a2b4e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

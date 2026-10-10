@@ -1,0 +1,280 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc113_en.bi5_",
+  "file_sha256": "c82d776ad2039776cab9696e173f5217d1d7b42d0b93dc894eaa7ad85cf5383b",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003a77",
+      "file_offset": 14967,
+      "source": "(My mother held\nthat doll\nprecious.",
+      "source_sha256": "052906ed756804979e22faab82c97d0d238e5811c3bd9062f38046b557c2bcfb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003a9f",
+      "file_offset": 15007,
+      "source": ",This photo is from\nbefore I was born.",
+      "source_sha256": "581489d69e4c3432af0a6a121921622e569bf5c0abbf6a10c653792caeb6a7da",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003acc",
+      "file_offset": 15052,
+      "source": "You again?",
+      "source_sha256": "53ca70e25fc42870593aa5bff9aeb5feccf01996668aaef13f4d18f6d3fa19cf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003adc",
+      "file_offset": 15068,
+      "source": "Is it strange to you?",
+      "source_sha256": "999afb02f623f8c269f37d9df8c9beba4b0a963e61f7b28c8937932e7c7ac65e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003aff",
+      "file_offset": 15103,
+      "source": " They were\nnever like this.",
+      "source_sha256": "6e66d3c509c71ace07cec48e681466840ff6ab3af142282e3f9bb4266febce4b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003b1f",
+      "file_offset": 15135,
+      "source": "<I'm investigating the woman\nwho fell from the cliff.",
+      "source_sha256": "e51118439f3d01dcee023abd5e4a76e96109b886ccf3dc10125754cbb055d86b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003b5b",
+      "file_offset": 15195,
+      "source": ",The only mother I\nknew was a monster.",
+      "source_sha256": "ea8ee570db0e11fd61dae583045a8ef17e27b7fac975bac20a607f8dbd9d1237",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003b88",
+      "file_offset": 15240,
+      "source": "She can't be that bad.",
+      "source_sha256": "2315f76b4f0097c114bb247c52568c0202bbb1b39a7bdd158b77acffe160b8dd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003ba4",
+      "file_offset": 15268,
+      "source": "What?!?\nImpossible!",
+      "source_sha256": "3924bf916fd3025e227a885300e05f85d425a222bf2d1461439ef652ca7f6b68",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003bbc",
+      "file_offset": 15292,
+      "source": "But...\nthis photo...",
+      "source_sha256": "518a3f7b6d4d9d17dda7efdb50142c219241d24a3d4f1f5cdf4288f6968642b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003bd8",
+      "file_offset": 15320,
+      "source": "What!\nHow did you...?!?",
+      "source_sha256": "4dd454a86672bc573fb84778e8f3803d617a73e0253901e4f6870e2e9e8380e8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003bf4",
+      "file_offset": 15348,
+      "source": "Then...\nHow about this?",
+      "source_sha256": "e247fb5e5690c3ec7ddf269586f7c137013aa7d6ea75bd479c78547b78fb9c56",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003c17",
+      "file_offset": 15383,
+      "source": "$October, 1989.\n17 years ago.",
+      "source_sha256": "d7b4e11c69f5316d66cb4ab472ad7501d2955cb66d9a419a58d47fedffee634a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003c3b",
+      "file_offset": 15419,
+      "source": ",Looks like a happy\nfamily, doesn't it?",
+      "source_sha256": "63ce89066ae57ae048df818aeea3541d25c4c773349ed0a4e3570fc12852b41c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003c68",
+      "file_offset": 15464,
+      "source": "Give me that!",
+      "source_sha256": "7b4055c8c58cf935532a36209d30a779da02802265b4bcbe0376c6b71a9d1640",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003c7c",
+      "file_offset": 15484,
+      "source": "Hey, calm down.",
+      "source_sha256": "694219058586bedeb34a317a4e9dc7c9b4f3eda96b4bafbb80107553635e9ea1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003c8f",
+      "file_offset": 15503,
+      "source": "0Fine! Then find out\nwho killed my mother!",
+      "source_sha256": "7143f2e5cec5998bb636efceaad4b5dadd548486332ad21b9ec8b0f8442060a0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003cbf",
+      "file_offset": 15551,
+      "source": "(But I'll have to borrow\nthat photo.",
+      "source_sha256": "d03de8a5c733bacc83e6955853f6cbc24fe5e272783688297a32db4b66b97618",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003ce7",
+      "file_offset": 15591,
+      "source": "(Your mother asked\nme to do this.",
+      "source_sha256": "d66b53293782ead8a47f6d14e7c46fb8571d22f5a076edaaa0b4f653d406e018",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003d0f",
+      "file_offset": 15631,
+      "source": "(And what happened\nto my family?!?",
+      "source_sha256": "e05f23b26b2efe8b7267ec23097c42b1a8b2f8aabe2d3086b8271cd2be94aba2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003d37",
+      "file_offset": 15671,
+      "source": ",They're smiling. Is\nthis really them?",
+      "source_sha256": "1c61f9b69adc98dc19c6c4751dd29c47ee3c6d5aefd8b7a22e0e537981d9d387",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003d6c",
+      "file_offset": 15724,
+      "source": "Very well.",
+      "source_sha256": "eeb30bc5aecdf0ad89ca3621aad2cf20ad8d582d2043be9fb405330d99952ca3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003d7b",
+      "file_offset": 15739,
+      "source": "0I heard her daughter\nlives in this village.",
+      "source_sha256": "a62de78caf7c4054a0a89620c9a7f7f9284e6b72193cb484b7c33db5a6c9bd90",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003dab",
+      "file_offset": 15787,
+      "source": ",She wanted you to\nleave the village.",
+      "source_sha256": "e952a36ae35f276a3f7345842380d3534d7ea03010193d31ace0646ed6adf4da",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003dd7",
+      "file_offset": 15831,
+      "source": " Surely she cares\nabout you.",
+      "source_sha256": "c4d00d23ef9cc963b6116fe443581123905277d971cd727aaeb05a8d42fb157a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003e10",
+      "file_offset": 15888,
+      "source": "No connection.",
+      "source_sha256": "82de3ae9b3aed85aadf2cfe8e04dd30df17a026cc08261428f0ea8010da9d97b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003e2c",
+      "file_offset": 15916,
+      "source": "What about this doll?",
+      "source_sha256": "fc8ca9f4f1a460a321f235fdcc6899dec6ce91a8eccd4a8eff6b980bf53e0b9e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc076_en.bi5_",
+  "file_sha256": "27eb13429979124b8fb5401b1017bb71fb04d96faff401d5fa207fd0e4510133",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002ae7",
+      "file_offset": 10983,
+      "source": "$I only wanted to\nsave Herve.",
+      "source_sha256": "924a9312eebe1824e34d8ceb0cbebb7bcf0ff69a489c418880d836b0f4d336b1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002b0b",
+      "file_offset": 11019,
+      "source": "(That's why I prayed\nto the Faerys.",
+      "source_sha256": "1bfb1cdfc929aafa4578a32be8f737435cf0c0369a12bfdab94a59d7db49e20d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002b34",
+      "file_offset": 11060,
+      "source": "And gave my blood.",
+      "source_sha256": "3dc477ce1b8d600e65d45d8ef819ea4a347f9f92c6ccad08f76119193d841fb3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002b4c",
+      "file_offset": 11084,
+      "source": "But he...",
+      "source_sha256": "6502a05f0b81b53a8d003fd337b26e585a8b0b4e221cebd986c4fd4c8eb56292",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002b5c",
+      "file_offset": 11100,
+      "source": "Herve died.",
+      "source_sha256": "e3f99538a3e2dce18a3364cde8116afc59c0e6c427198c5d07a093ab451e54de",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002b6b",
+      "file_offset": 11115,
+      "source": " That thing in the ruins?",
+      "source_sha256": "4c3331fe896d764205dfdd3d56454439d0d30369f9c0a85c22a150b0ce51e4d2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002b94",
+      "file_offset": 11156,
+      "source": "Dr. Lester...",
+      "source_sha256": "5d454fed98cf15741194e2eaf2d66b04e561b0401f502f8ee438a59499af617d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002ba7",
+      "file_offset": 11175,
+      "source": "(You hid the truth,\nfor my sake...",
+      "source_sha256": "fc9713b12d69fd32d1b303c110341ec60b7bed92991ecd336cbeb40b67cd0942",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002bcf",
+      "file_offset": 11215,
+      "source": ",But now I know\nwhat really happened.",
+      "source_sha256": "529ca1d410a854b76732ac4bcdb56505fa765cd2ad2ef9ab3f2e4c8fd60c1ff3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002bfc",
+      "file_offset": 11260,
+      "source": "I killed them all.",
+      "source_sha256": "51d4efa5dab4af5ae4d8934f04fff8c9017dc9190b6fd68bb50e1af5ef10dcbc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002c28",
+      "file_offset": 11304,
+      "source": "and Ryan.",
+      "source_sha256": "0943510ca59a10e977e07f98eb43d3fb7ff609bd0ae94b95a8b96968711689df",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002c38",
+      "file_offset": 11320,
+      "source": "I'm sorry.",
+      "source_sha256": "eb86bd79d9a9c072c03c586de6e151783e90572aad7b3c1761cdd1ec396352ab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002c48",
+      "file_offset": 11336,
+      "source": "I'm sorry,\nHerve.",
+      "source_sha256": "ccf9833645e8d90232bb6937615011cb61b8c238fd3be33936f6bb77273a3fa0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc076_en.bi5_@00002c5f",
+      "file_offset": 11359,
+      "source": "$But, then what was\nthat thing?",
+      "source_sha256": "fba52d22c0f604400f078fdb182d694d8f0f32c13918a9822acff67f010d5e21",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc028_en.bi5_",
+  "file_sha256": "e4c6eef8bd21eb689d27e2d755107cd5b306dc42dd2ef424c7574b1974a04e01",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc028_en.bi5_@000023e7",
+      "file_offset": 9191,
+      "source": ",She ran off to the\nchurch graveyard.",
+      "source_sha256": "d5a2b9cae9d852e3f8e35c5b1ca84a6ca2c9539af184f9314941b43b598009a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc028_en.bi5_@00002414",
+      "file_offset": 9236,
+      "source": "I must find her.",
+      "source_sha256": "49e3fa20ee7074386598a64babd5d49f758b4d2ea75c9240a0eadb51be276cd3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

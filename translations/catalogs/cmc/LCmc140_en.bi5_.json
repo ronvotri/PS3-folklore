@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc140_en.bi5_",
+  "file_sha256": "31958996436d2f05acf7d924fed35ed40ac41e193a5aa734b42dbe8671b5645a",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@000038c7",
+      "file_offset": 14535,
+      "source": ",There he is! The\ncenter of attention.",
+      "source_sha256": "85008ab45d05e22146de0bc6c1b4f4db01018f300a6636a946621ea81b07b13d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@000038fb",
+      "file_offset": 14587,
+      "source": "0Now, why'd you want to\ngo and be forgotten?",
+      "source_sha256": "3923f7cd5a48bdc5cbee7b096cdb82090e9e05036d80e2e96bd47f9327231327",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@0000392b",
+      "file_offset": 14635,
+      "source": "4C'mon, lad, I'll give\nyou a free subscription.",
+      "source_sha256": "5628e556516f4c2ebfbced70c2558440038a8ffad1400460cbafa0fdfc9f5b15",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003970",
+      "file_offset": 14704,
+      "source": "What?",
+      "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@0000397b",
+      "file_offset": 14715,
+      "source": "$Why are you\ntrying to stop me?",
+      "source_sha256": "9999ee6b443c2eddf6dc6e31299aa24fb73e1141d52b21525b54594f38752873",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@000039a7",
+      "file_offset": 14759,
+      "source": "(But, Dr. Lester!\nCecilia is\nalive!",
+      "source_sha256": "2f72911ab8fd15609f12891522b55a1bb4b3818f288fc7a2ebc20761d4e7ee55",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@000039cf",
+      "file_offset": 14799,
+      "source": "(If only we could\nmeet once more.",
+      "source_sha256": "11238aa4b9e6de2866fd7db31c8da9ac1f2aa996b4e487f0a1974e827dff6103",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@000039f7",
+      "file_offset": 14839,
+      "source": ",So, what he said\nwas true after all...!",
+      "source_sha256": "eb3858f161d7d6bc4ce4cbc927f4f999ba6305e3ecfe86137f4438edee70619a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003a24",
+      "file_offset": 14884,
+      "source": "Dr. Lester!\nBut why?",
+      "source_sha256": "1d31a78ec89fb56cfb1ebeaa72df53d1eae1e8d3be30a87ccdf3f9f5d6f859ae",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003a3f",
+      "file_offset": 14911,
+      "source": " Because I, too,\nhave died.",
+      "source_sha256": "d59613b71178ba68175115b529bac0603cd181488b38c43ff354a67348e19177",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003a5f",
+      "file_offset": 14943,
+      "source": "4I was frightened to\nmeet you. I'm very sorry.",
+      "source_sha256": "ec756621759e99cb08436e75a926d609dc2b3055c3f66d547b168aac59f482c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003a94",
+      "file_offset": 14996,
+      "source": "But, for what?",
+      "source_sha256": "b26cbedd7d6958f2a055ac60b0ae6c96ec81a015145ea3e83cc663769da1912e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003aae",
+      "file_offset": 15022,
+      "source": " I feel...\nit is too late...",
+      "source_sha256": "9beda8ed02fa9df34bb19f046965a4772d09d6231149b659f11440c2fade5e87",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003acf",
+      "file_offset": 15055,
+      "source": "(Dr. Lester...\nI wanted to meet you.",
+      "source_sha256": "85cde62ef7098a44ec3d060820ca0efd6089b4a2a1128f47ba5abc580021834a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003af7",
+      "file_offset": 15095,
+      "source": "(I have so much\nto thank you for.",
+      "source_sha256": "28f6639e2fbe56089437df0b167eebe6af9344b3982f3907be7e45bf1d0e01fd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003b20",
+      "file_offset": 15136,
+      "source": "Herve...\nThat's not it.",
+      "source_sha256": "366cc030c7935a5ba77a3486b46a62168ba9af42aa55caf4a52c4059f87fe3d0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003b3b",
+      "file_offset": 15163,
+      "source": "@I failed to save you,\nand failed to save\nCecilia, as well.",
+      "source_sha256": "6642d5bce817d3c829edc456d6af90cf4fe723e7831b411078228d0bc130d219",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003b84",
+      "file_offset": 15236,
+      "source": " This is a relief...",
+      "source_sha256": "4a54cfdd814b0bd400bac0b2f37a8431b4730134cb9a3f5b90c1592b342c0ccd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003b9f",
+      "file_offset": 15263,
+      "source": "0Ask the doctor. He's\nwaiting to see you.",
+      "source_sha256": "fbe5843b4c8f9d1bb8478717f72f9d7e4a31c0e7617bd6fc7f0253228de7ca0c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003bcf",
+      "file_offset": 15311,
+      "source": ",I am the one who\nshould be forgotten.",
+      "source_sha256": "3d527c7665f09e2948439f7dad7a41a482c853602caaad0c9dc00143c5785520",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003c14",
+      "file_offset": 15380,
+      "source": "What?!?\nBut...how...",
+      "source_sha256": "e8e20677dd3fbd84927a05958fb4e9e2d8b022e09f9549e695da386dcc0f0034",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003c60",
+      "file_offset": 15456,
+      "source": "How could\nthis be...",
+      "source_sha256": "f2c7be18f654d0529bd8648674ebb18944e3f608acfe3cb3836b1cb18a76b544",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003c8b",
+      "file_offset": 15499,
+      "source": "0Well, it seems I can\nno longer stay here.",
+      "source_sha256": "defb02a945989cdf6838d95f330ca1796f5d9c47ac4e36eee091d33a6aea6636",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003cdc",
+      "file_offset": 15580,
+      "source": " one day...",
+      "source_sha256": "c620f7a03426fffe92fe2f4994a4107f2221d766ca5becf409cbfd1e388a268e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

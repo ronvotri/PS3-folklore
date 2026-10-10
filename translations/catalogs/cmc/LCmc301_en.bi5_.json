@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc301_en.bi5_",
+  "file_sha256": "eefda683d2dcc51af55c172dafa9f4726b94178b5e23f39a3ddf01421b454887",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@00003218",
+      "file_offset": 12824,
+      "source": "I can't wait!",
+      "source_sha256": "4f32d36b13b6f5232691c763d6bc7a3aed05982fbfdd7d832bb6ad0f095cda98",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@0000322b",
+      "file_offset": 12843,
+      "source": ",He's the best in\nall the Netherworld.",
+      "source_sha256": "4f8aa5ba0e1a0be907f0a723cccf7b935620698ca741bdc9c8614e96811daccc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@00003257",
+      "file_offset": 12887,
+      "source": "(And now we can\nfinally hear him.",
+      "source_sha256": "dbb740d56bac4557bd50c2bf33a4de22fdd6ea9195ef7dcc20b1e6271e97c874",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@0000327f",
+      "file_offset": 12927,
+      "source": "(Hello\nand welcome to\nmy concert.",
+      "source_sha256": "3d201599883021bbc0593d691642da3da31de85bcf0c2613b43675865ecddea7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@000032a7",
+      "file_offset": 12967,
+      "source": "0Thanks to Ellen,\nI now have the\nFaery Reed.",
+      "source_sha256": "1e0deb3a8c8260e3acb300e10eabde6c507e0e75e376515a7342106ef00a9dd9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@000032d7",
+      "file_offset": 13015,
+      "source": "<With it, I'll be able\nto achieve sounds\nbeyond wonder.",
+      "source_sha256": "cf751923a7b70cf101d6c85f21e393e81161ae5bb478841f7fe18570677d8282",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@00003313",
+      "file_offset": 13075,
+      "source": ",Well, hurry now,\nwe want to hear it.",
+      "source_sha256": "0f8d963f81235bd3f58e0cbfd96015ef05edb3d22bca91b690e34cb3a66623a8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@0000335c",
+      "file_offset": 13148,
+      "source": "We're waiting!",
+      "source_sha256": "dc55243087e45fb18203b3a19dc9e745cd6d085e791c9739d786ed9a53f47ad2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc301_en.bi5_@0000337f",
+      "file_offset": 13183,
+      "source": ",I can't play...\nI have no wind pipes.",
+      "source_sha256": "49021160c79061489b7702e399acf613bdf419ae2e3ae0e0cf6f6159724f4cf8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

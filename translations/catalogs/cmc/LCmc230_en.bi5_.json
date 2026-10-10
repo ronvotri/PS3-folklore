@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc230_en.bi5_",
+  "file_sha256": "5f64736e849941a5c50f2905e8e6f7f3466769a87fbb756998e5284e5b573edd",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@00002720",
+      "file_offset": 10016,
+      "source": "Can you\nhear something?",
+      "source_sha256": "5d43a1ea72441e4685254f2ac2f86fbb54dedd9d81fa74ab3f1109acb995a2d9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@0000273b",
+      "file_offset": 10043,
+      "source": "(The only other\nperson here is...",
+      "source_sha256": "3ca53a8461e1cb7461bc52e5deed7cf6b8b5ed07eeea0cf086cdc1e5ac184dfb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@00002764",
+      "file_offset": 10084,
+      "source": "Scarecrow?!?",
+      "source_sha256": "35f919a9330dba7f5f05a0a1fcfb8579e563ae11c8a2ed17e6de0c0e5ae2d721",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@0000277f",
+      "file_offset": 10111,
+      "source": "4He didn't come for\nThe Twin Trees, did he?!?",
+      "source_sha256": "79ef774240a54e8d29f4f24ff9fa12a1949cb1f0c3198772fcc76abca1e871d7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@000027b4",
+      "file_offset": 10164,
+      "source": "What's that?!?",
+      "source_sha256": "3a333e0b7bd7e84135ca59dfe6c33b753bec23eab80bb1f57a8813e0d5d65fc5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@000027c7",
+      "file_offset": 10183,
+      "source": "(Damn!\nThe concentrated\nnegativity!",
+      "source_sha256": "496b5e5ceff8d18c0e2b1c227db4915871af94918067f45d402706ce3d1f2bec",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc230_en.bi5_@000027f0",
+      "file_offset": 10224,
+      "source": "It's being absorbed!",
+      "source_sha256": "bae8d8bdb08ed7e9bc718524557ee0fe6e2e9c08ee70830763ada7a31c93ce65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

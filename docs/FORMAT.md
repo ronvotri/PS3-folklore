@@ -25,14 +25,22 @@ Công cụ thử xây lại string pool, cập nhật từng con trỏ, giữ c�
 đến con trỏ kế tiếp, và đệm vùng còn lại bằng NUL. Nếu pool tăng vượt vùng
 ban đầu thì dừng. Chưa hỗ trợ tăng kho dữ liệu hoặc sửa toàn bộ các phần BI5.
 
-## Font — cần nghiên cứu tiếp
+## Font — cấu trúc đã kiểm tra
 
-`lang_tex_a.bi5_` và `lang_tex_e.bi5_` đều 1.311.584 byte trong bản khảo sát.
-Các tên phần có `font`, `font_e`, `font_tr`, `font300`, `font301`.
-Đọc được metadata: `ITC Tempus Sans Com`, font height 36, image 1024×1024.
-Có header giống DDS nhưng đảo byte theo từ 32-bit (` SDD`, `1TXD`), không
-được coi ngay là DDS chuẩn để ghi đè. Chưa xác định đủ glyph table,
-tọa độ texture, bảng mã hoặc quy tắc render.
+lang_tex_a/e.bi5_ đều 1.311.584 byte, section count 15. Lookup Unicode BMP
+ở 0x1E0..0x801E0: 65.536 bản ghi 8 byte, >4H (x, y, width, font index).
+Missing glyph = (0, 0xFC00, 0, 0). Ô glyph cao 36, atlas 1024×1024.
+Width vừa xác định vùng crop vừa là phần tiến ngang quan sát từ bản thử.
+
+Metadata ở 0x801E0..0x80260. DDS chính 0x80260..0x1002E0: 128 byte header
+đảo từng word 32-bit, payload DXT1 little-endian chuẩn, linear block order.
+Chỉ đảo HEADER để Pillow đọc, không đảo payload hoặc Morton unswizzle.
+DDS thứ hai ở 0x1002E0..0x140360, 1024×512, giữ nguyên icon/kana.
+
+Menu tiếng Pháp có UTF-8 Latin. Tiếng Việt 3 byte hiển thị glyph nhưng V1/V2
+có hở sau ấ/ớ. V3 dùng alias 2 byte, được người dùng xác nhận ổn. Mapping
+fonts/aliases.json; xem FONT.md. Từ bằng chứng này không suy engine hỗ trợ
+mọi Unicode/NFD hay mọi đường render của game.
 
 ## Các nguồn chữ khác
 

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc204_en.bi5_",
+  "file_sha256": "16e91dd5f275c118d2f5975fb8beba963d58d8cc02278b64a85aae19b546a431",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc204_en.bi5_@000023b7",
+      "file_offset": 9143,
+      "source": "PThis is where the tragedy\nbegins. But Cecilia would\nonly awaken days later.",
+      "source_sha256": "8b8a354c25728595c52edc70644140328308199a541382a935ec5b2ec21bfd53",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc204_en.bi5_@00002417",
+      "file_offset": 9239,
+      "source": ",Then, Cecilia was\ntaken to the church.",
+      "source_sha256": "44083f2e3d24576b83db2c457faad37258bcd7078e452f91eae16fd847241224",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

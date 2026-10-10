@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc102_en.bi5_",
+  "file_sha256": "91e4459b1bebf505378cbd01a5bfbce12c6a5c21f8c023b3f426585313bd68d3",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002bc0",
+      "file_offset": 11200,
+      "source": "Am I hallucinating?",
+      "source_sha256": "c18f252279e3024aab23c5baf1551d1153edb4abef6aeb2cdb226587bca24c55",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002bd8",
+      "file_offset": 11224,
+      "source": "Some kind of prank?",
+      "source_sha256": "e3c8010a9b60ee0df40d11f5beaca2506b851857b5d88c009f30f0b05c0cb300",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002bef",
+      "file_offset": 11247,
+      "source": ",The people here are\nout of this world.",
+      "source_sha256": "27cc16ad33dcd76a8c930e427c840b3b0125e58212d933777d19a4482009aa88",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002c1b",
+      "file_offset": 11291,
+      "source": ",Well, any lead is\nbetter than no lead.",
+      "source_sha256": "45e06749d6a4d7f31eddcb6802bb0507e8bd08256f8a7d048c6d6c462baa8c67",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002c48",
+      "file_offset": 11336,
+      "source": "What was that?",
+      "source_sha256": "3f6e14822311aec9f7e2143f182b719075b49d64bdd84128362ab1767acd4415",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002c64",
+      "file_offset": 11364,
+      "source": "Time to investigate.",
+      "source_sha256": "43161ae85495e9f32d58c844aff3eeca51a237bedfea5bf2f6c131835b77361e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002c7f",
+      "file_offset": 11391,
+      "source": "(My questions can\nwait for tomorrow.",
+      "source_sha256": "747148fb021bd841e18bcefd6624decc726ad947f0523542aa39a1f77c0486e9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002ca8",
+      "file_offset": 11432,
+      "source": "At least she has a bed.",
+      "source_sha256": "6dfd5ea73fe5d76dbce507120816444d43963852339a39f821ff1ca2025d4812",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002cc4",
+      "file_offset": 11460,
+      "source": "I don't even have\nthat.",
+      "source_sha256": "186a678a47ad15ddbd8995ebf779bd437fa75ef578cf9636368b3d052feff0cc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002ce8",
+      "file_offset": 11496,
+      "source": "Hardly fit for a dog.",
+      "source_sha256": "a438966840b8e6a78ffdc31edee9c7044c0c28e083ef493ddf2d628f0fe406ae",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002d04",
+      "file_offset": 11524,
+      "source": "Ugh, my\nbody aches.",
+      "source_sha256": "51a0c794d8ca0cf53016b51ac67725805cabc14082e8137be203d966065f1805",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc102_en.bi5_@00002ee0",
+      "file_offset": 12000,
+      "source": "What a dump!",
+      "source_sha256": "02dc48f4617c2971f3bbaf2604c28e57b43b0d2a981e0e3b187796d12b0e4175",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

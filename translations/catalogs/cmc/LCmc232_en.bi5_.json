@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc232_en.bi5_",
+  "file_sha256": "4d94e24372672414b7f97dbdc7cf5f6af44ff55ad08ac5053cd92e2c56a77b30",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002ce7",
+      "file_offset": 11495,
+      "source": "LEllen, poor girl, don't\nfeel the weight of the\nworld on your shoulders.",
+      "source_sha256": "41b34f82beb3add2787f710b06d9998a15512e31feb5807d05b18f163e468f8a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002d33",
+      "file_offset": 11571,
+      "source": "<As Cecilia, you wished for a\nworld that feared death.",
+      "source_sha256": "445b5417c65808df03e98dcbcfd9d38085bcab3664eb8ac3d3b1de1b2d0f9121",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002d6f",
+      "file_offset": 11631,
+      "source": "4That way, people would\nstop hating each other.",
+      "source_sha256": "eb10dd813d6600fc62481c5a9e7219f4a97483d7740ff61bed52e70c854bb737",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002da3",
+      "file_offset": 11683,
+      "source": ",That desire is what\ngave birth to me!",
+      "source_sha256": "1595dab8d1074a46a778d0dae14e8874b7825cdca95f451bed554afee197e340",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002dd7",
+      "file_offset": 11735,
+      "source": ",But you are little\nCecilia no longer.",
+      "source_sha256": "d5dbcd20092db4d99ea93c5cf94fcc9f00c603fdced485e003702ebe12a9530a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002e03",
+      "file_offset": 11779,
+      "source": "0I was born to grant\nCecilia's wish, but it",
+      "source_sha256": "2afd7c705f5cd3aa9b6b4fa18cb30dca52a29a05aae9fcd276233271d2f73ce6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002e33",
+      "file_offset": 11827,
+      "source": "4seems my job is done.\nUwee hee, sorry Ellen.",
+      "source_sha256": "8d245aad96e1c5d22592f729d9226aa2058e6e3b86f6091e148f304d20f2db2d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002e68",
+      "file_offset": 11880,
+      "source": "I'm cold.",
+      "source_sha256": "f021e789a8ea785ace79704abb413b7829ea5f1e9192117a8fdd9fc4873e9ed3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002e77",
+      "file_offset": 11895,
+      "source": ",Scarecrow, thank you...\nFor everything.",
+      "source_sha256": "b3a13e422ed49670d0db71d01f4c583d14b69163b8c1660cf48572972e2c617b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002ea3",
+      "file_offset": 11939,
+      "source": "0You helped me recall\nmy precious memories.",
+      "source_sha256": "adf5a973f0f7b0323ba3be6dbbd7f2daa0c5f19207f8218626f57de3c7542d3d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002ed3",
+      "file_offset": 11987,
+      "source": "4Lastly, I can see a view\nof my sweet home town.",
+      "source_sha256": "217e2bad68ea00c4cb3ddd0482b320ec3b7f300ab1c914d43d3d1954977141a9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc232_en.bi5_@00002f07",
+      "file_offset": 12039,
+      "source": ",And dear Keats...\nMay we meet again...",
+      "source_sha256": "4c94c4b2d7e166515235e71cf1b60ba35f7dab0b4642c44cc50aa2b873f5b561",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

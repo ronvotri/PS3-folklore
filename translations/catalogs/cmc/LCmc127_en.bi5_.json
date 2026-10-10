@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc127_en.bi5_",
+  "file_sha256": "d68c8de38e2dc07fae377aa0989b0c6c339826e59a9c697a1fc081d9101f9b60",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000314f",
+      "file_offset": 12623,
+      "source": " Faery losses\nare mounting.",
+      "source_sha256": "a4c48f98d39b1e46bb320a0949232c79cce180462915293b2145d37dea6dd338",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@00003178",
+      "file_offset": 12664,
+      "source": "You look glum.",
+      "source_sha256": "da7a688190be063ab3617ce4fdd82d868daf3688048f9840969b4f1310d99fbe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000318b",
+      "file_offset": 12683,
+      "source": "<Such a waste...\nFighting a battle that\ncannot be won.",
+      "source_sha256": "f60448fae5d9d60ef53e2d656d43f07874e32bc55aac143fef9ace496153ee42",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@000031c7",
+      "file_offset": 12743,
+      "source": ",Just like ancient man\nas I know him.",
+      "source_sha256": "9108a8c79a03317bb9e89b488ffa8ad3f58b72b4d6dcf45ce06a75ca0616914f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@000031f4",
+      "file_offset": 12788,
+      "source": "And how would you know?",
+      "source_sha256": "cff4000b511158196dfb15ff642ceea60c5648c227832374b974507597deb178",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000320f",
+      "file_offset": 12815,
+      "source": "0I know. As I know\nthe ancient Netherworld.",
+      "source_sha256": "198312510d6b452ab2781c4246ec68b5ed6e5d954717ffa2ebc85cc35a69c1a8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000323f",
+      "file_offset": 12863,
+      "source": "(I don't know who\nthe hell you are.",
+      "source_sha256": "ec96a0c35b1fef53f69bba8b69d28129594bdbc7c6f06685b1256b6c62f5b97b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@00003267",
+      "file_offset": 12903,
+      "source": "(But the scale of this\nis beyond me.",
+      "source_sha256": "4863091ec87a963dedd8fc50d071ff646643c4ec688edf7691e34ab7ef197aed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000328f",
+      "file_offset": 12943,
+      "source": ",Perhaps we can stop\nthe grandiosity!",
+      "source_sha256": "3a6404659651e1d0340af52a3d8eee2e7f24811249e954d836fa0cc46948d715",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@000032c3",
+      "file_offset": 12995,
+      "source": ",If you want to know,\nthen work with me.",
+      "source_sha256": "244e1d4324f291c772727aea39af692e2641a92a6ca515496bd5cb814ce773ac",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@000032f8",
+      "file_offset": 13048,
+      "source": "Is that\nRyan?",
+      "source_sha256": "70490e13635fe5ce5e1eb3e4618413bc9485bc75e14f80c9173f88bbe0322f0b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@00003323",
+      "file_offset": 13091,
+      "source": " Is that not\nwho you seek?",
+      "source_sha256": "394cede708e584802275563f191261835ade44903fb811e9b960335cdf0916dd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000335c",
+      "file_offset": 13148,
+      "source": "This makes two.",
+      "source_sha256": "0d327f9310a25ab10bbe06ab98d03d7ab039b8c174dd0ef544d637f4411f075b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@0000336f",
+      "file_offset": 13167,
+      "source": "(They should have\nleft it to Ellen.",
+      "source_sha256": "3d7c4ca78944c2ec68baa27d860f3c0a91593cff1bc353cd752ddad286543f95",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc127_en.bi5_@000033c7",
+      "file_offset": 13255,
+      "source": ",A bit sympathetic of\nthe enemy, are we?",
+      "source_sha256": "51b7949becfda4c24524fa0baf98b57b31898d67985724f7c303ef9d7f021fbf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

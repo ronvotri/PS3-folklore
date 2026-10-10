@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc109_en.bi5_",
+  "file_sha256": "3a2096e40b4986a9ee8467a25f9c11ce1a45646cbf451674de7d7f551d61f245",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc109_en.bi5_@00002b87",
+      "file_offset": 11143,
+      "source": "0The place that holds\nour family memories...",
+      "source_sha256": "6c49211baa88147445afce7cc8fbff71b8ba4339d33f420693c9e0f8cec2046e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc109_en.bi5_@00002bb7",
+      "file_offset": 11191,
+      "source": "$I'll go and see the\nlighthouse.",
+      "source_sha256": "57c2ff9a7c40b8d4bb20f6ed65d047bca1d509fa34b657816b797f52852c80bc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc109_en.bi5_@00002bdc",
+      "file_offset": 11228,
+      "source": "A lighthouse, eh?",
+      "source_sha256": "c46fc33b7362310b3fd0a182c8efbed51c20fa102c0bb16566d1a9aaf08d7958",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

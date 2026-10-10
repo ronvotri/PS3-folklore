@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc029_en.bi5_",
+  "file_sha256": "2d6bfb89bc96e9c077bbe9ad1ded7c1a0b0d24317436ea968baadae592b858de",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002da7",
+      "file_offset": 11687,
+      "source": " Keats...\nWhy are you here?",
+      "source_sha256": "6d267a2f664d4ce568d462b8ee7f70e06b5c31bb7bd08a6bf978f34d2c744d5a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002dc8",
+      "file_offset": 11720,
+      "source": "Same as you.",
+      "source_sha256": "881111ba269301239feae15f540502144e4c463240ca4d8ffdfc95304b349fdf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002ddb",
+      "file_offset": 11739,
+      "source": " Yes, how did you know?!?",
+      "source_sha256": "d03c29cb565cb9e60a2c9d288aa9bae52f9976cb297827ef1a0532ed1d5504b2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002dfb",
+      "file_offset": 11771,
+      "source": "HWhatever Ryan said to\nRegine 17 years ago,\nit triggered a tragedy.",
+      "source_sha256": "c970209c38d57e73dd00cfd1329f5abc7816da4f35b2fc9b1f0b2a40983fb13e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002e43",
+      "file_offset": 11843,
+      "source": "(And now,\nRegine has been killed.",
+      "source_sha256": "12aab05fd6dc4bb87386e4782b90dfe001f795a59736b2668f1e1e884cf97bb9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002e6c",
+      "file_offset": 11884,
+      "source": "Are there any clues?",
+      "source_sha256": "d64372be484ee98222ee9a4cb753e801241d2d30f8636163a8841107264c02d3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002e88",
+      "file_offset": 11912,
+      "source": "They match...",
+      "source_sha256": "4f9a4526332026f6a3fc0e99b2ec62c1bd73d6ce2492a2127b57cb23c61ae6ce",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002eac",
+      "file_offset": 11948,
+      "source": "Only half a photo.",
+      "source_sha256": "6273aeff1ee92e7c7b1cbbfed332601c5cd7ea74840719d151f4a775bcc57153",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002ecc",
+      "file_offset": 11980,
+      "source": "I have the\nother half!",
+      "source_sha256": "5e380211093481083c674e99291debe6547ff9d779a2a75a256030dec7889b82",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002ee8",
+      "file_offset": 12008,
+      "source": "What could it mean?",
+      "source_sha256": "642854520b4401f0fb8485fface23e9576fca950ce003aed1798753ae48e249d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002f07",
+      "file_offset": 12039,
+      "source": " A doctor and his patient?",
+      "source_sha256": "bca9d9b5c0823b724b446de793e8cd1057262b3b0cf39ef9a2b4c65beaac2a74",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002f28",
+      "file_offset": 12072,
+      "source": "Is this Herve?!?",
+      "source_sha256": "e945363b82c9035ff14ddc4d0d961cb1b5144d9ddbe2ac59a64e305a6bfe65a1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002f40",
+      "file_offset": 12096,
+      "source": "Suzette's brother?",
+      "source_sha256": "32119f33e7eaa31ef41ff43abc7f42ed111459d80bdebd236d50f49c423a5165",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002f57",
+      "file_offset": 12119,
+      "source": "8Yes.\nI was told that\nhe died because of someone.",
+      "source_sha256": "5437900d9e0fb35805c3b5c0b8f9c49a0fdac8f08a4fb9664eef76cda5a40ef9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002f90",
+      "file_offset": 12176,
+      "source": "Told by whom?\nThe dead?",
+      "source_sha256": "b53fe5182479ca5006aff016d08aaae537a0691cb1ad5688a37ff253fdeb1579",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002fc3",
+      "file_offset": 12227,
+      "source": ",A reporter cannot\ndivulge his sources.",
+      "source_sha256": "741dd09b3f28a5bf9ced09dd323bf05971cb7c6d041b142bcfa6ca5da149973f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@00002fef",
+      "file_offset": 12271,
+      "source": "@But, we still don't know\nwhy Herve,\nRyan, and Renaldo died.",
+      "source_sha256": "85b5d646ff704275a91d7db73bf0430407f8062a572f683928ea4b52b6dde2eb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc029_en.bi5_@0000302f",
+      "file_offset": 12335,
+      "source": "4And now,\nRegine...Just what\nis happening here?",
+      "source_sha256": "07eede2780365cebc6c008768af759b30ce38b4e6d0962212821d96e198fe389",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

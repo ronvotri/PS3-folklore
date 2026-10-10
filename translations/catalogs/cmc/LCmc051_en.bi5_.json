@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc051_en.bi5_",
+  "file_sha256": "8ae1cb6585432f00fe37b005fe39c0bc80532f2bc47e710518026573ccceeb01",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc051_en.bi5_@00002cc7",
+      "file_offset": 11463,
+      "source": " O'Connell...\nI'm sorry...",
+      "source_sha256": "13e86b8b74264b3559ab4c20851ed60dc68cc1f976b7dea03b503c4544fc3132",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc051_en.bi5_@00002ce7",
+      "file_offset": 11495,
+      "source": "(I was unable to\nreturn your car...",
+      "source_sha256": "dc4516cdab7adb69daf3f84b60b992375a09c74995a1b82aa1d3386280aca9ed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc051_en.bi5_@00002d10",
+      "file_offset": 11536,
+      "source": "O'Connell's car?",
+      "source_sha256": "28a4be764f90783b81aa6fed586c7e88500ff4b2f1f4f1fe2892d1ea106b9776",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc051_en.bi5_@00002df0",
+      "file_offset": 11760,
+      "source": "I heard her voice. Does",
+      "source_sha256": "5f701b2c7471c556019b48f0f7cbeb38b71d8e258e4870e8f8aa4d5d8459f150",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc051_en.bi5_@00002e0c",
+      "file_offset": 11788,
+      "source": "this mean she's dead?",
+      "source_sha256": "3b953be4f39d5eb054b4c2a8ad1b32d75f68cb8ec9dd7a0230157deaa5c04182",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

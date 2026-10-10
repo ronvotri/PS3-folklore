@@ -2,50 +2,42 @@
 
 ## Đã xác nhận
 
-- Game trong `E:\Game\Folklore` là dữ liệu PS3 BCUS98147 đóng cùng RPCS3.
-- Đọc được bảng kê `etc.fht_`: 4.831 mục, mỗi mục 40 byte.
-- Đọc được menu tiếng Anh trong `lang_en.bi5_` và `lang_uk.bi5_`.
-- Đã áp dụng bản menu không dấu: 134 chuỗi EN, 132 chuỗi UK.
-- Người dùng xác nhận game nhận bản dịch. Đây là xác nhận menu mẫu, không
-  phải kiểm thử toàn bộ game hoặc mọi màn hình menu.
-- Gói local cũ lưu nguyên dữ liệu gốc để khôi phục, ở đường dẫn ghi trong README.
+- BCUS98147 PS3 trong E:\Game\Folklore, đóng cùng RPCS3.
+- Menu thử: 118 cặp, thay 134 chuỗi EN và 132 UK, 2.998 tham chiếu mỗi tệp.
+- Merienda Regular 400 được người dùng chọn.
+- V1/V2 có khoảng hở sau ấ/ớ; V2 thu gọn glyph vẫn còn lỗi.
+- V3 giữ nguyên hình chữ/độ rộng V2, gán 25 chữ Việt 3 byte vào ô UTF-8 2 byte.
+  Người dùng báo “ok rồi” sau thử V3. Không khẳng định toàn bộ game/font đã đạt.
+- Người dùng muốn tự mở/điều khiển game và báo bằng hình, không cần agent mở game.
 
-## Bằng chứng kỹ thuật
+## Sẵn sàng dịch trên cloud
 
-`baseline.json` lưu kích thước, vị trí và SHA-256 hai menu gốc/bản đã thử,
-không chứa dữ liệu nhị phân. Bản thử chỉ tái tạo vùng `system`, điều chỉnh
-con trỏ tương đối và giữ nguyên kích thước mỗi tệp/kho dữ liệu. Mỗi tệp có
-2.998 tham chiếu chuỗi được kiểm tra sau khi tái tạo.
+158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
+viên hội thoại/tương tác/cảnh. Có 134 mục draft từ menu mẫu; 11.752 todo.
+Chưa bắt đầu dịch hội thoại. Xem QUEUE.md và TRANSLATION.md.
+Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
+Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
-## Kiểm tra bộ công cụ trong repo
+## Công cụ và kiểm tra
 
-- 6 bài kiểm thử tổng hợp đã qua trên Python 3.12/Windows tại máy phát triển.
-- Đã trích bản gốc trong bộ nhớ từ gói local cũ, không khôi phục game đang chơi.
-- Build từ công cụ portable và 118 cặp dịch tạo đúng SHA-256 của hai tệp
-  đã áp dụng ở bản thử trước: 134 chuỗi EN, 132 chuỗi UK.
-- Lệnh chỉ kiểm tra xác nhận game hiện tại khớp gói portable, không ghi game.
-- GitHub Actions được cấu hình chạy kiểm thử trên Windows và Linux; kết quả
-  CI cần xem trên repo, không suy ra từ lần chạy Windows local.
+- Bộ 12 unittest đã qua local Windows/Python 3.12.
+- Validator đã qua toàn bộ 11.886 mục.
+- Công cụ font portable tạo đúng SHA-256 font V3 đã thử (cùng nguồn Merienda
+  pinned, instantiate weight 400, Pillow 12.3.0). Metadata/hash ở font_baseline.json.
+- CI Windows/Linux chạy unittest và validator. Không suy CI từ kết quả local;
+  xem GitHub Actions của commit tương ứng.
+- Legacy folklore.py vẫn là ASCII: không dùng nó cài đè trực tiếp game V3.
 
-## Việc tiếp theo
+## Phần còn thiếu
 
-1. Đã chọn **Merienda Regular 400** làm font nguồn; xem FONT.md và
-   fonts/choice.json. Đã kiểm tra đủ 134 chữ Việt có dấu và 8 dấu kết hợp.
-   Tiếp theo đọc `lang_tex_a.bi5_` và `lang_tex_e.bi5_`, xác định mapping
-   ký tự/glyph và thử font texture có dấu trên menu nhỏ. Chưa thay font game.
-2. Giải quyết tăng kích thước vùng/tệp nếu bản dịch dài vượt chỗ trống.
-3. Trích hội thoại theo ID/ngữ cảnh, dịch từng chương và giữ control codes.
-4. Thử trên Steam Deck, kiểm tra điều khiển và dữ liệu DLC/update.
-5. Đóng gói bản vá riêng, kiểm tra nguồn gốc bằng hash và thêm hướng dẫn.
-6. Kiểm thử PS3 thật nếu muốn công bố hỗ trợ phần cứng gốc.
+Parser/repacker talk/cmc chưa có. Các tiền tố candidate chưa chắc là lời thoại.
+Cần thêm glyph/alias cho toàn bộ chữ Việt, dấu câu và các câu mới. Phần menu
+mẫu gần đầy; một câu dài có thể vượt vùng. Phim/chữ trong ảnh chưa dịch.
+PS3 thật, ISO và Steam Deck chưa kiểm thử. Source font coverage != game coverage.
 
-## Giới hạn đã biết
+## Phục hồi local
 
-- Encoder hiện chỉ chấp nhận ASCII. Chưa được đổi sang UTF-8 tùy ý.
-- Menu là phần đầu của `lang_*.bi5_`; các phần overview/item/tutorial chưa dịch.
-- Chữ có thể nằm trong hình ảnh ở `menu_tex/`; công cụ hiện không sửa ảnh.
-- Các tệp `talk/en/*.bin_`, `cmc/en/*.bi5_` và phụ đề `movie_*_en.dat2_`
-  có chữ tiếng Anh đọc được, nhưng chưa có công cụ đóng gói hoàn chỉnh.
-- PS3 thật, ISO và hiệu năng Steam Deck chưa được kiểm thử.
-- Cloud có thể chạy kiểm thử tổng hợp mà không có ROM; kiểm thử hình ảnh/game
-  tiếp tục tại máy có game. Chưa thiết lập môi trường cloud từ repo này.
+Các gói payload chỉ lưu trên máy: Folklore-menu-thu, Folklore-menu-co-dau-demo,
+Folklore-font-spacing-v2, Folklore-font-encoding-v3 trong outputs/ của phiên local.
+Đóng RPCS3. Khôi phục ngược thứ tự V3 → V2 → demo có dấu nếu cần quay về font
+ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên GitHub.

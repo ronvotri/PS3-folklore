@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc144_en.bi5_",
+  "file_sha256": "a25481aa6453ecfad89e331fe38f37af92ace6b79f1a61d9c0079a47167200ab",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc144_en.bi5_@000028f7",
+      "file_offset": 10487,
+      "source": "$Show me the spotlight\nagain.",
+      "source_sha256": "765d1131a29ce6b2c0464f3ecc32597afcae8928227012091213ef253012087f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc144_en.bi5_@0000291b",
+      "file_offset": 10523,
+      "source": " How can I stop\nthis ageing?",
+      "source_sha256": "cca6fd1e647bea031f526e7460db497d7b704fc0631f3fc0af7370bcd435535a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc144_en.bi5_@0000293c",
+      "file_offset": 10556,
+      "source": "...I don't understand",
+      "source_sha256": "d471d8417e5412d9ae9f3575f72a1d04b3429d8bbbaa9a4ed82df8920223cd12",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,35 +1,43 @@
-# Tiếp tục trên cloud hoặc phiên mới
+# Tiếp tục dịch trên cloud
 
-Repo là nguồn lưu công cụ, bản dịch và tiến độ. Máy cloud không tự truy cập
-ổ E: của máy Windows, và repo không chứa ROM/font. Mở repo này trong môi
-trường cloud hỗ trợ GitHub, đọc AGENTS.md và chạy bộ kiểm thử Python.
+Chọn repo ronvotri/PS3-folklore trong môi trường Codex Cloud có quyền GitHub.
+Tạo/chọn môi trường một lần; plain translation chỉ cần Python 3.10+, không cần
+ROM, RPCS3, API key hay thư viện font. Setup kiểm tra có ở scripts/cloud-check.sh.
+Repo đã có nguồn câu để dịch; đừng yêu cầu người dùng tải ROM chỉ để bắt đầu.
 
-## Việc làm được ngay không cần ROM
+## Tin nhắn bắt đầu
 
-- Kiểm tra, cải thiện công cụ và các bài kiểm thử với dữ liệu tự tạo.
-- Rà soát bản dịch menu không dấu, thống nhất thuật ngữ.
-- Chuẩn bị bản dịch có dấu thành tệp riêng; chưa dùng để build ASCII.
-- Chuẩn bị cấu trúc bản dịch theo chương, tài liệu định dạng và checklist QA.
+Tiếp tục Việt hóa Folklore BCUS98147. Đọc AGENTS.md, STATUS.md, TRANSLATION.md
+và QUEUE.md. Font Merienda V3 đã được người dùng xác nhận sửa khoảng hở.
+Hãy rà và dịch 50 mục menu kế tiếp trong catalog, giữ nguyên nguồn/ID/control
+codes, dùng thuật ngữ đã chốt. Chạy validator và unittest, cập nhật tiến độ,
+rồi lưu thay đổi vào GitHub qua commit hoặc PR để tôi tiếp tục phiên sau.
 
-Nghiên cứu định dạng thực tế hoặc build patch cần những dữ liệu gốc liên quan
-được cung cấp trong môi trường riêng. Các tệp nguyên bản đang có ở máy local;
-không được giả định cloud đã có chúng. Không dùng gói vá đã chỉnh sửa làm nguồn.
+Sau đó có thể nói “dịch tiếp 50 câu”, “dịch nhóm cảnh tìm mẹ”, “rà lại xưng hô”.
+Agent đọc queue/catalog để tiếp tục, không phụ thuộc lịch sử chat này.
 
-## Prompt bàn giao gợi ý
+## Cloud và local
 
-> Tiếp tục dự án Việt hóa Folklore BCUS98147. Đọc AGENTS.md,
-> docs/STATUS.md và docs/FORMAT.md trước. Menu không dấu đã được người dùng
-> xác nhận hoạt động trên RPCS3. Mục tiêu tiếp theo là hỗ trợ dấu tiếng Việt;
-> trước tiên xác định dữ liệu font cần có và thiết kế thử nghiệm nhỏ.
-> Chạy các kiểm thử hiện có, cập nhật STATUS.md với kết quả và phần cần
-> kiểm tra tại máy local. Không tuyên bố chữ có dấu chạy được khi chưa thử game.
+Cloud dịch/rà văn bản, kiểm tra dữ liệu, lưu bản dịch/tiến độ vào GitHub.
+Local lấy phiên bản đã lưu, bổ sung glyph nếu cần, build có kiểm tra nguồn/hash,
+đóng RPCS3 trước khi cài. Người dùng tự mở game và gửi ảnh. Ghi phản hồi vào
+STATUS/QUEUE để phiên khác hiểu trạng thái.
 
-## Quy trình phối hợp
+Hội thoại đã có nguồn để dịch nhưng chưa có parser/repacker hoàn chỉnh;
+không hứa dịch trên cloud xong là tự áp dụng được vào game. Mã font mới chỉ
+được thử trên menu mẫu. Việc mở rộng vùng menu và glyph vẫn cần local QA.
 
-1. Cloud tạo thay đổi công cụ/bản dịch trên nhánh và pull request.
-2. Máy local lấy thay đổi, build gói từ dữ liệu gốc đã kiểm tra hash.
-3. Áp dụng bản mẫu, mở game, kiểm tra bố cục/font và chụp ảnh khi cần.
-4. Ghi kết quả vào STATUS.md để phiên khác tiếp tục đúng trạng thái.
+## Công cụ
 
-Repo không thay thế hạn mức sử dụng của tài khoản; mục đích là giữ tiến độ
-và khiến công việc có thể tiếp tục qua nhiều phiên.
+python tools/catalog.py validate
+python -m unittest discover -s tests -v
+
+Font work optional: pip install -r requirements-font.txt, rồi xem FONT.md.
+Không chạy encoder ASCII cũ cho bản dịch có dấu. Không commit ROM/font texture/
+payload patch. translations/index.json là danh mục, catalog là tiến độ từng câu.
+
+Hướng dẫn sản phẩm chính thức (đã kiểm tra ngày 10/10/2026):
+https://learn.chatgpt.com/docs/cloud
+Chọn Work in > Cloud, tạo/chọn môi trường và repo, rà setup rồi Publish nếu
+là môi trường mới. Sau đó mở task để dịch. Repo chuẩn bị được ở đây; môi trường
+cloud của tài khoản chưa được agent tạo hoặc kiểm thử trong phiên local này.

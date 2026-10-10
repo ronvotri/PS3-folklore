@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc013_en.bi5_",
+  "file_sha256": "a015b48d80c6fd38092bc4adaec03913b6a0c59c3cc77144567d2f51ed7b618d",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000031f7",
+      "file_offset": 12791,
+      "source": "0There's an ancient\nCloak in this chamber.",
+      "source_sha256": "857d745e88134adc85f5366656552a45aef098610401e3f73b27ff6651d4f910",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003227",
+      "file_offset": 12839,
+      "source": "$Used for Netherworld battle.",
+      "source_sha256": "ac0d4d57a471ccef8e68e8d29774816f497761b3c1d8f0c4e1c1ee3fbda452ed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003253",
+      "file_offset": 12883,
+      "source": "DAncient priestesses\nusing the Cloak could\nhear the voices of",
+      "source_sha256": "e8208c9132e54a7b14b8d7ded4c4edce01511bd0aa0e226e9efdf3062b7f22d9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003298",
+      "file_offset": 12952,
+      "source": "the dead every night.",
+      "source_sha256": "53c802a665c23ba750219809ac21d426512f9bf07bb8ad271f353073dd05fc62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000032b3",
+      "file_offset": 12979,
+      "source": ",You have the power\nto don the Cloak.",
+      "source_sha256": "15de8c9984034a740072c23e8c423d7c0f667225df7ffe57ae42161c3cef1eed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000032e0",
+      "file_offset": 13024,
+      "source": "Because for you,",
+      "source_sha256": "228dde0976ed6f7fc80a0f0a493b647c223a36bd837c5ac09b5b27517c5e8fce",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000032f7",
+      "file_offset": 13047,
+      "source": "(death is a very\nfamiliar matter.",
+      "source_sha256": "110d59746b73c50b556611ce860890fb3db0db74687cb362e3ea6b46eb9a18fe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003328",
+      "file_offset": 13096,
+      "source": "Why me?",
+      "source_sha256": "7fe6d8fa56cae19fe077bdfd5eeabd5b226bc6336207cb0b84715c36fb69b95a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003334",
+      "file_offset": 13108,
+      "source": "Uwee hee hee",
+      "source_sha256": "f5e33af96818a63d78067527c8df9f23b19646af8024496d80f3025f87725c47",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003347",
+      "file_offset": 13127,
+      "source": " Trust me,\nI can just tell.",
+      "source_sha256": "fa652d680557f99d5092d9b053b7f541dc457231e60eebf858ce408d8425bba1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003367",
+      "file_offset": 13159,
+      "source": "$That's why I\nbrought you here.",
+      "source_sha256": "d6c6409804185a5733883861e459bdb66dca02beda78a6b3e8e6099f97ee0ea1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@0000338b",
+      "file_offset": 13195,
+      "source": ",Over time, you have\nlost many things.",
+      "source_sha256": "72122e98874cdbb4ff629e5b3ad1913f961b6e9d30df405b5b7580fd02d50ded",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000033c4",
+      "file_offset": 13252,
+      "source": "We can search together!",
+      "source_sha256": "fb326efc52734d0f2226c069374a66e00816f44ca24ff7089631e10deef87d43",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000033df",
+      "file_offset": 13279,
+      "source": "$My only memories\nof my mother",
+      "source_sha256": "74cdd101eb7d5af9ac6d2c916a3265d9322152fa60f4ce33b6da6fb64d64bcc2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@00003403",
+      "file_offset": 13315,
+      "source": ",are of her reading\na picture book to me",
+      "source_sha256": "614164e623f5594205be6cc4f4cd16b8f3882676926f7e185de9cd9758a78727",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@0000342f",
+      "file_offset": 13359,
+      "source": ",and the pendant she\ngave me as a charm.",
+      "source_sha256": "b9a69a55ed517b02daddc475fc7c79ad5ce0237cfbd01f660cf1a79d7a01d55e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@0000345c",
+      "file_offset": 13404,
+      "source": "Yes, yes.",
+      "source_sha256": "e9208fc091f98da4e3bce0d1a00d9fdd08d9151a78f83941e423ae584a5b5d88",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@0000346b",
+      "file_offset": 13419,
+      "source": "8Perhaps you've blocked\nout the painful memories.",
+      "source_sha256": "1f507d97bb5c4ef5e71950443cbb40676082672c3f2519044677020f51f814fa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000034a4",
+      "file_offset": 13476,
+      "source": "But it's all right now.",
+      "source_sha256": "3769d74c8d4cdaa00c990dcf28e4e655074317eaaa6cfbc868dde7e8318389bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc013_en.bi5_@000034c0",
+      "file_offset": 13504,
+      "source": "Isn't it?",
+      "source_sha256": "d9c1159664e3f45c0c7a8c18831c59d30a71fe78ecb464564390c9bf4d4bde27",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

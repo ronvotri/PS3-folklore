@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc217_en.bi5_",
+  "file_sha256": "951a01e1bb0578df7fa61652d931bd8f2aa818267465a352a1057e68badb4716",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000030b8",
+      "file_offset": 12472,
+      "source": "Can we speak?",
+      "source_sha256": "11fe4f745600754be3affa1031ab9207daffb23ba76b2fbcdcc2abaa1bbc3a65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000030cb",
+      "file_offset": 12491,
+      "source": ",Keep it short.\nI'm no sentimentalist.",
+      "source_sha256": "c1d5e0ccb3201eafac96fbdb76abadb030eda81522ca224b6c5f6a1d980a45b0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000030f8",
+      "file_offset": 12536,
+      "source": "I understand now.",
+      "source_sha256": "ce198949812c7d326a51ad51b1fcaf1b7782045c3c672f89413a47b17f38dda8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@00003110",
+      "file_offset": 12560,
+      "source": "I know.",
+      "source_sha256": "45b3c6001b6b95569b2e2ca0584b2d5e169321859dc5f75c93acf53f1400cac1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@0000311b",
+      "file_offset": 12571,
+      "source": "$...Did you say\nyour good-byes?",
+      "source_sha256": "77ffbd72134c6373a9355e6e02579ebe6044f09cb00fe48c8a9a5dc5b6a3795d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@0000314b",
+      "file_offset": 12619,
+      "source": " She lived to\nprotect you.",
+      "source_sha256": "40e2da5b34c002ad2390d2e7666796470d2de9222f63b5d1126de4049743b98d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@0000316c",
+      "file_offset": 12652,
+      "source": "She was at peace.",
+      "source_sha256": "689b31837f682176d4c52408e2395a2e320b562e0a3a42485b541e58652a31c5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000031c3",
+      "file_offset": 12739,
+      "source": "8My memories of the village\nwere pleasant and warm.",
+      "source_sha256": "326d329842459b524767b63ccd41809da4a6f80bb2384ca3b16e4e77092c50c4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@00003203",
+      "file_offset": 12803,
+      "source": ",Herve and I gazed\noften at this sea.",
+      "source_sha256": "3954ebb298bc86b1f7ed0b15bc90296a4926da0fa035e836e0ad7f1d4252f2db",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@00003243",
+      "file_offset": 12867,
+      "source": "(About that painting\nthat I found.",
+      "source_sha256": "6194b455db221d4ad5da6a284155e5a3758adc5b093fe0efe6df4867175e3e7d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@0000326b",
+      "file_offset": 12907,
+      "source": "(It was a portrait of\nyour mother.",
+      "source_sha256": "5292498d6671d51c26875ff634ab09751fb85a37dffff022a8a0139dcc9bfaa8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@00003294",
+      "file_offset": 12948,
+      "source": "You look just like her.",
+      "source_sha256": "695928af9814a8125ba37e1cac2371823719da1158d2d9a315b22f7cda798099",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000032af",
+      "file_offset": 12975,
+      "source": "$Apparently my late\nfather...",
+      "source_sha256": "cfde1bcad82c3700f56bb9a0298f5aa255847c44b2cd6da1648e72109946e00c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000032d4",
+      "file_offset": 13012,
+      "source": "painted it\nhimself.",
+      "source_sha256": "9244bb0a7bf312252b4177985e1c1009f73f7074f254d8f803f272d20fffdeb1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@000032f3",
+      "file_offset": 13043,
+      "source": ",It really is a\nstriking resemblance.",
+      "source_sha256": "e5f89597e055d01b2293e7bcaa98835fa8be1762516023ca3537756b4ef388ec",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@0000331f",
+      "file_offset": 13087,
+      "source": "(I could hardly\nbelieve it myself.",
+      "source_sha256": "09d60028e0fe0590dc169b460fc1de35d6715a4dcf5d452f7d9dbc9b203e9d63",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@0000334f",
+      "file_offset": 13135,
+      "source": "(It must have meant\na lot to you.",
+      "source_sha256": "a611455ecc62818ac2cbf73b9fa55994f4f051d8cbaeb36b6109c50b0ce439d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc217_en.bi5_@00003377",
+      "file_offset": 13175,
+      "source": "0Yes, it reminded me\nthat I was not alone.",
+      "source_sha256": "fc7388b6640e0a41cd2590708fa39e4a07f2866c505f75f8a8c16611a1dcc70e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

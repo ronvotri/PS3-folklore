@@ -1,0 +1,170 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc037_en.bi5_",
+  "file_sha256": "831ecfc7130c631b8b7b61ae05cc6fbe6e87ddce168e999a0de677bbe1c74650",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003590",
+      "file_offset": 13712,
+      "source": "Err, no.",
+      "source_sha256": "7bfb19318e1eec8a46bdc1affb4d98beb60bef583bf10f106f16f680f32ef16e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@000035a0",
+      "file_offset": 13728,
+      "source": "Herve?",
+      "source_sha256": "430723a4d9bc5650ae3923a0f2dee41b85a2eb4d57d40712f80052f9782a19d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@000035b3",
+      "file_offset": 13747,
+      "source": " I want you to\nsummon Herve.",
+      "source_sha256": "12e6d0178bedadbf58b2c7f2c03bd19658526bb42dee4cffe6cd594861166937",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@000035d3",
+      "file_offset": 13779,
+      "source": "0It's my lucky day!\nWelcome back, sweetie!",
+      "source_sha256": "ccd3ffff45dd8da2ed098e36fca649e21094e09fdad52904f4b3493a6681a63f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003603",
+      "file_offset": 13827,
+      "source": "$(yawn...)\nOoh-er, my neck...",
+      "source_sha256": "884c2b709f70fa5639ca17fb5afa7148f083d47061a407125a9ba2cfe2ba49fe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003638",
+      "file_offset": 13880,
+      "source": "So, then where\nis he?!?",
+      "source_sha256": "9b59617d14110531b63d59a89f3e2e7f3b24144ab943377d35aafe34f04da9ad",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003653",
+      "file_offset": 13907,
+      "source": "4Uh, sorry, sweetie, I'm\nnot a fortune-teller.",
+      "source_sha256": "770801d2f81ce54b2942390a7bb3952d14409453e251c84b1a3ebe298de1a51c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003688",
+      "file_offset": 13960,
+      "source": "Who's that?!?",
+      "source_sha256": "bdd8db5a37094d40c35eb610ec2208ad702680b9561440820abff7aa7cdb21f6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@000036a4",
+      "file_offset": 13988,
+      "source": "Who?",
+      "source_sha256": "d991a24e8e04231cbae0f2b1372ebefd45b169c3855830d33b17fb3e98a68c96",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@000036bf",
+      "file_offset": 14015,
+      "source": ",Phew! Scared the\ndaylights out of me!",
+      "source_sha256": "1e2fb7d877e2f0cbffc342e1c18e74598173270424ff387c16499cd7f1ae6310",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@000036eb",
+      "file_offset": 14059,
+      "source": "@I'd crack my antlers\nif it turned out you\nwere two-timing.",
+      "source_sha256": "f5f6606a5c7799d1b2336faa4c8b8bad962259e4ef18f9485460bd3824568745",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@0000372c",
+      "file_offset": 14124,
+      "source": "Hmm?",
+      "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003740",
+      "file_offset": 14144,
+      "source": "This door...",
+      "source_sha256": "e22cb8ccccf91d75063c33686ddd69bc2696eb520616b55bb18eb288a11739c3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003753",
+      "file_offset": 14163,
+      "source": "$He isn't your\nboyfriend, is he?",
+      "source_sha256": "a1ab85cd32da8ad4c6793d29a7bbbe4697908f36aa3510f66fe1b55430b0950c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@00003777",
+      "file_offset": 14199,
+      "source": "$Nope, there's no\nHerve here.",
+      "source_sha256": "a8ded3ec3d487f84f921e0617645c4084a02562b40085e476da1913bf02059a2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc037_en.bi5_@0000379c",
+      "file_offset": 14236,
+      "source": "Someone's here!",
+      "source_sha256": "9dbd509e840485ab7d7fe885035f4bc41234b9cb04270aae1c163701df0338ff",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

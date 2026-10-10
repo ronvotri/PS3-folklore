@@ -8,7 +8,14 @@
   "license": "SIL Open Font License 1.1",
   "license_url": "https://raw.githubusercontent.com/google/fonts/9673336c61929f2fde33568ed4e451053e572cb0/ofl/merienda/OFL.txt",
   "text_normalization": "NFC",
-  "engine_pixel_height": null,
-  "stage": "source_font_selected_and_glyph_coverage_verified",
-  "in_game_integration": "pending"
+  "engine_pixel_height": 36,
+  "stage": "v3_menu_prototype_user_confirmed",
+  "in_game_integration": "user_confirmed_small_menu_spacing_fix",
+  "source_raster_size": 27,
+  "raster_extent": 42,
+  "glyph_tile_height": 36,
+  "fitted_ink_height": 34,
+  "word_space_width": 5,
+  "glyph_count": 251,
+  "alias_count": 25
 }

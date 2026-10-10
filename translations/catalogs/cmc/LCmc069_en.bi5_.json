@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc069_en.bi5_",
+  "file_sha256": "1f1de062fa56324240d4f2dd032f5693c85e32aec7c3fc277f0e87de2c91698f",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@00002f87",
+      "file_offset": 12167,
+      "source": " Ellen...\nYou have come far.",
+      "source_sha256": "7fb36f3fd9d49fcbccfe793f8d709f6ac93b15cf13af9865ebd1da4dd9771da9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@00002fa7",
+      "file_offset": 12199,
+      "source": "4You are the glimmering\nhope of the Netherworld.",
+      "source_sha256": "da72060252d33b19dd758c487484a4013c2f9b043a0a45db63c8b075311d3398",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@00002fdb",
+      "file_offset": 12251,
+      "source": "0If you defeat the\nFolklore in Hellrealm,",
+      "source_sha256": "1efc18e50761bd428a685c8fcbf33678db59e52f4dae9f7fb10aa9fa90c9049e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@0000300b",
+      "file_offset": 12299,
+      "source": ",you will retrieve your\nlost memories.",
+      "source_sha256": "c288af32b1b3a2227e6bea61e87be8ca784b6d898672937163929e69b344eb75",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@00003038",
+      "file_offset": 12344,
+      "source": "But, Ellen...",
+      "source_sha256": "f2bf0952dbf1266b0bf926ea540605ef29589a686b54f2183e81eacc2a3ae28b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@0000307b",
+      "file_offset": 12411,
+      "source": "(Welcome to the Court of Hellrealm.",
+      "source_sha256": "194c11c3d9c6c25ebb055631a82af5e88504eba18c2dcbdb3a5f25e96278945a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@000030a3",
+      "file_offset": 12451,
+      "source": "4But there is another\nstop you must make first.",
+      "source_sha256": "52818447d5732e1e8ba59844cf74f4067d8e8523207293204bf20b336336aadd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@000030d7",
+      "file_offset": 12503,
+      "source": " Faery Lord!\nWhat's this?!?",
+      "source_sha256": "6a83e6bb462544b1997703286dd9781b93abd845c9fef02dd1d952d99713d82e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@000030f7",
+      "file_offset": 12535,
+      "source": "HYour Lordship...\nWe are grateful for this\nhighly-ranked criminal.",
+      "source_sha256": "000c59bb9739b4965439c3a508b282818508bcc30baad77e3105fa00fc83b5e1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc069_en.bi5_@0000313f",
+      "file_offset": 12607,
+      "source": ",Her Cloak is powerless\ninside the cage.",
+      "source_sha256": "71e8833b653802e2f843f4e989d659fac3a9f43f60c9ed0d9c92f5c6a5a889c4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

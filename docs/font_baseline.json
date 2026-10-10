@@ -1,0 +1,49 @@
+{
+  "game_id": "BCUS98147",
+  "files": [
+    {
+      "name": "lang_tex_a.bi5_",
+      "size": 1311584,
+      "offset": 2393357182,
+      "original_sha256": "ca478e8d27321a3cd3576849e970ddedcd097d8bd0ac784e1540cdc68482b33e",
+      "v3_sha256": "b1fb7459ee9c6c683bb38a0464d655f4191a9b5999ad017740ba2aa86abbf28c"
+    },
+    {
+      "name": "lang_tex_e.bi5_",
+      "size": 1311584,
+      "offset": 2394668766,
+      "original_sha256": "ca478e8d27321a3cd3576849e970ddedcd097d8bd0ac784e1540cdc68482b33e",
+      "v3_sha256": "b1fb7459ee9c6c683bb38a0464d655f4191a9b5999ad017740ba2aa86abbf28c"
+    }
+  ],
+  "v3_regions": [
+    {
+      "name": "lang_en.bi5_",
+      "size": 122416,
+      "offset": 2392608514,
+      "before_sha256": "ed8b6464b3565bc3db548bfc81604131a67c9a60860974ba8c0d0c28b67a6749",
+      "after_sha256": "be025a55b1ba828ff554576ab287981d83ce37fcd9d2ec1f1eef601faabf2912"
+    },
+    {
+      "name": "lang_uk.bi5_",
+      "size": 122192,
+      "offset": 2392730930,
+      "before_sha256": "a1b937605480e5c8785b8708c99bc052130830257a66819b12be6ac88ff32afd",
+      "after_sha256": "a806c2e8555bb529776d418531c5a63db200e4b6f1bc88c40687dabed93e57e2"
+    },
+    {
+      "name": "lang_tex_a.bi5_",
+      "size": 1311584,
+      "offset": 2393357182,
+      "before_sha256": "2b1f8adaa89e935716bc3be18d5687c18f6c678793eb1ba1e1db39e5dab8057e",
+      "after_sha256": "b1fb7459ee9c6c683bb38a0464d655f4191a9b5999ad017740ba2aa86abbf28c"
+    },
+    {
+      "name": "lang_tex_e.bi5_",
+      "size": 1311584,
+      "offset": 2394668766,
+      "before_sha256": "2b1f8adaa89e935716bc3be18d5687c18f6c678793eb1ba1e1db39e5dab8057e",
+      "after_sha256": "b1fb7459ee9c6c683bb38a0464d655f4191a9b5999ad017740ba2aa86abbf28c"
+    }
+  ]
+}

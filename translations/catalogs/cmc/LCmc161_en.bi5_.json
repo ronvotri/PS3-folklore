@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc161_en.bi5_",
+  "file_sha256": "15c196bfa8be696ee2a1b155239ba7a4d13a7ccd343d4ec606190d6f23feaa06",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003067",
+      "file_offset": 12391,
+      "source": "0Perhaps we should\nsettle this right here!",
+      "source_sha256": "a930faac8b5c168706a942d4f303a5ecb2eb90486d8c3492f813f54ae6fe56b0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003097",
+      "file_offset": 12439,
+      "source": " Uwee hee hee...\nHang on!",
+      "source_sha256": "3dd088dfebfcb17adaab604fc623efad71cafea8f22540b776d08e2432a17a80",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000030b7",
+      "file_offset": 12471,
+      "source": "@Unlike Livane, Keats cares not\nabout the Netherworld Core.",
+      "source_sha256": "e107fb183c7f688f89d9c84033f4790248c866ce3ef16afdb9f5da51e903d992",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000030f7",
+      "file_offset": 12535,
+      "source": ",I will overlook this,\nif you retreat.",
+      "source_sha256": "3487f749e565a7499ef9149aa40fcc3a7352b2cc12916e8d9136ead7bdf0832c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003124",
+      "file_offset": 12580,
+      "source": "Faery Lord...",
+      "source_sha256": "9e26944752b9a31cef08bdb3c45e86253d22a8c66eb336e65718d22f801b748b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003137",
+      "file_offset": 12599,
+      "source": "$and wanton\nuse of coercion...",
+      "source_sha256": "c9f1863fc4cd94dba5ced4b94e7dcfc622e6162b4798a52ae1c53a562ef5feb2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@0000315c",
+      "file_offset": 12636,
+      "source": "reminds me of home!",
+      "source_sha256": "db3833bb18c917b3b123b9da0d5b3088e22040e4929fcc246d9f30e662c5b817",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003173",
+      "file_offset": 12659,
+      "source": "$I must say,\nyour arrogance...",
+      "source_sha256": "5e9e25eb1e12c60a4169ee7c1b7b0999f1de3f2c7d1fb1c65a60e4e5c3a3fd65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@0000319f",
+      "file_offset": 12703,
+      "source": "@Perhaps you've picked\nup a few things\nfrom us mere humans?",
+      "source_sha256": "0802ef822c1252a662afa0c99f64746ec8b029ba14cdb954081e8362167726dd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000031e0",
+      "file_offset": 12768,
+      "source": "Keats!\nStop it!",
+      "source_sha256": "d3f3540909af488631d5930504c5c5e45e77c45c8aa5500af4bf0a9aa9aeb3c4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000031f3",
+      "file_offset": 12787,
+      "source": "8You're the type of leader\nthat inspires rebellion.",
+      "source_sha256": "99754fcbc256eee9f236c4f94e721451a16e624a625b920cad99a4c11de686b5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@0000322b",
+      "file_offset": 12843,
+      "source": "DYou know not the\ngravity of leadership\nover the Faery Realm.",
+      "source_sha256": "28e485bfb2ae49d0c8d63544980c868965af92bde56008012d66d96be532da47",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@0000326f",
+      "file_offset": 12911,
+      "source": ",He only cares about\nstaying in control.",
+      "source_sha256": "a4dadd4c541af873d4b8f8661670eec2022090e4621c5d7ed8b5e92a77b6c4c8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@0000329c",
+      "file_offset": 12956,
+      "source": "Enough.\nAway with you!",
+      "source_sha256": "3e89308989510b10863b0945d4eb8f15e288559eac1ccddf3ff12bd63ff1a50c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000032b7",
+      "file_offset": 12983,
+      "source": " Ellen,\nhurry to the court.",
+      "source_sha256": "141d859634bae21b739d682fd1956b8ec0c4cb2ef261f212d0f33959fff4207c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000032d7",
+      "file_offset": 13015,
+      "source": "4We shall soon be\nfreed from this\nancient curse!",
+      "source_sha256": "3974d1c9ae4d09389a0393d68a09671dd4719dbb6dc91e566ce62449a23b384f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@0000330b",
+      "file_offset": 13067,
+      "source": "(Ellen, surely you see\nthrough him?",
+      "source_sha256": "15637553fc719c57557689f985c34430e4ee42301a96f567ad56efe2ef45c093",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003333",
+      "file_offset": 13107,
+      "source": "$Lowly human!\nWatch your tongue!",
+      "source_sha256": "af320372114addf582299e1081964a541d684e1aeb558e3b52899ebd72da973b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@00003357",
+      "file_offset": 13143,
+      "source": "@Our precious Netherworld\nis exposed to peril\nby your kind!",
+      "source_sha256": "3b5824618e9befcedb2cf3479517058837d9a3709f98a07e114b61e9feec0b80",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000033a7",
+      "file_offset": 13223,
+      "source": " Well, well, the good Lord.",
+      "source_sha256": "ec72c19c200a500a2238102f92600d832be3db195969b9e7a13dd991e745d3f6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000033cf",
+      "file_offset": 13263,
+      "source": "(Livane has turned\nyou into a pawn.",
+      "source_sha256": "cf04fface8a0cc92ce6f69c1f8ecd44f5e93cbb0cced474112a70e4e0c1af3e3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc161_en.bi5_@000033f7",
+      "file_offset": 13303,
+      "source": "0Nah, I just don't\nlike your style, old man.",
+      "source_sha256": "3a88e56c5d0e9c68e0f066396cc29af3ee8f5802b3433f1eaa621aa1b3157c2f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

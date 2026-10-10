@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc064_en.bi5_",
+  "file_sha256": "1c654cb97c5b407fc7e87e60af738d9c2a76d0a8c9966992d46dfb5aab7fcb3e",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003487",
+      "file_offset": 13447,
+      "source": "LCecilia, you were in this\nvillage when you were\nfive. Do you remember?",
+      "source_sha256": "0b230d7e0368e673397d135d8dc5d1cb4289c13018869178d7e58d355e65ed9f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000034d4",
+      "file_offset": 13524,
+      "source": "Yes...\nI loved it here.",
+      "source_sha256": "495fba0ef3ff6b03e8541464f20112aae618af03dd5e3857a78a00b981e2cef0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000034ef",
+      "file_offset": 13551,
+      "source": ",People are smiling...\nSmiling at me...",
+      "source_sha256": "9fdcf2c02806da9f7ce95afb49f2470d7035f73cfa3c73f16b7c0cbb192dbdc5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@0000351b",
+      "file_offset": 13595,
+      "source": "0Was the boy brought\nto the village clinic?",
+      "source_sha256": "75b211c0766f4415500ffa6c029edcdce1662cd0dc5f9eb5748196d0e0f68e77",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@0000354b",
+      "file_offset": 13643,
+      "source": "LYes... You mean Herve.\nHe was so very gentle.\nHe liked reading books.",
+      "source_sha256": "bc992206be49bd37a5e77036a18081062e8a56011031cecc7f77b8a790bdf7be",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003597",
+      "file_offset": 13719,
+      "source": "$He taught me so\nmany things.",
+      "source_sha256": "109d9d0daeb55d87f3c33cfd4b1003c638f4bf4ab0198adee4521ffbf3eaf5a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000035bc",
+      "file_offset": 13756,
+      "source": "...!\nHerve!",
+      "source_sha256": "bcf96387a781d1f2e7396a2daaf5d6d2c0cd260f16143546cf8a5e58fa4352b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000035cb",
+      "file_offset": 13771,
+      "source": "$Herve has an incurable\ndisease!",
+      "source_sha256": "05698e57e83dec7783dbd63d70d9e62814dd4c33cfd43eff102bcff1dbb01e6f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000035f8",
+      "file_offset": 13816,
+      "source": "Calm down...\nWhat next?",
+      "source_sha256": "7fb85b327ba43ac7705252ac82436a4caf2e500dd8236e5bdda7befdfd84c727",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003614",
+      "file_offset": 13844,
+      "source": "And what did you do?",
+      "source_sha256": "96285d996f5c1d7071064f2ef8198cc78e94c26fc8728fceef5df1015a677143",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@0000362f",
+      "file_offset": 13871,
+      "source": " I heard about the\nFaerys.",
+      "source_sha256": "a75042ec79b827ef196b3a072a09641472cc61b8b9c6cbbd7c23027094ff65f1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@0000364f",
+      "file_offset": 13903,
+      "source": "4If I pray for nine days,\nHerve will be saved.",
+      "source_sha256": "4478e5d677cd20ab2a6d5bbf43bbde481d64565adad1946368d367e724790ae3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003683",
+      "file_offset": 13955,
+      "source": "0So, I did just that...\nI prayed each day...",
+      "source_sha256": "00de0dd2ef6a2e44ba80774f566b0930076d08907773a73ce5d902014ee2333d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000036bc",
+      "file_offset": 14012,
+      "source": "That would save him?",
+      "source_sha256": "d7bac52f56b78fb1dd2ff2d9e4613a25d93af2dd1a21fff37ec5dbbf23aaa19b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000036d7",
+      "file_offset": 14039,
+      "source": "(And what happened on\nthe final day?",
+      "source_sha256": "189fec5aea2b74768ca92783fe93b5573241787d88f35588e2c52a8993f7392e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000036ff",
+      "file_offset": 14079,
+      "source": "$The final day...\nwas Samhain!",
+      "source_sha256": "907319df0822932cbec6a33c3cf4f8ab3d59ee8dfade377391f9128e265f3679",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003723",
+      "file_offset": 14115,
+      "source": ",Yes... It all happened\non that night...",
+      "source_sha256": "fc213648d9027b441bc6213b8226ab1dcf0ef23c0d4e8459a4805ae47e724538",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003773",
+      "file_offset": 14195,
+      "source": "$let's try to explore\nyour past.",
+      "source_sha256": "031ed3167ce4bbdc169d9ee0cc5b795b330129bcb24ae2a3a05a5d85412ad18a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@00003798",
+      "file_offset": 14232,
+      "source": "This is my conclusion.",
+      "source_sha256": "fc2c79823a820e26aeb761e33379412301b5ac4695aeccb6e044998a9a122ff8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000037b3",
+      "file_offset": 14259,
+      "source": "HEach time you see these\ndreams, you uncover\ndeeply hidden memories.",
+      "source_sha256": "7d99331d9d812fa82d182f20bf9e5249722804222b8a33e4d5b79102f19abd2b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc064_en.bi5_@000037fb",
+      "file_offset": 14331,
+      "source": "<The mementos are just\nwhat trigger your\nsubconscious.",
+      "source_sha256": "f9b8f76cf2be3e9c95e688c25bc33b3a9c35dd7d38fa771e5da34178bdaef4ad",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

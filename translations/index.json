@@ -1,0 +1,1113 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "files": [
+    {
+      "catalog": "catalogs/menu/lang_en.bi5_.json",
+      "file": "lang_en.bi5_",
+      "source_sha256": "ab4beb325462f531e722f0ce3ab0e17132bfdbc8cefab6a4e619e38c2f3ee9f5",
+      "entries": 1016,
+      "kind": "menu"
+    },
+    {
+      "catalog": "catalogs/talk/tk000_en.bin_.json",
+      "file": "talk/en/tk000_en.bin_",
+      "source_sha256": "4ba04f6dc2d31a9732ae402f7bbb5102bee98d7274ee7a7727a7bee16937064b",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk011_en.bin_.json",
+      "file": "talk/en/tk011_en.bin_",
+      "source_sha256": "db5a5b0775846e5494510f2693750c84b6d5fdad0de4bd771e810355202c1cf9",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk100_en.bin_.json",
+      "file": "talk/en/tk100_en.bin_",
+      "source_sha256": "fc7e73e41b07b31a40ee8de0f4db6f042f5ab9c8c5de361bc56a31790108d18e",
+      "entries": 314,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk101_en.bin_.json",
+      "file": "talk/en/tk101_en.bin_",
+      "source_sha256": "e3609e3845a62cd9b2592c967de4120ef0b774053a734690884a8c82ba878dba",
+      "entries": 447,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk102_en.bin_.json",
+      "file": "talk/en/tk102_en.bin_",
+      "source_sha256": "d0beea12302f498579af75eb73f57b362289d3e7dcd087dc3a79cf5233ca72bf",
+      "entries": 494,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk103_en.bin_.json",
+      "file": "talk/en/tk103_en.bin_",
+      "source_sha256": "0cb168501cc8446301119c4a4ceac7605f3ae1a3da174df2c3d025d2a08251c3",
+      "entries": 578,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk104_en.bin_.json",
+      "file": "talk/en/tk104_en.bin_",
+      "source_sha256": "ae38d46481bd5651a615f0c049309f0207a2ecd6c1bc1e31ddcf9efaf78627e7",
+      "entries": 731,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk105_en.bin_.json",
+      "file": "talk/en/tk105_en.bin_",
+      "source_sha256": "2a6c0b934700af6186f660305bd355c20b584b59a014eb1aecccce656231da5b",
+      "entries": 595,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk106_en.bin_.json",
+      "file": "talk/en/tk106_en.bin_",
+      "source_sha256": "931cb843ef20deec1aa5342607355f0bf14222661fc9aa19c6f4e5f5680c1095",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk107_en.bin_.json",
+      "file": "talk/en/tk107_en.bin_",
+      "source_sha256": "931cb843ef20deec1aa5342607355f0bf14222661fc9aa19c6f4e5f5680c1095",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk200_en.bin_.json",
+      "file": "talk/en/tk200_en.bin_",
+      "source_sha256": "c10b088b1a8daf21a07daf41cdbe788f5c20346b46a5c19b4f0f2d122b516656",
+      "entries": 280,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk201_en.bin_.json",
+      "file": "talk/en/tk201_en.bin_",
+      "source_sha256": "bd93d4a7ce35ab6bdf3cc82903e61fbe41148f2f171698a49f535eb075bfe2c3",
+      "entries": 496,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk202_en.bin_.json",
+      "file": "talk/en/tk202_en.bin_",
+      "source_sha256": "37bc99b4f5802e7ba01e405e540020fbae1a1220a430686cc7659ab05b7bcb01",
+      "entries": 518,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk203_en.bin_.json",
+      "file": "talk/en/tk203_en.bin_",
+      "source_sha256": "c71027b273f04dcff84468fdb0e6dd2e48a09018bf0218b7f25fbfeba317e330",
+      "entries": 663,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk204_en.bin_.json",
+      "file": "talk/en/tk204_en.bin_",
+      "source_sha256": "97871ba774ac1812276af05067b3ebf53f90d03598d284f7ebb13b1b7aeda488",
+      "entries": 823,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk205_en.bin_.json",
+      "file": "talk/en/tk205_en.bin_",
+      "source_sha256": "23ef5d0db235bce1377d63bdd21b4938ed37e1a5bbf770501c923418210b0436",
+      "entries": 653,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk206_en.bin_.json",
+      "file": "talk/en/tk206_en.bin_",
+      "source_sha256": "98736f6ef95684c5e34fb8b9bcc78ade90750806bacf9b11e34e605597bc7f4b",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk207_en.bin_.json",
+      "file": "talk/en/tk207_en.bin_",
+      "source_sha256": "98736f6ef95684c5e34fb8b9bcc78ade90750806bacf9b11e34e605597bc7f4b",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk306_en.bin_.json",
+      "file": "talk/en/tk306_en.bin_",
+      "source_sha256": "0395f2a7fcc001aefaf22aef976ed53aa2deb3fd2cde34019c7cdcbc0072f2e1",
+      "entries": 244,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk307_en.bin_.json",
+      "file": "talk/en/tk307_en.bin_",
+      "source_sha256": "5ee44cff7ce4a9752c82a611de13796cccd2eabac66c37e6b741ec004c48c563",
+      "entries": 811,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk500_en.bin_.json",
+      "file": "talk/en/tk500_en.bin_",
+      "source_sha256": "970b84da07bbcb805d91a3b3fd165b8f33987024b83800ad23f8e8a6fe7fbf93",
+      "entries": 528,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk600_en.bin_.json",
+      "file": "talk/en/tk600_en.bin_",
+      "source_sha256": "30fcd9e43d4001f02b1c24c137612346574ba64f504d1ca8e45075758b611efc",
+      "entries": 544,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/talk/tk700_en.bin_.json",
+      "file": "talk/en/tk700_en.bin_",
+      "source_sha256": "19c724cec92d1ff4929dacba638a7418037fbd5714c3953d20e9d01a4e1ad18b",
+      "entries": 242,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc000_en.bi5_.json",
+      "file": "cmc/en/LCmc000_en.bi5_",
+      "source_sha256": "4af80f46f6521b69248d8c7d7cc0cad7d7223f8a8eb89126c0c0fca36c8569a0",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc002_en.bi5_.json",
+      "file": "cmc/en/LCmc002_en.bi5_",
+      "source_sha256": "5c850e5069b1715cc3be75e21a809cc72e29b1085cd482a7fabb6ed6102967bc",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc004_en.bi5_.json",
+      "file": "cmc/en/LCmc004_en.bi5_",
+      "source_sha256": "a2a3c4dc162edbb3b0a0377fdc64c1166850391e24ca2747e3d6ec352f79baa8",
+      "entries": 24,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc005_en.bi5_.json",
+      "file": "cmc/en/LCmc005_en.bi5_",
+      "source_sha256": "eac6c012ea359cb29d0326630cef719065a51e0fe062cc48fa07656d9d347fcb",
+      "entries": 16,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc007_en.bi5_.json",
+      "file": "cmc/en/LCmc007_en.bi5_",
+      "source_sha256": "b4168287ddef9fbdd6bf19e82dc43aa9c80b5c218c98fd6276812976ac98852c",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc008_en.bi5_.json",
+      "file": "cmc/en/LCmc008_en.bi5_",
+      "source_sha256": "098d055d3d79283419425809c25a2f05412d35063a48103d1f7e6fb5cf9b58f1",
+      "entries": 17,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc012_en.bi5_.json",
+      "file": "cmc/en/LCmc012_en.bi5_",
+      "source_sha256": "2dbb30b54dbb5f4d5e055ae3688a5af83453323898ccb30c63b97fe8bca04baf",
+      "entries": 8,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc013_en.bi5_.json",
+      "file": "cmc/en/LCmc013_en.bi5_",
+      "source_sha256": "a015b48d80c6fd38092bc4adaec03913b6a0c59c3cc77144567d2f51ed7b618d",
+      "entries": 20,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc014_en.bi5_.json",
+      "file": "cmc/en/LCmc014_en.bi5_",
+      "source_sha256": "d611f5f06945791e1236fc69d7d5fb66574c1e92b905d1a7baf5d970c9003046",
+      "entries": 20,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc016_en.bi5_.json",
+      "file": "cmc/en/LCmc016_en.bi5_",
+      "source_sha256": "118aa2385dd5945de5e5b0d903e4165859257019ff781d5337b8e75496600656",
+      "entries": 20,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc017_en.bi5_.json",
+      "file": "cmc/en/LCmc017_en.bi5_",
+      "source_sha256": "c80cf0bcda3cbaf030009f3b5c9345060f5299a4ee46541c7f41abaccc43cbaa",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc018_en.bi5_.json",
+      "file": "cmc/en/LCmc018_en.bi5_",
+      "source_sha256": "07fef8b5cdb3c46cc3da93328231e6b30ce56e28f0bf321aa0389e498ae83888",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc019_en.bi5_.json",
+      "file": "cmc/en/LCmc019_en.bi5_",
+      "source_sha256": "54d0cb88ffefbb5a3cf8c93bcb062954d7f8da63026c70923dfb35f4fdb5f468",
+      "entries": 21,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc020_en.bi5_.json",
+      "file": "cmc/en/LCmc020_en.bi5_",
+      "source_sha256": "02ad4e6937c8af11123032a57ace9afe64f41e9e4851ad7d09edbba4f6783705",
+      "entries": 18,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc021_en.bi5_.json",
+      "file": "cmc/en/LCmc021_en.bi5_",
+      "source_sha256": "41b45412b57784b76f0509f8bbae24e1c5f4082032c2a53f05732cc4bfdbb6fb",
+      "entries": 16,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc023_en.bi5_.json",
+      "file": "cmc/en/LCmc023_en.bi5_",
+      "source_sha256": "d9801e6e2564e206332982961b65e3bdce98dcdcea50da42e5edaab9cb3e6127",
+      "entries": 29,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc027_en.bi5_.json",
+      "file": "cmc/en/LCmc027_en.bi5_",
+      "source_sha256": "969445be0d52ff3e985d183312b2e98972946087601de5a51971a4d42f73de53",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc028_en.bi5_.json",
+      "file": "cmc/en/LCmc028_en.bi5_",
+      "source_sha256": "e4c6eef8bd21eb689d27e2d755107cd5b306dc42dd2ef424c7574b1974a04e01",
+      "entries": 2,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc029_en.bi5_.json",
+      "file": "cmc/en/LCmc029_en.bi5_",
+      "source_sha256": "2d6bfb89bc96e9c077bbe9ad1ded7c1a0b0d24317436ea968baadae592b858de",
+      "entries": 18,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc030_en.bi5_.json",
+      "file": "cmc/en/LCmc030_en.bi5_",
+      "source_sha256": "d2d0399b0dbcd66e0094dfef84080a09fe5190a15107df251d723e00b478ccb5",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc031_en.bi5_.json",
+      "file": "cmc/en/LCmc031_en.bi5_",
+      "source_sha256": "2f9857f0bd2e1a5212ded4f25984a27381bf62832dc439fadb79bb4942e77efb",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc032_en.bi5_.json",
+      "file": "cmc/en/LCmc032_en.bi5_",
+      "source_sha256": "98e5e12f40b8d74d75cc1826261059c4aa72e41a5130a86680e8bd18285c49de",
+      "entries": 9,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc033_en.bi5_.json",
+      "file": "cmc/en/LCmc033_en.bi5_",
+      "source_sha256": "3ad6205b5b7a169945119476cb3245708e0d0716f28600843aa36fb70897e2da",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc034_en.bi5_.json",
+      "file": "cmc/en/LCmc034_en.bi5_",
+      "source_sha256": "22bfb95d4ce68161dd37a6c0d1af9300e8ff2ea00661f27817b8c371505d8d22",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc035_en.bi5_.json",
+      "file": "cmc/en/LCmc035_en.bi5_",
+      "source_sha256": "cdda1643aa96b26d529970f0a517c6f34380c0eff133906a93a4eb352b9ff34e",
+      "entries": 16,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc036_en.bi5_.json",
+      "file": "cmc/en/LCmc036_en.bi5_",
+      "source_sha256": "a320d2793610155c0b3cacb6d1891223807a98ae8ebe6d32d172dcf1b4bd3a7d",
+      "entries": 5,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc037_en.bi5_.json",
+      "file": "cmc/en/LCmc037_en.bi5_",
+      "source_sha256": "831ecfc7130c631b8b7b61ae05cc6fbe6e87ddce168e999a0de677bbe1c74650",
+      "entries": 16,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc039_en.bi5_.json",
+      "file": "cmc/en/LCmc039_en.bi5_",
+      "source_sha256": "fd28be65b0c2474530151d5a049b68f485778b59bec0435a152cae44d73858e0",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc040_en.bi5_.json",
+      "file": "cmc/en/LCmc040_en.bi5_",
+      "source_sha256": "f3639dc4a6019b24050815a8d270f30e3f2aad4761165f9e694b06c92afc5f17",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc041_en.bi5_.json",
+      "file": "cmc/en/LCmc041_en.bi5_",
+      "source_sha256": "786af040a2ba6b20fcd873afd116213f9634982d659459f5fb1c7394fa9cab6d",
+      "entries": 27,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc042_en.bi5_.json",
+      "file": "cmc/en/LCmc042_en.bi5_",
+      "source_sha256": "8440e0273c14c8f2990eae481d18d4887c5026da4ec8551ee9efb49597e04e62",
+      "entries": 26,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc046_en.bi5_.json",
+      "file": "cmc/en/LCmc046_en.bi5_",
+      "source_sha256": "edd8a87c81542c5f48b386b453e69c855286374998df83beff4623c062718a67",
+      "entries": 18,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc047_en.bi5_.json",
+      "file": "cmc/en/LCmc047_en.bi5_",
+      "source_sha256": "9da7525fa58d06ef25028804810ef02ea16cd2acff1eda733b1281d9f551574f",
+      "entries": 24,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc048_en.bi5_.json",
+      "file": "cmc/en/LCmc048_en.bi5_",
+      "source_sha256": "656e0f91b8aa00caaab1f3d2ec50a867c8ee0fa5473086d3633c95df97002894",
+      "entries": 27,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc050_en.bi5_.json",
+      "file": "cmc/en/LCmc050_en.bi5_",
+      "source_sha256": "09a6d2691435357ce73228d2d343792281baebc5ada5d517c580ca87b0b41c1f",
+      "entries": 4,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc051_en.bi5_.json",
+      "file": "cmc/en/LCmc051_en.bi5_",
+      "source_sha256": "8ae1cb6585432f00fe37b005fe39c0bc80532f2bc47e710518026573ccceeb01",
+      "entries": 5,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc052_en.bi5_.json",
+      "file": "cmc/en/LCmc052_en.bi5_",
+      "source_sha256": "bc0cb6cf8640dcbefc7aa73d2fa013e6034faa464e53147266e6c692d4b216f0",
+      "entries": 6,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc054_en.bi5_.json",
+      "file": "cmc/en/LCmc054_en.bi5_",
+      "source_sha256": "99d17f627cc8d28f05a2537ee6d7d4c43023f1530e6d1b7457b51c5b47c084c3",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc055_en.bi5_.json",
+      "file": "cmc/en/LCmc055_en.bi5_",
+      "source_sha256": "b4a3889c66af8318fca26d0bff5006234fbb4ef141365d9e26c3651e581cbfb4",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc056_en.bi5_.json",
+      "file": "cmc/en/LCmc056_en.bi5_",
+      "source_sha256": "ea171c2d0087f04a94727e12fd1089a586a8ea1ab7689a31717e6d8a3058ebd4",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc057_en.bi5_.json",
+      "file": "cmc/en/LCmc057_en.bi5_",
+      "source_sha256": "34a21016eeae1b8855b3d9c58b83a72bae0d54d4676c9e9350caeefaa9eb52c5",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc058_en.bi5_.json",
+      "file": "cmc/en/LCmc058_en.bi5_",
+      "source_sha256": "f4175ba6504eb24de526c088f41ea10c2b59ccb024f58cf91111d13da0d28208",
+      "entries": 2,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc060_en.bi5_.json",
+      "file": "cmc/en/LCmc060_en.bi5_",
+      "source_sha256": "4eefd37430f5785718c8d4e9c0cdf590e5ab5354005b5c8e73bc482221c0c8e5",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc062_en.bi5_.json",
+      "file": "cmc/en/LCmc062_en.bi5_",
+      "source_sha256": "30321fcf3edca8b7c90990e65f54fb633304a61d60aa0a13a10268b4b9f3f780",
+      "entries": 20,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc063_en.bi5_.json",
+      "file": "cmc/en/LCmc063_en.bi5_",
+      "source_sha256": "ea43471d7882023ad7dc2f915ae19f836aabc0a3b6056e92537f469c1e73ad9a",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc064_en.bi5_.json",
+      "file": "cmc/en/LCmc064_en.bi5_",
+      "source_sha256": "1c654cb97c5b407fc7e87e60af738d9c2a76d0a8c9966992d46dfb5aab7fcb3e",
+      "entries": 21,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc065_en.bi5_.json",
+      "file": "cmc/en/LCmc065_en.bi5_",
+      "source_sha256": "1deabc75615d223181a6d1032bab7642002f6ed9f5e9ebdc7095059a0c4be50f",
+      "entries": 22,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc069_en.bi5_.json",
+      "file": "cmc/en/LCmc069_en.bi5_",
+      "source_sha256": "1f1de062fa56324240d4f2dd032f5693c85e32aec7c3fc277f0e87de2c91698f",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc070_en.bi5_.json",
+      "file": "cmc/en/LCmc070_en.bi5_",
+      "source_sha256": "546bc58d17dcc6667619ec5dd3f494dae0e9a039860c2eae86b38b6560049591",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc073_en.bi5_.json",
+      "file": "cmc/en/LCmc073_en.bi5_",
+      "source_sha256": "e8f05f353e277ac22171fbd710d36c0522d7ecc9e25497b392f8a7410ac17880",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc074_en.bi5_.json",
+      "file": "cmc/en/LCmc074_en.bi5_",
+      "source_sha256": "3d34f944003e71d057e33f899df6e29df5e67d7aeeeb5a998cc62d075d2a676f",
+      "entries": 4,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc075_en.bi5_.json",
+      "file": "cmc/en/LCmc075_en.bi5_",
+      "source_sha256": "263c6c447bd52ecc47f6d641e3449b1e706c893a17406f696e6aae3db98e0097",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc076_en.bi5_.json",
+      "file": "cmc/en/LCmc076_en.bi5_",
+      "source_sha256": "27eb13429979124b8fb5401b1017bb71fb04d96faff401d5fa207fd0e4510133",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc100_en.bi5_.json",
+      "file": "cmc/en/LCmc100_en.bi5_",
+      "source_sha256": "2f394df333eb6aba8de3be724cae237ab60a5ca15ab8685613ca94a0e453f361",
+      "entries": 9,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc102_en.bi5_.json",
+      "file": "cmc/en/LCmc102_en.bi5_",
+      "source_sha256": "91e4459b1bebf505378cbd01a5bfbce12c6a5c21f8c023b3f426585313bd68d3",
+      "entries": 12,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc103_en.bi5_.json",
+      "file": "cmc/en/LCmc103_en.bi5_",
+      "source_sha256": "448b9ba62c479af676ea19ca03c815e04ab5e3ae64abfb451ce986db4196be03",
+      "entries": 12,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc104_en.bi5_.json",
+      "file": "cmc/en/LCmc104_en.bi5_",
+      "source_sha256": "c1e74a2ce3a68ee841a22aa975d431ddc16872135ade3b1e4392755bb766e7c9",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc105_en.bi5_.json",
+      "file": "cmc/en/LCmc105_en.bi5_",
+      "source_sha256": "2ee875ddd7918e450fdf924c1a2e6e5108ed75882581d2a6fa7fd89f15aef4c6",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc106_en.bi5_.json",
+      "file": "cmc/en/LCmc106_en.bi5_",
+      "source_sha256": "fabf84ac9dd8c3e87e942f97b67e02b4cd51779612213610f35ac4b36e1cf9f8",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc107_en.bi5_.json",
+      "file": "cmc/en/LCmc107_en.bi5_",
+      "source_sha256": "137f2814bf34f0b6273147c48e7304efeeecd1fa53f87a2246bc16b9dfaf1daa",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc108_en.bi5_.json",
+      "file": "cmc/en/LCmc108_en.bi5_",
+      "source_sha256": "006a7f0ed745e6b46a4b8cc6534098b488c9b73b71deedaf324178ea6e588d6b",
+      "entries": 20,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc109_en.bi5_.json",
+      "file": "cmc/en/LCmc109_en.bi5_",
+      "source_sha256": "3a2096e40b4986a9ee8467a25f9c11ce1a45646cbf451674de7d7f551d61f245",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc113_en.bi5_.json",
+      "file": "cmc/en/LCmc113_en.bi5_",
+      "source_sha256": "c82d776ad2039776cab9696e173f5217d1d7b42d0b93dc894eaa7ad85cf5383b",
+      "entries": 27,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc114_en.bi5_.json",
+      "file": "cmc/en/LCmc114_en.bi5_",
+      "source_sha256": "c96c6e405c0bd66eaaac0a27c505035ed0cb9d7d6258b27456b691edb902ae28",
+      "entries": 16,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc115_en.bi5_.json",
+      "file": "cmc/en/LCmc115_en.bi5_",
+      "source_sha256": "19a28b1f50dd430ef7acc2f4f59635a3b1c032f78b9c5d019b3c8fed3fa8226d",
+      "entries": 12,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc116_en.bi5_.json",
+      "file": "cmc/en/LCmc116_en.bi5_",
+      "source_sha256": "d0bbce50f3de1ee3dfd210d5abbdff54d0e878277e745863b3c1f73cc42cc15a",
+      "entries": 18,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc118_en.bi5_.json",
+      "file": "cmc/en/LCmc118_en.bi5_",
+      "source_sha256": "08c104ab16153999875da69f2f18aea6a11fb305dca859c3db021b99a0de9c29",
+      "entries": 8,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc121_en.bi5_.json",
+      "file": "cmc/en/LCmc121_en.bi5_",
+      "source_sha256": "1909cd4ac8547048fcc80dce357cca38fb239fe547f858aadf494e2435217b85",
+      "entries": 18,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc122_en.bi5_.json",
+      "file": "cmc/en/LCmc122_en.bi5_",
+      "source_sha256": "439cf8a2733ee973066a536c6517fb69c13d27763d07e0c6afced2ff7129a814",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc123_en.bi5_.json",
+      "file": "cmc/en/LCmc123_en.bi5_",
+      "source_sha256": "5d28bc8e7cc38f11b305bda4b50fccace72513873bd6fa09d4a8da3d7cf49387",
+      "entries": 2,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc125_en.bi5_.json",
+      "file": "cmc/en/LCmc125_en.bi5_",
+      "source_sha256": "c3ebdeb8398dec7f5f602901b9c589ee02060b5fc19fdbdb5dda46534ef1e9e6",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc127_en.bi5_.json",
+      "file": "cmc/en/LCmc127_en.bi5_",
+      "source_sha256": "d68c8de38e2dc07fae377aa0989b0c6c339826e59a9c697a1fc081d9101f9b60",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc128_en.bi5_.json",
+      "file": "cmc/en/LCmc128_en.bi5_",
+      "source_sha256": "4077a2bb2ba5225f70c47fb2991059b8e7af823bff859d0e9eaf5edaf0e8ca8a",
+      "entries": 9,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc129_en.bi5_.json",
+      "file": "cmc/en/LCmc129_en.bi5_",
+      "source_sha256": "3b00639e86d35b0c4e7e51c6d8d8a8b74efeec30988dff3457796a1461b56508",
+      "entries": 16,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc130_en.bi5_.json",
+      "file": "cmc/en/LCmc130_en.bi5_",
+      "source_sha256": "86ad43ce11dd4d029d85b895bef7696b69e39bbab9a1e07db4fb9d978fba2542",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc131_en.bi5_.json",
+      "file": "cmc/en/LCmc131_en.bi5_",
+      "source_sha256": "de6dce72df501e2f4ef222200c1c8d43a1767216d2db5443b2cf23f3cf7956c5",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc132_en.bi5_.json",
+      "file": "cmc/en/LCmc132_en.bi5_",
+      "source_sha256": "a7f4ad5291b1a7e13d7cb46e3d0ed8bbe91aa23397f384d729dd7fc7a3ec64b2",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc133_en.bi5_.json",
+      "file": "cmc/en/LCmc133_en.bi5_",
+      "source_sha256": "882c27cd1c59288d71ff26ddda9265f58348f7879b3a292578bf51ca62dbf996",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc134_en.bi5_.json",
+      "file": "cmc/en/LCmc134_en.bi5_",
+      "source_sha256": "c96ac15012b8d5d3c49f64f498b2b9f2de3843f364f579cbf3c575bc393e4a72",
+      "entries": 27,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc135_en.bi5_.json",
+      "file": "cmc/en/LCmc135_en.bi5_",
+      "source_sha256": "6fdf28c307ee5020dbbfe9fbad217cfebbae30536753fc1b5f06cbcee0ca5b1d",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc138_en.bi5_.json",
+      "file": "cmc/en/LCmc138_en.bi5_",
+      "source_sha256": "a3de766c862e32ce4eccd0762bca6b06bdf508324929eb13d904bc7007095892",
+      "entries": 26,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc139_en.bi5_.json",
+      "file": "cmc/en/LCmc139_en.bi5_",
+      "source_sha256": "2964b8227e1d243cc5ad454a9f241a7f7d53c1adcb7713d201949f625c180e9e",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc140_en.bi5_.json",
+      "file": "cmc/en/LCmc140_en.bi5_",
+      "source_sha256": "31958996436d2f05acf7d924fed35ed40ac41e193a5aa734b42dbe8671b5645a",
+      "entries": 24,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc141_en.bi5_.json",
+      "file": "cmc/en/LCmc141_en.bi5_",
+      "source_sha256": "5cfdf678e8baa81cfc72fbcf70139ca7d4d12516cd68f50524c2f88865ddca44",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc142_en.bi5_.json",
+      "file": "cmc/en/LCmc142_en.bi5_",
+      "source_sha256": "e18ef359cdfcb123befcdd5f6cd2b4aca1ed40805b543d199fcd71884c6b2eb1",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc143_en.bi5_.json",
+      "file": "cmc/en/LCmc143_en.bi5_",
+      "source_sha256": "f44c948c24b0d619e8f9c6859bb0e88582439bce14e3f94a9d69f6c7d60bc386",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc144_en.bi5_.json",
+      "file": "cmc/en/LCmc144_en.bi5_",
+      "source_sha256": "a25481aa6453ecfad89e331fe38f37af92ace6b79f1a61d9c0079a47167200ab",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc146_en.bi5_.json",
+      "file": "cmc/en/LCmc146_en.bi5_",
+      "source_sha256": "68fc4713016b27b6dba6c8e0ce9a9f747d574091049e9e860c27925c4eac86b2",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc149_en.bi5_.json",
+      "file": "cmc/en/LCmc149_en.bi5_",
+      "source_sha256": "efc85238700ca705ddda514fb592d9d03ddf7eee3620ac55a91139f7d168ecd7",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc150_en.bi5_.json",
+      "file": "cmc/en/LCmc150_en.bi5_",
+      "source_sha256": "e78bfcc80b472d3d7a77e4c3923f6462fa4a35476bdf14ef9f7b8aad5394ded2",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc152_en.bi5_.json",
+      "file": "cmc/en/LCmc152_en.bi5_",
+      "source_sha256": "4f25dbadba6c5a2420b148c1f6d6b3e9be8b98ee27c496ac8c7ec9bea7441d04",
+      "entries": 2,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc153_en.bi5_.json",
+      "file": "cmc/en/LCmc153_en.bi5_",
+      "source_sha256": "d709d6bae799f87df87a06734e087b967eec9267fb64beebd28ffc6bfee78e39",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc155_en.bi5_.json",
+      "file": "cmc/en/LCmc155_en.bi5_",
+      "source_sha256": "3323a5104e53ccea6b059957995aae7b6b4335c830dd5f4cae77ceae03a3808b",
+      "entries": 8,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc160_en.bi5_.json",
+      "file": "cmc/en/LCmc160_en.bi5_",
+      "source_sha256": "90c8c6c6c300bd337a50251db7c8ae79ed8aaeb48abe01caae83679ee9c8828b",
+      "entries": 2,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc161_en.bi5_.json",
+      "file": "cmc/en/LCmc161_en.bi5_",
+      "source_sha256": "15c196bfa8be696ee2a1b155239ba7a4d13a7ccd343d4ec606190d6f23feaa06",
+      "entries": 22,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc163_en.bi5_.json",
+      "file": "cmc/en/LCmc163_en.bi5_",
+      "source_sha256": "4934ab02c113510e8228463ef3c171d6c84d87f6213134e37cc2ca91433a454f",
+      "entries": 15,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc165_en.bi5_.json",
+      "file": "cmc/en/LCmc165_en.bi5_",
+      "source_sha256": "7651fa724a12b4354f6b8b31d28c1607644254fb62b7ab5cdc81598c60d9cc3d",
+      "entries": 24,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc167_en.bi5_.json",
+      "file": "cmc/en/LCmc167_en.bi5_",
+      "source_sha256": "4cb1d0b886d4fb748fb5319dbc9401ad09e9d36943962d52d6cc03274f585ded",
+      "entries": 5,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc168_en.bi5_.json",
+      "file": "cmc/en/LCmc168_en.bi5_",
+      "source_sha256": "d4b8e2c0ebf9da076457701dbb2b78b418045e871fa2ab5fd0c5691fab477407",
+      "entries": 3,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc201_en.bi5_.json",
+      "file": "cmc/en/LCmc201_en.bi5_",
+      "source_sha256": "7d39f377dc0968921d52e6168fcab818da4b5f0b8fe33cb6ea274fdcfd7909cf",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc202_en.bi5_.json",
+      "file": "cmc/en/LCmc202_en.bi5_",
+      "source_sha256": "2477794ee3b5a31d4d88867ebba5fbb4527463fe5c1905cf482c97896403d4a9",
+      "entries": 5,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc203_en.bi5_.json",
+      "file": "cmc/en/LCmc203_en.bi5_",
+      "source_sha256": "d1e8dac030ca9a4b6b24f12b0ecf052b76e25a059ad39d82b08a7a391b4c552d",
+      "entries": 8,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc204_en.bi5_.json",
+      "file": "cmc/en/LCmc204_en.bi5_",
+      "source_sha256": "16e91dd5f275c118d2f5975fb8beba963d58d8cc02278b64a85aae19b546a431",
+      "entries": 2,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc206_en.bi5_.json",
+      "file": "cmc/en/LCmc206_en.bi5_",
+      "source_sha256": "929f1b0b47cb9f50e80b324ab49fd95b35ed73fec709231db40f41e9f84eebba",
+      "entries": 9,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc207_en.bi5_.json",
+      "file": "cmc/en/LCmc207_en.bi5_",
+      "source_sha256": "b1f572304ad33724d9a4ace8df36b835907a52d3f00669310bb205c2cffffbd6",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc208_en.bi5_.json",
+      "file": "cmc/en/LCmc208_en.bi5_",
+      "source_sha256": "b082c54ea6e2ad03a9d417e3325511acae1bc5ec10cad4806def569ddf098c55",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc209_en.bi5_.json",
+      "file": "cmc/en/LCmc209_en.bi5_",
+      "source_sha256": "2bd9b50e365135d6b40e06ef109369b6dbae916053479247d0b217cbe6f5c59f",
+      "entries": 5,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc210_en.bi5_.json",
+      "file": "cmc/en/LCmc210_en.bi5_",
+      "source_sha256": "903500e9d5bc6503867960edd8577f85f57acb027a298aa4a27b9ea981cda7ed",
+      "entries": 22,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc211_en.bi5_.json",
+      "file": "cmc/en/LCmc211_en.bi5_",
+      "source_sha256": "45824ed0604c33590fe793318164194f68c5f1dd25154acf2660d194d7963112",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc212_en.bi5_.json",
+      "file": "cmc/en/LCmc212_en.bi5_",
+      "source_sha256": "493d49b0c29759548f72fbf587546545efea4647cf848d992f25170d642f2f1d",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc213_en.bi5_.json",
+      "file": "cmc/en/LCmc213_en.bi5_",
+      "source_sha256": "ef6c07aed405c4d2706f6648f1c7e914332db3998ed75c2ee262e362f3e4bddd",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc214_en.bi5_.json",
+      "file": "cmc/en/LCmc214_en.bi5_",
+      "source_sha256": "d6587b6805370ebc891d282c6da1deb5652664c27f13ea86b1a99684e5f44f82",
+      "entries": 6,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc215_en.bi5_.json",
+      "file": "cmc/en/LCmc215_en.bi5_",
+      "source_sha256": "1f519d0ad9289c6bcef342c9a8d110fb2737092a7fc17b5f1c0b09cf6a1297fa",
+      "entries": 7,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc216_en.bi5_.json",
+      "file": "cmc/en/LCmc216_en.bi5_",
+      "source_sha256": "f851c0f3f6cc80f14a9c07b8fa0df0e6b9ee1eb852ecb43634842f8566d66964",
+      "entries": 12,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc217_en.bi5_.json",
+      "file": "cmc/en/LCmc217_en.bi5_",
+      "source_sha256": "951a01e1bb0578df7fa61652d931bd8f2aa818267465a352a1057e68badb4716",
+      "entries": 18,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc219_en.bi5_.json",
+      "file": "cmc/en/LCmc219_en.bi5_",
+      "source_sha256": "ba656d3ed1be41708343d1d42abd343fb4e3623559b1129482373b0653c372a2",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc221_en.bi5_.json",
+      "file": "cmc/en/LCmc221_en.bi5_",
+      "source_sha256": "80a5e148b0bb80f4a6f86d9d93089307b99cc1cbf91f5f5771a9e80e276c31db",
+      "entries": 31,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc222_en.bi5_.json",
+      "file": "cmc/en/LCmc222_en.bi5_",
+      "source_sha256": "4ecb4cb7a6fc2f52cd3c14b7961a702b65df729e3f4b00446b95601984181402",
+      "entries": 8,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc225_en.bi5_.json",
+      "file": "cmc/en/LCmc225_en.bi5_",
+      "source_sha256": "88a707c65a1687d63776ffb9a0ed03fbd8da7dbec17289a40a797c62229d22d7",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc227_en.bi5_.json",
+      "file": "cmc/en/LCmc227_en.bi5_",
+      "source_sha256": "19d21594ac5a4d6a45331cd0da6325928e6a7748c64b34107be898535ce0f133",
+      "entries": 25,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc228_en.bi5_.json",
+      "file": "cmc/en/LCmc228_en.bi5_",
+      "source_sha256": "cef55d5df6dfda200278b49763fcb31b47e8d2412bc21b52d62ddc5ca7c22741",
+      "entries": 10,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc229_en.bi5_.json",
+      "file": "cmc/en/LCmc229_en.bi5_",
+      "source_sha256": "4c6689e18d55ac58daf264eb143cb348e77f9f7e65b02b6092b664ac5089cfdd",
+      "entries": 23,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc230_en.bi5_.json",
+      "file": "cmc/en/LCmc230_en.bi5_",
+      "source_sha256": "5f64736e849941a5c50f2905e8e6f7f3466769a87fbb756998e5284e5b573edd",
+      "entries": 7,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc231_en.bi5_.json",
+      "file": "cmc/en/LCmc231_en.bi5_",
+      "source_sha256": "c1e59408614c8c581f907507f61c4252c607ca7304363dc6cc545776d330be1b",
+      "entries": 12,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc232_en.bi5_.json",
+      "file": "cmc/en/LCmc232_en.bi5_",
+      "source_sha256": "4d94e24372672414b7f97dbdc7cf5f6af44ff55ad08ac5053cd92e2c56a77b30",
+      "entries": 12,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc233_en.bi5_.json",
+      "file": "cmc/en/LCmc233_en.bi5_",
+      "source_sha256": "cca14ddf06c8d88fecba687ce58c497a0af5fb4a770fabb5a7ae4e4a0512109e",
+      "entries": 13,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc234_en.bi5_.json",
+      "file": "cmc/en/LCmc234_en.bi5_",
+      "source_sha256": "f9ff373b8bf633cb5f5a90b464807d8fc870c3d6fcb752982af45b4498a279b9",
+      "entries": 17,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc235_en.bi5_.json",
+      "file": "cmc/en/LCmc235_en.bi5_",
+      "source_sha256": "c355a93dda84d89ea73df0ba2ff068b62939cc40430c57c93fb102be8c1ef93f",
+      "entries": 19,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc236_en.bi5_.json",
+      "file": "cmc/en/LCmc236_en.bi5_",
+      "source_sha256": "9a7d31726f11c30b0746475f4ecbc76fae15d1519ce7741450ec4f18cb451c6e",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc237_en.bi5_.json",
+      "file": "cmc/en/LCmc237_en.bi5_",
+      "source_sha256": "3e1bad3c0195a518bac78b56bf13d0ae0eb103c59823a8361191abe3611fbc56",
+      "entries": 11,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc301_en.bi5_.json",
+      "file": "cmc/en/LCmc301_en.bi5_",
+      "source_sha256": "eefda683d2dcc51af55c172dafa9f4726b94178b5e23f39a3ddf01421b454887",
+      "entries": 9,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc304_en.bi5_.json",
+      "file": "cmc/en/LCmc304_en.bi5_",
+      "source_sha256": "6e002022c383f0b3ab56a0d11f974f50754401a09e3a01ff16f1d5b166d4df04",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc800_en.bi5_.json",
+      "file": "cmc/en/LCmc800_en.bi5_",
+      "source_sha256": "5d83487e9331b4c8144149e4f8f3da9acbcad5fb59407f7de6ac9c9eb51fb170",
+      "entries": 14,
+      "kind": "dialogue"
+    },
+    {
+      "catalog": "catalogs/cmc/LCmc801_en.bi5_.json",
+      "file": "cmc/en/LCmc801_en.bi5_",
+      "source_sha256": "98f584158742d54650983582a8b3242ee725755d1c4008cd90de8b414fb781cf",
+      "entries": 18,
+      "kind": "dialogue"
+    }
+  ],
+  "total_entries": 11886
+}

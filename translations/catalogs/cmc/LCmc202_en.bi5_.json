@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc202_en.bi5_",
+  "file_sha256": "2477794ee3b5a31d4d88867ebba5fbb4527463fe5c1905cf482c97896403d4a9",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc202_en.bi5_@00002c1f",
+      "file_offset": 11295,
+      "source": "(All right, now\njust who are you?",
+      "source_sha256": "7fe7ee410e0c001c437b2e96875b7e26722b537f4bfdafcb893fc94b7782a350",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc202_en.bi5_@00002c48",
+      "file_offset": 11336,
+      "source": "Hey!\nStop!",
+      "source_sha256": "48ac3d24a5e18be4bffe5496b4b63f6131a58619ef5af1d85e1d64d5523bfcf0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc202_en.bi5_@00002d1f",
+      "file_offset": 11551,
+      "source": "$Shh... Keats!\nShe'll get away!",
+      "source_sha256": "d9a26facc976d5743010ec022fd955d203856b77f3c48403f28b795c4a5b8167",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc202_en.bi5_@00002d44",
+      "file_offset": 11588,
+      "source": "Tsk!",
+      "source_sha256": "27d02801f93c90360d1923a13127996fb5d1833b795b0af486000bd73a58eb59",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc202_en.bi5_@00002d50",
+      "file_offset": 11600,
+      "source": "What's this way?",
+      "source_sha256": "95245ee2982b1bfe4a1c9d86cb73a90f70bb711089036e42dfe0970e2e019e81",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

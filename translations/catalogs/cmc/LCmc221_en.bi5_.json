@@ -1,0 +1,320 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc221_en.bi5_",
+  "file_sha256": "80a5e148b0bb80f4a6f86d9d93089307b99cc1cbf91f5f5771a9e80e276c31db",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003997",
+      "file_offset": 14743,
+      "source": ",Well, I'd love to just\nwaltz right in.",
+      "source_sha256": "ca608bbc1aa62eade33ba46483fd475d7d298272fb928461abd0fa18113cc0f1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@000039c3",
+      "file_offset": 14787,
+      "source": "4But something tells me\nit won't be that easy.",
+      "source_sha256": "b0f3bbbe2c8b3718c04a8846a3fac80e679f59fa72e848c4d291885c176a804c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@000039f8",
+      "file_offset": 14840,
+      "source": "What?",
+      "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003a04",
+      "file_offset": 14852,
+      "source": "Faery Lord!",
+      "source_sha256": "edb235ed61ac593aa16e3ec8fd094f598560af3fb5b78397ee0a8b697e3b6c4d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003a14",
+      "file_offset": 14868,
+      "source": "Greetings, Ellen.",
+      "source_sha256": "8b2bd230b632762a2813d5d04e7fd7f3a9d67f9ffe101ac0ae4de1959581f6d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003a2b",
+      "file_offset": 14891,
+      "source": "<Not a soul has\nventured here since\nLivane's Rebellion.",
+      "source_sha256": "5b730e8c8b259d2aaa062cba9ba2592b8e34598ec6a239070d2411081dce9ed5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003a67",
+      "file_offset": 14951,
+      "source": "(But you need not\nenter the temple.",
+      "source_sha256": "bbf513c969078522861ae53c01b336f24cea3ec58ded7e2df8575ee39f73318e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003a8f",
+      "file_offset": 14991,
+      "source": ",The ties to the living\nmust be severed.",
+      "source_sha256": "90cfd3444ed34dd8a8f6b388bd8a7b59a6317373a05d43021403430fb5d0a3a8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003abb",
+      "file_offset": 15035,
+      "source": "4It will be destroyed.\nIt is no longer needed.",
+      "source_sha256": "87634167a8850350ea44e400efcd9fda30f6173f32933e2ee6db1f402681f240",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003af0",
+      "file_offset": 15088,
+      "source": "It should be restored!",
+      "source_sha256": "d7988c666d04784b724a140217f1e07040d95c76f293f2926343f752df330c94",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003b0b",
+      "file_offset": 15115,
+      "source": " Livane!\nWhen did you...?!?",
+      "source_sha256": "4fa3927ed849feb76536eaa2b00e61307b7470adabcc90e58b94b0f0b2ca8b37",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003b2b",
+      "file_offset": 15147,
+      "source": "<I apologize for\nmisleading you and\nmy fellow Faerys.",
+      "source_sha256": "3b583513dd3f3f0ea28becd3c95bb37fe7fb8bfc252ed76db18672846a0452df",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003b68",
+      "file_offset": 15208,
+      "source": "But there is no choice.",
+      "source_sha256": "a169649f019677b54f8fdd162190cde31f41650438ef1b2bdc22c7cac54d8be3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003b94",
+      "file_offset": 15252,
+      "source": "We say adieu to humans!",
+      "source_sha256": "365d8ccf26581dd51d15596b3212f5fad3e780750625451df95301e710ffd1c9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003baf",
+      "file_offset": 15279,
+      "source": "$Faery Lord!\nWhat do you mean!",
+      "source_sha256": "b026723084142d53e4df46b8a309f6b73f7ba8dbde2888b2d4d260f16fa97e05",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003bd4",
+      "file_offset": 15316,
+      "source": "You heard the man.",
+      "source_sha256": "e12efcb29fa7b5ceed2ce74588203da4baa0f8822b69b58acb554b3708d4e3d7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003beb",
+      "file_offset": 15339,
+      "source": ",Any feelings of\nfear, grief, or spite",
+      "source_sha256": "4ff38bdc6eaafb9ab5f61031133522c1ab903b9421c3d5a7ffd12e4d928deacf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003c17",
+      "file_offset": 15383,
+      "source": "0will never be forgotten\nonce experienced.",
+      "source_sha256": "2480c46d5d950d7d56c80a65a4007c9c04816778dda1ca2003d9abc720d20103",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003c47",
+      "file_offset": 15431,
+      "source": "DThe human spirit will\ncollapse under the\nburden of such pain.",
+      "source_sha256": "96be9c912f4ed2c6e696bbb141bc5fe7d91f7900ed9d967be986d6dac6e4c0bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003c8b",
+      "file_offset": 15499,
+      "source": "DSo, this is what makes\nit possible for us to\naccept death, eh?",
+      "source_sha256": "b0c8bd41281b407c593e06631bce8e8b66ee48cfbaa57994fb9c1bae3cdd8ba5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003ccf",
+      "file_offset": 15567,
+      "source": "DPrecisely. Without this,\nvery few could ever\ncope with death.",
+      "source_sha256": "29442b02d9261f492f6108e68b08e57920599a2870b01495bcab3fb60fdc32a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003d13",
+      "file_offset": 15635,
+      "source": " That could be a problem.",
+      "source_sha256": "5c46a25256aaec63ca6ee1cc6b14b92136f91c8226c4070d0d3aeff119439704",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003d34",
+      "file_offset": 15668,
+      "source": "Enough!",
+      "source_sha256": "a9f32fa0489bdba9044d59e591284ff88e50fab427889583a34f118670da7a5e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003d3f",
+      "file_offset": 15679,
+      "source": " You alone\nstand in the way!",
+      "source_sha256": "597c4097376462ab51872065ce2af879b6047a855a356b258b704adbd16a67fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003d5f",
+      "file_offset": 15711,
+      "source": "0...I don't think\nthis fella's listening.",
+      "source_sha256": "86fc7b438000cb1b742fe50fb17d34ef0c27a2f9619c58512b59e2ae0d16d39c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003d8f",
+      "file_offset": 15759,
+      "source": "0But, what happens if\nthis thing goes down?",
+      "source_sha256": "e629bf78f858bcc2b3edb4437bfc0fd9e640d509bc660d9e834ed093f9397fdd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003dbf",
+      "file_offset": 15807,
+      "source": "0Personally, I prefer\na pacifist approach.",
+      "source_sha256": "a69612dec3e16194d935eca1e61069ba27aa32e5996153bb067eeb8fcb39d5ed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003df0",
+      "file_offset": 15856,
+      "source": "Oh, well.",
+      "source_sha256": "20b05511f2959dd2aaa21c2f643752bfa16703df6bd83a4f6b99a718c656c575",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003dff",
+      "file_offset": 15871,
+      "source": "$The structure has\ncome closer.",
+      "source_sha256": "e17035d21f74400c679bf45ab0830262b62e8f81ac446ced7ca1ae52e711db80",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003e23",
+      "file_offset": 15907,
+      "source": "(The memories lie\ndormant inside it.",
+      "source_sha256": "f65d6466cde8445b9ff8b7564f5d78eaaeedc1afd7abb335f5fa7493903e2970",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc221_en.bi5_@00003e4b",
+      "file_offset": 15947,
+      "source": "0The weak of spirit\nwill die out over time.",
+      "source_sha256": "7792c4d9f8a7e5a9fbe88b6eed5a506e403d730a8142efeb68b16baf06e1272d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

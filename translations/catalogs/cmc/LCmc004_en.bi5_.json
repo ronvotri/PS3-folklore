@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc004_en.bi5_",
+  "file_sha256": "a2a3c4dc162edbb3b0a0377fdc64c1166850391e24ca2747e3d6ec352f79baa8",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003c70",
+      "file_offset": 15472,
+      "source": "Who's the new face?",
+      "source_sha256": "3c6544b21dab6c59e902cbc6e3f9a0c6ca43988960f288a5d3f76314f856e93a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003c87",
+      "file_offset": 15495,
+      "source": "(Well, I'm amazed\nyou made it here.",
+      "source_sha256": "9cf1ce8db0ef39093949632ad37c1b85f41c782fa4060d791e6b07452fe22cd0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003cb0",
+      "file_offset": 15536,
+      "source": "My name is Frizzie.",
+      "source_sha256": "76a750430079acc86a165f5583d711f5ecff717c09142adda9d45d6f3f320ba8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003cc8",
+      "file_offset": 15560,
+      "source": "I'm Damona.",
+      "source_sha256": "af9c24914678251e52648beda35f2bc9642a2e2d07f970e25adbc1b1cdb130d7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003cd7",
+      "file_offset": 15575,
+      "source": "$You've come to\nmeet the dead?",
+      "source_sha256": "73b4e8e36463267f92cb8115167c0a7ba31bc6fdb359dbc6578e5681915c42cc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003cfc",
+      "file_offset": 15612,
+      "source": "How nice of you!",
+      "source_sha256": "92c5a1c058d8ab19308bab993854adb657a2f200ea020644917c717b61144141",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003d14",
+      "file_offset": 15636,
+      "source": "Just a young girl.",
+      "source_sha256": "75a552b17a53097ae4190390aa1d8a88a3b46e845941d1cc71c4d79f63c72a4c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003d34",
+      "file_offset": 15668,
+      "source": "Excuse us!",
+      "source_sha256": "fa06f176c98505943f9d9170d42a1ab962895c96b22b164d44ef9e6db0a85008",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003d44",
+      "file_offset": 15684,
+      "source": "We are\nHalflives.",
+      "source_sha256": "51fc3f50dbad8a99302a19c5c8d6e5b5a83242d9f7e6c57aeb813276354554fa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003d5c",
+      "file_offset": 15708,
+      "source": "Faerys?",
+      "source_sha256": "ca533212e7e6e18eb9fa7b51c505db83b4bc5c8e3c1dbf17263ccfd83c1d8382",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003d67",
+      "file_offset": 15719,
+      "source": "0Boo hoo...\nYou lost your\nmother, did you?",
+      "source_sha256": "3156d47b8d1a1ba4838ffd5b4491da92f0e3f7b09df37cec8c2cf24234dff7d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003d98",
+      "file_offset": 15768,
+      "source": "Or perhaps\nghosts?",
+      "source_sha256": "79c9f086829aaed710f72417b4e8e0b33254a8090b2988fa5fdda1249b7375ff",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003db0",
+      "file_offset": 15792,
+      "source": "Is this...\na dream?",
+      "source_sha256": "1c7965997123a96fd4c4f27171940009a15cedc8805bd534b610493dfd79ac98",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003dc7",
+      "file_offset": 15815,
+      "source": "(Ho ho ho! Going to\nthe Netherworld?",
+      "source_sha256": "9f4dd5c8a2e20dd60ad8ee43238cdf526e1e2f5636522d1dc3022d358095404d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003def",
+      "file_offset": 15855,
+      "source": ",It is true that you\ncan meet the dead.",
+      "source_sha256": "8cd3fc341d86484f1c5b2164ce426f820199f9babe05cbd8cee4ce5be51b085f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003e1c",
+      "file_offset": 15900,
+      "source": "Meet the dead?",
+      "source_sha256": "75f70bbfcd863391bfa779a0707cc3bfb9055cec407367778029db5038ca165e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003e2f",
+      "file_offset": 15919,
+      "source": "8Tee hee!\nYou'll be the next to\ndon the Cloak, then?",
+      "source_sha256": "96bbf8beb4b711ed2eeae556d5bda046b69adfb18db68d296c036b9fae69f50b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003e67",
+      "file_offset": 15975,
+      "source": ",And open the door\nto the Netherworld!",
+      "source_sha256": "b1929f2c2150bb77f0ddc8c7bb69e36421b87d8a5c7d748e85ca75deb0e9a382",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003e94",
+      "file_offset": 16020,
+      "source": "Call me Fir Darrig.\n",
+      "source_sha256": "7845160a748f2fa1d8d209239374892e3f3f544968651861cce9e3cb245ecd93",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003eaf",
+      "file_offset": 16047,
+      "source": "4Scarecrow is outside.\nHe'll show you\nthe way!",
+      "source_sha256": "12c6198bc849085f130b4269c01f8f6f2fb2268ea77911bd2464a6108e7400f4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003ee3",
+      "file_offset": 16099,
+      "source": "0Nya ha!\nHe has waited ages\nfor this day!",
+      "source_sha256": "ee15f5111bf1a9661932f7a12fa69a1cc11aa152731b67bb6e29bacdac30c180",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003f13",
+      "file_offset": 16147,
+      "source": "(But...\nDo not despair.\nWe can help.",
+      "source_sha256": "4d49c8a9ed1577f93bd7a15396fd5872b49de04384467d955cfae97da067aed2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@00003f4b",
+      "file_offset": 16203,
+      "source": " The Cloak?\nThe Netherworld?",
+      "source_sha256": "9b0d76354d6ab1c00c7a08e7468c0ad062b7c89e96ec2baf41ca40729e052be1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc004_en.bi5_@000040cc",
+      "file_offset": 16588,
+      "source": "Open so late?",
+      "source_sha256": "06a2c342a5e1a86316e93301c65bfedbb1e4eba7f4de25aedb2aedefb91faff1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc160_en.bi5_",
+  "file_sha256": "90c8c6c6c300bd337a50251db7c8ae79ed8aaeb48abe01caae83679ee9c8828b",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc160_en.bi5_@000023d8",
+      "file_offset": 9176,
+      "source": "Keats...\nHelp me...",
+      "source_sha256": "915c4cefe4ecade3aea596a964c2338e386eeca68a689f88b6d5df9e494d8f40",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc160_en.bi5_@000023f0",
+      "file_offset": 9200,
+      "source": "I saw...\nthe video...",
+      "source_sha256": "57d4c2a0850e6e95d0b82af00fdc1524deeb00df9637ec40a397898e2e728f59",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

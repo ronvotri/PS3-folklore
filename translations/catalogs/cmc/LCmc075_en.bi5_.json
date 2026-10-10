@@ -1,0 +1,120 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc075_en.bi5_",
+  "file_sha256": "263c6c447bd52ecc47f6d641e3449b1e706c893a17406f696e6aae3db98e0097",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002b18",
+      "file_offset": 11032,
+      "source": "Please! Stop!",
+      "source_sha256": "62d1a32580581036e0d202e8db969fe9e5a27467e2ecceb9c67c74644720ac91",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002b3c",
+      "file_offset": 11068,
+      "source": "Did you kill\nHerve?",
+      "source_sha256": "631791337dc302db873977f9ebf2a11cd7f7c33de9f2e25aca828cff6c142964",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002b53",
+      "file_offset": 11091,
+      "source": "4I can't believe it,\nbut that's what\nI heard.",
+      "source_sha256": "a664d7a87f49b197d48f27f6e9804cd20ded32837776e31b28a8f2281ad6c9c8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002b98",
+      "file_offset": 11160,
+      "source": "Please,\ntell me.",
+      "source_sha256": "b7d068fd5180fd66c600450973e0e4270af2d41d8f04838552bc17e6eb0bee1b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002bb0",
+      "file_offset": 11184,
+      "source": "Erg!",
+      "source_sha256": "6cfae34e4cc28a11d26bf566a35a7dd71d7ae023f1e753a36b9827e345a90a1a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002bbc",
+      "file_offset": 11196,
+      "source": "Aiieeeegh!",
+      "source_sha256": "c8058c458f8ed2dc508f256b7c642ef6d0ce3ed36dbf88854d98c6d3fb84f98e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002bcc",
+      "file_offset": 11212,
+      "source": "Why, you!",
+      "source_sha256": "a65aa8fde108bd67d80e046bc6c57299d7ca6429a9ed602f60c6a388bdd50d58",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002bdc",
+      "file_offset": 11228,
+      "source": "What have you done?!?",
+      "source_sha256": "293be6447de406b77c8b01c90a93c4c6f15bd0a05eb2e3440747569183ec44ec",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002bf8",
+      "file_offset": 11256,
+      "source": "You little witch!",
+      "source_sha256": "47359e0bed13efddd99218cec1bebda167fa5da0218e14a2aa3aa4820c2a4a4b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002c0f",
+      "file_offset": 11279,
+      "source": "$Why did Herve have\nto die?!?",
+      "source_sha256": "afe602bcc93711c3f45842991b9f43d7791557d02dea0e667095d249f3cb73f2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc075_en.bi5_@00002c33",
+      "file_offset": 11315,
+      "source": "0What did you do?\nWhat did you do to him?!?",
+      "source_sha256": "62d4820acbd9ab3fa27d955cd710a431874ec3005567b6791e587b8276c31f47",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

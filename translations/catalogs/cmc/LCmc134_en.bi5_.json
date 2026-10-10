@@ -1,0 +1,280 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc134_en.bi5_",
+  "file_sha256": "c96ac15012b8d5d3c49f64f498b2b9f2de3843f364f579cbf3c575bc393e4a72",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000034d8",
+      "file_offset": 13528,
+      "source": "Keats!",
+      "source_sha256": "0fdfc833de37fd3310fe0efa69affaf6dc683ed73248479c4193706bf5a61d52",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000034e4",
+      "file_offset": 13540,
+      "source": "Why are you here?",
+      "source_sha256": "71480774a90a5e0370051078ef6fe31b8a246ba43ea72199e1c55ef47e00d7ff",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000034fc",
+      "file_offset": 13564,
+      "source": "Yes, well...",
+      "source_sha256": "3188825a915677c69ee264700f615527a5d9ad3408314f461f43031801382cfa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000350f",
+      "file_offset": 13583,
+      "source": "@You shouldn't wander about\nwith the murderer on the loose.",
+      "source_sha256": "17ecb53243a8d4849be2cd40061eff06e8ef4ca4095f6f7d11dfaf57de98a0cb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000354f",
+      "file_offset": 13647,
+      "source": "$Well,\nI'd better get on my way.",
+      "source_sha256": "230c0c3faa29bd58a1e99d5b40bbf73f5812e0b1a056659966fd048ceef93ded",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@00003573",
+      "file_offset": 13683,
+      "source": "<Ellen, did you find\nsomething linked to\nthis location?",
+      "source_sha256": "aa94753ece153e1c3e8bf3500a413ef91e4f5eba99bc739f7b025b8b20160b3f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000035af",
+      "file_offset": 13743,
+      "source": ",Yes,\nbut it won't work.\nI wonder why?",
+      "source_sha256": "ecb089e0d54427d99948fea4c278659e28349f4cc7020c3a6b4f36f41eaea64b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000035dc",
+      "file_offset": 13788,
+      "source": "Well,\nthat's strange...",
+      "source_sha256": "bb9f7c371edf738ac4aa8e2234687b2af16371d9ef42b025c3665f2ecdbda6e6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000035f7",
+      "file_offset": 13815,
+      "source": "(Let me have a look\nat it, will you?",
+      "source_sha256": "0e3b413fe379e9fecafc9562fda0ecaea406099b3aa91561bc9da591f21b119d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@00003620",
+      "file_offset": 13856,
+      "source": "Yes, of course.",
+      "source_sha256": "cbffbaeabc8e164c69514b5d271e828e5734544195fec0aa0bde0b443eb56669",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@00003633",
+      "file_offset": 13875,
+      "source": "8Hmm, the Medical Records\nwritten by Dr. Lester...",
+      "source_sha256": "cc31643f23e3cbf7d08cdd2f76bdc243a59e896e6dffd964c8c081dce034b436",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000366b",
+      "file_offset": 13931,
+      "source": "$Keats!\nI'm depending on you.",
+      "source_sha256": "79d7d0c373ad89250162281a4235f1e05ef396ce646561cb89fbc416d7d4fe6b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000368f",
+      "file_offset": 13967,
+      "source": "(Please, track down\nthis murderer!",
+      "source_sha256": "afd34cca17aafaa28d95cd631374a470265f4e862d3e51ddbc4a2dfdb7f01c65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000036b8",
+      "file_offset": 14008,
+      "source": "Hmm?",
+      "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000036d3",
+      "file_offset": 14035,
+      "source": "$I'll find out\nabout the past.",
+      "source_sha256": "947efe703c91392f99b4c35ff3e60f50f46706ed2c63da181a5dc8d5dc756677",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000036ff",
+      "file_offset": 14079,
+      "source": "TThe murders of past and\npresent are linked.\nThe villagers are hiding something.",
+      "source_sha256": "4101cc2e570b5fa0a7d1e2f674562719fa9040d863d205b84e8f8a6cb38c9714",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000375b",
+      "file_offset": 14171,
+      "source": " I need to know\nthe truth.",
+      "source_sha256": "704f1c579b607343590c9197c2b9257ae7962db6ca7a6ebab86fc8ad410bbb26",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000377b",
+      "file_offset": 14203,
+      "source": "8Whatever happened 17 years\nago is connected\nto me.",
+      "source_sha256": "44066fb355e762ca7710176cdff1c534660e7c131489e0c34b34d8abeed14b44",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000037bc",
+      "file_offset": 14268,
+      "source": "Hmm?\nThis picture...",
+      "source_sha256": "4d34c2db5346c3189e9962cd0b22798777d47ad422aa96ce2091771bf3aca47a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000037d7",
+      "file_offset": 14295,
+      "source": "(I feel as if I've\nseen it before...",
+      "source_sha256": "2dcfaf462dc3b16988639f5255049c076f38367bbb955afb7992b82b1b9a321e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000037ff",
+      "file_offset": 14335,
+      "source": ",I found it with\nthe Medical Records.",
+      "source_sha256": "054ca48b254f3a6b35cf3852ad23bfa924c10830448bf8009f7dec4cef86b21d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000382c",
+      "file_offset": 14380,
+      "source": "A picture of the sea?",
+      "source_sha256": "ba19ac949fc846b31f49acb9797dc4504b8e2dac3a5f5c48353d33c25f7f561a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@00003847",
+      "file_offset": 14407,
+      "source": "$It seems that Cecilia\nhid this.",
+      "source_sha256": "fdffb17a6e396175fa0110e008af56c2465eab4b14585de3c0d7e56b7a0c4bbb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@0000386b",
+      "file_offset": 14443,
+      "source": "$Then why does it\nseem familiar?",
+      "source_sha256": "6e6556d3cafc205656080e5114ba0aa0255f9a885a8997b960892b38ae21fd0d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@00003897",
+      "file_offset": 14487,
+      "source": "0Ah, that's it,\nit's a view from the beach.",
+      "source_sha256": "cdb408fc64e386db90f13c93f33c93ce896de79683b1f71d61d4a23d3e786200",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000038c7",
+      "file_offset": 14535,
+      "source": "(Go to the shore,\nand you'll see.",
+      "source_sha256": "dfc5c92cc1157935beb4c0c4743f7e8b98433e6a4dd9a8f4122fd5b0b32e950c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc134_en.bi5_@000038fb",
+      "file_offset": 14587,
+      "source": " It doesn't look like it.",
+      "source_sha256": "3c89647dc2ccda65565249abe1bedf9a3cf9e590422e523a7ba3f613e47b23fe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

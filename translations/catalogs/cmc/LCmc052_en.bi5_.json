@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc052_en.bi5_",
+  "file_sha256": "bc0cb6cf8640dcbefc7aa73d2fa013e6034faa464e53147266e6c692d4b216f0",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc052_en.bi5_@00002518",
+      "file_offset": 9496,
+      "source": "This shows the door...",
+      "source_sha256": "2d32d7ab118adc7eba0971cb6488f4c3e48d50d7368f0af9ddcebce2f0ec4756",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc052_en.bi5_@00002533",
+      "file_offset": 9523,
+      "source": "DThis crest forbids\nentry by all except the\nspiritual medium.",
+      "source_sha256": "38266b059ff4865c37a72878613b706b8ff28685a96bd12a012b9cf1355b2506",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc052_en.bi5_@000025af",
+      "file_offset": 9647,
+      "source": "$Could you have a\nlook at this?",
+      "source_sha256": "c45366107b3a44a3e2d3a5d50a01f5e74b2376757dc1ada2df13bd82d3e7d2c7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc052_en.bi5_@0000261b",
+      "file_offset": 9755,
+      "source": ",They're documents\nleft behind by Lulu.",
+      "source_sha256": "66fc1d5c098aed2f1fff472fb8b858e3d2b8af3ab4f0778848e615280ddd544b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc052_en.bi5_@00002647",
+      "file_offset": 9799,
+      "source": "4This door was deep\nwithin the Cloak chamber.",
+      "source_sha256": "edf5510e6db34a347cc3ae16f26d1f693c7920c2c626fee9023568da5c835296",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc052_en.bi5_@0000267b",
+      "file_offset": 9851,
+      "source": "0Was Lulu trying to go\nbeneath the Henge?",
+      "source_sha256": "6fd7a0586bcaa3d8a59f6e8147864c9e0954a9050b7fb9a3f2f67bd693da3e87",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

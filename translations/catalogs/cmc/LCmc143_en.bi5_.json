@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc143_en.bi5_",
+  "file_sha256": "f44c948c24b0d619e8f9c6859bb0e88582439bce14e3f94a9d69f6c7d60bc386",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002d9f",
+      "file_offset": 11679,
+      "source": " Sounds like\na good idea.",
+      "source_sha256": "11173302227d91ad28a7f9ba79549651f2e4ee0e097cad454275dc86f8cf272e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002dd9",
+      "file_offset": 11737,
+      "source": "\nstruck again?",
+      "source_sha256": "9bc84e138c3c504cb6ae75883b26d660fc65bfaa3b60c4d7fb76eec7e27d7ef6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002df4",
+      "file_offset": 11764,
+      "source": "Just who is this\nHag?",
+      "source_sha256": "19df5cb4e0ed0d38fee70c58bea02fbb033249d0ec1280c6471f26387de21d60",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002e0f",
+      "file_offset": 11791,
+      "source": ",It's not any one\nof us gathered here.",
+      "source_sha256": "24cffdee2f72e1f6bf526eedbdd43d96cf6ac5c697021c001f61dd8df487fe59",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002e53",
+      "file_offset": 11859,
+      "source": "8Would she hide in the\nchurch? Beneath the Henge?",
+      "source_sha256": "11dfd106093c9d084a18fff32f2a6f0b12fcd9fa3b5d2c3d4aa41addcb7abda3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002e8b",
+      "file_offset": 11915,
+      "source": "4Impossible!\nNo one can get\nbeneath the Henge.",
+      "source_sha256": "3b1ee618ee930d328267040b4c06a723d69ddb0810a8a613dd6d22a8de6784e2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002ebf",
+      "file_offset": 11967,
+      "source": "$I imagine that there\nis a way.",
+      "source_sha256": "54e4a48e0bc165110c5e5073cd81fcd1fdafb72387748728be043f183993694c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002f0b",
+      "file_offset": 12043,
+      "source": ",The church is safe.\nI saw for myself.",
+      "source_sha256": "51af2aee362b8c24572a1a8f3b7cf77243acab510576a9110749959fc1883ef2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002f4f",
+      "file_offset": 12111,
+      "source": "(Then why not gather\nin the church?",
+      "source_sha256": "863e3ed8cca242cbac4ab968113b9e8413ab3c06bac1faba47a7f5f96fde3b46",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002f77",
+      "file_offset": 12151,
+      "source": "$It's better than\nbeing alone.",
+      "source_sha256": "9476086086fb44ec8ae1ba061a2b65dc29834b22a2aee6c2da3b74f2bec6a426",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002f9b",
+      "file_offset": 12187,
+      "source": "0This calls for an\ninterview with the dead.",
+      "source_sha256": "8baad45730fb109232651a56dbbbfe58f5f98c55dd53a3ed78c1de47868a7267",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002ff9",
+      "file_offset": 12281,
+      "source": " My God!",
+      "source_sha256": "a439f95bed2a042d968e89903cb695d225aa3cdeaf155d7ae132402a6e31c12e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00003008",
+      "file_offset": 12296,
+      "source": "How could this...!",
+      "source_sha256": "904df65140d7763dee34788a313977962188d7a87eef9db230fbb98e38267ad3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00003063",
+      "file_offset": 12387,
+      "source": "\nof Harriet's?",
+      "source_sha256": "20661d0318eeb82b9e9fe3bd5ca54a29b280e566f69c37814fb15265f0ac23ab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

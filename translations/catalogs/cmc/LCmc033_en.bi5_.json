@@ -1,0 +1,120 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc033_en.bi5_",
+  "file_sha256": "3ad6205b5b7a169945119476cb3245708e0d0716f28600843aa36fb70897e2da",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002dd8",
+      "file_offset": 11736,
+      "source": "Then all of you",
+      "source_sha256": "508d617a67679cb411170d2a060557ecbd1a239dd01efae9172ef857e6532662",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002df4",
+      "file_offset": 11764,
+      "source": "into nothingness.",
+      "source_sha256": "f07337f1b2794cb2228834f9ce8e8538cbac860f018f06d8eec6cfc42766e405",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002e0c",
+      "file_offset": 11788,
+      "source": "will disappear?",
+      "source_sha256": "0bc06712edb28a13634990af0673e4fba7aad675a6049bc92a5f0c5ec9025108",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002e20",
+      "file_offset": 11808,
+      "source": "Yes, Ellen.",
+      "source_sha256": "f462fde270ea11059870e4c355e8f7b681a21755d69d9033fe67ecff2bd97e43",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002e30",
+      "file_offset": 11824,
+      "source": "We will fade away",
+      "source_sha256": "d9389a2dddc420857843388f0e9d9503f0a28e961897a5df107ec387ff28e773",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002e57",
+      "file_offset": 11863,
+      "source": " No, don't go!\nStay here!",
+      "source_sha256": "f91b5b655123b1dc639ddb900ae80279a66963967df0d15e6ef330d1ce47b313",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002e77",
+      "file_offset": 11895,
+      "source": "(Please... Help our\nNetherworld...",
+      "source_sha256": "33561fb14b96529bbdc3deea41eca23d19951677d8eaf760e145dee6addd512e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002e9f",
+      "file_offset": 11935,
+      "source": "$No, no! Why do\nthis for me?!?",
+      "source_sha256": "d6c7f6be3007ca9ea1c6aa7ee27ed443338d399716aba1b9f26d4c79d2fb4dbf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002ec3",
+      "file_offset": 11971,
+      "source": "8We need you\nto tell humans about\nthe Afterworld.",
+      "source_sha256": "a6898e2a899c529b8b79200601622d7c2c686a8bba7181ba2873c1005670a2e2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002efc",
+      "file_offset": 12028,
+      "source": "Gone forever.",
+      "source_sha256": "01ca6cc7c72914987e4694d0bb6adb9b4c212c8f24ce32c7c068976b77146922",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc033_en.bi5_@00002f10",
+      "file_offset": 12048,
+      "source": "It is all we can do.",
+      "source_sha256": "9c78a02232f50c277d8b1d7087d5b1a4d42e0077cff12f94fd14757eb080c4d1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

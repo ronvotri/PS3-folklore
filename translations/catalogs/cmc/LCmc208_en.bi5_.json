@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc208_en.bi5_",
+  "file_sha256": "b082c54ea6e2ad03a9d417e3325511acae1bc5ec10cad4806def569ddf098c55",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@000030e0",
+      "file_offset": 12512,
+      "source": "I don't know\nanything!",
+      "source_sha256": "a9b48c78dfb5b1079297ed3b5088290d655f7b41839b80574eb06fcd53b2d4c1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@000030fb",
+      "file_offset": 12539,
+      "source": "$Yes, but you saw\nsomething...",
+      "source_sha256": "c2be722089105822170d28a3d360104da81e271dd3ab9369c754ed28e5ebacf7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@0000311f",
+      "file_offset": 12575,
+      "source": "(I know what happened\nat the church.",
+      "source_sha256": "d63d384a0d17f9093d4791e57ac9feda60b837f18201ba0bb3657a61dbefbd9a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003147",
+      "file_offset": 12615,
+      "source": "0You want me to keep\nthat secret, don't you?",
+      "source_sha256": "031fc89f30e387a9e02d7283583932be4a81c135a25ab17c10f9270e9190be49",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003177",
+      "file_offset": 12663,
+      "source": "(Then, you'd better\nhelp me here.",
+      "source_sha256": "e5b8ec8c72376187a269e44d27edf32325688cde73bfc506a72dac3aa52ead1e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@000031a8",
+      "file_offset": 12712,
+      "source": "Herve!",
+      "source_sha256": "fdcc2215b9473c2f4bf14bc3fa39c3d7dbf89dc06027fd90654f213d275761b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@000031b3",
+      "file_offset": 12723,
+      "source": "(How did you get\ninside the ruins?",
+      "source_sha256": "d04d8b7b20953b1505ee2ca04dc99fc88a8859be9ab8265519723f6143744d06",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003203",
+      "file_offset": 12803,
+      "source": ", too.",
+      "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@0000320f",
+      "file_offset": 12815,
+      "source": "$Please. I really\nneed to know.",
+      "source_sha256": "d6369a28837444958de1d0b54ad9c147e878ce81846aedac9b04987073347d38",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003234",
+      "file_offset": 12852,
+      "source": "We're pals,\naren't we?",
+      "source_sha256": "70962579c130abeead06b31beed1f82fc019287919209d3a33149b722a7a01bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003250",
+      "file_offset": 12880,
+      "source": "Somebody!",
+      "source_sha256": "7c06ead7628737730ff64bd1ae2be994b3b0a4cbaf13da3670792a3ebc9cef1a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003260",
+      "file_offset": 12896,
+      "source": "No!\nWait!",
+      "source_sha256": "7d71e273aacfd40c0cba07d7679dc8dc94d1fef0c3c00090fb4f9ffc8b9c89ae",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003270",
+      "file_offset": 12912,
+      "source": "What did you see?",
+      "source_sha256": "b97be282329aa07159fc2b5dc7c748231b3f99ef0d64a3e1ef8af4790ed2579b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

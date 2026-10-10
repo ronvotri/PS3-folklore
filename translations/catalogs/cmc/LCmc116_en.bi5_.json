@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc116_en.bi5_",
+  "file_sha256": "d0bbce50f3de1ee3dfd210d5abbdff54d0e878277e745863b3c1f73cc42cc15a",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002d20",
+      "file_offset": 11552,
+      "source": "What did you say?!?",
+      "source_sha256": "6130f04bb7ef2cbe3ffe386f6a5b9ef4a0be89f01fcd9565999b87096baed952",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002d4a",
+      "file_offset": 11594,
+      "source": ",\nAre you certain?!",
+      "source_sha256": "ee8a1ee7abffcf6868e2927129474d05a0e511dd0dbbd9b5c12659a92f982d79",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002d63",
+      "file_offset": 11619,
+      "source": "(First Herve,\nand now Renaldo...!",
+      "source_sha256": "6f70426d1d53b3388152c7c3142eeed9e207845330e318d68b3cb3e00e60560e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002d8c",
+      "file_offset": 11660,
+      "source": "It's her!\nShe did it!",
+      "source_sha256": "9828f3c92c05bc4fb30a24cc250921b3f645aa20eac7b3245c98594aef9014c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002da7",
+      "file_offset": 11687,
+      "source": " My beloved daughter,\nEllen",
+      "source_sha256": "37170d936bc0f0d135d09b95dc7b6b19116fc38d6b22ad92c54c603838498d62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002dc7",
+      "file_offset": 11719,
+      "source": "@Forgive me for being absent\nfrom your life for 17 years.",
+      "source_sha256": "80981bd0c3e44cd90c47e4532e10ff5fceda4399f41ba2aadba4ec24466ac84e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002e07",
+      "file_offset": 11783,
+      "source": "LI await you on November 2,\nat Samhain, on the Cliff of Sidhe, Doolin.",
+      "source_sha256": "5122e958c86cef904b9730cf66cdb9adddd31996f9cb59b211ad4afac7d01058",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002e54",
+      "file_offset": 11860,
+      "source": "Your mother.",
+      "source_sha256": "9038909b4f65427c99aefa4eafe3a3b7bbe810394235364b5ddaefb298d3c100",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002e70",
+      "file_offset": 11888,
+      "source": " Finally...\nRevenge!",
+      "source_sha256": "b9dd200a0df18c46106c55cb0f2030dc4e5f7032459c31ab14a99d3be2e6655c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002e8b",
+      "file_offset": 11915,
+      "source": ",Herve is her son,\nRenaldo her husband.",
+      "source_sha256": "01423e8e85b6a8a05e7e7da5112ff7add90b031f32d0fcd11af6399552f67c8f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002eb7",
+      "file_offset": 11959,
+      "source": "(17 years ago,\nshe lost them both.",
+      "source_sha256": "b96a71f5fb5bce57403c7461569f959e1d974bd6c6f4e2e7a14105a6495149e1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002edf",
+      "file_offset": 11999,
+      "source": "0What happened at the\nchurch 17 years ago?",
+      "source_sha256": "4982c45427a635ef47cd1f083336c3e859500588c1db8145b05c45c2678180c8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002f0f",
+      "file_offset": 12047,
+      "source": "(And how does Ellen\nfit into it all?",
+      "source_sha256": "2946e7459582cc34ae80386c9d3faa61e37d15dca1a04d90c13f290126ad2555",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002f37",
+      "file_offset": 12087,
+      "source": "$This village has quite a past.",
+      "source_sha256": "f4570f7801d8406a06e488bf2f2e8ae1914d515b628dafd5a3405d0825e183f9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002f5c",
+      "file_offset": 12124,
+      "source": "It's the truth.",
+      "source_sha256": "d79494def72a4ac0724b924a5a67f543c6610cfc747a2b24a115fba201a040bc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002f6f",
+      "file_offset": 12143,
+      "source": " That night, at the church!",
+      "source_sha256": "ff38b5ad5ca1de65b76370c58f0cc120d682183999e67a4540941c5cd13b3e5d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002f9c",
+      "file_offset": 12188,
+      "source": "It can't be!",
+      "source_sha256": "bd89df1099af272fc7d0a6dee8580c58ea73a5f5dfbc2e3949d1e8c0e5060cb5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002fb0",
+      "file_offset": 12208,
+      "source": "Herve...!",
+      "source_sha256": "fae581d23aaab468660665042ed4043ccf80e48431d8b80d74ec374f4f9d481d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

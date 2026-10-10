@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc046_en.bi5_",
+  "file_sha256": "edd8a87c81542c5f48b386b453e69c855286374998df83beff4623c062718a67",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@00003097",
+      "file_offset": 12439,
+      "source": "@I don't think that you\ncould face the truth\nabout the past.",
+      "source_sha256": "6c9126ea495d9de569cb7d69eb8ccb767dd64c3fda6037651edf5cff086433dd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@000030d7",
+      "file_offset": 12503,
+      "source": "$Who stopped you?\nWas it Keats?",
+      "source_sha256": "67a2db1c5cd6e3bc269108891c60b98e78f1eef39c6dc9eb09815bed863a9936",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@000030fc",
+      "file_offset": 12540,
+      "source": "It doesn't matter who.",
+      "source_sha256": "e0982c662cd6082642c9e36b6206c8436d0fae5ac579729aa2a9009504645dce",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@00003118",
+      "file_offset": 12568,
+      "source": "You met the doctor?",
+      "source_sha256": "502619242e202b8307f4f788ba0ac9a34bcee648f51b9e4be45745e311aae965",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000312f",
+      "file_offset": 12591,
+      "source": ",Yes... You don't need\nto worry anymore.",
+      "source_sha256": "35e600eab7eee06b3a30979e0573228eadbad33fa37137bad1816ad52b288aed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@00003163",
+      "file_offset": 12643,
+      "source": "8Many of the villagers\nhave been stuck in\nthe past!",
+      "source_sha256": "baff174bc17b2b1ff4a42b0148ee9509957e4e11e67d3b5f81f525ffcffab900",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000319c",
+      "file_offset": 12700,
+      "source": "For 17 long years...",
+      "source_sha256": "27e8773ba6d79bf9bae6978b1e088cb4984b7d48adb2870e10ec0c1909603430",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@000031b8",
+      "file_offset": 12728,
+      "source": "Like\nDr. Lester?",
+      "source_sha256": "5af9083f7fafd9a3d30cb85cab81bcd000582e99be24878dd96eda54ae75b2a2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@000031d0",
+      "file_offset": 12752,
+      "source": "Herve!",
+      "source_sha256": "fdcc2215b9473c2f4bf14bc3fa39c3d7dbf89dc06027fd90654f213d275761b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@000031db",
+      "file_offset": 12763,
+      "source": "4But the truth has come\nout. She was never dead.",
+      "source_sha256": "36949481e81f818633991f6d81e819cf4e0034cb9ca8c7bde85ea475d4bdef3c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000320f",
+      "file_offset": 12815,
+      "source": " You didn't go to\nthe Swamp?",
+      "source_sha256": "eb4333bd72237ddbd676c9786f70a1695e127ebdc1b0f505637edfe816e9a4e3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000322f",
+      "file_offset": 12847,
+      "source": "0Dr. Lester thought that\nhe let Cecilia die.",
+      "source_sha256": "cb7444327b13ee6f1bd742764f464f0c7d74204fdfc32a4f616da997124cc703",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000325f",
+      "file_offset": 12895,
+      "source": ",He stopped me.\nSo, I came to see you.",
+      "source_sha256": "a897d544d03775a0d9f3e354ddc1b12d38772925d0f6054fea0cd7123c76a08c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000328b",
+      "file_offset": 12939,
+      "source": "PThere's a tape in the\ndesk drawer of the church.\nGive it to Mrs. Lester.",
+      "source_sha256": "fefe2b6e0a2ff1b53f034b701407d1b94eb7ed7b2c1f77c9e0f6c4157f00408a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@000032db",
+      "file_offset": 13019,
+      "source": ",I feel the same way\nnow as I did then.",
+      "source_sha256": "347a7b77a7569a469a55a098b0b5e7f25438c4b00bef395f19d821725a1768c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@0000330f",
+      "file_offset": 13071,
+      "source": "$It's about more than\njust me!",
+      "source_sha256": "b1daa7aebb8f948544d66636c6ab1c53a282b6661fd18db12013ef596c1eafc8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@00003333",
+      "file_offset": 13107,
+      "source": "$Yes. And\nMrs. Lester, as well.",
+      "source_sha256": "07fb501153fc6bb81a36db7349320f829d0b25999162ed8a23246660789b971f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc046_en.bi5_@00003378",
+      "file_offset": 13176,
+      "source": "Good bye,\nEllen.",
+      "source_sha256": "f6296ba44763ae27f9b1ea2f36fde3e2b2cd7dedf4503696548753b1fd1f912b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc036_en.bi5_",
+  "file_sha256": "a320d2793610155c0b3cacb6d1891223807a98ae8ebe6d32d172dcf1b4bd3a7d",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc036_en.bi5_@00002f58",
+      "file_offset": 12120,
+      "source": "Hmm? Who\ncould that be?",
+      "source_sha256": "b6995b2fe1a7c622a380b712a3c0e63125808fb1c80b32dab2f62a05c123e5aa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc036_en.bi5_@00002f73",
+      "file_offset": 12147,
+      "source": "$I really don't\nhave time to...",
+      "source_sha256": "c94b037813ceffc93d42f057a6e4c7988c4c7c0327bb03362fb34d01eaec458c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc036_en.bi5_@00002fd4",
+      "file_offset": 12244,
+      "source": "You!",
+      "source_sha256": "b1a636abd588da57cbcb55d9812646de65ad7f09c3c5e75cc60807b172b45856",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc036_en.bi5_@00002fdf",
+      "file_offset": 12255,
+      "source": "0Apologies, Keats, please\ncome back tonight.",
+      "source_sha256": "977215453801a3d22fdac56ab91d19d49be42fd9e599ed092e1fd2e6fa1a82f2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc036_en.bi5_@00003010",
+      "file_offset": 12304,
+      "source": "Of course.",
+      "source_sha256": "404cba15a4acdcfea85caa97d009b1042d20f0967c26f9a1abf59aecbeddf9bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

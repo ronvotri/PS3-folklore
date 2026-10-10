@@ -1,0 +1,300 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc023_en.bi5_",
+  "file_sha256": "d9801e6e2564e206332982961b65e3bdce98dcdcea50da42e5edaab9cb3e6127",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004437",
+      "file_offset": 17463,
+      "source": ",You want to find out\nabout your past?",
+      "source_sha256": "6477dfb6716f1249e39e5eaad0fe4f994b66ff7eec41b16bd0cdae2b10dae67d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004463",
+      "file_offset": 17507,
+      "source": " What was mother thinking",
+      "source_sha256": "90a32b1b994a58ecb820828e939e498fab048d38a217360f43a15d5c8fae3a42",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000449f",
+      "file_offset": 17567,
+      "source": "(I don't want to\nknow about my past.",
+      "source_sha256": "2eeab63252d5126adb8291822cbd725c607872699af13069299172bbc534b52d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000044c8",
+      "file_offset": 17608,
+      "source": "when she came?",
+      "source_sha256": "6aecc5cc0a09749c19e50b2a05f8d7e422dba5e3883eab4f9e2a643f5db19b85",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000044eb",
+      "file_offset": 17643,
+      "source": "$Stop digging up\nold skeletons.",
+      "source_sha256": "49eaaa242320ccca1029f736b0a6e83314f7adae48a077b72b7574308a97341c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000450f",
+      "file_offset": 17679,
+      "source": "0It would only make me\nresent my parents.",
+      "source_sha256": "e25ae74f7609d1d0bb57e420cf55180b7d671461dd30a07c3b5d32e2956e0378",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004557",
+      "file_offset": 17751,
+      "source": ",Your family didn't\ndo anything wrong!",
+      "source_sha256": "ae8eeb2e7b26eb0fb83ee35bc2eed194bae41d5c4e36e1757fd72b77e055c07c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004593",
+      "file_offset": 17811,
+      "source": " Then what DID\nthey do?!?",
+      "source_sha256": "1204ba0f999fa18d659973777e5e213f57fbe80d0011d877e9047835ec5aaed9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000045b3",
+      "file_offset": 17843,
+      "source": ",Your mother lost a\nvery special man.",
+      "source_sha256": "3f5ca878cc136bce338f07724b04a9c215b6fecb0a31148594752f440d787618",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000045e8",
+      "file_offset": 17896,
+      "source": "What's this?",
+      "source_sha256": "ddfd032cce17828b78f39a45ec9eb7e08706234daff45da0498cf931407c07a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000045fc",
+      "file_offset": 17916,
+      "source": "Dear Regine,",
+      "source_sha256": "b649ddd2090478493da857c7367348527a2cb763de138f5a78e6bb2cfacb72d2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004610",
+      "file_offset": 17936,
+      "source": "Why did Father\ndie?",
+      "source_sha256": "0e6bf85d50208d21329cf84cd7f043823ad545ce7b91bcc5d3a75f8ebb7ee0bf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004628",
+      "file_offset": 17960,
+      "source": "Now, where is it...",
+      "source_sha256": "a5cc31b9f87ac103d5b168fc55632dd876072ca79f2f512d638e86fa6ee3de5f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000463f",
+      "file_offset": 17983,
+      "source": "0Give Suzette all the\nlove and care you can.",
+      "source_sha256": "a08b9bb307bfd1e7c866855647163877bcacf4576475990b1eeccfc76973f4b0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000466f",
+      "file_offset": 18031,
+      "source": ",may you be happy\nwith a loving family.",
+      "source_sha256": "1de88bc99bf8030e53f5ed0558104b81ca8dee686b3dfbf754af7867f1252a9d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000469c",
+      "file_offset": 18076,
+      "source": "The writing...",
+      "source_sha256": "394926ad64e243ae3d80afe81f8a672719cb593e9add91391129d560d476a67c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000046b0",
+      "file_offset": 18096,
+      "source": "It's all smudged.",
+      "source_sha256": "4388102561b0d23f8177f95571a6d378845b5b7f4719b6ac03109783534dfc28",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000046c7",
+      "file_offset": 18119,
+      "source": " I can't read this\nrubbish.",
+      "source_sha256": "0f1ea329efdaf4f7165fde2e6ab4d5176d73d606e81a7a7f496ff09ccebee322",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000046e7",
+      "file_offset": 18151,
+      "source": "<Your father cared for\nfamily more than\nanything else.",
+      "source_sha256": "5573889bee0808a437974eed1fd878901f6f4f94f512ba7763d99e8a85a69f22",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000478b",
+      "file_offset": 18315,
+      "source": "$Mother found out\nall about you.",
+      "source_sha256": "bf61e0a76516cd29cd1f69aeb4bed7fce912145afa73c9fdb8b8fe58ed578bfe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000047c8",
+      "file_offset": 18376,
+      "source": "Yes, I understand.",
+      "source_sha256": "1c15a529462462499b430c5cd6693fdc7d207e9b56a458a776c77bb269d8b7b9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000047df",
+      "file_offset": 18399,
+      "source": "(Deep down I wanted to\nknow, too...",
+      "source_sha256": "5cd7fa68be3ae489198450f7ef3ea3bd8b6c2d6459a4d1dc93cd97dd4c7c5d09",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004810",
+      "file_offset": 18448,
+      "source": "Why did your\nmother...",
+      "source_sha256": "284ebb3199558d196a8e7143d3e23802a08eb036d1ba0bdf085ba504308cea64",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000482c",
+      "file_offset": 18476,
+      "source": "bring me here?\n",
+      "source_sha256": "78aa75fb42b5ee7e32180db667adb2ff52c8cb7888571eab207b06b2bf190cec",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000484f",
+      "file_offset": 18511,
+      "source": " and came to this\nvillage.",
+      "source_sha256": "a3ff9326546897e0345c946fe0d207d39250f08c46497597e9eacea8a980ec0c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@0000486f",
+      "file_offset": 18543,
+      "source": "4Sorry I could not make\nthe four of us happy.",
+      "source_sha256": "ebaebd883f06f001a5e0b05b671aa87457ad53ad2b4062b4f4df37ed31aa56d5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@000048a3",
+      "file_offset": 18595,
+      "source": ",One day, she laughed\nlike a madwoman,",
+      "source_sha256": "f4c2553ef59e18bbbd314f9c7651db5c4116b299403885437d2e316a6eff1f7f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004908",
+      "file_offset": 18696,
+      "source": "to this village?",
+      "source_sha256": "917025ade4cfd84bd9a4192aa327e4479b00c34f2df36754aae9a3ea93048eed",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc023_en.bi5_@00004927",
+      "file_offset": 18727,
+      "source": "$And to Suzette,\nas yet unborn,",
+      "source_sha256": "c9397b369ae8379e0f3ab055a0460483e333a1595f406cb4eebc0b170f2a52a4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc146_en.bi5_",
+  "file_sha256": "68fc4713016b27b6dba6c8e0ce9a9f747d574091049e9e860c27925c4eac86b2",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003504",
+      "file_offset": 13572,
+      "source": " Perhaps\nI can arrange it.",
+      "source_sha256": "4c3f7898f73649ca37de97d9d344ffa51d5ed3640480db4b0e8124976261a4a3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003524",
+      "file_offset": 13604,
+      "source": "In fact,\nI do.",
+      "source_sha256": "a021e04c3c040ecdeb38124af9ef6ba1ba8e01a21e7edc53bbc12b23f1645e7b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003538",
+      "file_offset": 13624,
+      "source": "You know her?!?",
+      "source_sha256": "d06f45760909d81028cd79ab7b44ddb64ca57ea703bc9103de37cef578113869",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003553",
+      "file_offset": 13651,
+      "source": "$Are you talking\nabout Ellen?",
+      "source_sha256": "87429909101b1feeefe940ca3aaed45b602ae5274803744232a81d0b8fd1461c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003578",
+      "file_offset": 13688,
+      "source": "You again?",
+      "source_sha256": "53ca70e25fc42870593aa5bff9aeb5feccf01996668aaef13f4d18f6d3fa19cf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003588",
+      "file_offset": 13704,
+      "source": "(yawn)\nWhat a drag.",
+      "source_sha256": "7c4ffc01425ca4757b26f7107e1f8502fb15597b78b559ef6521ece24f9eb1cb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@000035a0",
+      "file_offset": 13728,
+      "source": "Can you find her?",
+      "source_sha256": "83e762509b3ab2cd880f352ad1d19a6d4faa4296e1e3e50909d827266b1feb45",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@000035b7",
+      "file_offset": 13751,
+      "source": "8Wait, where's my\nlittle sweetie? I want\nmy sweetie!",
+      "source_sha256": "e7cf98a10782755c943bd1a586e4e8879bb658d7bedad8d6a229b95421629533",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@000035f8",
+      "file_offset": 13816,
+      "source": "Fine, then!",
+      "source_sha256": "583ee34bae6924296c37a466d76d1746c2f8b713ed47a5a0b319bfcac1318fe3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@0000362f",
+      "file_offset": 13871,
+      "source": "0I'll send her over,\nif you do me a favor.",
+      "source_sha256": "436ee934dae6c55673eafa1bcb0a1b1d4b492a27ea9b0e1c6ba5f6173a5888cb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003668",
+      "file_offset": 13928,
+      "source": "Go on!\nSpit it out!",
+      "source_sha256": "144b708cf0b9c7a7e032a68a979fe59cbe68d9c69212a1746c1beb712721d756",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@0000367f",
+      "file_offset": 13951,
+      "source": "(I need to have a word\nwith Harriet.",
+      "source_sha256": "47c649ecdd230bcca1e8b0c612d81a79fffd44c8c9eb573d2616c585c2f4221e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@000036a8",
+      "file_offset": 13992,
+      "source": "Another door,\neh?",
+      "source_sha256": "d368cacc52697fc28790371204076315df1d45b3e96e0ec21a4c7784e3a3a6fe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

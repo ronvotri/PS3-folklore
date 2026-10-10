@@ -1,0 +1,170 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc005_en.bi5_",
+  "file_sha256": "eac6c012ea359cb29d0326630cef719065a51e0fe062cc48fa07656d9d347fcb",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004377",
+      "file_offset": 17271,
+      "source": "(Hello... I'm looking\nfor my mother.",
+      "source_sha256": "e3a29ccb58387fa7df74bb2dc1bf4684d90d69e8275eb37b57c5eb43b63b34af",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000043a0",
+      "file_offset": 17312,
+      "source": "Aieeek!",
+      "source_sha256": "73212244f096ffef4e457d189af1f5ae551bb0210632bc8a61f75004c76a2b4e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000043ac",
+      "file_offset": 17324,
+      "source": "Scarecrow!",
+      "source_sha256": "ead708a5639d2e8617de2e3875c0255a245d56b66cbba63ebd9f14904fa0905d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000043bc",
+      "file_offset": 17340,
+      "source": "Be careful, Ellen!",
+      "source_sha256": "206f1cd265221b7191643c83130edca1ea20f433b34ee9394e472c1bc49e2e3d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000043d4",
+      "file_offset": 17364,
+      "source": "Yes, yes\nthat's it!",
+      "source_sha256": "0e3161932f9a945ad3bfc7a78bdc14deca5160a35fe9b798cc1a13c96fd6141b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000043f4",
+      "file_offset": 17396,
+      "source": "What just happened?",
+      "source_sha256": "865b71e1c3c01d5071ea5321bbf02add81a474bf484b3a3fa6795d59c13b2b8b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004413",
+      "file_offset": 17427,
+      "source": "$The Cloak can absorb\ntheir Ids.",
+      "source_sha256": "47ef72771a77fac73a267518eef053d69ce78f0d6d0feca143b73f6143e55100",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004438",
+      "file_offset": 17464,
+      "source": "But what for?",
+      "source_sha256": "0a20e4b6034777664c463e709d4488b80fe366bb208a68e2112bc36aa1fd9216",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@0000444c",
+      "file_offset": 17484,
+      "source": "To fight!\nUwee hee hee.",
+      "source_sha256": "59894af29285cb4020244fc20c0b763f8af2a8bbf32e35fc39bbefd61efca1a7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004468",
+      "file_offset": 17512,
+      "source": "What's this?",
+      "source_sha256": "ddfd032cce17828b78f39a45ec9eb7e08706234daff45da0498cf931407c07a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000044bf",
+      "file_offset": 17599,
+      "source": ",Uwee hee, Ellen...\nHold out your hand.",
+      "source_sha256": "e887cb28e8bf37137cd39c7fc6ce8255324456d1cd0788f35ca8b75a7ca2dd31",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@000044f8",
+      "file_offset": 17656,
+      "source": "Hurry!",
+      "source_sha256": "2bc5833f8910ac50d0368934ac22be28f384f21a0096caecf0f9ad839e7ebfee",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004503",
+      "file_offset": 17667,
+      "source": " But... I...\nHow could I...",
+      "source_sha256": "349731b3ea4e551933037e1ad89eadee5a9e72fae66e543889b493303d27545d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004523",
+      "file_offset": 17699,
+      "source": "(The Cloak will show\nyou the way!",
+      "source_sha256": "6bb14d69c598ba8d0a8b8eab856a9897d2155f45d0ab8fbe534b855a2aae5a84",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@0000454c",
+      "file_offset": 17740,
+      "source": "Careful, Ellen!",
+      "source_sha256": "f267f646886f397e71bb5b62d065cdd40e3c277171eafdd0cd4d799c9445dd99",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc005_en.bi5_@00004567",
+      "file_offset": 17767,
+      "source": "(The Cloak is\nabsorbing something!",
+      "source_sha256": "1c810273c34bf63abdd0cf2d745e0f7cd69c48471779099564273e10c23c6d1c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

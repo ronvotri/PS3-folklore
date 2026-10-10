@@ -1,0 +1,180 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc008_en.bi5_",
+  "file_sha256": "098d055d3d79283419425809c25a2f05412d35063a48103d1f7e6fb5cf9b58f1",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002eb7",
+      "file_offset": 11959,
+      "source": "(Uwee hee hee\nThat was a close one!",
+      "source_sha256": "6227702717136cddd53d32a0036bdc62b15246f247cbe930b7b3b64e293465ee",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002edf",
+      "file_offset": 11999,
+      "source": "0Samhain has ended.\nThis is the real world.",
+      "source_sha256": "704e496eda7f05a360aa26e401970c4595f5a6077cca1b3ae7597032e6387468",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002f0f",
+      "file_offset": 12047,
+      "source": ",That wasn't mother\nafter all, was it?",
+      "source_sha256": "4e386b23dac18e54d24b3ec7289f6ae1e153c159400744bd484645dad79768a7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002f3b",
+      "file_offset": 12091,
+      "source": "4Uwee hee... Naw,\nthat woman tried to\ntrick you.",
+      "source_sha256": "6df5dd0b7908f61db40412bf5dc2f0e7db9a84f59660fdb9e17f4f9f22b8c71e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002f6f",
+      "file_offset": 12143,
+      "source": " She said I was\npossessed...",
+      "source_sha256": "121456ab393948e959c89d3ac352e967c57de0eff98f6ecc9251aa1c9b951ad7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002f90",
+      "file_offset": 12176,
+      "source": "17 years ago?",
+      "source_sha256": "a3808156c3824f45000628b3d2955ded4442fcfa9b1ababbd1638b4d9c761bf3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002fa4",
+      "file_offset": 12196,
+      "source": "Samhain?",
+      "source_sha256": "6cad8f2c889c20723ae7f4025b0118194934e41f2c09a3af2d91a4a28231b99e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002fb4",
+      "file_offset": 12212,
+      "source": "Revenge?",
+      "source_sha256": "11cac617a3957d8e89dbc710a4ed69d06529fac8472122d0e500648c505108f0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002fc3",
+      "file_offset": 12227,
+      "source": ",Please, tell me...\nWhat should I do?",
+      "source_sha256": "8c62391bd38f28f78eb66f3760ef85824221833d1a32ba9e0b47ce6b53138185",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00002fef",
+      "file_offset": 12271,
+      "source": ",Uwee hee! To find out\nabout the past,",
+      "source_sha256": "c47ced09d5c9cad387ffca272347a91b53731dae4dfc68b6cc71947d98325e37",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@0000301b",
+      "file_offset": 12315,
+      "source": "(listen to the voices of\nthe dead.",
+      "source_sha256": "62386bee728aa36b91d8d05c932b6ed0b7c9d33189308be9d4029bdc86479ca7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00003044",
+      "file_offset": 12356,
+      "source": "How can I get there?",
+      "source_sha256": "ef4708c61d9951d1e3b3a8d113eedcb5dd6e9e288c12d2625cff11ee2fdf7899",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@0000305f",
+      "file_offset": 12383,
+      "source": " To the Netherworld again?",
+      "source_sha256": "9793d88352818c7ae570c781217deff1146aa358c8faf31788dcff9532d1db62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@0000309c",
+      "file_offset": 12444,
+      "source": "\nof the dead",
+      "source_sha256": "8f09e7386392e4f392f36cf2349dd591a9301ce751cf5aa54f092d8439e219de",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@000030df",
+      "file_offset": 12511,
+      "source": "0That will open the door\nto the Netherworld.",
+      "source_sha256": "0bf9fb21fd7d1922182aefd5e0191ed1c46a75cb47d05478ea0bbeb5bfb970cb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@0000310f",
+      "file_offset": 12559,
+      "source": "$Uh-oh,\nmorning's almost here.",
+      "source_sha256": "14df3bb1312c609064ecbff132ce099f5b58f825d29da34bbb9534b266a47905",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@00003133",
+      "file_offset": 12595,
+      "source": ",Good night, Ellen\nSee you after dusk.",
+      "source_sha256": "8a988200a4c80d7a3389ab08a412c8c92ac74ad71a5fdfc57f80106425ee0470",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

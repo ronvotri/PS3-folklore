@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc152_en.bi5_",
+  "file_sha256": "4f25dbadba6c5a2420b148c1f6d6b3e9be8b98ee27c496ac8c7ec9bea7441d04",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc152_en.bi5_@000027c8",
+      "file_offset": 10184,
+      "source": "What?",
+      "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc152_en.bi5_@000027d4",
+      "file_offset": 10196,
+      "source": "Why here?",
+      "source_sha256": "b0c4fdb8df748ac40b6e824798255db4fd28ed81b74e47d50958e8c6460432a3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

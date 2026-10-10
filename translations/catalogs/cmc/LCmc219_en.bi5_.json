@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc219_en.bi5_",
+  "file_sha256": "ba656d3ed1be41708343d1d42abd343fb4e3623559b1129482373b0653c372a2",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@00003850",
+      "file_offset": 14416,
+      "source": "Here goes,\nthen.",
+      "source_sha256": "de2e3e7a257b036f2ca51e20285b9d910fa81f3334d0bd5a4fd936b18fe07589",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@00003867",
+      "file_offset": 14439,
+      "source": "8Don't worry\nI'll open the door.\nIt won't take long.",
+      "source_sha256": "a47c624e8641187a47cce2c0266feedf03f08aee9fc284a7ffa89b8019fb1bbf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@000038a0",
+      "file_offset": 14496,
+      "source": "Keats...\nI must go.",
+      "source_sha256": "22485169c84018faa4bd936c94df42b94df414b402930d1f09455141353dccd6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@000038b7",
+      "file_offset": 14519,
+      "source": "$Very well.\nBut watch yourself.",
+      "source_sha256": "cdc107d455bcb7bf9f74f370b63f96e483751ff9052e1373da7060ec169bcc75",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@000038db",
+      "file_offset": 14555,
+      "source": "4You have a habit of\nletting your guard down.",
+      "source_sha256": "bd1e26204ef730004f37e3c3acc0dff457e8520020fd79ed93c8ec1e0fbb726f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@00003910",
+      "file_offset": 14608,
+      "source": "Thank you... Keats.",
+      "source_sha256": "3598f883e3cce7464c8bafd2b306f229352b24cfa5f6470b08cf7659e9bade8e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@00003928",
+      "file_offset": 14632,
+      "source": "Just in case\nI fail...",
+      "source_sha256": "192537ff8f16a66567aec42fe63b47b9759554ad200ad3d197f711e9a48a3f6e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@00003943",
+      "file_offset": 14659,
+      "source": "(Stop right there.\nYou won't fail.",
+      "source_sha256": "c2d4508d90024f6309943740ffb3e7781b95d22cb829ce38cff09650267355c5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@00003983",
+      "file_offset": 14723,
+      "source": "8I need to know what\nI saw deep within\nthe ruins.",
+      "source_sha256": "909b80063872a16dc0073e22a13fb6ea6320140aa2a11877b13b019ae84db255",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc219_en.bi5_@000039c3",
+      "file_offset": 14787,
+      "source": "8You're the only one that\ncan seek Baral, anyway.",
+      "source_sha256": "582d573121211d68a4d22028ad4766e140f4c3016df9b81a41b5c4517db0c894",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

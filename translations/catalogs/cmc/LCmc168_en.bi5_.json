@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc168_en.bi5_",
+  "file_sha256": "d4b8e2c0ebf9da076457701dbb2b78b418045e871fa2ab5fd0c5691fab477407",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc168_en.bi5_@00002b3f",
+      "file_offset": 11071,
+      "source": "$Why did you kill\nthe villagers?",
+      "source_sha256": "6a8d880e78911e4abdde59d27be9b414dab2cc5bd0a2c0a82641e456573c0555",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc168_en.bi5_@00002c50",
+      "file_offset": 11344,
+      "source": "You're the Hag?",
+      "source_sha256": "9121b68d73c579ae3c0e6ce9953e7eccefbace340f0670816ba6b5a06991ceee",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc168_en.bi5_@00002c63",
+      "file_offset": 11363,
+      "source": "(We finally meet.\nIs Ellen in there?",
+      "source_sha256": "60afef8e6885430d21dc1f54693ad359b28cf725747a8c9bc650c3f92e497e88",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

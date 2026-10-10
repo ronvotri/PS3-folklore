@@ -1,0 +1,180 @@
+{
+  "stage": "user_confirmed_v3_spacing_fix_on_rpcs3_2026_10_10",
+  "mapping": [
+    {
+      "vietnamese": "ạ",
+      "source": "U+1EA1",
+      "slot": "U+0500",
+      "original_utf8": "e1baa1",
+      "alias_utf8": "d480"
+    },
+    {
+      "vietnamese": "ả",
+      "source": "U+1EA3",
+      "slot": "U+0501",
+      "original_utf8": "e1baa3",
+      "alias_utf8": "d481"
+    },
+    {
+      "vietnamese": "ấ",
+      "source": "U+1EA5",
+      "slot": "U+0502",
+      "original_utf8": "e1baa5",
+      "alias_utf8": "d482"
+    },
+    {
+      "vietnamese": "ầ",
+      "source": "U+1EA7",
+      "slot": "U+0503",
+      "original_utf8": "e1baa7",
+      "alias_utf8": "d483"
+    },
+    {
+      "vietnamese": "ẫ",
+      "source": "U+1EAB",
+      "slot": "U+0504",
+      "original_utf8": "e1baab",
+      "alias_utf8": "d484"
+    },
+    {
+      "vietnamese": "ậ",
+      "source": "U+1EAD",
+      "slot": "U+0505",
+      "original_utf8": "e1baad",
+      "alias_utf8": "d485"
+    },
+    {
+      "vietnamese": "ắ",
+      "source": "U+1EAF",
+      "slot": "U+0506",
+      "original_utf8": "e1baaf",
+      "alias_utf8": "d486"
+    },
+    {
+      "vietnamese": "ặ",
+      "source": "U+1EB7",
+      "slot": "U+0507",
+      "original_utf8": "e1bab7",
+      "alias_utf8": "d487"
+    },
+    {
+      "vietnamese": "ế",
+      "source": "U+1EBF",
+      "slot": "U+0508",
+      "original_utf8": "e1babf",
+      "alias_utf8": "d488"
+    },
+    {
+      "vietnamese": "ề",
+      "source": "U+1EC1",
+      "slot": "U+0509",
+      "original_utf8": "e1bb81",
+      "alias_utf8": "d489"
+    },
+    {
+      "vietnamese": "ệ",
+      "source": "U+1EC7",
+      "slot": "U+050A",
+      "original_utf8": "e1bb87",
+      "alias_utf8": "d48a"
+    },
+    {
+      "vietnamese": "ỉ",
+      "source": "U+1EC9",
+      "slot": "U+050B",
+      "original_utf8": "e1bb89",
+      "alias_utf8": "d48b"
+    },
+    {
+      "vietnamese": "ị",
+      "source": "U+1ECB",
+      "slot": "U+050C",
+      "original_utf8": "e1bb8b",
+      "alias_utf8": "d48c"
+    },
+    {
+      "vietnamese": "ố",
+      "source": "U+1ED1",
+      "slot": "U+050D",
+      "original_utf8": "e1bb91",
+      "alias_utf8": "d48d"
+    },
+    {
+      "vietnamese": "ồ",
+      "source": "U+1ED3",
+      "slot": "U+050E",
+      "original_utf8": "e1bb93",
+      "alias_utf8": "d48e"
+    },
+    {
+      "vietnamese": "ổ",
+      "source": "U+1ED5",
+      "slot": "U+050F",
+      "original_utf8": "e1bb95",
+      "alias_utf8": "d48f"
+    },
+    {
+      "vietnamese": "ộ",
+      "source": "U+1ED9",
+      "slot": "U+0510",
+      "original_utf8": "e1bb99",
+      "alias_utf8": "d490"
+    },
+    {
+      "vietnamese": "ớ",
+      "source": "U+1EDB",
+      "slot": "U+0511",
+      "original_utf8": "e1bb9b",
+      "alias_utf8": "d491"
+    },
+    {
+      "vietnamese": "ờ",
+      "source": "U+1EDD",
+      "slot": "U+0512",
+      "original_utf8": "e1bb9d",
+      "alias_utf8": "d492"
+    },
+    {
+      "vietnamese": "ở",
+      "source": "U+1EDF",
+      "slot": "U+0513",
+      "original_utf8": "e1bb9f",
+      "alias_utf8": "d493"
+    },
+    {
+      "vietnamese": "ụ",
+      "source": "U+1EE5",
+      "slot": "U+0514",
+      "original_utf8": "e1bba5",
+      "alias_utf8": "d494"
+    },
+    {
+      "vietnamese": "ủ",
+      "source": "U+1EE7",
+      "slot": "U+0515",
+      "original_utf8": "e1bba7",
+      "alias_utf8": "d495"
+    },
+    {
+      "vietnamese": "ứ",
+      "source": "U+1EE9",
+      "slot": "U+0516",
+      "original_utf8": "e1bba9",
+      "alias_utf8": "d496"
+    },
+    {
+      "vietnamese": "ử",
+      "source": "U+1EED",
+      "slot": "U+0517",
+      "original_utf8": "e1bbad",
+      "alias_utf8": "d497"
+    },
+    {
+      "vietnamese": "ữ",
+      "source": "U+1EEF",
+      "slot": "U+0518",
+      "original_utf8": "e1bbaf",
+      "alias_utf8": "d498"
+    }
+  ]
+}

@@ -1,0 +1,4480 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "talk/en/tk101_en.bin_",
+  "file_sha256": "e3609e3845a62cd9b2592c967de4120ef0b774053a734690884a8c82ba878dba",
+  "extraction": "ASCII NUL candidates",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "talk/en/tk101_en.bin_@00001158",
+      "file_offset": 4440,
+      "source": "To Netherworld",
+      "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000011b8",
+      "file_offset": 4536,
+      "source": "Use item",
+      "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001214",
+      "file_offset": 4628,
+      "source": "Memo pad",
+      "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000014d4",
+      "file_offset": 5332,
+      "source": "Ellen's hut",
+      "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001530",
+      "file_offset": 5424,
+      "source": "Keats' base",
+      "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000158c",
+      "file_offset": 5516,
+      "source": "Suzette's home",
+      "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000015ec",
+      "file_offset": 5612,
+      "source": "O'Connell's home",
+      "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001650",
+      "file_offset": 5712,
+      "source": "Pub owner's home",
+      "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000016b4",
+      "file_offset": 5812,
+      "source": "Harriet's home",
+      "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001714",
+      "file_offset": 5908,
+      "source": "Dr. Lester's home",
+      "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001777",
+      "file_offset": 6007,
+      "source": " Lighthouse Keeper's home",
+      "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000017e4",
+      "file_offset": 6116,
+      "source": "Suzette's home",
+      "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001844",
+      "file_offset": 6212,
+      "source": "O'Connell's home",
+      "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001924",
+      "file_offset": 6436,
+      "source": "To Faery Realm",
+      "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001984",
+      "file_offset": 6532,
+      "source": "To Warcadia",
+      "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000019e0",
+      "file_offset": 6624,
+      "source": "To Undersea City",
+      "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001a44",
+      "file_offset": 6724,
+      "source": "To Endless Corridor",
+      "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001aa8",
+      "file_offset": 6824,
+      "source": "To Hellrealm",
+      "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001b08",
+      "file_offset": 6920,
+      "source": "To Netherworld Core",
+      "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001c27",
+      "file_offset": 7207,
+      "source": "$There's too much I don't know.",
+      "source_sha256": "5a8e3e761e965dd31592c30b5563a23e4592b330b99af87489d7c5e2820e401c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001dd1",
+      "file_offset": 7633,
+      "source": "\nWas it all just a dream?",
+      "source_sha256": "407dfdf56205cda3ccfab3dcbcf35813789cb29440a115dbe2972c6a4acc4e73",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001e65",
+      "file_offset": 7781,
+      "source": " to find out.",
+      "source_sha256": "5249cac5ba27d78dc28a88b1b66d213b21cf0304fa5104ab58a9d32d869fc57e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00001f3a",
+      "file_offset": 7994,
+      "source": "\nthe cliff is staying.",
+      "source_sha256": "e5c3d2cf4be012e92c202f5ece17ecdcf30c0adf34bbb72b42cdb113c3d700ab",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002022",
+      "file_offset": 8226,
+      "source": " first.",
+      "source_sha256": "d7c03157c4c44dc1b932b67cd82b7ff0a6f2e7f6ffb02dcc7a0803d6287fe904",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002372",
+      "file_offset": 9074,
+      "source": "\nfew questions.",
+      "source_sha256": "f05b61fde31be4f19e330eb2ab08b62de952979fbb3b6ff519f027c5f2768f62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002640",
+      "file_offset": 9792,
+      "source": "\neh? This I have to try.",
+      "source_sha256": "508fab05f30fb93c339652440377b0126d64d73047b8b66cfcd75a7ad53094b0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000027aa",
+      "file_offset": 10154,
+      "source": "\nWouldn't want to be rude.",
+      "source_sha256": "d3b1d05193f23aea85c1e8fbe9b4a511d06bf425cbc62da448cea758593d7c13",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002975",
+      "file_offset": 10613,
+      "source": "\nas you, and offered mementos",
+      "source_sha256": "3c534cc95557962225f0ba70d11bc5f9ac6e6d640a5b7ac50cb222763b9eb7fd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002a87",
+      "file_offset": 10887,
+      "source": "$What happens when it's offered?",
+      "source_sha256": "1b3643c6b9673897a59708205bd13b9057cfaa8b26203ae40a13a67d44b0a730",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002bd6",
+      "file_offset": 11222,
+      "source": "\nwhilst still alive.",
+      "source_sha256": "e0924f61012bd335d49db078ad456477d071fa4d1d8bef84aab616e317be48e2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002cc8",
+      "file_offset": 11464,
+      "source": ".It's worth trying out.",
+      "source_sha256": "90e2895deced3fe0234d3cf9e8af42aec8c01b6578df3a0d7d9949f7a36ce37f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002f77",
+      "file_offset": 12151,
+      "source": "\nShe will offer you guidance.",
+      "source_sha256": "8118558276c1b4a6250cf52a1fc8e6f307669b6ec3f021dd9dccbe89457e5c24",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00002ffc",
+      "file_offset": 12284,
+      "source": "\nbut I can find her up ahead?",
+      "source_sha256": "d6866aa94c529dc07da416a052cf14fcfe2fe51f1b5c143bdf9d2a55edbc37fc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003065",
+      "file_offset": 12389,
+      "source": "\nAnd take this with you.",
+      "source_sha256": "642a2357296ed91955111b040e734393cf692377fea0da6a88e8aeb109fd4570",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003334",
+      "file_offset": 13108,
+      "source": "\nabout?",
+      "source_sha256": "1c546f8b265b729d0488f54c2abf6579c248045c094a7800429a680afd9561e4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000033f1",
+      "file_offset": 13297,
+      "source": " to you.",
+      "source_sha256": "8196d3b9cb501e0f33774b2e46d7a586445427faef264510d5b6868a7b5c0cc5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003440",
+      "file_offset": 13376,
+      "source": "Do you seek the truth?",
+      "source_sha256": "284d0e3c22267f39516775ad8e60145360fe12c13ea292da72b0c80fe207ca9c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003565",
+      "file_offset": 13669,
+      "source": "\nyou can do that.",
+      "source_sha256": "436cc8ed79159f795541ddb2ff5d4d6bac846059b23e9efb00de3f7bd50ca2ac",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000370f",
+      "file_offset": 14095,
+      "source": "\ndead?",
+      "source_sha256": "a92e8c8a17d3e26f00131b109dfe9e1959d56dffd09f2b8593eeb682ef5f6620",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000379f",
+      "file_offset": 14239,
+      "source": "\nsouls and memories.",
+      "source_sha256": "260fe626c9b32ca3cdacaae1b966707877a2a73eddf279abff78a41de17f7ec2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000382c",
+      "file_offset": 14380,
+      "source": "\nSums it up to me!",
+      "source_sha256": "b0a7c8f6990f76a8d10c4148a39c4963fedfb2a41e599e1e4c69deba0643c44b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000038b4",
+      "file_offset": 14516,
+      "source": "\nseek will be drawn to you.",
+      "source_sha256": "409f4ebd9bee33e9344c83b052c9bc4a551b51802eed3c6df6473a69de394b5a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003913",
+      "file_offset": 14611,
+      "source": " Take this, just in case.",
+      "source_sha256": "201fc3c763af342f10be21afb95fdd95708a71d76edc68a9e93fb7503fce10b1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003af9",
+      "file_offset": 15097,
+      "source": "\nlies beyond.",
+      "source_sha256": "b94d877662eaad5aa50ae02041c1a593f67bc39ea758cfb6530969156220f7df",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003b67",
+      "file_offset": 15207,
+      "source": "\nan audience.",
+      "source_sha256": "9bf613a9261ac805001b5360d2ba040e4a3f2ca2b8fe9287a71a029d48bf1a95",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003cbb",
+      "file_offset": 15547,
+      "source": " Oh well. Better get back.",
+      "source_sha256": "af0f488a258969f1d67fe4a18b5cc78272793832bab33a095e44513c66962012",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003d98",
+      "file_offset": 15768,
+      "source": "\nperson, in the flesh...",
+      "source_sha256": "7881336e79b4ade819975ff7ae94f9b44365d44ce5a019782e709c6fa518a1a5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003df7",
+      "file_offset": 15863,
+      "source": "$I must hear this one's story.",
+      "source_sha256": "db98a55e599067064fb3312618fb0cb4fc4bea340078b1f3fd5a739ad5170b4c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003ee7",
+      "file_offset": 16103,
+      "source": "$Looks like we can talk today.",
+      "source_sha256": "2f8d1cc3e4abd147f9450d0d01ef35b561fd4f7cb9d93978eb2b60284e9a2eaa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00003f7f",
+      "file_offset": 16255,
+      "source": " to the cliff?",
+      "source_sha256": "e05408f17df8f37e933805129ad041ca714154ce5cbb52c7a20af15ba3ad3ee4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004052",
+      "file_offset": 16466,
+      "source": "\nmystery caller was...",
+      "source_sha256": "7e6bb142a360abebae5c6697baf3aad4399a14083230d314a562e70dffc8a00d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000040e8",
+      "file_offset": 16616,
+      "source": "\nisn't it?",
+      "source_sha256": "9d915649607494788e6f5428c8f9f182b06272622565cdbb1664e5cba0abbec0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000042b3",
+      "file_offset": 17075,
+      "source": "\nat this time...",
+      "source_sha256": "b74a4e68d0d317038dc72e5b22910e67c20b65d90eba1896e147534cf5f1cf96",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004347",
+      "file_offset": 17223,
+      "source": "\nfamily. What was it?",
+      "source_sha256": "78cdb0322d6a75fc7cc941286c3f2076d2b780c02e604d22fff0aab6e975848d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000043f7",
+      "file_offset": 17399,
+      "source": "... so I left.",
+      "source_sha256": "8692521163e29bbf13aaf5faa6396e4d69d20afce8b8ec545799324356e32de0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000446a",
+      "file_offset": 17514,
+      "source": "\nto do anything for her...",
+      "source_sha256": "444bf532c63eccfbebb739b39ab003282e2c20c78cef2250c6a3cce256cb71e5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000044e9",
+      "file_offset": 17641,
+      "source": "\nme to tell her for you?",
+      "source_sha256": "07cfbd3f2e6f2222f79055e43101221426fd4c0ba40b174cc8182474cd9dc69d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000045af",
+      "file_offset": 17839,
+      "source": "\nlive her life, and be happy.",
+      "source_sha256": "6eda91ecfd92645e9ecd223770dd2d58ffabde9cda7dd71fc0c9ec845ec15710",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004692",
+      "file_offset": 18066,
+      "source": "\nhappened that changed you?",
+      "source_sha256": "fec9a598608058eb9305328f4906d959df8a8d1578e0439fa82097b9f4472d0e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004777",
+      "file_offset": 18295,
+      "source": " What happened at church?",
+      "source_sha256": "7255eb5bbe83c122e4aa085fbee9af1f3b14d094807bdef15cbf9b6a799ebb19",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000047d7",
+      "file_offset": 18391,
+      "source": " Oh Lord, have mercy...!!",
+      "source_sha256": "5e43fb9b211f2bd6651e9697f83519d92cf0aa26036a5aba7760d8d9b377e254",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000048ca",
+      "file_offset": 18634,
+      "source": "\nuseful?",
+      "source_sha256": "fa7d2330b706be4f3e542575e2e1b6c59a925b0e663ef1f49f6b417ff1b536eb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004974",
+      "file_offset": 18804,
+      "source": ", do they?",
+      "source_sha256": "defa9b833052fff2ac904590f4763aed964eab20208580fff7ab1f8ecb3722e3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004a30",
+      "file_offset": 18992,
+      "source": "\ndo not think as humans do.",
+      "source_sha256": "4fc06d27a7ec69fbae9ae94888a90232122a3849bfb032a30f531c3db41aeac9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004b48",
+      "file_offset": 19272,
+      "source": "\nmay open.",
+      "source_sha256": "0b1afba7f007a85571a3aae3b51550505dbf8858a727e6f1cca1a171a95dd867",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004c0b",
+      "file_offset": 19467,
+      "source": "$As many as stars in the sky.",
+      "source_sha256": "c02d54b411765866876784e58f5c755f2de4cc54570d777c47306844b0f42054",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004cb6",
+      "file_offset": 19638,
+      "source": "\nshould open.",
+      "source_sha256": "5d26680c5b5bdc80e5d9590494f232e6e6570d3209295eca5624177649966aba",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004d23",
+      "file_offset": 19747,
+      "source": "\nanother memento of the dead.",
+      "source_sha256": "85667e6a8e6a1ddee878d9f91686dc63be2046e8545207fe0cb84234b771d6be",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004da1",
+      "file_offset": 19873,
+      "source": "\nUntil we next meet.",
+      "source_sha256": "3daccda9bcc1e41f3425469fe1421cea12e0bebc67e68cf1aaff33226e1a7ab4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004f16",
+      "file_offset": 20246,
+      "source": " house.",
+      "source_sha256": "8decbe700a034b06e28a17a372f45b2eb93fcc8e664579cda63986733c686c44",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00004fdb",
+      "file_offset": 20443,
+      "source": "(I've uncovered more information.",
+      "source_sha256": "d62ecdedc7aae8c2034784fc1d91ed154c890b73c69b77990eaabef53d8b3f55",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000507a",
+      "file_offset": 20602,
+      "source": "\nthe church, 17 years ago.",
+      "source_sha256": "80f7956e8e317007a55dda8147d551befcfdb54c7fc7498d34f6935fbad02476",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000051ac",
+      "file_offset": 20908,
+      "source": ", died...",
+      "source_sha256": "d3e6319dcecab101d876bccfb3e40537550a1f77eb30da5fc8508978395ca156",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000521b",
+      "file_offset": 21019,
+      "source": "\nexactly happened...",
+      "source_sha256": "9aa8a99e8335696d657500500d77f5340e1c53c5d3fb5c63acdda085a41627e2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000052a8",
+      "file_offset": 21160,
+      "source": "\nyour mother changed.",
+      "source_sha256": "08682dcb79d21e248250162eb49da33c917eb2ceea7ad4fa625a826a50a5531b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005321",
+      "file_offset": 21281,
+      "source": "\nbelieve me is up to you.",
+      "source_sha256": "e9ae75f14bf5109d85a4f4c61e07f0e9b039fe5874e8fd660b39712cd1f28b6d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000053e0",
+      "file_offset": 21472,
+      "source": "\naround, too.",
+      "source_sha256": "a27d5a4cbbb8c974b466b4fd44d4d827f84b8bbfc3f7a2e718866ec41b1984da",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005433",
+      "file_offset": 21555,
+      "source": "$I know why my mother hates me.",
+      "source_sha256": "e0e42b5f7ec213ccf51cc86fe7862ef76a26c6fe73c8638d6cd44730adbef666",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005517",
+      "file_offset": 21783,
+      "source": "\npregnant with me.",
+      "source_sha256": "6e8b7629de5dc5a23ac5933c0e4ad4fc2ec0240055f3e0fc8bc4c3d94eeeefb5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000055b0",
+      "file_offset": 21936,
+      "source": "\nbehind, died.",
+      "source_sha256": "2d78a496e17e45d7a439da175588d7874e7ca8316ce01def3df5c498bd5dae28",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005620",
+      "file_offset": 22048,
+      "source": "\nblamed me for what happened.",
+      "source_sha256": "7780899554f980756f2bb8cecff56ea91f5833c073c01f0846da315401da5496",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000056bd",
+      "file_offset": 22205,
+      "source": "\nthe story.",
+      "source_sha256": "0891d332e708f0081f51e29a57856f7498fec71faa96c2aedcab024366a98714",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005742",
+      "file_offset": 22338,
+      "source": "\nwhat happened to my family.",
+      "source_sha256": "5806a8431e55df85dd872783e2b41424cf7febc0e548a1e3efc322bc1f036aa0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000057e2",
+      "file_offset": 22498,
+      "source": "\nfamily so.",
+      "source_sha256": "6c92d4d5dfe5449d0e446ea23d4b8318eeb0569beb013ee2e22ad376ad835155",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000058bb",
+      "file_offset": 22715,
+      "source": "\nyou something.",
+      "source_sha256": "0b2ad5fe6c032f239b7a7dc92b86f795a700278ebf02e790a011e0423160229c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000592f",
+      "file_offset": 22831,
+      "source": "\nyour life... and be happy.",
+      "source_sha256": "97d9d54ed208c7c7ee5325ee3c9e2d25e6fb1eac0483e5a8bba4c5b5fb5ab598",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005bfb",
+      "file_offset": 23547,
+      "source": "\nbeen in service for ages.",
+      "source_sha256": "c7b0d0f0403aacfbd893e2972606d129c17cba3659c2cd1f9c3d018ad5bac013",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005d7f",
+      "file_offset": 23935,
+      "source": "\nwas the end of the world.",
+      "source_sha256": "2a7ed1191639e9d01fad0a683244cb08b814bc72c1b3f5f0fa1166f73da57b63",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005e00",
+      "file_offset": 24064,
+      "source": "\nin this region.",
+      "source_sha256": "b5f5b04d581c62a8c9ad7e5970c2c0c64aa4e441ff0a76819d3811addd518aaa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005e75",
+      "file_offset": 24181,
+      "source": "\noff the dead from here.",
+      "source_sha256": "886d31fff412c8883d0c937f02b830754dc4b748a69035018cf66818edf30ae2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00005f6e",
+      "file_offset": 24430,
+      "source": "\nwith the graveyard.",
+      "source_sha256": "4fc480779aeccca34ba2198c67210ab176d085c332a8d3ec40498b7882215cf7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006046",
+      "file_offset": 24646,
+      "source": "\nwhere I first arrived.",
+      "source_sha256": "ed5c2b97822fe18079db31d1037daf5bcb866e2ac002d64e75d84748899a47ea",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000060de",
+      "file_offset": 24798,
+      "source": "\nbring it to an end.",
+      "source_sha256": "08f69e29b0563735063c7fe271efbcc743ddbb46bcf82a0ceb888e7a89a2d26f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006153",
+      "file_offset": 24915,
+      "source": "\nright leads to the coast.",
+      "source_sha256": "c2e5f1eea5744fa2ba67529e4914c6fac0bff5ac1702807547c41407d91fbf54",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000062df",
+      "file_offset": 25311,
+      "source": "\nable to hear a voice.",
+      "source_sha256": "7b9da6e085b617ee97e7def7860945e4fcb1fddc6b9473ab1b1a0f8da550258a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000063bf",
+      "file_offset": 25535,
+      "source": "\nwould like you to meet.",
+      "source_sha256": "1fcce638491e960e0189e1565f432dab756d9afe066a9c60d59867f20932035f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000643a",
+      "file_offset": 25658,
+      "source": "\nto the dead one you seek.",
+      "source_sha256": "5e93bf29fd2a21dcbf6192a8ddcc3666b64c63accc98f1eb5294ec44a93fcf36",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006556",
+      "file_offset": 25942,
+      "source": "\nwill be able to meet the dead.",
+      "source_sha256": "5975ecf8483b1cf25f630cb17eca0be728bd5d46cf96371a6c92aa17dbb1b3c0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000065bc",
+      "file_offset": 26044,
+      "source": "Where is this thing?",
+      "source_sha256": "b9d5763978e75165e31fd0b0037b673e1cf12c2f8c9f9ef3081fce51ae274416",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006636",
+      "file_offset": 26166,
+      "source": "\nthe forest of the Faerys.",
+      "source_sha256": "d52721969a13bc0ae8c7a212aa72947f794a8a8bfbf28f7ebc9d58d602a0ce56",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006727",
+      "file_offset": 26407,
+      "source": "\nwhat seems like ages...",
+      "source_sha256": "a5190a1f4dc472c02150c2738f21a166639e248ba3843ab331d202c033a714b8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000698f",
+      "file_offset": 27023,
+      "source": "$We will join you when you do.",
+      "source_sha256": "f1d9a2d9e551b5e28eb44e93a97e55722220fda6f6e5d55bf122351fb0a28c19",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006a33",
+      "file_offset": 27187,
+      "source": "\nmemory of the dead.",
+      "source_sha256": "ca8aec0ad5a4b77f254edfbeabde3973e5c84081ecc027c1d468b6982d52d2de",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006b4a",
+      "file_offset": 27466,
+      "source": "\nmy mother.",
+      "source_sha256": "897c2a4c7a6a68f64fca8367f595608de00e18b8c0b18be989d0b889b0eacbca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006b9c",
+      "file_offset": 27548,
+      "source": "She wasn't even alive!",
+      "source_sha256": "fc50fbfd0bec82b2fb55b7e3128cbce4b89ca286b5689f203b848f5e4ee37e9a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006c2c",
+      "file_offset": 27692,
+      "source": "\nwhy this happened?",
+      "source_sha256": "e1b39cb5fa86edf9a6759707345c4c72ee329f45051c4bacef778bbe8cda019a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006cb4",
+      "file_offset": 27828,
+      "source": "\nMaybe while I'm at it...",
+      "source_sha256": "6ccc2811403d5414c117f86bf42e2789c913afb1bf4041d934beb2512d50cdb2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006d49",
+      "file_offset": 27977,
+      "source": "\nabout this case.",
+      "source_sha256": "23aa839afa72dcb3f7940d716354b673165d5de9bb248db430b66afbf3f9230a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00006eb6",
+      "file_offset": 28342,
+      "source": "\nA photo for the story.",
+      "source_sha256": "9263ebdcb3e5c87965be64721906d86dc7f311c8309a20462501185b61178105",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000070a1",
+      "file_offset": 28833,
+      "source": "\nin some way or other. And you?",
+      "source_sha256": "aac2e806246be9aa85acd214d3c4a9c01755af8a624c8ed2eee9d7b7a7e5d826",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007149",
+      "file_offset": 29001,
+      "source": "\nI heard he's dead.",
+      "source_sha256": "97654567b3b3d4769c2311b28a6e51fa98f60c0518d0ca95fdcd8afa135e8a8f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000071da",
+      "file_offset": 29146,
+      "source": "\nquestion about that.",
+      "source_sha256": "70a62d409e745b9c77bf93d2c4362fd6cc24904bbd87746eda6c7f880d3c1676",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007247",
+      "file_offset": 29255,
+      "source": "... Do you also...?",
+      "source_sha256": "eb25ef1497f9a1383c2ad980e5ec73af7b1df73e34b8476e111074df2c503486",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000072ab",
+      "file_offset": 29355,
+      "source": "\nHave strange dreams?",
+      "source_sha256": "112ccdd30522abf43abe7710136add2f4ffad05aa8b43945bfce69896c7f9aa0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007308",
+      "file_offset": 29448,
+      "source": "Um, nevermind...",
+      "source_sha256": "8927bd3905f81a3d710a962ff9d586e92fdc6624419047a05be7a5265dcf23e9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007570",
+      "file_offset": 30064,
+      "source": "\npast?",
+      "source_sha256": "0bd68f9075ba08e034b8b0e19061d9e5f4b3d32de23b8b5e6414ef33cb74ef0e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000075f8",
+      "file_offset": 30200,
+      "source": "\nwhy I was called here.",
+      "source_sha256": "5ba956948b9202cdf038218e8c547be5d16c34705d1ab94de7174ebfc2f67c05",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007706",
+      "file_offset": 30470,
+      "source": "\nin the village?",
+      "source_sha256": "bea6d4ed1a25b427654c01fcaa646634b948d5cb22049a5c7f43f0d876537468",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007778",
+      "file_offset": 30584,
+      "source": "\nsee what I can find out.",
+      "source_sha256": "b3ab3920562d926ecb7684b5c6c43a2c7ec928df24902ed559f378cf9725c12a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007828",
+      "file_offset": 30760,
+      "source": "\nmy past.",
+      "source_sha256": "9356368a950e770f44498fcd6e0696e2f3975919b5803cec3591690f5d3a670c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000079a2",
+      "file_offset": 31138,
+      "source": "\nanyway?",
+      "source_sha256": "af88bc404228ec9a4dc6009b6933cb20d08044a246cbd7472bee44c704a3ca9e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007a1f",
+      "file_offset": 31263,
+      "source": "\nWhy was she killed?",
+      "source_sha256": "53053d8c4ae7e5de3585fe2087a1a7f0e2bd75458e57c1a9aff7ac4834801265",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007b02",
+      "file_offset": 31490,
+      "source": "\ninvestigating?",
+      "source_sha256": "605b0468b0b882bb004be4bf2e0be34a70bd567bfa1ec140e57c735826ee72cc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007bd6",
+      "file_offset": 31702,
+      "source": "\nmeeting the dead, too?!",
+      "source_sha256": "8da0ef5d67d9944ac2199b985c44ee04883a5e0ee611fcfab263e011d23deef6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007c46",
+      "file_offset": 31814,
+      "source": "\nYou have a wild imagination!",
+      "source_sha256": "d877b337c74a06536929dd0b5b862d88e3e25a9f634d5676affa85a2fdb69a59",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007cdc",
+      "file_offset": 31964,
+      "source": "\nfaces in it.",
+      "source_sha256": "88842419357fe2977262c82817e9e75e5ac8b823ce6c0d75c156a06113d46fb6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007d2f",
+      "file_offset": 32047,
+      "source": " Perfectly understandable...",
+      "source_sha256": "2af2d18b658fcc1deffe273b5f357accf61193a9012e29a3047b25ac5a5ce846",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007ed0",
+      "file_offset": 32464,
+      "source": "\nme for what happened.",
+      "source_sha256": "dd65e49bd49973b93c2ccec154d69405c415bf726f953eff36093bdaafc6788f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00007f65",
+      "file_offset": 32613,
+      "source": "\nyears ago?",
+      "source_sha256": "a95cced4568e681fce4783dbf86a01f50ae9794ec3f925f402f8b1d1c7a71778",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000804c",
+      "file_offset": 32844,
+      "source": "\nme for what happened.",
+      "source_sha256": "dd65e49bd49973b93c2ccec154d69405c415bf726f953eff36093bdaafc6788f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000080e1",
+      "file_offset": 32993,
+      "source": "\nyears ago?",
+      "source_sha256": "a95cced4568e681fce4783dbf86a01f50ae9794ec3f925f402f8b1d1c7a71778",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000081cb",
+      "file_offset": 33227,
+      "source": "\nof the lady on the cliff?",
+      "source_sha256": "6a0bbedb59c3a868977f67cb073dbf04bf016fb9fe74929506c9851770f94b1d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000824b",
+      "file_offset": 33355,
+      "source": "\nif you ask me.",
+      "source_sha256": "b26412c72dd3556cdc9dab32f5b8c391e2067dda91d33c64d949835296727be7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000082e1",
+      "file_offset": 33505,
+      "source": "\nfrom the past.",
+      "source_sha256": "c29ac0e7abb0b123da529a0f47fe7061fcfa7a05cdec4d820546ebad056c9b62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000083bc",
+      "file_offset": 33724,
+      "source": "\ndiscussing events from the past.",
+      "source_sha256": "946ea505baafab4e57b12fb45efb54f4fa6000769a77e9f37a8622f71a65f9d3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008487",
+      "file_offset": 33927,
+      "source": " A ceramic doll, you say?",
+      "source_sha256": "2c4ab585605fa2a4b423f564541f79c6d583d238e969d7935462d51cfd5853b8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008578",
+      "file_offset": 34168,
+      "source": "\nhouse. Why do you ask?",
+      "source_sha256": "b2a8e566e9d2b8a2fd1dd67995f9dd436a5c05e47e1b738eac32017204930a0f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008676",
+      "file_offset": 34422,
+      "source": "\nnothing I can't handle.",
+      "source_sha256": "27ffe61b8d1de150764b38fd016849baaa78dfdad80d9adc14f50e44247bd379",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000086d4",
+      "file_offset": 34516,
+      "source": "Pardon me...?",
+      "source_sha256": "3bd7c281c8dc31477aa9b15d5936997b2ca08935517d0ad7de9551313fc86294",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000087aa",
+      "file_offset": 34730,
+      "source": "\nThat much is evident.",
+      "source_sha256": "8451ac6ad088d14f291e0fc1bb9c79e95a4e34478418c77ee292b78d95854bf8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008807",
+      "file_offset": 34823,
+      "source": "$I'll take that as a compliment.",
+      "source_sha256": "bdc5f054d4372c5e6cfaa32ba8fc30ef20f97bb0ab6608e3c475022a7d6faeca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008935",
+      "file_offset": 35125,
+      "source": "\non you, you talk like a lunatic.",
+      "source_sha256": "baeffa4c614cde2792d1ca84bbfb96899b284cbf80821eef806b25639e7b0f0f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008abc",
+      "file_offset": 35516,
+      "source": "\nShe couldn't have come back!!!",
+      "source_sha256": "7158ee149425885bf738ac33182b36bab29bb6505c5f037eb8ce4afcecf62f15",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008b3c",
+      "file_offset": 35644,
+      "source": "\nWhy did she return?",
+      "source_sha256": "03ed56963e6d03a32dcf81b6ad3f326fb5b226c0ad0b6f4d51e6f328561458c0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008bae",
+      "file_offset": 35758,
+      "source": "\nTo have changed so...",
+      "source_sha256": "4ba94aaf03ce49851f052a10d17849ed72284b5577a09bd6802ad127113aed52",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008cba",
+      "file_offset": 36026,
+      "source": "\nmight happen again...",
+      "source_sha256": "6c1617db2cc961cab0cadab661952a744b4346d5efa0f26aa5f90af6a4dc21a0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008d9b",
+      "file_offset": 36251,
+      "source": "\nof the lady on the cliff?",
+      "source_sha256": "6a0bbedb59c3a868977f67cb073dbf04bf016fb9fe74929506c9851770f94b1d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008e18",
+      "file_offset": 36376,
+      "source": "\nit. I can't go to the cliff.",
+      "source_sha256": "969fb02d7e3204c35a0786de159c1e71b8f176f64644ef026dadd35f227a1772",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008efc",
+      "file_offset": 36604,
+      "source": "\nit. I can't go to the cliff.",
+      "source_sha256": "969fb02d7e3204c35a0786de159c1e71b8f176f64644ef026dadd35f227a1772",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00008fd4",
+      "file_offset": 36820,
+      "source": "\nNo, can't say I've seen one.",
+      "source_sha256": "142d0f895f91626d6d62dc30aca3cb190eb37e99316e66a2afdaa5e4a47b028f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009055",
+      "file_offset": 36949,
+      "source": "\nme digging up the past?",
+      "source_sha256": "e10e81207b0676ae8f326c0a59f080a4b8b0b36077d6c2a4be7237493d6afdad",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000090b4",
+      "file_offset": 37044,
+      "source": "Whatever do you mean?",
+      "source_sha256": "a0ef4f6cf1173171d6a9e6470300483a1dae22901f93893feba9d3e5778cbb1e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000912b",
+      "file_offset": 37163,
+      "source": "\nJust thought I'd ask.",
+      "source_sha256": "bcaeed379c979c75faf6c290a35bbd7ff5a07995d4cdc478df05e02c183502bb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000924b",
+      "file_offset": 37451,
+      "source": "\nabsolutely drained me!",
+      "source_sha256": "8b03dcd0a2cdc152a9771e65084b53f47bd89c946709fca270f15e57715386c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000932a",
+      "file_offset": 37674,
+      "source": "\nand not just villagers.",
+      "source_sha256": "72b602b73d68f653e443c25c0cdca73a83e76b582c9892b47f5bd07cb5ac0500",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000093b9",
+      "file_offset": 37817,
+      "source": "\nCliff of Sidhe.",
+      "source_sha256": "c5cc66bc09c25025bd6bc62ddbe77037a4aa5039cf5b72b090f5f36fec17973b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009492",
+      "file_offset": 38034,
+      "source": "\nand not just villagers.",
+      "source_sha256": "72b602b73d68f653e443c25c0cdca73a83e76b582c9892b47f5bd07cb5ac0500",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000958c",
+      "file_offset": 38284,
+      "source": "\nturned detective, has he?",
+      "source_sha256": "303c22532575d914bf10e930aaa2fc0c4c363e17b6f0e5c6784806eaa96eb075",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000961f",
+      "file_offset": 38431,
+      "source": "\ndripping wet...",
+      "source_sha256": "ed3b5e6f75d46edf28706bbc5f6c28b1f66c86ec35aa39218215ff87527e2aa3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000973b",
+      "file_offset": 38715,
+      "source": "\nbut I don't believe it.",
+      "source_sha256": "1317d126a8ec4a29115ef03793d7a9cf96cded8f1865c71b56e7875b3bff9e9b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009819",
+      "file_offset": 38937,
+      "source": "\nis bound to raise suspicion.",
+      "source_sha256": "9b2cedb61a767b9a1d5e8cbc001179c1983263b37cb08bff090af9e9894e24f3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000099df",
+      "file_offset": 39391,
+      "source": "\ndid you move here?",
+      "source_sha256": "32a7c970c44410b41db7b76b8f7fa314282f929867aeb1c17966e67d4dc84b0d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009a52",
+      "file_offset": 39506,
+      "source": "\nknow much about the others.",
+      "source_sha256": "87d8167b9706f852d9e70e924a334f4c033f4f7f58640aa7a828fec676af314d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009ab3",
+      "file_offset": 39603,
+      "source": "$I see. So you're an outsider.",
+      "source_sha256": "bbf12bcff6ecf9de4d54b718f5f7aefcdec367881c8f6cb1515d8001859307e2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009b7b",
+      "file_offset": 39803,
+      "source": "$One thing I can say for sure.",
+      "source_sha256": "deb72f37c598d950bec32ebf88986ffae457e34c358bbdb6afeb5c8b0445b5f5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009bfb",
+      "file_offset": 39931,
+      "source": "\nI can't help you.",
+      "source_sha256": "86e000e71b0f5a06c0baa26cf731f7e128c943690da18442b24dbb2d40b67091",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009c71",
+      "file_offset": 40049,
+      "source": "\nokay?",
+      "source_sha256": "d5a3d812c2c5f07e741e085ee9471deefe6f69b0536628bad4aa16167bb17e7a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009d3e",
+      "file_offset": 40254,
+      "source": "\nsacred ground by the ancients.",
+      "source_sha256": "fb915ec36ffbceaaf0dd927fd563526c88e2e174b57df3a4d38e5118a9437e25",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009dd6",
+      "file_offset": 40406,
+      "source": "\nuntil it was deserted.",
+      "source_sha256": "a92d35954820ced06f7fb1c1087ae6ec78403373012c48ac4e63937b38590dd9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00009eca",
+      "file_offset": 40650,
+      "source": "\nuntil it was deserted.",
+      "source_sha256": "a92d35954820ced06f7fb1c1087ae6ec78403373012c48ac4e63937b38590dd9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a03e",
+      "file_offset": 41022,
+      "source": "\nclose early.",
+      "source_sha256": "52d782cc68e2f1d85372e76e960796701931a81ba46850f7dd6742fb979752d9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a26c",
+      "file_offset": 41580,
+      "source": "\nwere here 17 years ago are...",
+      "source_sha256": "9a026ef6fd816a5575d62ef0a52ee037f06aad1be7d09b7dd756d0e31b1a01e2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a30a",
+      "file_offset": 41738,
+      "source": " and myself.",
+      "source_sha256": "b31976ae396e3a586f684456457432eb940f46338d2bf55e66b27fd2b27720c5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a35c",
+      "file_offset": 41820,
+      "source": "That's all?",
+      "source_sha256": "9c18ac3df391530ecac68e4870e08f9054c1afab2d1a06b5c4e951a3bacba15b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a3ab",
+      "file_offset": 41899,
+      "source": "$Excluding the dead of course.",
+      "source_sha256": "609678b8a68b69ae7415cfd66e7c1911fd3721e95e62fbe203ce5d84e5b59ae0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a410",
+      "file_offset": 42000,
+      "source": "Why is that?",
+      "source_sha256": "bba4fa1e9b68ef15f85d5c23cd5548a46e5786c574a877847fc5c2b0fbca6558",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a5ae",
+      "file_offset": 42414,
+      "source": "\nmost dear are among the dead.",
+      "source_sha256": "9fa6364c80fa0eb6ffc3b6d6b6904d32944eb4aa7acd573c8c06a28acba2d308",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a696",
+      "file_offset": 42646,
+      "source": " who died...",
+      "source_sha256": "88ea028c2b48cd7549fc68163dbd5f15f126f2775d3bdfe4c421760bd757bb58",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a76a",
+      "file_offset": 42858,
+      "source": " who died...",
+      "source_sha256": "88ea028c2b48cd7549fc68163dbd5f15f126f2775d3bdfe4c421760bd757bb58",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a8d0",
+      "file_offset": 43216,
+      "source": "\npeople, you know.",
+      "source_sha256": "a76c68d706a6c8a283eb5901de238114f5be452daa1a74d780481a43fa2e54a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a945",
+      "file_offset": 43333,
+      "source": "\nfor help.",
+      "source_sha256": "a9e157fcf58edd56a58e94161d6d9d97fd2aa7cf0e098d3d9a72ff16f8844b7e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000a993",
+      "file_offset": 43411,
+      "source": " I hope you can help, too!",
+      "source_sha256": "3db8fb36cf5bf3252e046d28aeb20ee268a24ef2143d54816800271fd0d08163",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000aa7a",
+      "file_offset": 43642,
+      "source": "\nask you to help. You never know!",
+      "source_sha256": "59a5f20f23d5cb4ccdafb60321f6adf5a3b0957d0929dd93d59266e5a96cd42d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000aafd",
+      "file_offset": 43773,
+      "source": "\nbefore long!",
+      "source_sha256": "73ff38a3c7b4c346e6bc3047526dc524a9208b95b4286fdf3da54e138a86b4b1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ac36",
+      "file_offset": 44086,
+      "source": "\nget a reward!",
+      "source_sha256": "0ee04ee4f986ce4a265eb1eaafab717a1dab4ebb655d08a43dde6a34b54d1cb7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ad89",
+      "file_offset": 44425,
+      "source": "\nduring the day.",
+      "source_sha256": "ab9f9bc9fca8e4ef68d16304620c8320d4eb40d25661923c4f6801d875036144",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000adfc",
+      "file_offset": 44540,
+      "source": "\nhere at night.",
+      "source_sha256": "b66f0608052b700a783a22fc5914b52f19cab986d2e29549377bab342cb3c2a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000aed2",
+      "file_offset": 44754,
+      "source": "\nbelieve they can meet the dead.",
+      "source_sha256": "5f70a0a994938a22024681eca57de285b2d872b1328e6f8f1e7e027731ded0ef",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000af55",
+      "file_offset": 44885,
+      "source": "\nI don't understand grown-ups...",
+      "source_sha256": "97520eccfe5d50564b509174a655800d537be5a0a8e38084c7039f4b89670ea5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b05a",
+      "file_offset": 45146,
+      "source": "\nI don't understand grown-ups...",
+      "source_sha256": "97520eccfe5d50564b509174a655800d537be5a0a8e38084c7039f4b89670ea5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b170",
+      "file_offset": 45424,
+      "source": "\naskin' ya for some help.",
+      "source_sha256": "88d92cd3ab173fbf6cdd064c6d9808f15420e2b12ee538f237dc7af9cae73106",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b280",
+      "file_offset": 45696,
+      "source": "\naskin' ya for some help.",
+      "source_sha256": "88d92cd3ab173fbf6cdd064c6d9808f15420e2b12ee538f237dc7af9cae73106",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b4bb",
+      "file_offset": 46267,
+      "source": "\nmake yerself useful.",
+      "source_sha256": "0ac4fc5650e5d433205227056f3815ea3204d06066e6684a1225c2db9c7eda35",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b59b",
+      "file_offset": 46491,
+      "source": "\nmake yerself useful.",
+      "source_sha256": "0ac4fc5650e5d433205227056f3815ea3204d06066e6684a1225c2db9c7eda35",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b670",
+      "file_offset": 46704,
+      "source": "I have a bad feeling...",
+      "source_sha256": "c1dde825ba5c213df2c7c71edd121f668c1026f60063132cee4159ddf664fea1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b6e0",
+      "file_offset": 46816,
+      "source": "\nis going to die...",
+      "source_sha256": "f70c2cfbcedbd05a3ddb44d2553c7f1e9b4173057bb5ae097a7fb523d09fa64e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b7c4",
+      "file_offset": 47044,
+      "source": "\nis going to die...",
+      "source_sha256": "f70c2cfbcedbd05a3ddb44d2553c7f1e9b4173057bb5ae097a7fb523d09fa64e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b8cf",
+      "file_offset": 47311,
+      "source": " for people.",
+      "source_sha256": "7a612f7ad0359e527a4074a30501e9252e52dfc389bb18db26c03c83a0042e8d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b950",
+      "file_offset": 47440,
+      "source": "\nDay or night regardless!",
+      "source_sha256": "3da795a41ebe692a2f3bcb7e19da56ecbe36003d389f58437a8ca5c3851713cf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000b9ee",
+      "file_offset": 47598,
+      "source": "\non your own, though.",
+      "source_sha256": "273630f9dbbe7dfe5b58e7d3d3deb9d62beb3c3ae2ec8734e9e2bbbe8846beaa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000bac7",
+      "file_offset": 47815,
+      "source": "\ncurious enough to let you?",
+      "source_sha256": "9bda5eafdf8aed6fead37520571973b1ac536ac1df397676636d10ccde1eab4b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000bda0",
+      "file_offset": 48544,
+      "source": "My name is Gam.",
+      "source_sha256": "b3b86acf71c6c7cc8f207586ad892d169aec465de91e2d669a599c5e6657845a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000be03",
+      "file_offset": 48643,
+      "source": "$No, it is not. My name is Gee.",
+      "source_sha256": "ab1714b1fa96664cb6c83caacdc3284708bb4fb8e1cadd5854a0f273758af5ea",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000be70",
+      "file_offset": 48752,
+      "source": "No... Gam.",
+      "source_sha256": "af40037aae54eadd8f890d235cfce8c340eb22bad3073ec9fd427b334147dc7c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000bfa8",
+      "file_offset": 49064,
+      "source": "\ntip. I was going to do that!",
+      "source_sha256": "02d9b0d16b83f89ac8a2eabd79ec574fd0d837a14cfef99314c7d1ac6b747ddc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000c013",
+      "file_offset": 49171,
+      "source": "(*squeak*... Shut your trap, Gam!",
+      "source_sha256": "5ba77bc33a8171bc824b1dd6df35ddf6ca56b220b2992c3a567a871b12fde6d0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000c35b",
+      "file_offset": 50011,
+      "source": "(Have you found the picture book?",
+      "source_sha256": "0c9f7c30df23d7f54152207bfbc40b2e228ad130461aa737d87bd275f7139290",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000c427",
+      "file_offset": 50215,
+      "source": "(Have you found the picture book?",
+      "source_sha256": "0c9f7c30df23d7f54152207bfbc40b2e228ad130461aa737d87bd275f7139290",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000c5ec",
+      "file_offset": 50668,
+      "source": "\nspirits in your world.",
+      "source_sha256": "c268f2e50158704ea6e684a1148e0b0313c895dccd576a782cd62a58c641f199",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000c709",
+      "file_offset": 50953,
+      "source": "\nThey sh..shared their knowledge.",
+      "source_sha256": "b81f23b2f7524df9d9a8ae1a2f593cf059033e55df6407b71d191eb3e04a4868",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000c856",
+      "file_offset": 51286,
+      "source": "\nm..may ask you to help out, too.",
+      "source_sha256": "d329a779e0e0831cab12bb06dc1f119c9560f2cc5667b6fe755db44e8975fef6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ca7d",
+      "file_offset": 51837,
+      "source": "\ncity, too.",
+      "source_sha256": "d028f0ca17fda7f5ada5184084358736193c7c404999e5b36ca9be7fa9d011e9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000cb65",
+      "file_offset": 52069,
+      "source": "\nAnything you'd like to know?",
+      "source_sha256": "70f819f2b831b06fb3e68fdad9b69c7aa6ee73da74ad8b7e30f0cb64d9cc9009",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000cc81",
+      "file_offset": 52353,
+      "source": "* Nevermind",
+      "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000cd8e",
+      "file_offset": 52622,
+      "source": "\nback to the village.",
+      "source_sha256": "52eb1df1a515caf291c0a340daf1824c4e230cfaaf9d003f4605d02a3cde5dea",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ce77",
+      "file_offset": 52855,
+      "source": "\ndangerous as you go deeper in.",
+      "source_sha256": "a1f9b05c996d6a33d2d9e884ff5801007e9d060d642500271e1f1f79f420435f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000cf42",
+      "file_offset": 53058,
+      "source": "\nwill heal you.",
+      "source_sha256": "a62b4a3ed6e43813057c35c2fb6e811d75e43a3c44cee8ad9d710be61f422f65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d0c2",
+      "file_offset": 53442,
+      "source": " in any way you like.",
+      "source_sha256": "1128f404b1b776645bb1ddcc1e82d28d2a0a291db89299291f7c25ac19bdb8a7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d15a",
+      "file_offset": 53594,
+      "source": "\nto live in this world.",
+      "source_sha256": "b06e645ba28b5e747710770a0f77525ff8cd39d5a4177bf55aaddc350d3acc90",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d248",
+      "file_offset": 53832,
+      "source": "\nwho have taken a different form.",
+      "source_sha256": "257adc52bbd4387937ff5a3a58bb97d790ce9d0257fe5b4047db7cedeec4d9fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d2ce",
+      "file_offset": 53966,
+      "source": "\ncan... change.",
+      "source_sha256": "88fc8f748ea39ec39e4f77e75b6e41500937ad092e064abde99e367af20579d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d5e5",
+      "file_offset": 54757,
+      "source": "\nmedium in your tongue.",
+      "source_sha256": "54f75146c6054bae59f52266561fcea1f82fe6fef19720f639bc87e52cff0e9b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d6a8",
+      "file_offset": 54952,
+      "source": " to do that.",
+      "source_sha256": "3c85e389fa475ccb3f8e4fbbdfda4498af02cdddedc6db38f9d5e2a909472167",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d739",
+      "file_offset": 55097,
+      "source": "\ndanger of losing their souls.",
+      "source_sha256": "62b6ea53711e1cf2992d0ee079e6af6348031bd9871f2fce94f334faca1c1cc7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000d98b",
+      "file_offset": 55691,
+      "source": "$Anything you'd like to know?",
+      "source_sha256": "1da1a9bd07a5e427c8a36ef130c953054dbc429bfbeeab7e9364bf07f53ead65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000daa8",
+      "file_offset": 55976,
+      "source": "* Nevermind",
+      "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000dba5",
+      "file_offset": 56229,
+      "source": "\nuse some strategy.",
+      "source_sha256": "d2d9822b35c7eeeaaad48015c14b49517d31e4a8e718ec9af120b9811d24bbb0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000dc41",
+      "file_offset": 56385,
+      "source": "\nbutton to evade.",
+      "source_sha256": "a050436ea46aa817213fe5485228107db5101df89fcd525d59f1944d78df1d1c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000dd3d",
+      "file_offset": 56637,
+      "source": "\nobjects. Pick them up!",
+      "source_sha256": "26c2d1c697e461a7ba66092af56e83b8a68e733135fd12d12895e5cbb0d12a27",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000de03",
+      "file_offset": 56835,
+      "source": " food.",
+      "source_sha256": "9ab7a22c846bfeead52d7f95eccf9400be8cfc9618e15babdaecd40b6e7bdaa1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000dee4",
+      "file_offset": 57060,
+      "source": " you use grow stronger.",
+      "source_sha256": "2ff1ce10dffd9f9b60475ac0d92ec1d1939be3c881b6b608fd16dd8751e33462",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000df87",
+      "file_offset": 57223,
+      "source": " many times.",
+      "source_sha256": "acf326394c63e6a01a206c6d30fa69363e3e4acba557089b1b7d674b24831d3f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e078",
+      "file_offset": 57464,
+      "source": ". We won't attack you.",
+      "source_sha256": "aa70372a1aa4294f40d2948824d6e15b3ddd7fd03e9db91b45136261f1404473",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e20a",
+      "file_offset": 57866,
+      "source": "\nwhat happened.",
+      "source_sha256": "7098345b0f5168088736fc6d983d85795ac600b6d89c30b42e5fb0e5842bfe62",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e2e5",
+      "file_offset": 58085,
+      "source": "\nher mother...?",
+      "source_sha256": "b420936959b311faca2e328f15bc462ec7c329d3929bc260f148b149977e99c4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e3e2",
+      "file_offset": 58338,
+      "source": "\nopening the door with a memento.",
+      "source_sha256": "a917cd0907d1a13ae6eb356fdbc0c2aba6fb98872f048822849a3a3a3e383e20",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e637",
+      "file_offset": 58935,
+      "source": "$Oh, all right. I'll tell you.",
+      "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e773",
+      "file_offset": 59251,
+      "source": "* Nevermind",
+      "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e86d",
+      "file_offset": 59501,
+      "source": "\ncommitted to it.",
+      "source_sha256": "6f20486729254a6d6c5ba0db65039d919e35c07f78a389ac58c86d6fe301955b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e8df",
+      "file_offset": 59615,
+      "source": "\nyou'll have your chance!",
+      "source_sha256": "52024c397989141bd4e54c75ee9248cece32fd39d57e87bc72d0f73006ada598",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000e9f9",
+      "file_offset": 59897,
+      "source": " drawn on them.",
+      "source_sha256": "9fb4d929ecaded3e623a9333206ba2044a6b88930f159813bfcd71feeeb1b09b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ea6d",
+      "file_offset": 60013,
+      "source": "\nblind alley somewhere...",
+      "source_sha256": "49c08afd4fbe7a9fdb2cca457b8b7a5ba308774f1354df5cb038bcecf8881457",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000eb6c",
+      "file_offset": 60268,
+      "source": "\nthey run off.",
+      "source_sha256": "e0dd72d4fde76165d8954caeaed35292d4c31d98571ddda223fbae6953233de4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ec57",
+      "file_offset": 60503,
+      "source": "\nimpervious to attack,",
+      "source_sha256": "ceed8007920d1c11e2dcd06f8a7e5901d2e757a43dbfd580930c20eb4de08bca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ecee",
+      "file_offset": 60654,
+      "source": "\nof water?",
+      "source_sha256": "de7c35aa5d8f91b129d85b371474e706fc14aada343e4f26617951037be7179d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ed5c",
+      "file_offset": 60764,
+      "source": "\none try another approach!",
+      "source_sha256": "24e771092c01023b9d5f549faaa495b2c8399e940cdaf5fffc2df5054972edf1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ef0d",
+      "file_offset": 61197,
+      "source": "\nlove to hatred.",
+      "source_sha256": "11475371037173d81195193a446b63a0c4eb08db29cc6fe0ac95f312e879b5f8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000efaa",
+      "file_offset": 61354,
+      "source": "\nafter death.",
+      "source_sha256": "457ceae430aae54528e6b3dbcf44c57cb6f00272b5c60e8f35c75e353aa0bcdb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f079",
+      "file_offset": 61561,
+      "source": "\nimagine a fun afterlife...",
+      "source_sha256": "888f56e9804f4458a540c79613b4411512b685711151201a072af4c60c7f7d71",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f1f6",
+      "file_offset": 61942,
+      "source": "\npowers to get to other worlds.",
+      "source_sha256": "ae77dabb78941c82e228ba6b9967c2f952cf8aab9f0a47f9cfb24340d71d6173",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f3bb",
+      "file_offset": 62395,
+      "source": "$Oh, all right. I'll tell you.",
+      "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f4d4",
+      "file_offset": 62676,
+      "source": "* Nevermind",
+      "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f5dc",
+      "file_offset": 62940,
+      "source": "\ndifficult to jolt.",
+      "source_sha256": "2d2e6908aa1248852ee98f6f612697553b1135550d5fc376561a51f266ff4ecf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f66a",
+      "file_offset": 63082,
+      "source": "\nfreezing the Ids out of them.",
+      "source_sha256": "7170bf79671ecfd78b5acf1273304d49126120175907ecc8685314fee94b0647",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f794",
+      "file_offset": 63380,
+      "source": " out of it.",
+      "source_sha256": "adf2fa9c577a675d15633e71941a005595303c34a6ef5547462e6d557fe1a72a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f810",
+      "file_offset": 63504,
+      "source": "\nalready said too much...",
+      "source_sha256": "e8d137c78fd2cfc8491fa5497c130d2812a11a3c03cbbdff30da41e01af60303",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f90d",
+      "file_offset": 63757,
+      "source": "\nto do. Ask around at the pub.",
+      "source_sha256": "43c82666ddadd26e1ef089fcae111e7e8c19f7b02606c0b52f154f0349c0e210",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000f982",
+      "file_offset": 63874,
+      "source": "\nperforming a quest by now.",
+      "source_sha256": "c02b6ff72a130f637eaac429fabb5dc02d67c0a2ac6a7fd32debdf24225068f9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000fb0a",
+      "file_offset": 64266,
+      "source": "\nwhat you seek, try touching one.",
+      "source_sha256": "98bc9379fb26b656cd284aded1938744fb4608a730301b2507fb0753e9c7c063",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000fb91",
+      "file_offset": 64401,
+      "source": "\nof your world.",
+      "source_sha256": "00b61193d7ae3ad1ffcb754caa846895702441a8ebc07b7679c328e2acf6ca54",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000fc92",
+      "file_offset": 64658,
+      "source": "\nknown as Messengers.",
+      "source_sha256": "fea3cfdf5e04209caffe616468679f05c31c76fc94deba7f7d3556979307149d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000fd25",
+      "file_offset": 64805,
+      "source": "\nthe living and the dead.",
+      "source_sha256": "8df740ae9828c15793158231247f18cb057400d6de59574539c456f30a1ab030",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000fe28",
+      "file_offset": 65064,
+      "source": "\nknown as Messengers.",
+      "source_sha256": "fea3cfdf5e04209caffe616468679f05c31c76fc94deba7f7d3556979307149d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000febd",
+      "file_offset": 65213,
+      "source": "\nthe living and the dead.",
+      "source_sha256": "8df740ae9828c15793158231247f18cb057400d6de59574539c456f30a1ab030",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0000ffc7",
+      "file_offset": 65479,
+      "source": "\nthan their own.",
+      "source_sha256": "985c0d0f41e749374add3ce86575dfaf12a438a9e71dc1a2a9bdb8e4429a0da8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000100a7",
+      "file_offset": 65703,
+      "source": ",It's really LAND OF THE DEAD, though.",
+      "source_sha256": "4c800a1bafcff2ab4004e7010dab0818be0670e9499ef3bfbdca4f2713d76e95",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000101bf",
+      "file_offset": 65983,
+      "source": "\nthan their own.",
+      "source_sha256": "985c0d0f41e749374add3ce86575dfaf12a438a9e71dc1a2a9bdb8e4429a0da8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000102a7",
+      "file_offset": 66215,
+      "source": "really LAND OF THE DEAD, though.",
+      "source_sha256": "a76b2cb4b628229e0fdd54e53df66ca7398a1ba7b81fd83452761b12ca320dbe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001036f",
+      "file_offset": 66415,
+      "source": "$Oh, all right. I'll tell you.",
+      "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001048f",
+      "file_offset": 66703,
+      "source": "* Nevermind",
+      "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010624",
+      "file_offset": 67108,
+      "source": "\nmust be handled carefully.",
+      "source_sha256": "a7e5870df1bf731f4640cf9a00c233d84c7f64c8e775e50eca3452229a40f754",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000106a2",
+      "file_offset": 67234,
+      "source": "\ntentacles are lightning swift.",
+      "source_sha256": "528c266f672ab96fe692cd50e1863a9a03a2169d34280ad6823d6fff42b352f9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010725",
+      "file_offset": 67365,
+      "source": "\nin the head to quiet it down.",
+      "source_sha256": "d7504a63f8afa595cd2fb83f7f83b47cea7ef910af1c5a972895d88d0ccd621d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000107a4",
+      "file_offset": 67492,
+      "source": "\nwhack it?",
+      "source_sha256": "834ece277b501c12bae353cdcb8ec7d03ca85e4bb3450f2de0dce9fcf3396910",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010878",
+      "file_offset": 67704,
+      "source": "\nup ahead.",
+      "source_sha256": "726f35f4aed755ca3db3a7d2523f50778e8485bd652d69c2c47f5ca2c3a4c6ad",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010900",
+      "file_offset": 67840,
+      "source": "\nYou should have a look!",
+      "source_sha256": "a4ae858bd96063f4b72c8e9bdd5aec9517ba418cd9a324084d19b55798f1a9a1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000109f1",
+      "file_offset": 68081,
+      "source": "\nto summon the dead.",
+      "source_sha256": "7576c96c1d94bbf01844854395689ad0aa7100572cca9c81b341330a4e23e04a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010b2a",
+      "file_offset": 68394,
+      "source": "\ncan use it.",
+      "source_sha256": "45ebe6ddfe05d164eeea9a161c7654cd246bc16b39fc59ecc482be0963a538b1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010d3b",
+      "file_offset": 68923,
+      "source": "\nof the dead.",
+      "source_sha256": "ebc9dbac17221f28bba90b27f82d33bb4754d3d3f84b8363c085f9ffa828ac5b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010dc5",
+      "file_offset": 69061,
+      "source": "\nlife, return to your world.",
+      "source_sha256": "41d77a0f7bc6002d3c33cc538c9e0f7a9153f2b08f21c463dc6f8b6d8e4f0698",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00010f3d",
+      "file_offset": 69437,
+      "source": "\nAudience Hall?",
+      "source_sha256": "3022920d9da0388352eb324cb063531d413afc1aacfe96089d29b56ed8f50fac",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000112bd",
+      "file_offset": 70333,
+      "source": "\nlies beyond.",
+      "source_sha256": "b94d877662eaad5aa50ae02041c1a593f67bc39ea758cfb6530969156220f7df",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001132b",
+      "file_offset": 70443,
+      "source": "\nan audience.",
+      "source_sha256": "9bf613a9261ac805001b5360d2ba040e4a3f2ca2b8fe9287a71a029d48bf1a95",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000113f2",
+      "file_offset": 70642,
+      "source": "* Stay awake",
+      "source_sha256": "eebbd682b66f648ee826e5171611fd86f1713dc07f0569f7ed0b4cdd5073818b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000114d0",
+      "file_offset": 70864,
+      "source": "* Stay awake",
+      "source_sha256": "eebbd682b66f648ee826e5171611fd86f1713dc07f0569f7ed0b4cdd5073818b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011594",
+      "file_offset": 71060,
+      "source": "Seems to be locked.",
+      "source_sha256": "a20e23e6ff0d07a1f0047ffe4af95c4c9d3acbf031dbc652cda1722822e1417a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000116b3",
+      "file_offset": 71347,
+      "source": "$Looks like nothing happened...",
+      "source_sha256": "a8a0232e88d067569daf0747e56198c2db4b6e008a7001cd170ef9207fc4dac9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001177b",
+      "file_offset": 71547,
+      "source": "$Looks like nothing happened...",
+      "source_sha256": "a8a0232e88d067569daf0747e56198c2db4b6e008a7001cd170ef9207fc4dac9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011886",
+      "file_offset": 71814,
+      "source": "\nproper to visit at night...",
+      "source_sha256": "6291c26485b98b5f7a984627bcf04193920b4f12ad477135a35c8d1d4e869c06",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001194b",
+      "file_offset": 72011,
+      "source": "$Don't have anything to offer.",
+      "source_sha256": "503042c5fdc92dfac9f8e717c2162f07dc60e0ff2a82f9f647410074d8bc9ccf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011a13",
+      "file_offset": 72211,
+      "source": "$Don't have anything to offer.",
+      "source_sha256": "503042c5fdc92dfac9f8e717c2162f07dc60e0ff2a82f9f647410074d8bc9ccf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011afa",
+      "file_offset": 72442,
+      "source": "\nwhen I come in the day...",
+      "source_sha256": "fe79f9681b8cad597e0aa2cc5e16d2b2dd541415fce2a977a7b1b8487474fe74",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011bda",
+      "file_offset": 72666,
+      "source": "\nit gets dark...",
+      "source_sha256": "184fa45c3ebd9cbdda5266678ee77a91619d0f6ea741a486535f3e6ce95ce3b1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011cb1",
+      "file_offset": 72881,
+      "source": "\nswear someone's inside.",
+      "source_sha256": "1954e5bc0b988ff01c505ae0690711d1e914821623c129f81ec2bfadcf708158",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011d92",
+      "file_offset": 73106,
+      "source": "\nthey won't answer...",
+      "source_sha256": "b92b76c224c76be3982f922902ebf45c5c44dd96ffd8af5cb308e4f368b24d8e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011e4f",
+      "file_offset": 73295,
+      "source": "(I don't need any favors for now.",
+      "source_sha256": "56bd20391441f181b58288d8d8b50e26babdf56c746da33ab2afdf01c48f6aa4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00011f3b",
+      "file_offset": 73531,
+      "source": "\nfor ye yet...",
+      "source_sha256": "8d45c0d94d4cf6a1683ea3ddfa8e6271f6b73036694d0ad306eed5fd69b523a2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012007",
+      "file_offset": 73735,
+      "source": "? Was that her name?",
+      "source_sha256": "bb2fc52942cc87481fb27bdcaf09ef48372e45f1415eb0bf7e6b3e686045a935",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000120b7",
+      "file_offset": 73911,
+      "source": ", yeah.",
+      "source_sha256": "ea1cdaf000a6603a5db1043ff1798ec7f39b6e9393ca3a523c3f346130d3ccbf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001211c",
+      "file_offset": 74012,
+      "source": "\nwhen yer get the time?",
+      "source_sha256": "e35f0d38b55e43967553961770357513cfbca2fa45fdd18003c973156a74ef9f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001221f",
+      "file_offset": 74271,
+      "source": "\ncliff... Yeah, I have an idea.",
+      "source_sha256": "31c9872b880c8294185355c6e72d31c6a9256d8690ed108cc36c7ec55992670c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001255b",
+      "file_offset": 75099,
+      "source": "\nthe dead that got hold of him.",
+      "source_sha256": "035692d98992c84ef917de1e603a6611fb95271978d36023d95a7c9bb92861f6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012770",
+      "file_offset": 75632,
+      "source": "Why...?",
+      "source_sha256": "41573511eea4a80396edea006b0a404c9578c304851ebc16fc83889068d8811c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012911",
+      "file_offset": 76049,
+      "source": "\nin the first place?",
+      "source_sha256": "76306cdf836d80d8b3cfd520ae2073245e346077fe3007071d74bc091810e704",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001298c",
+      "file_offset": 76172,
+      "source": "\nto give him treatment?",
+      "source_sha256": "6d0d545463a406c410ab57a399d0798e6d9a7b516c263ce0cdc17151aa981d8b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012a24",
+      "file_offset": 76324,
+      "source": "\nopened the place.",
+      "source_sha256": "dd5fd89cd4e15de4bd71ab563aae32651c7239edfbfd98bc2a12a665e7ff8f9d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012b09",
+      "file_offset": 76553,
+      "source": "\nhas a crush on someone!",
+      "source_sha256": "71d989cabbd8532217aec096fc782f9b1eb92d8955ad8a3ecc22de4142377995",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012b91",
+      "file_offset": 76689,
+      "source": "\ndon't ye go and calm him down?",
+      "source_sha256": "bddff07e964a117140a50eb8bb61f458721a9e2b877e2fc8d6b284d65745aa3f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012c1e",
+      "file_offset": 76830,
+      "source": "\none? Ah, poor thing.",
+      "source_sha256": "b8ff474486b8f9be2393f7e219c47493ce50e3fffe7996536b2d8fb90c7b3881",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012e15",
+      "file_offset": 77333,
+      "source": "\ncreated it were wiped out.",
+      "source_sha256": "f2ddec367b34721e27394da2bbb0ed3b623319583ddff0912f0c5152909998b3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012e92",
+      "file_offset": 77458,
+      "source": "\ntruth behind that story.",
+      "source_sha256": "f250d1c6d7e078ccae332a977af5b3f019fb554cc4d350b58e001fed552bee17",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00012f79",
+      "file_offset": 77689,
+      "source": "\nclinic at the church.",
+      "source_sha256": "3c0e7ea6cce2266667f4a8c2bc18e37ea5ad4c2e1f3583d119445dee6ae75641",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001301e",
+      "file_offset": 77854,
+      "source": "\nand won't wake up.",
+      "source_sha256": "34086347488b680ae58874dac3ed6469fc0cd0f91b2529df8236cd5aa7595149",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000130b5",
+      "file_offset": 78005,
+      "source": "\nbeen badly hurt.",
+      "source_sha256": "8c463e86133697aa79898ab1f4dc3bf29fbd0f0a7c7f567dbe2d47e028529618",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001312a",
+      "file_offset": 78122,
+      "source": "\nan end to this.",
+      "source_sha256": "ef8af93dc739620990ecb3bfc063f7a48751b3603970d0c87a09267c2920613f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001322a",
+      "file_offset": 78378,
+      "source": "\nto be expected.",
+      "source_sha256": "43077cccdb663d2be6962b7364f0f549279b57b635a5204f237413c2f0237646",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001329a",
+      "file_offset": 78490,
+      "source": "\nanything to help matters.",
+      "source_sha256": "455e740dfebb374c98622d904df40675ec600a794d749cbd16fddf5bd0491239",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013317",
+      "file_offset": 78615,
+      "source": "\nsetting off on her own.",
+      "source_sha256": "1d09bab87ce8553e65b0bd8eb1416c1272bea6d12cdde81d3e6af174e82497db",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001339d",
+      "file_offset": 78749,
+      "source": "\nmight be willing to meet you.",
+      "source_sha256": "4c6e30713ca58465fc38edd03d0a3036f671ead796e43ae524af5ba2e52db3b0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013409",
+      "file_offset": 78857,
+      "source": "\nYou're joking.",
+      "source_sha256": "92fed841b3babbc1379b9fc53e85bff9e7a9d8253e7fe5ab2af8b246d546cb7c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000134ab",
+      "file_offset": 79019,
+      "source": "\nthat you want to know about.",
+      "source_sha256": "ed9db3b839be29b0700e09d67d8b0462730f159945b264d7252b08ade3500068",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001352e",
+      "file_offset": 79150,
+      "source": "\nfew things that don't make sense.",
+      "source_sha256": "8eadbaab56c2e7d95e497a5157bd4aa25ad442f862a85642e7fe05a759200d57",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000135af",
+      "file_offset": 79279,
+      "source": "\nThe phone call for help...",
+      "source_sha256": "70727f986f25354972f08bde5285848cb417fcfd41ff7ebdb5654c101e4db34c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013687",
+      "file_offset": 79495,
+      "source": "\nI'd like to find out.",
+      "source_sha256": "c1babe5c74546823a10421ad4f3a1690a098d257672b148b54b5617ceffc2fd8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000136ff",
+      "file_offset": 79615,
+      "source": "\nworth asking about.",
+      "source_sha256": "31267642f2eafb1cf74c80baa9d3a995d33762450dea1ea03ad095bb0a15c7ac",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000137eb",
+      "file_offset": 79851,
+      "source": " was writing it.",
+      "source_sha256": "4c392009e4c19e7cbab5abbe6f8f29251ebb2f0ba185a1b5c047914d93065db5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001388a",
+      "file_offset": 80010,
+      "source": "\nSounds like a child's tale to me.",
+      "source_sha256": "418872cea35ccd0e7005161be526b7ae205b55e762b4ecc1c8a656a2aa7bfaba",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001393b",
+      "file_offset": 80187,
+      "source": " What's wrong with yer???",
+      "source_sha256": "22b2b5d7bdfb776a7729269e7a6bee5b369993446249a05ab72fdc1e6939be44",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000139ba",
+      "file_offset": 80314,
+      "source": "\nlike something isn't right.",
+      "source_sha256": "34e40a683055a5f233f15dff173aa82cd11f0ab0fc2d031341f6ed313001f426",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013ac8",
+      "file_offset": 80584,
+      "source": "\npart can be obtained now.",
+      "source_sha256": "4129dcda0a3fabcc43f82b57ab8d9102812efe48e1bf2bccbdcdd1321ae2b5c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013b28",
+      "file_offset": 80680,
+      "source": "Oh yeah?",
+      "source_sha256": "3ee865676f6e4c9903fd4e855996034d731c7d27799b0aa56ab48db3f4824adb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013b96",
+      "file_offset": 80790,
+      "source": "\ninto it.",
+      "source_sha256": "ba5b46a411d96bf8152565b5334cd279473c18ecfa84ce08217bbe5e07131813",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013c7c",
+      "file_offset": 81020,
+      "source": "\nthe search for the grail ends.",
+      "source_sha256": "69b32c2bb52bf737067da98ed38b38c62a5108da26577299028d7c2063028e11",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013cfe",
+      "file_offset": 81150,
+      "source": "\ncreated by a little child.",
+      "source_sha256": "dc27b5d85cadb7dc34841b1b1b75dc46a628141b731dff7e8f90ab149d834497",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013f24",
+      "file_offset": 81700,
+      "source": "\nwhat he was doing up there?",
+      "source_sha256": "98c460d9f0e14f97676e8aeadde39edee0ddd60380e3ccc788f7494de3d44a10",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00013fcc",
+      "file_offset": 81868,
+      "source": "\nhim down.",
+      "source_sha256": "ebf555bddd181c6bdcdb29af172be6e0e6a6ca2fad46710e8cb96103932fcf8e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014109",
+      "file_offset": 82185,
+      "source": "\nsaxophone! Yeah, saxophone.",
+      "source_sha256": "3ac7c9a133fd4bb356bf1018d25dba65d9c94591dd4513685107dfcafbb55f69",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014205",
+      "file_offset": 82437,
+      "source": "\nperform for us!",
+      "source_sha256": "370489f0771d890726055d19e966ab2f8a9b13aeed59e740b219a22fc167bf52",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014291",
+      "file_offset": 82577,
+      "source": "\nhas some kind of problem.",
+      "source_sha256": "13cf590435a627a0f127e48e95775ea601e72f8d68b6a4b7ccda8cd7720b2ce3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001431d",
+      "file_offset": 82717,
+      "source": " and talk to Charlie?",
+      "source_sha256": "2b27ee65ae03e18b8253801094aabcedc518bc0c739fa10bd7f3ee5bf1f573f6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001440a",
+      "file_offset": 82954,
+      "source": " that doesn't fit.",
+      "source_sha256": "ba8fab8233558a20e43fa8c39d79fcbba11d66301303624a6f903218802960d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000144a4",
+      "file_offset": 83108,
+      "source": "\nwon't even tell us.",
+      "source_sha256": "b81b8cca7b5aa6a43bfe625a10db55b4b00fe972e139915ecf33a1db7bd8e81a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014517",
+      "file_offset": 83223,
+      "source": "\nsomeone in the past?",
+      "source_sha256": "b6f600123046faca28c0796b493e24df29712446b4c912e188b0e1a82371c2db",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014689",
+      "file_offset": 83593,
+      "source": "\nyou a letter.",
+      "source_sha256": "55f10927d2ca2133564b467cb6bca0b828bd5c3ca1babdd9bcc8f53182568bcb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000146f8",
+      "file_offset": 83704,
+      "source": "\nSo I didn't.",
+      "source_sha256": "226592f936aef0c0dc1928a8389ac989bfc151e53fcca0fafa771a90e29d3d19",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001474c",
+      "file_offset": 83788,
+      "source": "Let me see...",
+      "source_sha256": "cf81b83e28e92b1fb3e94c3b8d729bfb6dd173d50c640a79d54c023fa4c0d039",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001482d",
+      "file_offset": 84013,
+      "source": "\nHe says he gets bad headaches.)",
+      "source_sha256": "02a6b51309b0e1daf315c56f51dfd839780051c252dc74e975795eeb9b0dd423",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000148dc",
+      "file_offset": 84188,
+      "source": "...She must be worried.",
+      "source_sha256": "2bbce778e40e503b2eedfd22772b98bdcc33a7c6883ca6df7da37ad7ff520713",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000149f4",
+      "file_offset": 84468,
+      "source": "\nstop him from drinking.)",
+      "source_sha256": "a4b1c83d74f7a829608bbed8052c49ad8070b67daad9d0f211918e4bc90844d8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014a71",
+      "file_offset": 84593,
+      "source": "\n bring that medicine to me.)",
+      "source_sha256": "edcd45c1fc550ae44bb229f2bb88a611c79549525dc1f5b2765eb3b8cce0a975",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014b1c",
+      "file_offset": 84764,
+      "source": "...What's wrong?",
+      "source_sha256": "05a9a32abccc67b543ec95df4e87507b12e6de8153c51f61e15515b73920c4a2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014ba1",
+      "file_offset": 84897,
+      "source": "\nthat I will do it.",
+      "source_sha256": "9d1cd8b04894f68b520429f8b6227678a94591a683badafaf07043332b3dabee",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014caa",
+      "file_offset": 85162,
+      "source": "\nforget his dead girlfriend.",
+      "source_sha256": "e918ad3d7b29b89cdc463effbfc03a71eeda7542c7e835149a1e087c7fde14fb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014d56",
+      "file_offset": 85334,
+      "source": "\nDo you know what that means?",
+      "source_sha256": "dbca90e71d7d138f61c0a7909fd35f293ed5bd4134e6dc477f6370858768a4ff",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014e00",
+      "file_offset": 85504,
+      "source": "Yes. I'll look into it.",
+      "source_sha256": "fd6c217930902da94813be18153f14911069aaa53a8600f5c499cca14ddb7971",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014f0c",
+      "file_offset": 85772,
+      "source": "\nDON'T FIGHT in her sleep.",
+      "source_sha256": "95d9e4eb542c72ee890577c1fe11afc952c18b3b8e71014892559df09daa99bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014f95",
+      "file_offset": 85909,
+      "source": "\ndaughter, is she?",
+      "source_sha256": "292aefdf8224b8148b1440cf4c512730ccf99ebcdb70229d6e065a696e5c9827",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00014fec",
+      "file_offset": 85996,
+      "source": "It's a family thing.",
+      "source_sha256": "ac491a3d99faade1f332dfd9590a518dd674198a0265c392fde53a9c7d97e114",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015085",
+      "file_offset": 86149,
+      "source": "\nupsets her now.",
+      "source_sha256": "0e2b81716844fca2aad159422c475a4b27d9bafe73446dba73636114f6347d97",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000150f9",
+      "file_offset": 86265,
+      "source": "\nfighting, even in her dreams.",
+      "source_sha256": "7121a57856f0783fe28243ab54159c56d8ab9b2eef69576ed192bf3faa8d7461",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015173",
+      "file_offset": 86387,
+      "source": "\nin her sleep?",
+      "source_sha256": "e15c8b81ef1492d172f73bbfd3914c178705ac6fd8e26f37cc3c6e6e2ece2fd1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015290",
+      "file_offset": 86672,
+      "source": "\nthat they really exist.",
+      "source_sha256": "90e6bad8b21dd48036f2d696748f8ca6ebbcd9d8df73649116377bda55d0b7e7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000152f0",
+      "file_offset": 86768,
+      "source": "I see.",
+      "source_sha256": "420c703b11610f7b7a8e910dc406505b7bda360bb628955d4625a5a8d7c3005c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000153b8",
+      "file_offset": 86968,
+      "source": "\njust after that.",
+      "source_sha256": "658e82d673fdaff1c7fea2b3844985738c4d71e120c3241f1a50f74253db8ea3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001544b",
+      "file_offset": 87115,
+      "source": "\nvillage and see you again.",
+      "source_sha256": "53295e57ce8d11db7186c0473fd1283435fee3abe8b5e46cd3a170b870297cae",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000154ac",
+      "file_offset": 87212,
+      "source": "Yes... Thank you.",
+      "source_sha256": "7ef3eaeaf523fec4bd7d269fbf2d94f8d21b53dea15012cc11f432eab316ad35",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015521",
+      "file_offset": 87329,
+      "source": "\nsay, but...",
+      "source_sha256": "c02000d97d41081623a052f3cba49f861c4f88859b3537ec1bb12c14c6db5a50",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015593",
+      "file_offset": 87443,
+      "source": "\ntime to talk to her?",
+      "source_sha256": "ab9ada59911c40868bd9d0493a4ca58c3e04c3c702276bd73602e8fed42c3349",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001562b",
+      "file_offset": 87595,
+      "source": "\ngo to see her there?",
+      "source_sha256": "b9540d1b071b709047009920d9b8f197acec8be0695a3fa00d2d963e619d2470",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015688",
+      "file_offset": 87688,
+      "source": "Yes, perhaps...",
+      "source_sha256": "d37019df5c3ff552c1e99b75e5f61485d47fd55647ab04c3acdc3e02e1b39cd8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015755",
+      "file_offset": 87893,
+      "source": " is still out cold...",
+      "source_sha256": "500de2b6943cfbef9cd21cb8f0066c3716c0560c9529628c3fa1d651bb611575",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000157f7",
+      "file_offset": 88055,
+      "source": "\nher trauma.",
+      "source_sha256": "1bf6cff54ee37468b810a75919ea80b350eea8e901da0ef424f07db19f00622b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015865",
+      "file_offset": 88165,
+      "source": "\nshe committed those murders.",
+      "source_sha256": "e73d3ed8f0e7e7dd4a137dd68e1105c27d45e1b37e620510fcd73d1520f3a8da",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015966",
+      "file_offset": 88422,
+      "source": "\nmy responsibility, indeed.",
+      "source_sha256": "3d0925f204f1dad2d1a1add813f1958d9baacd4b35220b6162546ceb42a2dc16",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015a74",
+      "file_offset": 88692,
+      "source": "\nquite popular amongst us.",
+      "source_sha256": "7f54c92ba5123999e9bddef1b197718059ad12fe2996c2ee157b42c98c75943c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015b1e",
+      "file_offset": 88862,
+      "source": "\nthe story ends?",
+      "source_sha256": "2e931a038ea2e584ddd3fb0524a52594ddac77fb5781b2e2303442bd56ec1c9e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015bbd",
+      "file_offset": 89021,
+      "source": "\nHow odd...",
+      "source_sha256": "041cc0de7d88b2fce9f0e8406569b808cdc2196a30792d1ed76e8facd9c340c8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015c99",
+      "file_offset": 89241,
+      "source": "\nWe've found the next parts.",
+      "source_sha256": "e30d7d0b4f06015406c62107e9457f356edcd8b11c066368815ebbdab5a1690b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015d16",
+      "file_offset": 89366,
+      "source": "\nto this.",
+      "source_sha256": "48f52657ec7aa0adba853b3b6ce31209dc8921ca7c1fb2a7b8f6806eba6cb4d4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015d9c",
+      "file_offset": 89500,
+      "source": "\nIt takes place in Hell!",
+      "source_sha256": "920559f7dc5a8987b4f552504b1ae98fa53bd6a5f34ebe9d69cef7cb7ff66685",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015e81",
+      "file_offset": 89729,
+      "source": "\nit seems to be a bit miserable.",
+      "source_sha256": "502727f377d5e86c769e8914335d3236269c69eaf553f0bf5184a5c52d5762c9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00015ff9",
+      "file_offset": 90105,
+      "source": "\nThey're a kind of military group.",
+      "source_sha256": "4b322ba1627d5329fdeb04147bca1f188bca93a4b4b9518aa9163435d6417d5e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016077",
+      "file_offset": 90231,
+      "source": "\nalways picks on them.",
+      "source_sha256": "7ec8a814b81d2d2e46d87a614a7640029eec78b58748042155eb07d5d11c41ca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000160ee",
+      "file_offset": 90350,
+      "source": "\nget back at him.",
+      "source_sha256": "42b132cb37ebd4ad584c0d683a3e748fbf17a0a87b02e87e7fa6f5dc802e353c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001615d",
+      "file_offset": 90461,
+      "source": "\nwilling to help them?",
+      "source_sha256": "e97abc1b98837359d4a420722420185eeafa1536ac629acfc1832314fe5ceef6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016238",
+      "file_offset": 90680,
+      "source": "\nthe herd.",
+      "source_sha256": "3bfc7c27d263e2b8e04c744fbf0747f4c52e32a66276e0a7323d91f9ca1811f0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000162a2",
+      "file_offset": 90786,
+      "source": "\nherd in the Forgotten Palace?",
+      "source_sha256": "0020a3dbaad9b2cf79d5b976748303020ab46481b4d1e490a29c2d6fcba14e82",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016447",
+      "file_offset": 91207,
+      "source": "\nreturn address.",
+      "source_sha256": "1e1ff78716d5945bd83928d790cc323cb7877c7826774654874f5ff887e3d93b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000164b4",
+      "file_offset": 91316,
+      "source": "\nAnyway, here it is.",
+      "source_sha256": "d204248494d417179f06830add237fc39a155976b85e7b5dd513c420b8d86e65",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016593",
+      "file_offset": 91539,
+      "source": "\non its way here.",
+      "source_sha256": "3ec5417707f3e98437e904a5147aaea4ba3dbdc57c12e719e62b461509938b54",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001662a",
+      "file_offset": 91690,
+      "source": "\nit back for me?",
+      "source_sha256": "e3f86fc161828ab78d37cd10cac7c1685091336d5dca243643f8b3dffcbdfa2f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016702",
+      "file_offset": 91906,
+      "source": "\nI wonder what's wrong this time?",
+      "source_sha256": "80d49b9e60db91e5ef7d344dfe780ef203d33ec206f2726d610c7142e699d0f8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016782",
+      "file_offset": 92034,
+      "source": "\nyer business or anything.",
+      "source_sha256": "b1b3885c66da13d64a649668c65b9489fb7188fd842cedae5548046a915044cd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001687d",
+      "file_offset": 92285,
+      "source": "\nthis village.",
+      "source_sha256": "cb3a17bd217c84f7dde24f970d090dc0b96e60570824ffdf83c0e99694393c45",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000168ec",
+      "file_offset": 92396,
+      "source": "\ndo with ye.",
+      "source_sha256": "989c0087c8fad77cabe3bf1c0ef6e42aab0a5a202c523db3e6ca5da6f1cc3af9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001697e",
+      "file_offset": 92542,
+      "source": "\nor something.",
+      "source_sha256": "d56a0b4a91ca49a20be9cc7fcfe548548de4e5deeb217d70c52e9a4017646682",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016a69",
+      "file_offset": 92777,
+      "source": ", as always.",
+      "source_sha256": "e3722902ead751a2c7edf45a01e5335c9c3e14e255733c62c9d1be7ddc5d4fa7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016af7",
+      "file_offset": 92919,
+      "source": "\nget past.",
+      "source_sha256": "821107d215d94d17ee0f66d3383caa5adf3d583d2033f14a2acc692e533c9653",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016b84",
+      "file_offset": 93060,
+      "source": "\nye details as to where to go.",
+      "source_sha256": "18e83fc116fb5db1b8fbf028eb106acc17f60a24bcf1f9fb0978fa8abbd59e46",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016c65",
+      "file_offset": 93285,
+      "source": "\nIt looks a little unfit, yeah.",
+      "source_sha256": "20f009209de193e8c9867622de1328a9bd71ef52262e5d6c0f7bcbac88e5667b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016d02",
+      "file_offset": 93442,
+      "source": "\nbest in a place it's used to.",
+      "source_sha256": "e8d74c259e7db8b11aeaac5540f90c0ee546b0694ea6a23eea1aa9c0b0366abc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016e71",
+      "file_offset": 93809,
+      "source": "\nattacking us for no reason.",
+      "source_sha256": "5a03a683ccb32bb407953fde72f7b92f2ac8f721e4633381d8c5a54d8e979ed5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016ef3",
+      "file_offset": 93939,
+      "source": "\nBougainvillea behind it.",
+      "source_sha256": "5c28c9851b5a4cd01a4cfcd14ab25b62978c8629a4a9fa783d5590880e53f51a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00016f92",
+      "file_offset": 94098,
+      "source": "\ncontrol their actions.",
+      "source_sha256": "1f1c1d2ff6b9f798944ee3ec2b8be12ff587d2aedfe40649d7fd8f2be0c1ac43",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001702b",
+      "file_offset": 94251,
+      "source": "\nand teach them a lesson for me?",
+      "source_sha256": "e6206530cc24e335f6102d1aff088bb60926eac86aa16b33f6195540a1f670c3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000170d1",
+      "file_offset": 94417,
+      "source": "\nare doing, so don't hurt them.",
+      "source_sha256": "97a6b1ee6c3f4b667e29572add8b88560d336b1825340425974fa3abb0fb3880",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000171bc",
+      "file_offset": 94652,
+      "source": "\ngo to the Core grow weaker.",
+      "source_sha256": "2365b69d8731455ca75203bb31efb283beb74258118f019342cb5f60437da350",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017241",
+      "file_offset": 94785,
+      "source": "\nis, but it's probably the Folks.",
+      "source_sha256": "7194a979392ccb4401e69c2278aba39dba2969fce732ada280326891b7ae3dfd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000172c5",
+      "file_offset": 94917,
+      "source": "\nwork out what's happening?",
+      "source_sha256": "3cb226eaa91621e5679ff80a468d6d860cf0a5136adf1e3e51d8b4ec8740d8b2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000173c9",
+      "file_offset": 95177,
+      "source": "\ntree sap harvesting.",
+      "source_sha256": "789bb8a391d1fce2835743d760efbf62a6b261a02b9853aa9fac6726ce1a8cca",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017463",
+      "file_offset": 95331,
+      "source": "\nWould ye go and sort that out?",
+      "source_sha256": "ea077bc6e193b342c039fa6f2cf76010e9769dbcd6a67924b09ee6d89cc4d762",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017569",
+      "file_offset": 95593,
+      "source": "\nthe Bullseye ran off to escape.",
+      "source_sha256": "31f329d9e8837b22fec6ba97e3d65a52bdb82746a58088beb8aaa315d8cd5010",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001760d",
+      "file_offset": 95757,
+      "source": "\nHelp him escape, will ye?",
+      "source_sha256": "c562152e5c77a420c4269f4afdc1837f9781a9540e418ebc128f74984f7eb0c4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001771b",
+      "file_offset": 96027,
+      "source": "\nits home was disturbed.",
+      "source_sha256": "cd9989a6fedfcfd7eebf7e00b099662af0dffa84506d5cdda35d17dcde451fbf",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000177b7",
+      "file_offset": 96183,
+      "source": "\ntry to calm it before it comes out?",
+      "source_sha256": "59a3f297fc49005483efc0f2122d76fc8beb231d0fb3da07a0ee6323899a583b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000178ab",
+      "file_offset": 96427,
+      "source": "\nsleep because of nightmares.",
+      "source_sha256": "afa54ff113cab5036e11fb9e9df87a31b1d4435f4e482878888fbe7c31223cad",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001794e",
+      "file_offset": 96590,
+      "source": "\nhear a disturbing voice.",
+      "source_sha256": "6c64c20eb6dac1b1d2064ff954baa5f5e429cdb6210126d647d2aa7eeedd275e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000179ac",
+      "file_offset": 96684,
+      "source": "Can someone help her?",
+      "source_sha256": "5571756c5ff6db64658e9a6aebc5953237946cc25f24f65c3613b1700940d14a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017a8d",
+      "file_offset": 96909,
+      "source": "\nhas no name of sender.",
+      "source_sha256": "923af857c00bbc99b8f07d3c63eb761ce2b9c79d14fe52f023d00d9f968eb7a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017b0b",
+      "file_offset": 97035,
+      "source": "\nAnyway, it's yours.",
+      "source_sha256": "3c661347513b920d382853fbe4ba8cde190f4d2bdb06577234dc84680367aa90",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017c20",
+      "file_offset": 97312,
+      "source": "\nof the year!",
+      "source_sha256": "d574181c5d7c293338055271d8395aed409220c43ba5ab9fdb4e70e9ee29b375",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017ca7",
+      "file_offset": 97447,
+      "source": "\nto get t..together.",
+      "source_sha256": "d61f803d301cdf2fdcd4ebed007e764415c4b7fe054f314a3ddd290c2537ab16",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017d4b",
+      "file_offset": 97611,
+      "source": "\nteach them a lesson?",
+      "source_sha256": "e48e91caf64570dffc67c2a0d9e56cd22132427bd7ce6dc3080565a207885b6b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017e0b",
+      "file_offset": 97803,
+      "source": "(Why do I always run out of honey?",
+      "source_sha256": "b70eb80ce4e01d5fff783cde99653ad7bc873343aa208bed58ccef7327777715",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017ebf",
+      "file_offset": 97983,
+      "source": "\nand get me some?",
+      "source_sha256": "a12a7a0f6274b94492986fb4aa156c60f8cb1f84bb67ac92f0084672bcfd8336",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00017fb5",
+      "file_offset": 98229,
+      "source": "\nfrom the sea.",
+      "source_sha256": "e64674d34b42029f8a66b61655754bfaf40fe9c99e45ea37b3ae092457ad0438",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001803d",
+      "file_offset": 98365,
+      "source": "\nfeel free to look into it.",
+      "source_sha256": "05347c43e4ac610aa08f304b44bdda13fbb562d8b2e12262a4c018af96082d7e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018123",
+      "file_offset": 98595,
+      "source": "\nfood I want to serve.",
+      "source_sha256": "1857396becc2e994c163291f2bf439ce11315c786429b206e3dd6184734ede0c",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000181b5",
+      "file_offset": 98741,
+      "source": "\nthree of them for me?",
+      "source_sha256": "0d65d599472aac44a4cd34046d2f29fb772a44951aed06733d88ee6a210aab67",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001824a",
+      "file_offset": 98890,
+      "source": "\nsoon as yer get them.",
+      "source_sha256": "e74d2f92b3c87ab29f44ddff08da43ab2027540b11f669af069a8c2aa3b848f4",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001830b",
+      "file_offset": 99083,
+      "source": " Do you know the Gladiolus?",
+      "source_sha256": "f98bdfe8882fce8c48d88b8f4c5bab8201ebd6b0ad2b84b7a68c1fdaf3c831c7",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000183f5",
+      "file_offset": 99317,
+      "source": "\nfrom the stress, though.",
+      "source_sha256": "6df539c041a2a0dd4df72afc453ebec3df24d2653288f2606533297cb484e594",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018491",
+      "file_offset": 99473,
+      "source": "\nof yer mind.",
+      "source_sha256": "5e6692e57c0470c06484458b4c196c73df01be09302249d382b224cebef081d0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018566",
+      "file_offset": 99686,
+      "source": "\nabout an old army mate of mine.",
+      "source_sha256": "72e677555c698da5173a51feea44e04fb44aa3c429a05b40f1c0a44f7b7deb24",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018607",
+      "file_offset": 99847,
+      "source": "\nget somewhere.",
+      "source_sha256": "db7b0a00a12903fc3de601533082444fe09472426a24323da9708a5e685c8a7b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001869b",
+      "file_offset": 99995,
+      "source": "\na sad clown.",
+      "source_sha256": "9afb24a1aa88a82d4d04cba11088a686703a9b8f241def1231698d544f341c75",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@0001870f",
+      "file_offset": 100111,
+      "source": "\nthen something gets in his way.",
+      "source_sha256": "d4bcf67c89b8a16bee994ca9c7b0cbf4a58e7f9431e0400d7ddfb503fa120701",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018790",
+      "file_offset": 100240,
+      "source": "\nthere's nothing I can do.",
+      "source_sha256": "1f0433efea0cd59fa5ce19d8325264e9569b651631bf370b1cb2dcc92f127954",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018820",
+      "file_offset": 100384,
+      "source": "\nI won't ask you to do it for free.",
+      "source_sha256": "5ea89b6f5c6cd7c143960f9e001f2493bfe7587312175fd3cffa544089b38045",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000188ec",
+      "file_offset": 100588,
+      "source": "So what are you up for?",
+      "source_sha256": "e73afd323272c1c490e2e9d66ff1534e8d4c8ad6048db97282fe8d7f388bc8bd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@000189da",
+      "file_offset": 100826,
+      "source": "* Downloaded quests",
+      "source_sha256": "8b81fdf107af346c1e47079a1ef203df78e4e815e1141eda355ed406563215f0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018aa4",
+      "file_offset": 101028,
+      "source": "Cancel current quests?",
+      "source_sha256": "39eb6f2ba5a5c4000d060167ee40ceb41cad6828f2e01a11533b17f5731eb3c3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018bc7",
+      "file_offset": 101319,
+      "source": "$Here're the available quests.",
+      "source_sha256": "089613a7e5c788fbcd4e7b3f6103f064c93373cf4379915aa61c4a9270e56a11",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018beb",
+      "file_offset": 101355,
+      "source": " Cancel",
+      "source_sha256": "24b113e7a0b4eb2fa77e88951bdcbe5fb616a8af4261f6edfe86b7754bc091c2",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018bf3",
+      "file_offset": 101363,
+      "source": "Accept Q",
+      "source_sha256": "802abe40170e06d340c1a0cb5d27cf55fb26e9a2fb4918bc2b29309bf2ad8a3b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018bfc",
+      "file_offset": 101372,
+      "source": "Refuse Q",
+      "source_sha256": "c10bd5fb7a528701bfffe1e139852036f0c0905beee7e7bb5b9b93be322e12ff",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "talk/en/tk101_en.bin_@00018cab",
+      "file_offset": 101547,
+      "source": " What should I go and do...",
+      "source_sha256": "89462683564dcbdf1b7bf875bfd8f0e2e1dd8e396ef3a32b13e03d2ed0fc6605",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc135_en.bi5_",
+  "file_sha256": "6fdf28c307ee5020dbbfe9fbad217cfebbae30536753fc1b5f06cbcee0ca5b1d",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc135_en.bi5_@00002b57",
+      "file_offset": 11095,
+      "source": ",These flowers will\nhonor Herve's death.",
+      "source_sha256": "9ee2794e5ed2808b315fe1118b8c64abde441222e6c16ce7b45fc99916a0f57a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc135_en.bi5_@00002b83",
+      "file_offset": 11139,
+      "source": "8I'll offer them from\nhis beloved Cliff of Sidhe.",
+      "source_sha256": "f857abfd440dc0ab6e8634fc58149afb12cd4bf3908e88c077a5805c2f4db33d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc135_en.bi5_@00002bbc",
+      "file_offset": 11196,
+      "source": "Cliff of Sidhe, eh?",
+      "source_sha256": "38a3843ab5bab45421aca7fcc1fa1a19ce1a88909f4d3d4c3646b17016d831c3",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

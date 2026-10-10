@@ -1,34 +1,54 @@
-# Working instructions
+# Folklore translation workspace
 
-Read README.md, docs/STATUS.md, and docs/FORMAT.md before changing tools.
-For font work, also read docs/FONT.md and fonts/choice.json. The selected source
-font is Merienda Regular 400 with verified Vietnamese coverage; PS3 integration
-is pending. Do not replace this choice silently during another session.
+Read README.md, docs/STATUS.md, docs/TRANSLATION.md, docs/QUEUE.md and docs/CLOUD.md first.
+For format/font changes also read docs/FORMAT.md, docs/FONT.md, fonts/choice.json
+and fonts/aliases.json. Respond to the user in Vietnamese.
 
-This project translates the PS3 release BCUS98147. The user confirmed the
-ASCII menu prototype works in their local RPCS3 setup. Accented Vietnamese,
-complete dialogue, original PS3 hardware, and Steam Deck remain unverified.
+## Verified result
 
-Use Python 3.10+ and the standard library for portable tooling. Run
-`python -m unittest discover -s tests -v` after relevant changes. Synthetic
-tests verify structure and safety; they do not establish in-game behavior.
-Keep translations in translations/, tool code in tools/, and update STATUS.md
-with concrete progress and the next task whenever handing off work.
+BCUS98147 uses Merienda Regular 400 for the menu prototype. On 2026-10-10
+user confirmed V3 fixed extra gaps after Vietnamese letters such as ấ and ớ.
+V3 has 25 two-byte UTF-8 aliases pointing to the same Vietnamese glyphs.
+Human translations remain Vietnamese NFC. Do not replace the font, remove
+aliases, or return to direct three-byte encoding for these characters.
+This is a small menu test, not a full-game or full-alphabet verification.
 
-Keep full game assets, extracted binary files, fonts, generated packages with
-original/patched game payloads, emulator binaries, firmware, and saves local.
-Use local-data/ for original assets and dist/ for generated packages.
-Do not commit the legacy menu-patch.json: it contains full original menu assets.
-Do not overwrite the original baseline with already patched menu files.
-The extractor can recover the original bytes in memory from the user's
-matching local legacy patch package; it does not restore the live game.
+## Default translation work
 
-The current encoder supports ASCII only. Do not enable accented text merely by
-switching to UTF-8. First establish the game's byte-to-glyph mapping and font
-texture format, then test a small accent prototype locally. Do not claim
-runtime success from structural tests alone. Preserve control sequences,
-string IDs/order, and bytes outside the intended menu section.
+When asked to continue translating, work immediately on the existing catalogs.
+Use translations/index.json and docs/QUEUE.md to pick 40-80 entries per batch;
+prefer verified menu entries first. Do not request a ROM just to translate.
+Edit vi, status, notes; update source_review only after actual source review.
+Keep IDs, English sources, hashes, offsets, metadata and order unchanged.
+Read neighboring entries for context. Use translations/glossary.json.
+Preserve control tokens, placeholders and newline blocks. Scanned candidates
+can include binary metadata as leading symbols/digits: retain source and
+uncertain prefixes in drafts and record uncertainty. Do not invent speakers.
+Do not mark tested without local in-game confirmation. Do not retranslate
+completed entries unless requested or a concrete error is found.
+Record the completed batch and next task in QUEUE.md and STATUS.md. Review
+changes, commit or open a PR as supported/authorized by the cloud task.
 
-Do not apply cloud-generated changes to the user's live game unless the task
-authorizes it and the expected source hashes and a recovery path are verified.
-GitHub/cloud tasks do not automatically have access to E:\Game\Folklore.
+## Required checks
+
+Text work needs Python 3.10+ and the standard library only:
+python tools/catalog.py validate
+python -m unittest discover -s tests -v
+Run both after relevant changes. Optional font tools need Pillow/fonttools;
+do not install those for plain translation. Legacy tools/folklore.py supports
+ASCII only and must not build or apply V3 accented translations.
+Dialogue repacking is not implemented. Never overwrite catalog offsets with
+variable-length text. Preserve alias assignments when adding glyph coverage;
+reject missing glyphs, occupied slots and incorrect source hashes.
+
+## Local/cloud boundary
+
+Cloud has text catalogs and tooling, not E:\Game\Folklore. Build and runtime
+checks happen locally. User wants to control/open the game themselves and
+report screenshots. Do not launch/control RPCS3 unless later explicitly asked.
+Pause writes while RPCS3 runs. Preserve originals and recovery packages.
+Do not infer runtime success from synthetic tests or font preview images.
+Keep ROM/ISO, firmware, saves, binary assets, extracted font textures, downloaded
+TTFs and payload patch packages local in ignored local-data/ and dist/.
+Text-only catalogs are authorized translation material and belong in
+translations/catalogs/. Never upload font-demo-patch.json or menu-patch.json.

@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc206_en.bi5_",
+  "file_sha256": "929f1b0b47cb9f50e80b324ab49fd95b35ed73fec709231db40f41e9f84eebba",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002b78",
+      "file_offset": 11128,
+      "source": "It's the truth.",
+      "source_sha256": "d79494def72a4ac0724b924a5a67f543c6610cfc747a2b24a115fba201a040bc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002b8c",
+      "file_offset": 11148,
+      "source": "Harriet told me...",
+      "source_sha256": "f0d95ca726829fde33abea988ab3bb51ea204df34494c2cadfe28df8528779e1",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002bb0",
+      "file_offset": 11184,
+      "source": "Why...!",
+      "source_sha256": "0aadad758eb341d53a841772e53b7e5fea847e525520a18943ee9c5c9ec59cec",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002bc3",
+      "file_offset": 11203,
+      "source": "$I imagine she's\nnow at home.",
+      "source_sha256": "12f15de36b524417fb184049d92ec1e3d972185577d376d20f7bd300905f519f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002be7",
+      "file_offset": 11239,
+      "source": "(She left the\nclinic this morning.",
+      "source_sha256": "668056f88c36703437eeeae7472e79af687efae387a680fd153fc2e40e376013",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002c10",
+      "file_offset": 11280,
+      "source": "What?!?",
+      "source_sha256": "732d80c010f4a2ff7b76e3913d40b68c33178ecd19908006ae3475ccdf78e0c6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002c1c",
+      "file_offset": 11292,
+      "source": "Where is\nCecilia now?!?",
+      "source_sha256": "ea15b5f6d8d6c764e027146f881ff4d7b6f854d57161fa4d1afe017670adc588",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002c38",
+      "file_offset": 11320,
+      "source": "Where is she?!?",
+      "source_sha256": "7f0fed48b58bab6d68e9c7587741cd298fd1308c09927eb98244f948263798fc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc206_en.bi5_@00002c4c",
+      "file_offset": 11340,
+      "source": "Are you certain?!?",
+      "source_sha256": "a5cef124823524671f17d92acefab8316b3494c4dd9559e9f4dbc3add9a16cd5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

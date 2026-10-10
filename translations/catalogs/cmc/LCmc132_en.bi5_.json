@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc132_en.bi5_",
+  "file_sha256": "a7f4ad5291b1a7e13d7cb46e3d0ed8bbe91aa23397f384d729dd7fc7a3ec64b2",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc132_en.bi5_@00002bd7",
+      "file_offset": 11223,
+      "source": " This is...\nWhy am I here?",
+      "source_sha256": "71e286b49f4f447a9118fb4799e9e695390a9941449dbfd2c1184113d8a2012f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc132_en.bi5_@00002bfe",
+      "file_offset": 11262,
+      "source": " Sleepwalking, eh?\nI'm as bad as Ellen.",
+      "source_sha256": "6d308c17dd11d7dc91312bb046d4fb6449764d5b556d664eaa98b7894231dd45",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc132_en.bi5_@00002c2b",
+      "file_offset": 11307,
+      "source": " Hmm?\nSpeak of the devil...",
+      "source_sha256": "030b32364419c450c9c295696f4a546b8b0446091fd57463b34c3861eda0a5e0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

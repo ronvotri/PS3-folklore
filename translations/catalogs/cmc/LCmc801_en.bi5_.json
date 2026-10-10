@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc801_en.bi5_",
+  "file_sha256": "98f584158742d54650983582a8b3242ee725755d1c4008cd90de8b414fb781cf",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002c99",
+      "file_offset": 11417,
+      "source": " of the brave,",
+      "source_sha256": "5cc6b62b5408e0247219edc695416e7fe8853b2f1324ffe8764e6284e89e15b5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002ce3",
+      "file_offset": 11491,
+      "source": " wouldn't you say?",
+      "source_sha256": "e37856898c0734cb94fe6cfe7c888b421c5cc4e6bfaabb4f8ecdb41c1e141d77",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002cfb",
+      "file_offset": 11515,
+      "source": "$Rather bad taste if you ask me.",
+      "source_sha256": "9119d0967f492967f156df01df40e52b0146bbcb67e87ad6c4afcd9bc77f9982",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002d1f",
+      "file_offset": 11551,
+      "source": " For those\nwho love war...",
+      "source_sha256": "cff6b5955cd64937bb300d577002dc41550b0b567835561497928c9e8c0632c9",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002d3f",
+      "file_offset": 11583,
+      "source": ",the joy of battling\neven after death...",
+      "source_sha256": "d2fcaaed030239fc2b257c0b1baa5c3ddf830a038bdf345323cea36f9a32c472",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002d6b",
+      "file_offset": 11627,
+      "source": "8I have no intention of being\na war correspondent.",
+      "source_sha256": "0ac4c8abf718ca8fe527c6e69cdfcc3d1e16c2a0b16602557e2afa4195c8f5af",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002df7",
+      "file_offset": 11767,
+      "source": "\n who wander this battlefield,",
+      "source_sha256": "474a37fd0e362cf5b860c1d94f31aaaf3d7155b9571e19f4d713b269af6b3831",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002e1b",
+      "file_offset": 11803,
+      "source": "(are not your enemies,\nMaster Keats!",
+      "source_sha256": "fe4f0f3a2cf24d7ef362c4a076048d26e1b265540cf03759f5d1a36cf638f4fd",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002e43",
+      "file_offset": 11843,
+      "source": "0Flattery will not get you\na glowing review.",
+      "source_sha256": "001351104042ba3d658ccd82ae28be646e8cc3bee2e5280a822f15a058d5ef07",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002e9d",
+      "file_offset": 11933,
+      "source": "\nwho rules this world.",
+      "source_sha256": "b1a23e3c04b01386b20cc45e4c86569bd04a7d0f4c46b27f7ead226632450d20",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002ee9",
+      "file_offset": 12009,
+      "source": " then?",
+      "source_sha256": "023ecd3b439cc26526cf14fce5df24c8481b62aa43d598b495bfdb005465a9a5",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002ef3",
+      "file_offset": 12019,
+      "source": ",You're a quick study,\n Master Keats.",
+      "source_sha256": "7e4b762f51175e1b5c424dfc7c76b9a0245118ccaa2f8203e624b95ac2cc86eb",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002f1f",
+      "file_offset": 12063,
+      "source": "$The Folks\nwill be your allies.",
+      "source_sha256": "56bb6e278cf340b9cd9c266e618ddbc4cd84f2b87ab2595f1aead3721ab82557",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002f43",
+      "file_offset": 12099,
+      "source": "$Really? That's a bit creepy...",
+      "source_sha256": "fe88e0d412720f4cfebcc8c3ef93224bd64f48caa9fe5ab7de3ed665b3422802",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002f67",
+      "file_offset": 12135,
+      "source": "$Once again, you will need to",
+      "source_sha256": "436b736d1ed308748718b0c9484110a7c48e5ec4d9eb42781a0dd7db02ecce2e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002fc3",
+      "file_offset": 12227,
+      "source": "\nand use them as your own powers.",
+      "source_sha256": "03a7cc27cae4721bb8528e6a06d3f05f2be23f71f41c7956907d9b5495db40e0",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00003053",
+      "file_offset": 12371,
+      "source": "HPlease don't forget\nto be wary of stray bullets.\nBest of luck...",
+      "source_sha256": "3c9efa6feb2fdd5fca55ee884909c139db1011ae08e03d01a33148d366fb841d",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@0000309c",
+      "file_offset": 12444,
+      "source": "Yes I suppose...",
+      "source_sha256": "fb39661177aeab013e64c77c6c9d719390d1d52173d30639f4cdf9d7f5c47c70",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

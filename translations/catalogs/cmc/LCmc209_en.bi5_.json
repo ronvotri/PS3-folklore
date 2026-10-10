@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc209_en.bi5_",
+  "file_sha256": "2bd9b50e365135d6b40e06ef109369b6dbae916053479247d0b217cbe6f5c59f",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc209_en.bi5_@00002d48",
+      "file_offset": 11592,
+      "source": "Stop!",
+      "source_sha256": "6f446c68112122635df0c5cab319203a7e10e843accd8d60a90721a1b3420036",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc209_en.bi5_@00002d54",
+      "file_offset": 11604,
+      "source": "Don't run away!",
+      "source_sha256": "1b524f441a6dc3f2286228a05118410929ce54677e47a03f05f8b72b2956eb56",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc209_en.bi5_@00002d70",
+      "file_offset": 11632,
+      "source": "I don't know!\nStop it!",
+      "source_sha256": "b86c1de6a2e6509b104c753d4c9a0eb86d0e5cbd278735a9f799778ad08d8720",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc209_en.bi5_@00002d8c",
+      "file_offset": 11660,
+      "source": "Hrg!",
+      "source_sha256": "0c1457542a0651858070d825dfe5f609ced3f9ccd298a864dae775710397217e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc209_en.bi5_@00002d98",
+      "file_offset": 11672,
+      "source": "...W ...Who?!?",
+      "source_sha256": "4bbaa6f40ccd0a7051ce708bf069d51c639edd57bc6297ad21a093e33a3d9740",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}

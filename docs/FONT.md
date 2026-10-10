@@ -1,52 +1,42 @@
-# Font đã chọn: Merienda Regular, weight 400
+# Merienda Regular 400 — bản V3
 
-Quyết định ngày 10/10/2026: ưu tiên Merienda Regular 400 làm nguồn tạo glyph
-cho bản Việt hóa. Font có nét viết tay phù hợp với hướng truyện cổ của game.
-Noto Serif Regular 400 là phương án dự phòng nếu chữ nhỏ khó đọc khi thử game.
-Không trộn hai font trong bản thử đầu để giảm số biến cần kiểm tra.
+Người dùng chọn Merienda vì nét viết tay phù hợp game. Nguồn/hash/OFL pinned
+trong fonts/choice.json. TTF đủ 134 chữ Việt có dấu + 8 dấu kết hợp; atlas game
+thử mới có 251 glyph, không được coi đủ toàn bộ chữ Việt.
 
-## Đã kiểm tra
+## Kết quả thử
 
-- Đối chiếu cmap của tệp font thực: đủ 134 chữ Việt có dấu dạng dựng sẵn
-  (67 thường + 67 hoa) và 8 dấu kết hợp; không thiếu glyph trong bộ này.
-- Đã dựng mẫu chữ ở 22, 28 và 36 px, xem menu, hội thoại và các dấu khó.
-- Merienda và Noto Serif đều qua kiểm tra bộ chữ Việt. Lựa chọn Merienda
-  dựa trên hình thức của mẫu, không phải Noto Serif thiếu tiếng Việt.
-- Nguồn Google Fonts ghi Vietnamese subset và giấy phép OFL. Tệp tải được
-  khóa bằng commit upstream và SHA-256 trong `fonts/choice.json`.
+Ảnh V1/V2 có “Nhấ n”, “mớ i”. V2 giảm bearing/space vẫn còn hở sau ký tự
+3 byte như ấ/ớ. V3 không đổi hình chữ/width V2, dùng 25 ô Unicode trống
+U+0500 trở đi, mỗi ô encoded UTF-8 2 byte, trỏ vào hình chữ Việt tương ứng.
+Người dùng báo V3 đã ổn. Điều này ủng hộ lỗi đọc/advance ký tự 3 byte trong
+đường render đang thử; chưa reverse-engineer executable để khẳng định lỗi nội bộ.
 
-## Kiểm tra lại trong phiên khác
+fonts/aliases.json lưu chính xác mapping đã thử. KHÔNG đổi các ô đã dùng.
+Nguồn bản dịch luôn NFC thông thường; alias chỉ dùng lúc encode payload game.
+text_codec.py encode/decode và thêm mapping vào bảng font. Thiếu alias/glyph
+phải dừng build hoặc mở rộng có kiểm tra, không bỏ dấu để che lỗi.
 
-Kiểm tra font cần thêm thư viện fonttools; các công cụ menu vẫn chỉ dùng
-Python standard library. Có thể dùng Python 3.10+ trên Windows hoặc Linux:
+## Dựng lại font V3 tại local
 
-```sh
-python -m pip install fonttools
-python tools/font_probe.py --download --report local-data/fonts/coverage.json
-```
+Cần original lang_tex_a/e.bi5_ có hash trong docs/font_baseline.json.
+Không dùng tệp đang vá làm original. Trích/bảo quản nguồn ở local-data/.
 
-Font tải về là font nguồn mở của tác giả, không phải font trích từ game.
-Lệnh trên lưu tệp cục bộ, không cài font vào hệ điều hành và không sửa game.
-Mang theo OFL và thông tin tác giả khi phân phối font. Giấy phép có Reserved
-Font Name "Merienda"; nếu phân phối font đã sửa, phải tuân thủ điều kiện đổi
-tên. Raster hóa để tạo texture và phân phối texture vẫn cần xét điều kiện
-giấy phép cho gói phát hành cụ thể.
+python -m pip install -r requirements-font.txt
+python tools/font_probe.py --download
+python tools/font_atlas.py --original local-data/lang_tex_a.bi5_ --out dist/font/lang_tex_a.bi5_
 
-## Phần chưa hoàn thành
+Chạy tương tự cho lang_tex_e. Builder instantiate Merienda pinned ở weight
+400, raster 27 px, common extent 42px cho bộ mẫu, co dọc còn 34px trong ô 36px;
+thu gọn bearing, khoảng trắng 5. Giữ texture icon thứ hai nguyên trạng.
+Với menu_vi.json hiện tại và Pillow 12.3.0, output A khớp đúng hash V3 đã thử.
+Builder không tự cài game. Câu mới có thể đổi extent/layout: phải kiểm tra hình
+và thử local, không coi font output mới đạt vì cùng tên Merienda.
 
-Chọn được font TTF có đủ ký tự chưa đồng nghĩa font đã chạy trong PS3.
-Game dùng font texture/glyph table riêng. Công việc tiếp theo:
+## Giới hạn
 
-1. Đọc texture và glyph metrics trong `lang_tex_a/e.bi5_`.
-2. Xác định byte/codepoint mà game dùng để chọn glyph. Không tự đổi encoder
-   sang UTF-8: cần kiểm chứng đường đọc ký tự của game.
-3. Tạo atlas mẫu từ Merienda 400, căn dấu phía trên và dấu nặng phía dưới;
-   cỡ raster cụ thể sẽ dựa vào metrics của game, chưa chốt 36 px.
-4. Thử chữ “Chơi mới”, “Cài đặt”, “Tiếp tục”, “Đồng ý”, “Trở về” trong game.
-5. Kiểm tra clipping, khoảng cách chữ, xuống dòng và đọc ở màn hình nhỏ.
-
-Chuỗi dịch lưu Unicode NFC. Dấu kết hợp được kiểm tra trong font để hiểu
-coverage; chưa chứng minh engine PS3 có thể ghép dấu NFD khi render.
-
-Nguồn: [Google Fonts Merienda](https://github.com/google/fonts/tree/main/ofl/merienda),
-[giấy phép OFL](https://github.com/google/fonts/blob/main/ofl/merienda/OFL.txt).
+Không có kerning theo cặp trong bảng glyph đang đọc. Unicode NFD chưa chứng
+minh được engine ghép dấu. Các tag/ký tự 3 byte khác cần khảo sát riêng.
+Muốn dịch toàn game cần mở rộng glyph/alias, kiểm tra dấu hoa/độ đọc ở chữ nhỏ.
+Không tự chuyển Noto Serif. OFL ở fonts/Merienda-OFL.txt; tệp TTF và texture game
+không có trong repo. Xét giấy phép gói phát hành khi đến bước phân phối.

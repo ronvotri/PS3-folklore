@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "file": "cmc/en/LCmc007_en.bi5_",
+  "file_sha256": "b4168287ddef9fbdd6bf19e82dc43aa9c80b5c218c98fd6276812976ac98852c",
+  "extraction": "talk sections",
+  "repacker": "not_implemented",
+  "entries": [
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00002f98",
+      "file_offset": 12184,
+      "source": "The night of Samhain.",
+      "source_sha256": "85c76a0652b07bcecc92e5ab96e18b52f7a8e772c5c74fa1861c02144d60c8cc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00002fb4",
+      "file_offset": 12212,
+      "source": "17 years ago.",
+      "source_sha256": "74006a44ecc6a643c85b13d773e124dad5b0bd4da64345502f5b367eed1181c8",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00002fe0",
+      "file_offset": 12256,
+      "source": "What do you mean?",
+      "source_sha256": "c8ac7dce03b1b9b73d09f9d628650393280722336ab394f0fe830107d597c867",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00002ff8",
+      "file_offset": 12280,
+      "source": "You horrid girl!",
+      "source_sha256": "9d3d4e0f74b9a73b7e3ff92bbc1d79cf10488d4fdc658b5875a34a07546bfada",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00003010",
+      "file_offset": 12304,
+      "source": "Why, you...",
+      "source_sha256": "1e29fd64c99f3486bf2cdb34367bbeded43976426e9743ee35e6afc2d7081c9b",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00003020",
+      "file_offset": 12320,
+      "source": "It's all your fault!",
+      "source_sha256": "809e4443a69aaad959872d89a9d0cc61cf9cbf53e9a9f059529f332ea039c3a6",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@0000303c",
+      "file_offset": 12348,
+      "source": "You're possessed!",
+      "source_sha256": "b341f59606e21cba9a8cb5580ad0ee7a74ee52b7e141e60297335034433a9266",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00003054",
+      "file_offset": 12372,
+      "source": "I'll kill you!",
+      "source_sha256": "6a97eb97bd0fda3edf335a64bceaeebbe8d06f0ae1e130b4fa75478ebd3d8559",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00003068",
+      "file_offset": 12392,
+      "source": "Aieeek!",
+      "source_sha256": "73212244f096ffef4e457d189af1f5ae551bb0210632bc8a61f75004c76a2b4e",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@0000307c",
+      "file_offset": 12412,
+      "source": "I will never forget.",
+      "source_sha256": "c429db85b91c52d2d8914ce31ba64029cf3c22b2294f6eeeb232b51e055149fa",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@000030b0",
+      "file_offset": 12464,
+      "source": "I was so very\nlonely.",
+      "source_sha256": "6d8a2bb85d5f266119e0791815b2f48d46734fbd60d60a9942bf0e8ae0d379fe",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@000030cb",
+      "file_offset": 12491,
+      "source": "(I'm so glad I've\nfinally found you.",
+      "source_sha256": "ddd72911a4eecc203fe3b0182ef804b72aaaabc03fc03a759c1d45840d7a5b84",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@000030f4",
+      "file_offset": 12532,
+      "source": "Mother?",
+      "source_sha256": "b0df5e328a85e8c2cd17217352b8be0a2e593b48ee6e84b1ffc2137d76d4d13a",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@000030ff",
+      "file_offset": 12543,
+      "source": "$Please, Mother,\nlook this way.",
+      "source_sha256": "3682422d1fa7e91bf057585a4eb917607830686b9155ca83b449f7bf2ec523fc",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    },
+    {
+      "id": "cmc/en/LCmc007_en.bi5_@00003124",
+      "file_offset": 12580,
+      "source": "It's your fault!",
+      "source_sha256": "e6ebdd9fb7f296167ff51996a324c2c6b590fdfbd4d464415451092c2714bc1f",
+      "vi": "",
+      "status": "todo",
+      "source_review": "candidate",
+      "notes": ""
+    }
+  ]
+}
