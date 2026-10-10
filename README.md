@@ -13,6 +13,8 @@ Game gốc, font, firmware và các gói vá chứa dữ liệu game được gi
   Một câu có thể xuất hiện nhiều lần, nên số chuỗi thay lớn hơn số cặp dịch.
 - Công cụ di chuyển và kiểm tra 2.998 tham chiếu chuỗi menu ở mỗi tệp.
 - Chưa hỗ trợ tiếng Việt có dấu; hội thoại và nhiều phần khác chưa dịch.
+- Đã chọn **Merienda Regular 400** làm font nguồn; kiểm tra đủ bộ chữ Việt.
+  Xem [quyết định font và bước tích hợp](docs/FONT.md). Font chưa được gắn vào game.
 - Chưa thử trên PS3 thật hoặc Steam Deck.
 
 Xem [tiến độ và bàn giao](docs/STATUS.md), [cấu trúc dữ liệu](docs/FORMAT.md),

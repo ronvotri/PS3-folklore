@@ -1,6 +1,9 @@
 # Working instructions
 
 Read README.md, docs/STATUS.md, and docs/FORMAT.md before changing tools.
+For font work, also read docs/FONT.md and fonts/choice.json. The selected source
+font is Merienda Regular 400 with verified Vietnamese coverage; PS3 integration
+is pending. Do not replace this choice silently during another session.
 
 This project translates the PS3 release BCUS98147. The user confirmed the
 ASCII menu prototype works in their local RPCS3 setup. Accented Vietnamese,

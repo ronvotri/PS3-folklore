@@ -1,0 +1,18 @@
+{
+  "family": "Merienda",
+  "weight": 400,
+  "sha256": "a91e4d88a50b4f80c7b1f31fe46e376eb87b72247d2a216f5e5be1881340deea",
+  "precomposed_vietnamese_letters": 134,
+  "combining_marks": 8,
+  "required_codepoints": 244,
+  "missing": [],
+  "coverage_ok": true,
+  "variable_axes": {
+    "wght": {
+      "min": 300.0,
+      "default": 400.0,
+      "max": 900.0
+    }
+  },
+  "scope": "source_font_glyph_coverage_only; PS3 rendering is not yet verified"
+}

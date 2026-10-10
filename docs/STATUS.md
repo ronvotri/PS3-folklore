@@ -29,8 +29,10 @@ con trỏ tương đối và giữ nguyên kích thước mỗi tệp/kho dữ l
 
 ## Việc tiếp theo
 
-1. Kiểm tra font trong `lang_tex_a.bi5_` và `lang_tex_e.bi5_`, cách mã ký tự
-   được tra thành glyph; thử một số chữ Việt có dấu trên menu nhỏ.
+1. Đã chọn **Merienda Regular 400** làm font nguồn; xem FONT.md và
+   fonts/choice.json. Đã kiểm tra đủ 134 chữ Việt có dấu và 8 dấu kết hợp.
+   Tiếp theo đọc `lang_tex_a.bi5_` và `lang_tex_e.bi5_`, xác định mapping
+   ký tự/glyph và thử font texture có dấu trên menu nhỏ. Chưa thay font game.
 2. Giải quyết tăng kích thước vùng/tệp nếu bản dịch dài vượt chỗ trống.
 3. Trích hội thoại theo ID/ngữ cảnh, dịch từng chương và giữ control codes.
 4. Thử trên Steam Deck, kiểm tra điều khiển và dữ liệu DLC/update.

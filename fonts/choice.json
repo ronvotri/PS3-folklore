@@ -1,0 +1,14 @@
+{
+  "family": "Merienda",
+  "style": "Regular",
+  "weight": 400,
+  "source_commit": "9673336c61929f2fde33568ed4e451053e572cb0",
+  "font_url": "https://raw.githubusercontent.com/google/fonts/9673336c61929f2fde33568ed4e451053e572cb0/ofl/merienda/Merienda%5Bwght%5D.ttf",
+  "font_sha256": "a91e4d88a50b4f80c7b1f31fe46e376eb87b72247d2a216f5e5be1881340deea",
+  "license": "SIL Open Font License 1.1",
+  "license_url": "https://raw.githubusercontent.com/google/fonts/9673336c61929f2fde33568ed4e451053e572cb0/ofl/merienda/OFL.txt",
+  "text_normalization": "NFC",
+  "engine_pixel_height": null,
+  "stage": "source_font_selected_and_glyph_coverage_verified",
+  "in_game_integration": "pending"
+}
