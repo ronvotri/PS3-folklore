@@ -22,7 +22,10 @@ translate as many entries as can be checked reliably in the current session;
 request 2026-10-11). Prefer finishing a catalog and reusing identical source
 translations across catalogs, but never sacrifice context, natural address or
 metadata safety for raw numbers. QA in logical chunks (~50 or any suitable size),
-then commit a checked, coherent batch. Menu drafts are already complete.
+then commit a checked, coherent batch. When large batches risk interrupted tool sessions,
+prefer smaller independently verified commits (e.g. 50–100 dialogue entries) over
+trying to maximize a single request. Never claim unsaved changes are complete.
+Menu drafts are already complete.
 For long narrative or context-sensitive dialogue, reduce or expand the batch
 as evidence and quality justify. Do not request a ROM just to translate.
 Edit vi, status, notes; update source_review only after actual source review.

@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **4.335 draft / 11.886** catalog entries, còn **7.551 todo** (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 3.273 ứng viên talk có bản nháp (tk000 19, tk011 19, tk100 314, tk101 447, tk102 494, tk103 578, tk104 731, tk105 595, tk106 19, tk107 19, tk206 19, tk207 19). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **4.435 draft / 11.886** catalog entries, còn **7.451 todo** (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 3.373 ứng viên talk có bản nháp (tk000 19, tk011 19, tk100 314, tk101 447, tk102 494, tk103 578, tk104 731, tk105 595, tk106 19, tk107 19, tk206 19, tk207 19, tk200 100). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -206,3 +206,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA của 12 tệp talk đủ draft: **3.273 mục**, không có source giống nhau mà bản Việt hóa khác nhau. Metadata English/source hash/ID/offset/source_review không thay; chỉ vi/status/notes. Kiểm tra newline, Unicode NFC, mã/placeholder/tiền tố. Những đoạn không xác minh speaker và thuật ngữ đều có notes.
 - Tổng repo **4.335/11.886 draft**, **7.551 todo**. Đây là độ phủ ứng viên text, chưa có parser/repacker hay test RPCS3. Font Merienda V3 không thay. Cả 158 catalog còn rất nhiều CMC/talk chưa dịch.
 - **Checkpoint kế tiếp:** `talk/en/tk200_en.bin_@00001158`, `tk200` có 280 todo. GitHub Actions Windows/Ubuntu chạy validator + unittest sau push.
+
+## Lượt 023a — 11/10/2026 (100 mục tk200, đợt commit nhỏ)
+
+- Xác minh main trước khi sửa: `tk104` đã có 731/731 draft và QUEUE chuyển sang tk200. Tránh làm lại công việc đã đẩy. Chọn **100 mục** thay vì ép dịch số lượng lớn theo yêu cầu tránh crash; `tk200` hiện 100/280 draft, còn 180.
+- 29 bản dịch tái dùng từ nguồn đã dịch, 11 lần lặp nội bộ, 60 nguồn chưa có draft được dịch; ngữ cảnh Doolin, Halflive, người chết, quán rượu, Faery. Xưng hô tạm/notes cho fragment; chưa khẳng định speaker.
+- QA bất biến ID/English/hash/offset/source_review, NFC/newline/placeholder/tiền tố, source trùng không mâu thuẫn; tất cả mới chỉ `candidate/draft`. Chưa repack thoại hay test RPCS3, giữ Merienda V3 nguyên.
+- Tổng **4.435 draft/11.886**, **7.451 todo**. Tiếp `talk/en/tk200_en.bin_@00006cf8`. CI Windows/Ubuntu kiểm tra sau khi push.

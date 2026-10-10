@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk200_en.bin_.json`: tiếp tục từ `talk/en/tk200_en.bin_@00001158` (`To Netherworld`), có 280 mục `todo`. Ưu tiên tái sử dụng bản dịch nguồn trùng từ tk100–tk107, rồi dịch mảnh thoại còn mới theo bối cảnh. Sau đó chuyển tk201.
+1. `translations/catalogs/talk/tk200_en.bin_.json`: tiếp tục từ `talk/en/tk200_en.bin_@00006cf8` (đọc lại source thật trước lượt sau), còn **180** `todo`. Dịch nhóm vừa sức có QA rồi lưu commit, ưu tiên ngữ cảnh và nguồn trùng trước; sau tk200 mới chuyển tk201.
 2. Các tệp `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đã đủ **3.273/3.273 mục draft** cộng lại; ba CMC `LCmc000`, `LCmc002`, `LCmc004` có 46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu **1.016/1.016 draft**; CMC 46 draft; talk `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đủ tổng **3.273 draft**. Tổng toàn bộ **4.335/11.886 draft**, còn **7.551 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu **1.016/1.016 draft**; CMC 46 draft; talk `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đủ tổng **3.273 draft**. Tổng toàn bộ **4.435/11.886 draft**, còn **7.451 todo** trong 158 catalog. `tk200` đang 100/280 draft. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -26,7 +26,8 @@ Theo cập nhật yêu cầu người dùng ngày 11/10/2026: **không giới h�
 mục/lượt**; làm nhiều nhất khi vẫn giữ chất lượng/QA. Ưu tiên hoàn tất catalog,
 tránh dịch lại nguồn trùng, rà ngữ cảnh, xưng hô, newline và control markers.
 Chia nhóm kiểm tra nội bộ theo độ khó, commit sau khi hoàn thành một khối nhất
-quán. Có thể làm ít hơn khi thiếu speaker/metadata hoặc phát hiện lỗi thật.
+quán. **Ưu tiên nhóm 50–100 mục khi phiên dễ bị gián đoạn/crash**, không cố gom
+hàng trăm mục chưa commit. Có thể làm ít hơn khi thiếu speaker/metadata hoặc phát hiện lỗi thật.
 Ghi tệp, ID đầu/cuối hoặc danh sách ID, số mục đổi trạng thái, ngữ cảnh còn
 thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 khi thêm lịch sử.
 
@@ -241,3 +242,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Toàn bộ 158 catalog: **4.335/11.886 draft (36,5%)**, còn **7.551 todo**. Tỷ lệ này chỉ tính dữ liệu đã trích, **không phải bản vá Folklore playable**. Không có parser/repacker talk/cmc hoặc thử RPCS3; giữ nguyên Merienda V3, ISO và game binary.
 - Cập nhật quy định batch lớn không có mốc cứng ở `AGENTS.md`, `docs/CLOUD.md`, `docs/TRANSLATION.md`, `docs/QUEUE.md`; tài liệu tiếp nhận được đồng bộ.
 - **Tiếp theo:** `talk/en/tk200_en.bin_@00001158` (280 mục). Sau push xem GitHub Actions validator + unittest Windows/Ubuntu.
+
+## Lượt 023a — 11/10/2026 (100 ứng viên tk200, commit nhỏ an toàn)
+
+- Kiểm tra main trước khi làm: HEAD `8d4ff23f7672` đã hoàn tất `tk104`, `tk105`, `tk106`, `tk107`, `tk206`, `tk207`; không đụng vào các file đã dịch. Vòng chat trước bị ngắt và chưa lưu phần đang thao tác, nên dựa trên trạng thái GitHub thật.
+- Dịch **100 mục `todo→draft`** đầu `translations/catalogs/talk/tk200_en.bin_.json` từ `@00001158` đến `@00006c15`: 29 mục tái dùng bản dịch của các catalog hoàn thành, 11 lần lặp nội bộ, 60 nguồn mới khác nhau. `tk200` 100/280 draft, còn 180 todo.
+- Nội dung: chỉ đường tới quán rượu Doolin, những người đưa tin Halflive, lễ tưởng niệm người chết, biểu cảm tiếng cười/kêu, hướng dẫn cổng dịch chuyển/Faery. Giữ ngôi xưng trung tính ở câu khuyết đầu/vế, ghi `notes` cho `mantle`, `mother`, `soft spot`, mốc **2 tháng 11**, `Land of the Dead`, những lời lắp bắp và chữ đầu nghi mã điều khiển.
+- QA: đúng 100 ID, chỉ `vi/status/notes` thay đổi; bảo toàn nguồn English, SHA-256, offset, source_review=candidate, thứ tự; Unicode NFC, số newline, prefix và khoảng trắng cuối, placeholder; không có mâu thuẫn bản Việt của source trùng giữa các catalog được rà.
+- **Chính sách theo yêu cầu mới:** không cố đạt 200 hay hơn trong một lượt khi có nguy cơ crash; ưu tiên commit có kiểm tra sau mỗi khối 50–100. Parser/repacker talk chưa có; không vá ROM/binary/font Merienda V3.
+- Tổng **4.435/11.886 draft**, còn **7.451 todo**. Tiếp từ `talk/en/tk200_en.bin_@00006cf8`.

@@ -11,1000 +11,1000 @@
       "file_offset": 4440,
       "source": "To Netherworld",
       "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@000011b8",
       "file_offset": 4536,
       "source": "Use item",
       "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dùng vật phẩm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001214",
       "file_offset": 4628,
       "source": "Memo pad",
       "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sổ ghi chú",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@000014d4",
       "file_offset": 5332,
       "source": "Ellen's hut",
       "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Túp lều của Ellen",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001530",
       "file_offset": 5424,
       "source": "Keats' base",
       "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
-      "vi": "",
-      "status": "todo",
+      "vi": "Căn cứ của Keats",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000158c",
       "file_offset": 5516,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@000015ec",
       "file_offset": 5612,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001650",
       "file_offset": 5712,
       "source": "Pub owner's home",
       "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà chủ quán rượu",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@000016b4",
       "file_offset": 5812,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001714",
       "file_offset": 5908,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001777",
       "file_offset": 6007,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000017e4",
       "file_offset": 6116,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001844",
       "file_offset": 6212,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001924",
       "file_offset": 6436,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001984",
       "file_offset": 6532,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@000019e0",
       "file_offset": 6624,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001a44",
       "file_offset": 6724,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001aa8",
       "file_offset": 6824,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001b08",
       "file_offset": 6920,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001f0a",
       "file_offset": 7946,
       "source": "\nWhere's the pub in this village?",
       "source_sha256": "939438f5f567c0ced60ea29efb268c2db8709addcc69327022b086caf3056cd3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nQuán rượu trong làng nằm ở đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00001fa6",
       "file_offset": 8102,
       "source": "\nbuilding north of the road.",
       "source_sha256": "cbc23b3e70ab1a8fc6ba776f0b8b8437229f9494920868c992e2c7c78457be15",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntòa nhà phía bắc con đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Đoạn chỉ có vị trí một tòa nhà, không biết ai đang hướng dẫn."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002086",
       "file_offset": 8326,
       "source": "\nI have to check it.",
       "source_sha256": "11e40677e2a21b075921a19fb4451bf1bda80835784fefa40bb0a9d304388e48",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi phải kiểm tra xem.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000216e",
       "file_offset": 8558,
       "source": "\nWhere's the pub in this village?",
       "source_sha256": "939438f5f567c0ced60ea29efb268c2db8709addcc69327022b086caf3056cd3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nQuán rượu trong làng nằm ở đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000220a",
       "file_offset": 8714,
       "source": "\nbuilding north of the road.",
       "source_sha256": "cbc23b3e70ab1a8fc6ba776f0b8b8437229f9494920868c992e2c7c78457be15",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntòa nhà phía bắc con đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000022f9",
       "file_offset": 8953,
       "source": "\nHope I don't get lost.",
       "source_sha256": "2baf6055ecb8a352f5c8aae6fcc65b049103971f148d1c604004bbb7b4fd2203",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMong là mình không bị lạc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002488",
       "file_offset": 9352,
       "source": "You'll take me to her?",
       "source_sha256": "4d26bda874bea507ad7861b38b2520974952c9d544de5836ea64ef0499d39e1a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn sẽ đưa tôi đến gặp cô ấy sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002506",
       "file_offset": 9478,
       "source": "\nsoft spot for women in mourning.",
       "source_sha256": "477c9445f9b454a928b33e38073bd7a76febcf4b0f43096bf83e29f2d4e08a2a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndễ mềm lòng trước phụ nữ đang chịu tang.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Soft spot có thể hàm ý sự cảm thông hoặc điểm yếu, cần ghép cảnh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002653",
       "file_offset": 9811,
       "source": "$Go there to get your clothes.",
       "source_sha256": "17c7253ca5b423aa536e78bde591cf8a129defc6d1901a5f08198f8396b766e0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đến đó lấy quần áo của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Bảo toàn ký hiệu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk200_en.bin_@000026fc",
       "file_offset": 9980,
       "source": "\nmother, then?",
       "source_sha256": "6e5d6bc4a8aec6c5d6ae384b4178036a9e79618af73fb73e84d0dbef72d400ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Thiếu vế trước: không biết ai là mẹ của ai."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000280d",
       "file_offset": 10253,
       "source": "\nable to use that mantle to bring",
       "source_sha256": "7337c2cace06ed08a6a5d5e830d8e9b8c1b4d43943a56647eaf5559c92dcbaf6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể dùng chiếc áo choàng ấy để đưa",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Mantle dịch tạm áo choàng, chưa chứng minh công dụng."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002987",
       "file_offset": 10631,
       "source": " No, I can't back out now.",
       "source_sha256": "dab5d8286618a4aa3656648b3306ad7c49b1c315a4becc988669465c24d64f3b",
-      "vi": "",
-      "status": "todo",
+      "vi": " Không, giờ tôi không thể bỏ cuộc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002a60",
       "file_offset": 10848,
       "source": "I have to do this...",
       "source_sha256": "852ba2b54015b806bd77a3dbbbc92746572da3adb5bef175d64b5c6c245aea27",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi phải làm chuyện này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002b4a",
       "file_offset": 11082,
       "source": "\nfor! Uwee hee hee!",
       "source_sha256": "72a5f5b3bfe00111cd7cabf6f02b87ec690c48acba7300d6d7337c342f312924",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể làm gì! Hú hi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Có tiếng cười Uwee hee hee, dịch nháp theo nhịp, cần đối chiếu giọng."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002bb9",
       "file_offset": 11193,
       "source": "\nGo through the door.",
       "source_sha256": "1d4b49309b7289751b629fbfbd240ed1ebe499ddf6ec5db558861d882e93f8ee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy đi qua cánh cửa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002c30",
       "file_offset": 11312,
       "source": "\nthere?",
       "source_sha256": "f91962eba88c247af49c26360c31bed80d250a816500400386a861eb2e799755",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002ccd",
       "file_offset": 11469,
       "source": "! Uwee hee hee!",
       "source_sha256": "0c2229122d93a812895005bb9afe8d51ebec23ff2c1225cb9ec37646ffdf5248",
-      "vi": "",
-      "status": "todo",
+      "vi": "! Hú hi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Nguồn bắt đầu dấu ! là mảnh câu; giữ dấu đầu như gốc."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002e48",
       "file_offset": 11848,
       "source": "\nThere's not much time!",
       "source_sha256": "9a6c8be571b1a122f8d587ac20651cde8bf023f972a674aa84dc790912524000",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông còn nhiều thời gian đâu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002f23",
       "file_offset": 12067,
       "source": "\nlike I'm in a dream...",
       "source_sha256": "6950fed17d1edf21529ce3c5a4ea8d5fcc2efbc35ac3302e0b069e06d035b7c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ như đang nằm mơ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00002fd4",
       "file_offset": 12244,
       "source": " at dawn.",
       "source_sha256": "d65fb2f7c0d6d13bbf5730cc64290bfb65f7eb68e1a643313b901f8aa3549a30",
-      "vi": "",
-      "status": "todo",
+      "vi": " lúc bình minh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003080",
       "file_offset": 12416,
       "source": "\nthen? Uwee hee hee!",
       "source_sha256": "ad18938cc91ebc74c8f2a6f2b922293463ed80cdf4ced4b3303a80f4d431e06e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrồi sao? Hú hi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000316a",
       "file_offset": 12650,
       "source": "\nthe dead, and will attack!",
       "source_sha256": "6515654da3e1c78e138d9d44f218b9333dbe2c4eb81d91b569a5b14890e9d8a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chết, rồi sẽ tấn công!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Không rõ đối tượng 'dead' là sinh vật hay linh hồn; không thêm chủ ngữ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000032a6",
       "file_offset": 12966,
       "source": " are not friendly!",
       "source_sha256": "cf8b8ca9cc128059cdce550957faa9fe47b24e7e539883aded43f6a58f017bd4",
-      "vi": "",
-      "status": "todo",
+      "vi": " chẳng thân thiện đâu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003300",
       "file_offset": 13056,
       "source": "Fight...?",
       "source_sha256": "c038882b42d2fa1c1462b8681f2c410e980f029b252ce9a6975a2107919f412a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chiến đấu sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000356a",
       "file_offset": 13674,
       "source": ", the day of the dead!",
       "source_sha256": "ec0ac0e4024a3872dcf4655e6146e96e244f5c416086d1bfe5749b0df059ca68",
-      "vi": "",
-      "status": "todo",
+      "vi": ", ngày của người đã khuất!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000360d",
       "file_offset": 13837,
       "source": "\nis open.",
       "source_sha256": "c3ebdedbf04a0eccadd10166a83e7a33844d72aeb73ca91b2429bb6015939e1e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã mở.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003784",
       "file_offset": 14212,
       "source": "\nsomewhere up ahead?",
       "source_sha256": "8560c5795de91e229932cefc9fa6ad59416da67bddc78388e8a4652386135196",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đâu đó phía trước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000380b",
       "file_offset": 14347,
       "source": "\nYou must make haste!",
       "source_sha256": "db83dadb46db54a6f6dc521151554c73e8ea6b26316a01193f42ae553ad0a2e4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nPhải nhanh lên!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000038fa",
       "file_offset": 14586,
       "source": "\nnow on. Uwee hee hee!",
       "source_sha256": "d41c5102dd55651e9ffee546f7d1d7f59610efbbedec3afd69b1864e331ceb70",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ giờ trở đi. Hú hi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000039d7",
       "file_offset": 14807,
       "source": "\nnight!",
       "source_sha256": "57f45152882d75f70cc4898c74b91ea0abaf7bbc3499fe5bec322d2d046742f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđêm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003a40",
       "file_offset": 14912,
       "source": "\nbarman, of sorts.",
       "source_sha256": "c91a39a791e36f0b01cea8bd905e4b6bdf80744fd6dd4bd44e8f1e7cb121562c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng coi như một người pha chế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Barman of sorts là cách nói dè dặt, không biết chính xác nhân vật."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003af4",
       "file_offset": 15092,
       "source": " told us he'd be",
       "source_sha256": "935ec0fa0daa75e191ad0b3b1efc4f99273be498fb3495abf3f81a1b3f304d03",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã bảo chúng tôi rằng anh ấy sẽ",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003b68",
       "file_offset": 15208,
       "source": "\nbeen waiting for yer to come.",
       "source_sha256": "913ceb3262245594dc0a18e433820acbedcff4283eddbdb7c7ab0231afa3a87f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã chờ bạn đến.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003c6b",
       "file_offset": 15467,
       "source": "\ndrop in every now and then!",
       "source_sha256": "3e168d8c6c439b8b5632377049341416ccaeab4e595612f3b796e6578f913214",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthỉnh thoảng nhớ ghé qua nhé!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003d30",
       "file_offset": 15664,
       "source": "So... what'll it be?",
       "source_sha256": "52e1bd1d24b64f2ae100951fedf0d3eeb94e69b5ea4eb0c26f754aafc16c6f96",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nào... bạn dùng gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Câu hỏi trong quán rượu, dùng giọng phục vụ trung tính."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003df0",
       "file_offset": 15856,
       "source": "So... what'll it be?",
       "source_sha256": "52e1bd1d24b64f2ae100951fedf0d3eeb94e69b5ea4eb0c26f754aafc16c6f96",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nào... bạn dùng gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003eb0",
       "file_offset": 16048,
       "source": "So... what'll it be?",
       "source_sha256": "52e1bd1d24b64f2ae100951fedf0d3eeb94e69b5ea4eb0c26f754aafc16c6f96",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nào... bạn dùng gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00003f70",
       "file_offset": 16240,
       "source": "So... what'll it be?",
       "source_sha256": "52e1bd1d24b64f2ae100951fedf0d3eeb94e69b5ea4eb0c26f754aafc16c6f96",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nào... bạn dùng gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004057",
       "file_offset": 16471,
       "source": "\nA Halflive who heralds death...",
       "source_sha256": "cd8f778f13a16b716778b18786a32f352d7edb5ff3171bd7afd2234609affb02",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMột Halflive báo trước cái chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Halflive là danh xưng cần giữ nguyên."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004144",
       "file_offset": 16708,
       "source": "\nmother? How sweet!",
       "source_sha256": "4afd4072873d0ef98fe5105e16cc2a68784943a7da534ce8f17282f662e81600",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ sao? Dễ thương quá!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004247",
       "file_offset": 16967,
       "source": "\nyou're up to it? Hoo woo!",
       "source_sha256": "3edc24fd1d1fdb7eaf5486e5746b94550b314bf764a173c0babf919e319a72e7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn kham nổi không? Hú hú!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Hoo woo là tiếng cười/kêu; thống nhất với các bản draft trước."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000430c",
       "file_offset": 17164,
       "source": "Hoo woo!",
       "source_sha256": "af1804581b781561ca35f9a7501d2dc15bed1a815773203c4474db8dc45a68d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hú hú!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@000043c0",
       "file_offset": 17344,
       "source": "Hoo woo!",
       "source_sha256": "af1804581b781561ca35f9a7501d2dc15bed1a815773203c4474db8dc45a68d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hú hú!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004474",
       "file_offset": 17524,
       "source": "Hoo woo!",
       "source_sha256": "af1804581b781561ca35f9a7501d2dc15bed1a815773203c4474db8dc45a68d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hú hú!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004528",
       "file_offset": 17704,
       "source": "Hoo woo!",
       "source_sha256": "af1804581b781561ca35f9a7501d2dc15bed1a815773203c4474db8dc45a68d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hú hú!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000471c",
       "file_offset": 18204,
       "source": "\nGo on, ask me anything!",
       "source_sha256": "88770af37c375434503b50086007c505ae5361a3072410e69325fd80711082d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCứ hỏi tôi bất cứ điều gì!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004818",
       "file_offset": 18456,
       "source": "\nThe ancients built that!",
       "source_sha256": "7c242cc50abdc34b8e4114d4e60faece925bacb366fd8915c3f4fe5ce6c76f69",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNgười xưa đã xây nơi đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000048c8",
       "file_offset": 18632,
       "source": ", it opens.",
       "source_sha256": "a9c0138019861b802005d9297be54a1cc4bed7daefa0a3e43cf4819573a49275",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nó sẽ mở ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004954",
       "file_offset": 18772,
       "source": "\non November 2nd - tonight!",
       "source_sha256": "809a2eacf99115d39b732191c9573bd4fa535dd3f03c4bb09a55c47c5739ec8b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào ngày 2 tháng 11 — chính đêm nay!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Ngày 2 tháng 11 nằm trong source; không tự gán năm hoặc trật tự cốt truyện."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004a67",
       "file_offset": 19047,
       "source": " tips!",
       "source_sha256": "31a7ff8356ea6021eecb1efc4d95fb5da2e2b2dd081d3ac1fbf370a9410df133",
-      "vi": "",
-      "status": "todo",
+      "vi": " mẹo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. tips! là fragment chưa có vế trước, nghĩa chưa chắc là mẹo hay tiền boa."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004b4e",
       "file_offset": 19278,
       "source": " tips!",
       "source_sha256": "31a7ff8356ea6021eecb1efc4d95fb5da2e2b2dd081d3ac1fbf370a9410df133",
-      "vi": "",
-      "status": "todo",
+      "vi": " mẹo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004c36",
       "file_offset": 19510,
       "source": " tips!",
       "source_sha256": "31a7ff8356ea6021eecb1efc4d95fb5da2e2b2dd081d3ac1fbf370a9410df133",
-      "vi": "",
-      "status": "todo",
+      "vi": " mẹo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004d1e",
       "file_offset": 19742,
       "source": " tips!",
       "source_sha256": "31a7ff8356ea6021eecb1efc4d95fb5da2e2b2dd081d3ac1fbf370a9410df133",
-      "vi": "",
-      "status": "todo",
+      "vi": " mẹo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004dd8",
       "file_offset": 19928,
       "source": "\nYou're an angel! ",
       "source_sha256": "041aaf5cef13f35fd6d3380de6990b08126958b4d74a0639e76312d2a08aa6ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đúng là thiên thần! ",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Nguồn có khoảng trắng cuối, giữ nguyên vì có thể tiếp nối câu."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004e6e",
       "file_offset": 20078,
       "source": "\ncome here.",
       "source_sha256": "3c6bb2d23a85bf9b55f3eb0e6242a102e32a4856777ad2509396ca5cc875f51b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004f05",
       "file_offset": 20229,
       "source": " life!",
       "source_sha256": "a35c2856893974d32e1e926904b5ecf8cf3901cbebef61fe0d84d43ff78813b8",
-      "vi": "",
-      "status": "todo",
+      "vi": " cuộc đời!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00004fd2",
       "file_offset": 20434,
       "source": "\nto believe in the legend!",
       "source_sha256": "ba91793db99540f02efd6f0e8669fc5ddd6156d2de699401283011f1e8dc943c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin vào truyền thuyết ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00005053",
       "file_offset": 20563,
       "source": "\nyou!",
       "source_sha256": "40a56a99f1a65ea153851eaa750a33970acd9da279e6554ceb4a2d2664bdeb0f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00005103",
       "file_offset": 20739,
       "source": " You are an angel, my child.",
       "source_sha256": "b0a43b2c12f62aac27c8c92440fb67a720d78e3bc804f0457133edee1e03a2c6",
-      "vi": "",
-      "status": "todo",
+      "vi": " Con đúng là một thiên thần, con yêu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. 'my child' là cách gọi trìu mến, không chắc quan hệ huyết thống."
     },
     {
       "id": "talk/en/tk200_en.bin_@000051c7",
       "file_offset": 20935,
       "source": " You are an angel, my child.",
       "source_sha256": "b0a43b2c12f62aac27c8c92440fb67a720d78e3bc804f0457133edee1e03a2c6",
-      "vi": "",
-      "status": "todo",
+      "vi": " Con đúng là một thiên thần, con yêu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000528b",
       "file_offset": 21131,
       "source": " You are an angel, my child.",
       "source_sha256": "b0a43b2c12f62aac27c8c92440fb67a720d78e3bc804f0457133edee1e03a2c6",
-      "vi": "",
-      "status": "todo",
+      "vi": " Con đúng là một thiên thần, con yêu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000534f",
       "file_offset": 21327,
       "source": " You are an angel, my child.",
       "source_sha256": "b0a43b2c12f62aac27c8c92440fb67a720d78e3bc804f0457133edee1e03a2c6",
-      "vi": "",
-      "status": "todo",
+      "vi": " Con đúng là một thiên thần, con yêu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000056aa",
       "file_offset": 22186,
       "source": "\nv..village!",
       "source_sha256": "e3b6633457920a4b29057a1db808f3d4b4a261cb7df38a4d6e2a4defaac47649",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nl...làng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00005773",
       "file_offset": 22387,
       "source": " And..and you're in luck!",
       "source_sha256": "bff49d9bbdb7475df71b3abbbf4fcdbb9a2d7fb59fa5a965ae8f2bac949ceea8",
-      "vi": "",
-      "status": "todo",
+      "vi": " Và... và bạn gặp may rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00005913",
       "file_offset": 22803,
       "source": "\nlook at the t..top of the table.",
       "source_sha256": "dcb58a8b876a4b765161317a0439660c9a9c3fec349852f0cdba4f121bb74f7d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhìn lên phía tr...trên bàn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Top of the table có thể mặt bàn/đầu bảng, tạm hiểu mặt bàn, cần xác minh."
     },
     {
       "id": "talk/en/tk200_en.bin_@00005e28",
       "file_offset": 24104,
       "source": "\nin brackets when I talk.",
       "source_sha256": "5ad12836317883e99f6f794a2969a1392a36ce85e0f104d08732c28d4e8d7e47",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong ngoặc khi tôi nói.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00005f49",
       "file_offset": 24393,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Bảo toàn ký hiệu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006056",
       "file_offset": 24662,
       "source": "\nto return to the village.",
       "source_sha256": "8e36276b7c820f569c671cc7a48181a315dd2374845a997bc92de2f8b3c4b467",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể trở lại ngôi làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000060ff",
       "file_offset": 24831,
       "source": "\ncannot use it.",
       "source_sha256": "03ac5f924eb3bb3fa16e72a1f2f41116889bc90e87a64da64039f0fd0f931634",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thể dùng nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000061e3",
       "file_offset": 25059,
       "source": "\ndangerous as you go deeper.",
       "source_sha256": "6cfea38e76cb1cbcb7c1b8b0cdc679524d5c00f672e0e1c9e6f1f49f78d07b9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncàng đi sâu càng nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000629f",
       "file_offset": 25247,
       "source": "\nYour injuries will be healed.",
       "source_sha256": "46614db95d255a52856532502dd468db859912a153c92474f109faf0d37bec0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVết thương của bạn sẽ được chữa lành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch của câu nguồn trùng các catalog đã dịch; chưa có parser/speaker xác minh. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000643a",
       "file_offset": 25658,
       "source": " you've absorbed.",
       "source_sha256": "1c472c9ecd7fc3fb32633a95c0299a0872327e16ce4aa334fde58f2732bfddc9",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn đã hấp thụ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000064aa",
       "file_offset": 25770,
       "source": "\nlingo? Someone will explain it.",
       "source_sha256": "539c4579fa984b878632120226675d75ede8c5e072f97c881f6ec6b46beaa87f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthuật ngữ ấy à? Sẽ có người giải thích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. 'lingo?' là câu khuyết ngữ cảnh, không tự thêm tên hệ thống."
     },
     {
       "id": "talk/en/tk200_en.bin_@000065b0",
       "file_offset": 26032,
       "source": " would pop out!",
       "source_sha256": "555ba5c69a97b553e5b2b510212096b356d28cf512eed139c1aabfe7f2b1b20d",
-      "vi": "",
-      "status": "todo",
+      "vi": " sẽ bất ngờ xuất hiện!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006703",
       "file_offset": 26371,
       "source": " out of them!",
       "source_sha256": "02a7f29cd477aecda6e24d63c49bb01db4e5fb8aaef4d5f13e2548a68deaf043",
-      "vi": "",
-      "status": "todo",
+      "vi": " ra khỏi chúng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@000067fe",
       "file_offset": 26622,
       "source": "\nwe Faerys live!",
       "source_sha256": "4ac4691a2eca91b76bd53aa39f07f4ed92f34ea3f60ede8ee2611432a83c344e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi các Faery chúng tôi sinh sống!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Giữ danh xưng Faery thay vì 'tiên' để thống nhất thế giới."
     },
     {
       "id": "talk/en/tk200_en.bin_@0000689a",
       "file_offset": 26778,
       "source": "\nliving. Heed our advice well!",
       "source_sha256": "67ecc7b70b1b2dc5f4b92bedcd0fe3992a92ec23a856ec20c0f6c04db7170d84",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười sống. Hãy nhớ kỹ lời khuyên!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006a0f",
       "file_offset": 27151,
       "source": "\nand they'll heal your wounds.",
       "source_sha256": "0e467c0b54d7f6ee371646714ca2d501396b495bddccf216c38ba911a9fae006",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà chúng sẽ chữa lành vết thương của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006a92",
       "file_offset": 27282,
       "source": "\nthey'll all fly away.",
       "source_sha256": "7f7025d9fc224de0ab07b4c4e39c38a11c0cc68792c94dfd3d4f095fb160f21f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntất cả chúng sẽ bay đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006ba0",
       "file_offset": 27552,
       "source": ", but not now.",
       "source_sha256": "508cd980fba91f1f4719c2f1b3efe2072fda37c4fc1d7c77a1498ce89fa8518c",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nhưng không phải lúc này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006c15",
       "file_offset": 27669,
       "source": "\nvisit the Land of the Dead?",
       "source_sha256": "75b17b6e72213951575b395d90a0efa16f6c4ab8eb5bf98c8b3636e981554ad1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến thăm Vùng đất Người Chết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, dịch theo phần nghĩa có thể xác nhận; speaker và đầu/cuối câu chưa có parser. Mảnh câu khuyết ngữ cảnh, không tự ấn định quan hệ. Land of the Dead có thể là cách gọi khác của Netherworld, cần đối chiếu đối thoại."
     },
     {
       "id": "talk/en/tk200_en.bin_@00006cf8",
