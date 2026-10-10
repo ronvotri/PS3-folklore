@@ -1,0 +1,23 @@
+{
+  "game_id": "BCUS98147",
+  "archive_size": 2498514097,
+  "index_entry_size": 40,
+  "menu_files": [
+    {
+      "name": "lang_en.bi5_",
+      "offset": 2392608514,
+      "size": 122416,
+      "changes": 134,
+      "original_sha256": "ab4beb325462f531e722f0ce3ab0e17132bfdbc8cefab6a4e619e38c2f3ee9f5",
+      "patched_sha256": "6d152d02e4899078f1b0d92066668ee3691d032a221977665452cdeef6e6bd52"
+    },
+    {
+      "name": "lang_uk.bi5_",
+      "offset": 2392730930,
+      "size": 122192,
+      "changes": 132,
+      "original_sha256": "c68dc9c4235a188859857949a74b190fdc07b2ebecc004744bb8e1a74dac18d4",
+      "patched_sha256": "3487324ec838f2cdda437d662d50f390f967660eefce21d0df22558f9b7bc592"
+    }
+  ]
+}

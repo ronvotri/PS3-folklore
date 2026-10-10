@@ -1,0 +1,14 @@
+local-data/
+dist/
+work/
+__pycache__/
+*.pyc
+*.bin_
+*.bi5_
+*.fht_
+*.dds_
+*.iso
+*.edat
+EBOOT.BIN
+menu-patch.json
+*.zip
