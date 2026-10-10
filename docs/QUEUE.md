@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk104_en.bin_.json`: tiếp tục từ `talk/en/tk104_en.bin_@00004f2e` (` / world, at least.`), còn 642 `todo`. Ưu tiên câu về Harriet, kỷ vật, bức ảnh và linh hồn; giữ speaker/cách xưng hô ở mức nháp khi thiếu ngữ cảnh.
+1. `translations/catalogs/talk/tk104_en.bin_.json`: tiếp tục từ `talk/en/tk104_en.bin_@000108dc` (` / dead. Just what's going on here?`), còn 442 `todo`. Rà người nói/quan hệ trong mảnh câu và tên riêng liên quan Cecilia, bác sĩ Lester, Thánh địa.
 2. Các tệp `tk100`, `tk101`, `tk102`, `tk103` đã lần lượt đạt 314/314, 447/447, 494/494, 578/578 `draft`. Ba CMC `LCmc000`, `LCmc002`, `LCmc004` có tổng 46/46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 494/494, tk103 578/578, tk104 89/731 `draft`. Còn 8.902 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 494/494, tk103 578/578, tk104 289/731 `draft`. Còn 8.702 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -221,3 +221,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: đúng 200 `todo→draft` ở hai tệp, chỉ thay vi/status/notes; ID/source/offset/source_sha256/source_review/order giữ nguyên; NFC, số newline, placeholders và tiền tố kỹ thuật đã soát. 0 xung đột source trùng trong các catalog tk100–104. Tất cả talk vẫn `source_review=candidate`, không phải câu đã xác minh trong game.
 - Toàn 158 catalog: **2.984/11.886 mục `draft`**, còn **8.902 `todo`**. Font Merienda V3/game binary không đổi; chưa có parser/repacker talk và chưa test RPCS3. Sau push xác minh CI Windows/Ubuntu validator/unittest.
 - **Tiếp lượt 022:** `talk/en/tk104_en.bin_@00004f2e` (`world, at least.`).
+
+## Lượt 022 — 11/10/2026 (200 ứng viên tk104)
+
+- Dịch 200 mục `todo→draft` trong `translations/catalogs/talk/tk104_en.bin_.json` từ `talk/en/tk104_en.bin_@00004f2e` đến `@000106e8`. `tk104` đạt **289/731 draft**, còn 442 todo.
+- **179 source mới phân biệt** có bản nháp lần đầu, 18 lượt tái dùng bản dịch từ catalog trước và 3 lượt trùng ngay trong batch. Không có source giống nhau mà nhận hai bản `vi` khác nhau trong tk100–104.
+- Nội dung: lá thư đề `31/01/1990` gửi bác sĩ Lester nhắc Cecilia; ký ức, Faery, biến đổi mặt dây chuyền, mộ đá dolmen, lối vào Lõi, nữ tư tế cổ, Thánh địa và cuộc điều tra 17 năm trước. Giữ đúng lời thư trang trọng, cảm xúc lo âu và giọng bí ẩn; không tự thêm quan hệ nhân vật khi thiếu speaker. Các địa danh/vật phẩm `Divine Sanctuary`, `Faery Prayers`, `medallion`, `dolmen` chỉ là lựa chọn thuật ngữ tạm, đã ghi `notes` cần QA.
+- QA trước commit: đúng 200 ID, chỉ `vi/status/notes` thay đổi; English/source_sha256/file_offset/source_review/order và hash danh mục bất biến; Unicode NFC, số newline, placeholder, tiền tố `$`/`(`/`*` được soát. Font Merienda V3 và dữ liệu PS3 không đổi.
+- Tất cả vẫn chỉ `source_review=candidate` và `status=draft`, chưa có parser/repacker thoại hay kiểm thử RPCS3. Độ phủ dữ liệu trích xuất toàn repo: **3.184/11.886 mục draft**, còn **8.702 todo** (không phải tỷ lệ bản patch playable).
+- GitHub Actions sau push kiểm tra unittest và validator Windows/Ubuntu. **Lượt 023:** `talk/en/tk104_en.bin_@000108dc` (`dead. Just what's going on here?`).

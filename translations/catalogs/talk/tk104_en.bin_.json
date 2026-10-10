@@ -901,2000 +901,2000 @@
       "file_offset": 20270,
       "source": "\nworld, at least.",
       "source_sha256": "c0d4fc8d6c908a82e9d92d9dbc4a244b04ce739b980846f16b3425e37df1a1f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthế giới, chí ít là vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004fd9",
       "file_offset": 20441,
       "source": " stopped me.",
       "source_sha256": "eec76c861d524d5f5745472aac869a8caff6141c3565a42baebc00fd69a11b14",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã ngăn tôi lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005048",
       "file_offset": 20552,
       "source": "\nphoto was ripped?",
       "source_sha256": "2af8dab1c2bb573cc8f0a9fc3f5ed4e23855eedff87a15c7e51a8cdee1053d87",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbức ảnh đã bị xé sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005164",
       "file_offset": 20836,
       "source": " who was killed.",
       "source_sha256": "35b6ae5fe55d702258d6d75e8e37e887b0af5b25bc4213a13238869d208272de",
-      "vi": "",
-      "status": "todo",
+      "vi": " người đã bị sát hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000051dc",
       "file_offset": 20956,
       "source": "\nto happen...",
       "source_sha256": "2b0136ba981b41a0bd91072efab9497d4c25c8c98e0f0b9392d1e19052ff598c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000052c0",
       "file_offset": 21184,
       "source": "\ngive up on acting.",
       "source_sha256": "97e8bf51bbb31b13a2d8413570337e0a920a99ef58825cc31fc7712d05a66e6a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ bỏ diễn xuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005354",
       "file_offset": 21332,
       "source": "\ncomfort me.",
       "source_sha256": "046000dcd2b368bc9518b1d793506f3119e05fbdd8a3df863aab3500e182b826",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nan ủi tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000053c4",
       "file_offset": 21444,
       "source": "\nlistened to a fortune teller...",
       "source_sha256": "4b5b26406a892edcd80d981cae5bdd83eafb5670b80a15e7daa40b21fee96264",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã nghe lời thầy bói...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000544a",
       "file_offset": 21578,
       "source": "\nas I'd heard Faerys exist here.",
       "source_sha256": "208a9affa87fbb234a45094960d30e8db0d322929eb844c4366a923911debc99",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì tôi nghe nói ở đây có các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000054f5",
       "file_offset": 21749,
       "source": "\nexists in Doolin...",
       "source_sha256": "6a2b1e460ff80bd429a6e6455864e9ac6f6886d4580b8da9a799d19795cf9c39",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntồn tại ở Doolin...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005594",
       "file_offset": 21908,
       "source": "\nwho holds the key to all this.",
       "source_sha256": "568779b3484c63eb5f7ae2343eeea70fba67561c756bac755898c4bff7d272f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười nắm giữ chìa khóa cho mọi chuyện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005616",
       "file_offset": 22038,
       "source": "\ndead for a long time...",
       "source_sha256": "017ec225e75b3062e272c5c93ad02f80b10bc4d8d0c90e473295c476567b67b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã chết từ lâu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005674",
       "file_offset": 22132,
       "source": "...but she wasn't.",
       "source_sha256": "ed0289b0697c4fcd8839ab553bfa22e3cb0db8ff670023767a5d75119c2b1d69",
-      "vi": "",
-      "status": "todo",
+      "vi": "...nhưng cô ấy thì không.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000056e9",
       "file_offset": 22249,
       "source": "\nProtect her.",
       "source_sha256": "167f29a82ac60afb732bc5d9917332654cc2ea32afdbb676e52d6e90dd24617f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy bảo vệ cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000057bc",
       "file_offset": 22460,
       "source": "Yes, you do.",
       "source_sha256": "645aa65160c59fc0a9bdb6a8e3071ae802d7196fc1ac371c0d74ac7f6667cf75",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có, bạn có mà.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005898",
       "file_offset": 22680,
       "source": "but I need your help...",
       "source_sha256": "b9ecff8fc750806b043fe6e76813a8b20b553a30500cc5ff368889cc28c06bc6",
-      "vi": "",
-      "status": "todo",
+      "vi": "nhưng tôi cần bạn giúp...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005957",
       "file_offset": 22871,
       "source": "$Looks like the door won't open.",
       "source_sha256": "de186e1090b6be8301f68dce93c24c15997a61246e1f5b6a6e62a1464a778f61",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Hình như cửa không mở được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005a33",
       "file_offset": 23091,
       "source": " So how do you like my home?",
       "source_sha256": "c350d1b1956ed2330cb939efcd8349ded22624cc53c6c0a71b9575ef4ac8e14b",
-      "vi": "",
-      "status": "todo",
+      "vi": " Vậy bạn thấy nhà tôi thế nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005ac0",
       "file_offset": 23232,
       "source": "\nyou have here...!",
       "source_sha256": "462150c0f7fce3db9d1011384cbf07989578e03df1fa684cf81e1c8bda3c1c5e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn có ở đây...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005b64",
       "file_offset": 23396,
       "source": "\nlike they own the place...",
       "source_sha256": "46c2217903f645b11721bdf3e89c31ff9adeabd2ee998ec9e9ea37dcc9089016",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thể nơi này là của chúng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005c01",
       "file_offset": 23553,
       "source": "\nto talk?",
       "source_sha256": "40545618300e2999e4a93e0510eefacc3c7e433f29334278c5e69cfd1dd06e2a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói chuyện sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005c8b",
       "file_offset": 23691,
       "source": "\nor anything.",
       "source_sha256": "a07cc6f8ed3286e9b468c67e775158ed3385978b123c6ea9ad1b45aef3b04e5b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhay gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005d8f",
       "file_offset": 23951,
       "source": "$By the by, I have a request.",
       "source_sha256": "dc449a652077da86a12577686839b52705ec5de0d420191d72f6dfda060cabe2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$À, nhân tiện, tôi có chuyện muốn nhờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005e08",
       "file_offset": 24072,
       "source": "Such formality...?",
       "source_sha256": "2f61f85fa3c176839b8237ca08f8997682225b514280028dd53d6c4d8cecdc15",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khách sáo đến vậy sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Such formality có thể là ngạc nhiên trước nghi lễ/trang trọng; cần rà."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005e7a",
       "file_offset": 24186,
       "source": "\nmassive spiritual energy.",
       "source_sha256": "b730156d33326308dcd64ea69cd91035e479c0bb6fffd14f7764777420641ae5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnguồn linh lực khổng lồ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005f53",
       "file_offset": 24403,
       "source": "(And what you're asking me is...?",
       "source_sha256": "d39654d53408e5cbafe920918a6e3dfaeb055dfdf0143a66b820c9ad9627fb6e",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Vậy điều bạn muốn nhờ tôi là...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển. Nguồn có '(' mở đầu, chưa rõ dạng suy nghĩ hay mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@00005fd2",
       "file_offset": 24530,
       "source": "\nwhose memory it is.",
       "source_sha256": "a475987dc667b203957e59f14fda7a07d624dca08c4962f02acd343fbf8b1daa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nký ức ấy thuộc về ai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006047",
       "file_offset": 24647,
       "source": "\nyou can't proceed, I imagine?",
       "source_sha256": "f88b00a737cb46f14682c316ca139e49f458660ca5efcd9adffcb835bff956cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc bạn không thể đi tiếp nhỉ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006201",
       "file_offset": 25089,
       "source": "\nbut why this all of a sudden?",
       "source_sha256": "5e74e9b495717d0800a48b945f4be91ad30eea4d0868c534d53e6185a052545a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng sao đột ngột vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000629f",
       "file_offset": 25247,
       "source": "\nwhat you say at first.",
       "source_sha256": "b454ab9609d1968c615829349464554a9e9cb0bba48233d68671367942e1dfe8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững điều bạn nói lúc đầu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006336",
       "file_offset": 25398,
       "source": "\nlearning more about yourself.",
       "source_sha256": "ccce7a033ef0c79027b9f33f8db487e97d149ae57c1640fc3b99ac861e709f62",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhiểu thêm về chính mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000063ba",
       "file_offset": 25530,
       "source": "\nabout it...",
       "source_sha256": "8e7224135938476204a17ac3a05d7c5c7e3905f4485431563dde31d82f592c63",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề chuyện đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006429",
       "file_offset": 25641,
       "source": "\nwouldn't believe me anyway.",
       "source_sha256": "f6bec3d4da78a2be0f559873413e3408e20febf71c6b04946b6a542a243c3810",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđằng nào cũng chẳng tin tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000649c",
       "file_offset": 25756,
       "source": "\nSee for yourself.",
       "source_sha256": "4424e263583e076aaecaeeeaefc1617c101a710e9562cc3dbe458d6ee3e04732",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTự mình xem đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000065bb",
       "file_offset": 26043,
       "source": "\nwhat's beyond here.",
       "source_sha256": "fbc6e1c6bcbc8c13d5957f9e14a579e0779d0bc46234faeb0a555d8414cc31d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững gì ở phía bên kia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006699",
       "file_offset": 26265,
       "source": "\nI can't go any further!",
       "source_sha256": "ebfa240aa108cac993152994f1cb232a95709d733482f0e7fad6d452151b15a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không thể đi tiếp được nữa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000671d",
       "file_offset": 26397,
       "source": " said...",
       "source_sha256": "fb780b8e16b9d29666179069416248b0030ce7c7958a0c43d57251b47fa04e94",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã nói...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000681b",
       "file_offset": 26651,
       "source": "\nthing? Wait, it isn't me...",
       "source_sha256": "bfccc0fcba4384bf8b2b53539776b95b1c336849224d519e3a6083f4df5b071f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthứ đó sao? Khoan, không phải tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. 'thing?' là phần sau của từ trước đó; cách diễn đạt chỉ tạm."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006896",
       "file_offset": 26774,
       "source": "\n...it's moving through me!",
       "source_sha256": "950a2f5c42012a76a43691340689fcdc8054c530a26877c60eb277a5b0be3856",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n...nó đang đi xuyên qua tôi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006923",
       "file_offset": 26915,
       "source": "\nabout this?",
       "source_sha256": "1c1ab9794ba4cd75df57138ef98402a3afafee1b018181543d99e87c272d5061",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề chuyện này sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000069f4",
       "file_offset": 27124,
       "source": "\npowerful as that.",
       "source_sha256": "ed0a3d8831c38c654f20cb8a90951c2df15c479c401b0b7cee09e4ffd1f3b64e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmạnh đến vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006a67",
       "file_offset": 27239,
       "source": "\nfear that was?",
       "source_sha256": "5451bee41535a446242e12c988d44ca30ef155e3d6ff521d4f2d78bb72bc12d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi sợ đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006bb0",
       "file_offset": 27568,
       "source": "\ngathered at the church.",
       "source_sha256": "9c6f1f46a7c57fdeb621b837f810a8082980aec09862c159c04595624afd710a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntụ tập ở nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006cb4",
       "file_offset": 27828,
       "source": "\ntime. Don't worry about it.",
       "source_sha256": "08dafdd108a9503fc87d45ce401fe160635f30fc8d9168b80899db6e4c469b0f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthời gian. Đừng bận tâm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00006ff0",
       "file_offset": 28656,
       "source": "\nOne with no sender listed.",
       "source_sha256": "b6fe581dbe2707aa2a25689e33960908abf9034b5fabdb4de93f2d7efc25ff9d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMột lá không ghi tên người gửi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000704f",
       "file_offset": 28751,
       "source": "(It was dated January 31st, 1990.",
       "source_sha256": "074908071a11f078df21f44288c859ca417447a0757dbf2f2862858269acbd24",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đề ngày 31 tháng 1 năm 1990.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển. Ngày 31/01/1990 nằm trong lá thư, giữ nguyên chính xác ngày và năm nguồn."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007113",
       "file_offset": 28947,
       "source": " How do you know about it?",
       "source_sha256": "75e3355be9a83bbf7891e256e2425263cb061fc2984c46aaa6ffe609bb35aee8",
-      "vi": "",
-      "status": "todo",
+      "vi": " Sao bạn biết chuyện đó?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007237",
       "file_offset": 29239,
       "source": " I still have the letter.",
       "source_sha256": "9f1c4a70f0f63bf57c57357d2359ccf66605fc4848a193b8f44ee4ffe6943135",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi vẫn giữ lá thư.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007298",
       "file_offset": 29336,
       "source": "This one, isn't it?",
       "source_sha256": "eae7c6fe6b88fd0b5ab83f2d496b9519e64e92ddbda0a54c62d316a2f3d2abb2",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lá này phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007401",
       "file_offset": 29697,
       "source": "\nthat she died.",
       "source_sha256": "f7f6d8abad903383107ebed0076b7b5b3ac6dc5f0635bf892d78986e2f767441",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrằng cô ấy đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007475",
       "file_offset": 29813,
       "source": "\nto anyone.",
       "source_sha256": "c932def0cfc621ab6ee51b10e1ceb2766ec175ce0bd1ae132cf2c858a7ece35a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bất kỳ ai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000074fb",
       "file_offset": 29947,
       "source": "\nhas elapsed now...",
       "source_sha256": "e9e87e02606509434de617beb33d294a9bbe4119a2555fa4709b474c504b7e4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã trôi qua rồi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007554",
       "file_offset": 30036,
       "source": "DEAR DR. LESTER",
       "source_sha256": "eeb0fca3337013dbe098422a85f293a5d47691ba6a6ea87f0d08c1cb5e8d13b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "KÍNH GỬI BÁC SĨ LESTER",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. DEAR DR. LESTER là văn bản lá thư, giữ sắc thái trang trọng."
     },
     {
       "id": "talk/en/tk104_en.bin_@000075c7",
       "file_offset": 30151,
       "source": "\nCECILIA PASSED ON THE OTHER DAY.",
       "source_sha256": "022e50ccfee7422fdb92a0a436bc6fe9685dcccf716e9bb3aca074f669b41d13",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCECILIA ĐÃ QUA ĐỜI HÔM TRƯỚC.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Cecilia được nhắc đã qua đời; không tự khẳng định nguyên nhân."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000762f",
       "file_offset": 30255,
       "source": "$I THANK YOU FOR YOUR SUPPORT.",
       "source_sha256": "0018e0ec040e0698b975bac47063a17d7421578e2a628a4b215beaa84c1bc3f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$XIN CẢM ƠN VÌ ĐÃ GIÚP ĐỠ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển. Câu IN HOA trong thư giữ phong cách nhấn mạnh; dấu $ có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@000076fa",
       "file_offset": 30458,
       "source": "\nall she has to say?",
       "source_sha256": "c08fd57a44479e0824f60a5ffc26757c40d00d704a84f17c75099a43cd8c8d5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđó là tất cả những gì cô ấy muốn nói sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007783",
       "file_offset": 30595,
       "source": "\nHow her hands were shaking...",
       "source_sha256": "2e10fa27235df5d2acaec03e3390a367c518a5d0356fc751a6cfc13ed361aab1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐôi tay cô ấy đã run rẩy biết bao...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007806",
       "file_offset": 30726,
       "source": "\ncouldn't write a full letter.",
       "source_sha256": "91fc47a0c0298eae1503d2c190ca966732530fd1453b096689f046462ee2182f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thể viết trọn một lá thư.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000078b4",
       "file_offset": 30900,
       "source": "\nbe a fake?",
       "source_sha256": "f95977bdfd485bbe4ba5fcd4566b7c8fc7cfee2fd5c5ae7d9b99b779b09f373f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà đồ giả sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00007924",
       "file_offset": 31012,
       "source": "\nknew?",
       "source_sha256": "b8f967997242df3fb52f83a9594b186f1917cc2df8807cc9c64d30ebb90e23d3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã biết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008338",
       "file_offset": 33592,
       "source": "\nher own past.",
       "source_sha256": "f780ca62d7ead4148f5786ce0f009146c54fe10ee9b44b7d540056245b7e8327",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquá khứ của chính cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000083d5",
       "file_offset": 33749,
       "source": "\njust disappear?",
       "source_sha256": "b917c95f358d50fb7f0c85e51499fb829ba8e9c379a30a60ec841ee55d382536",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ thế biến mất sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000084b4",
       "file_offset": 33972,
       "source": "\nown past.",
       "source_sha256": "ea76959a762998a57642c531bb89e0f80ae321e5443c78002d311ad9ca72ee4a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquá khứ của mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008527",
       "file_offset": 34087,
       "source": "\ndisappeared?",
       "source_sha256": "03c2256980dd8cab3d0abe39b6de36ceac8eb14979e620c1aeefd5e4d50a1969",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã biến mất sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000086dd",
       "file_offset": 34525,
       "source": "\nfear. But why there?",
       "source_sha256": "1b0f6ed4325679edb9f56c76727e9cef0cdb7d5d996d1b62b192889d617b3679",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi sợ. Nhưng sao lại ở đó?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000089ee",
       "file_offset": 35310,
       "source": "\nand the Faerys get here.",
       "source_sha256": "c26d54b4c883e8fc268359fafddcc8ed0fdbb24573919717953bae1ebb2196ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà các Faery đến đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008b03",
       "file_offset": 35587,
       "source": " in the village.",
       "source_sha256": "badc81f7edac57b37142242f501de2a2be70407c8df30e8c2498c1df8d16153c",
-      "vi": "",
-      "status": "todo",
+      "vi": " trong làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008b8c",
       "file_offset": 35724,
       "source": " thoughts.",
       "source_sha256": "9d71f933c7e8b60de6cfd5a61feef6bbf21eb57d8e3bab0d86f6b7c7e202d1b4",
-      "vi": "",
-      "status": "todo",
+      "vi": " suy nghĩ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008c23",
       "file_offset": 35875,
       "source": "$Do you know how to open this?",
       "source_sha256": "c2d8cf298c430fac79307a8ff0801bde424d79cb0fa1ae9a17d9235d4981be6b",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn biết cách mở thứ này không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008d1b",
       "file_offset": 36123,
       "source": "\nIn the ruins up above.",
       "source_sha256": "233df6fcf33140d9f12c8d2261e94b300793222069e452c53ada35b9e81f9949",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTrong khu phế tích phía trên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008dbd",
       "file_offset": 36285,
       "source": "\nmedallion has metamorphosed.",
       "source_sha256": "0b2fee22d8756e1aefbb6e03bdb0806e6f1ade4c9b06b2eb23f5b68de859a1d4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmặt dây chuyền đã biến đổi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Metamorphosed nghĩa biến đổi, chưa chắc là cơ chế biến hình của vật phẩm."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008e62",
       "file_offset": 36450,
       "source": "\nto go inside the dolmen this way.",
       "source_sha256": "2c045c46ca1dc5ab0fd14b43ab6f5b31fac00b004bc1db29783f1310aea8fd54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđi vào ngôi mộ đá theo cách này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Dolmen là mộ đá cự thạch; tạm 'mộ đá', nên xét địa danh khi có parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00008f4f",
       "file_offset": 36687,
       "source": "\nOnly the ruins here.",
       "source_sha256": "6bc5e09c294858717e3f65a3fdc0dfe646bc7dedc87d593479ab20b9c4b7fdbc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChỉ có phế tích nơi đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000903e",
       "file_offset": 36926,
       "source": "\ncall our home.",
       "source_sha256": "a2c22d529655109e604b2b72b8f0f018331ab03f3ab81fc474728627faa1ea35",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngọi là nhà của chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000090af",
       "file_offset": 37039,
       "source": "\nit this far.",
       "source_sha256": "41f1e0a5176dde0f455f002f25d8516e71ff53a7c9a682534cae1b6b48a55b5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến tận đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009173",
       "file_offset": 37235,
       "source": "\nWhat power she has...",
       "source_sha256": "fcaffbefbc4ffee0b3f85aea7f8a72c80256f475efe6ae98f1ffd204d6ffa1f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSức mạnh của cô ấy thật...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009209",
       "file_offset": 37385,
       "source": "\npriestesses of the ancients.",
       "source_sha256": "b6be7a52480924cb72aa04e1bf2103f3e96c4e7161e1799ef3be01f342274540",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững nữ tư tế thời cổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Nữ tư tế cổ xưa, chưa suy là ai."
     },
     {
       "id": "talk/en/tk104_en.bin_@000092ab",
       "file_offset": 37547,
       "source": "\nthe entrance to the Core...",
       "source_sha256": "06edc8871fe610acbcab6a563f28a934165f29c98a86e1afba4463aea080e7b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlối vào Lõi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009410",
       "file_offset": 37904,
       "source": "\nthe village.",
       "source_sha256": "07111ef4b651b4750f3e03d6e5e8aff1e290e28937511dbb5d3c440834119901",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009480",
       "file_offset": 38016,
       "source": "\nthat you created, you say?",
       "source_sha256": "b54380ffb42e0e4c79b3e42df38c39ed8d44a215715081b779ec6c74bfdfe3c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmà bạn bảo mình đã tạo ra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Fragment không chứng minh người nghe thật sự đã tạo ra nơi này."
     },
     {
       "id": "talk/en/tk104_en.bin_@000094e0",
       "file_offset": 38112,
       "source": "This is my home...",
       "source_sha256": "e6bc766e9cf0829317bf577e0d36f7242c04e0172573de566945d37792fc5555",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây là nhà tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000963a",
       "file_offset": 38458,
       "source": "\nby the humans who came after us.",
       "source_sha256": "f6ee5fc6d6a4b54419d7a311c81d8da1abe793530a25d6bc8990e4dcb49b2be5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbởi những con người đến sau chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009880",
       "file_offset": 39040,
       "source": "\nlives in their own world,",
       "source_sha256": "f8b4b891b4d9fa41275d2fe703257a533d7cff62e87b164e6221005cc8f9ac40",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsống trong thế giới riêng của họ,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Lives in their own world thiếu chủ ngữ chính, giữ đoạn trung tính."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000991b",
       "file_offset": 39195,
       "source": "\nthey welcomed death.",
       "source_sha256": "bc774aa1298131cfc0dd3be282f051373c855fff61275361ea042ea92335870f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhọ đón nhận cái chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009999",
       "file_offset": 39321,
       "source": "\nwere wiped out by the humans.",
       "source_sha256": "15a9160afc32e647d7dca01e946e31d7db7cab0f0fa4226da572d8a2b77f54e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã bị loài người xóa sổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009c49",
       "file_offset": 40009,
       "source": "\nrepeat the same mistake.",
       "source_sha256": "f7cebe4e33b461cbcc2758b6c23fbc43a98382a3696fbe6030efeb65607079d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlặp lại sai lầm cũ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009d7c",
       "file_offset": 40316,
       "source": " and the real world.",
       "source_sha256": "5616c0171247727796a2362a6ca66c7f859e0bb54c3734e3bc00b542484d3a95",
-      "vi": "",
-      "status": "todo",
+      "vi": " và thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009e21",
       "file_offset": 40481,
       "source": "\nby the real world.",
       "source_sha256": "1746932d267ca176e12c203add206b3fd5632c147c6b4b4b18b50611c874c207",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbởi thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009eb3",
       "file_offset": 40627,
       "source": "\nworld to a minimum.",
       "source_sha256": "2ac0cd80f9db64eba90db3931ef7be200414a99a4dc023a6ff9ad0b8374d023b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthế giới xuống mức thấp nhất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. World to a minimum thiếu hành động trước, giữ ý giảm thiểu."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009f4c",
       "file_offset": 40780,
       "source": "\nfearing death.",
       "source_sha256": "3f1dde0e8b49b62c6fc919d00769b1589dcfebc5b3a96d086fdd379bf1d64723",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsợ hãi cái chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00009fd5",
       "file_offset": 40917,
       "source": "\nconquer their own weakness.",
       "source_sha256": "99b8c22b9f91dbfbc6949793ef43c95c158b034fd20de3a7f58a72e5ea87dd3e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhắc phục điểm yếu của chính mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a071",
       "file_offset": 41073,
       "source": "\ntheir reason and compassion.",
       "source_sha256": "941ec146f3c1d7ee88c5981ff535b4b9fe4062c322860a3d4161bd6daf400626",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlý trí và lòng trắc ẩn của họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a0f5",
       "file_offset": 41205,
       "source": "\nare close...",
       "source_sha256": "33ffd77c2e6d1b066b24d09939d6a4df156acca54f3daf55374764b84decdff8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang đến gần...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a177",
       "file_offset": 41335,
       "source": "\nwith benevolence is at hand.",
       "source_sha256": "ee804bd526fca2e6f9b7f1198593a6f7f2ffa508375120135f96e7921e2b710c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới lòng nhân ái đã cận kề.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Benevolence có thể thiện chí/lòng nhân ái, bản nháp chờ ngữ cảnh."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a1f7",
       "file_offset": 41463,
       "source": "\nbring that about?",
       "source_sha256": "7ad72a8aeaf20c4c8a058fdf89c30de5088a130df34d7d9417aae0ed4ea2e900",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhiến điều đó xảy ra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a26e",
       "file_offset": 41582,
       "source": "\nBut I do not blame them.",
       "source_sha256": "d5854d6972e9bf30c0f179fb29e1637fcab35c031adfe41e700229a1b6a289ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng tôi không trách họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a376",
       "file_offset": 41846,
       "source": " request?",
       "source_sha256": "da63a6b22eb04a44848d9f42745ee1a17eae66e0d4291a48378d8564cdbff1b7",
-      "vi": "",
-      "status": "todo",
+      "vi": " lời thỉnh cầu sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a427",
       "file_offset": 42023,
       "source": "$I can't seem to go any further.",
       "source_sha256": "eb4777104ee4615c4e525acb237a0e08910aa12db4c2bcd1f77ddf56a6a2ef48",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có vẻ tôi không thể đi xa hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a504",
       "file_offset": 42244,
       "source": "Back here again, eh?",
       "source_sha256": "334e38e3f2518b31451086bd267ce6e3a0b57421afd400e7d63afb096a6bf1c7",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lại quay về đây sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a650",
       "file_offset": 42576,
       "source": " might be there...",
       "source_sha256": "901356500f1544f436b18452f183a518288023c5c21d8156df28d0fdb4634b57",
-      "vi": "",
-      "status": "todo",
+      "vi": " có thể ở đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a7ad",
       "file_offset": 42925,
       "source": "\nsomeone has been hiding there.",
       "source_sha256": "cdb61743e45b5c4605b0bb799689caf5139b16f78aad23ab65eddd6331b2af48",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó người đang lẩn trốn ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a8b1",
       "file_offset": 43185,
       "source": "\nchurch, just in case.",
       "source_sha256": "2ad144cd478dac498bdbefdea032328cfe0da7ee0935e66dbba5778de9e7d873",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhà thờ, để đề phòng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000a98a",
       "file_offset": 43402,
       "source": "\ntaken away. Why stay here?",
       "source_sha256": "0f3831eb07a46706cda41888be27fa78cba732ddff3eeca0d37383105e70ea53",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã bị mang đi. Sao còn ở đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000aa82",
       "file_offset": 43650,
       "source": ", too.",
       "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ac0a",
       "file_offset": 44042,
       "source": " is our home base.",
       "source_sha256": "fe0c4e8e0866a71de28718a9b8184359adff4ad74ed7f5ad3aaacf399fe8b9f8",
-      "vi": "",
-      "status": "todo",
+      "vi": " là căn cứ của chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. 'home base' có thể là trụ sở hoặc nơi trú ẩn; chưa xác minh."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ac91",
       "file_offset": 44177,
       "source": "\nof this place must be protected.",
       "source_sha256": "6c49724627309c2c3103e8a689eaa8bfcf171a4c2153169545db5ac293560358",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa nơi này phải được bảo vệ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ada3",
       "file_offset": 44451,
       "source": "\nplace forever...",
       "source_sha256": "c7e7fc244b830fdbabbd93aac70161bf422b21e516521afb729cbb2aa3a8e4d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi này mãi mãi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000aeb3",
       "file_offset": 44723,
       "source": "\ngo any further.",
       "source_sha256": "58e2608a8d7663770db1bf4e535db1934444ce4e36451c1d26abe815b938805f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđi xa hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000af5d",
       "file_offset": 44893,
       "source": " will disappear.",
       "source_sha256": "6eb56378bcf889563d462b891e2d73ffe7df128777b7e8e1653ae54bf3fed52c",
-      "vi": "",
-      "status": "todo",
+      "vi": " sẽ biến mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b017",
       "file_offset": 45079,
       "source": "$So it looks like it's gone now.",
       "source_sha256": "e441588c51a3619a657550af6228f7fba8f173ebee1e6e15658049a84c98f3d5",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có vẻ giờ nó đã biến mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b147",
       "file_offset": 45383,
       "source": "\nafraid to go beyond here.",
       "source_sha256": "cc8e5942b25f9fb6dc2604b742f4ab09b7a87be3aed63073d3aa3325f23f9c08",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsợ đi quá nơi này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b3d2",
       "file_offset": 46034,
       "source": "\nthe stone pedestal.",
       "source_sha256": "77e6f69f7d53d3f6553fc8088619d261bfacc69bdbc1394d97c5e3237e75bfde",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbệ đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Stone pedestal là bệ đá, không tự gắn vị trí."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b58d",
       "file_offset": 46477,
       "source": "\nFaerys get here.",
       "source_sha256": "0109d386222ecd4a1ea76433b4d795308d93b3d678b017a6ec69334473e3a76b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncác Faery đến đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b768",
       "file_offset": 46952,
       "source": "\nshall excuse myself.",
       "source_sha256": "698e2a988ba92fa3b26e195dcb88aad8e3e68457cd4f25932fd22d4955773307",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxin phép cáo lui.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b846",
       "file_offset": 47174,
       "source": "\nhappen? Something so barbaric.",
       "source_sha256": "f7744463e49133eaf2f066c56ea141c31b6ee38a6982f8c6e1fa061c33359a6b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxảy ra sao? Chuyện thật man rợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b92e",
       "file_offset": 47406,
       "source": "\ndeath, they no longer feared it.",
       "source_sha256": "783df38e19f7f2fa546c72d353a4981ad58ecfe5b91a22e7081460c7781069f5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncái chết, họ không còn sợ nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000b9ac",
       "file_offset": 47532,
       "source": "\non and on.",
       "source_sha256": "55410b0c612d4135d712878aa3d62458eecb9ac040b82eb6f18b060489530899",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmãi không dứt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ba9b",
       "file_offset": 47771,
       "source": "\nreal world...",
       "source_sha256": "b7e5fd23a3f500affa00b0b360c45c6560c3e1180b8898989032437e24ae5e11",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthế giới thực...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000bb69",
       "file_offset": 47977,
       "source": "\nthings here...",
       "source_sha256": "44e64f117527bbedc5be4b0d044d5705b28f26a217eb6fa530672c4977fece22",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững chuyện ở đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000bbfc",
       "file_offset": 48124,
       "source": "\nengage in slaughter.",
       "source_sha256": "0238e02abb9f30a098c35b9063a7fd27aa15eefeadc97860aa131e138d79dd1b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntham gia cuộc tàn sát.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000bceb",
       "file_offset": 48363,
       "source": "\nlet her fall into their hands.",
       "source_sha256": "a51f553af36c22817f5b0f07d859418609d4ce2347eb6bffb4abe57b30f601f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể cô ấy rơi vào tay chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000bdd1",
       "file_offset": 48593,
       "source": "\nhide her in the sanctuary.",
       "source_sha256": "97eaad9a05a1d220f70a32127ffeabcbca3fc38af5a66e7a5034492819687eb3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiấu cô ấy trong thánh địa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Sanctuary được dịch 'thánh địa' tạm; phải so với Divine Sanctuary và bảng địa danh."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000bf2f",
       "file_offset": 48943,
       "source": "$You must change the real world.",
       "source_sha256": "6097c3e439f8866421fae5de4063a71886929aaa5dcde3148d6586fddef13b1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn phải thay đổi thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c025",
       "file_offset": 49189,
       "source": "\nPlease show her the photo.",
       "source_sha256": "3b0b64be43f3d4d4451fab87edd6b6f5eaf1fe86fa773edf6757e11c77cc32e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy cho cô ấy xem bức ảnh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c088",
       "file_offset": 49288,
       "source": "...I understand.",
       "source_sha256": "a3c327993f22f12ffe67c9ee498cdcdf8adb3a9228c4b9608e3310b51ae3a15d",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Tôi hiểu rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c201",
       "file_offset": 49665,
       "source": "\nyou bring is so wonderful,",
       "source_sha256": "bd3e5b607f76b3e9f2ac640b13b913f5daa5628d1fb142c8e69e0bd6ce2b5060",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn mang đến thật kỳ diệu,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c27f",
       "file_offset": 49791,
       "source": "\nloss of my husband.",
       "source_sha256": "9731c62aad74b8fdff716cd77a366bfa936bc54fc825e37e364b5269397b9d53",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi đau mất chồng của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Mảnh nhắc người mất chồng, người nói và quan hệ chưa xác minh."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c392",
       "file_offset": 50066,
       "source": "\ncredence to what she says.",
       "source_sha256": "c8f3f5f0d8109cbf994fb96455ca123c4a6302a6da7b0d607df737a31ed953e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin lời cô ấy nói.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c48b",
       "file_offset": 50315,
       "source": "\nwho was in the village,",
       "source_sha256": "27f8f48ce480dd9ae7f4834bec82ea3d6b18f58c10f702bf1138448d44feb214",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười từng ở trong làng,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c6bf",
       "file_offset": 50879,
       "source": "\nwho was in the village,",
       "source_sha256": "27f8f48ce480dd9ae7f4834bec82ea3d6b18f58c10f702bf1138448d44feb214",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười từng ở trong làng,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c7a0",
       "file_offset": 51104,
       "source": "That's right.",
       "source_sha256": "644e298d89f966a7dfe74254b405f2a711c668fbd45fcfdaf0939bca56f25a11",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000c91a",
       "file_offset": 51482,
       "source": "\nBut... why?",
       "source_sha256": "6f6f83485dfcec8f2c7f50ac82e3908a489374626433f262eccd2d1e0273a3e1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng... tại sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ca0c",
       "file_offset": 51724,
       "source": "\nblank 17 years?",
       "source_sha256": "06bc6ac61a2b1cf2ac152880b35d77179bd66f54dfdda30f905180d5dd143ca4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrống rỗng suốt 17 năm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Blank 17 years có thể là khoảng ký ức trống 17 năm, không khẳng định tình tiết."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000caf7",
       "file_offset": 51959,
       "source": "\npoint in all this...",
       "source_sha256": "ac7533b7ddda04d9505100aacbc983537c0208740f2b52d64b69966468e23b6e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiểm mấu chốt của tất cả...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000cc0a",
       "file_offset": 52234,
       "source": "\nThat's what I'm worried about.",
       "source_sha256": "9fe63a6e92fadb8fb6bec24b808c58725bb1a83656dd9046e0cfe54b53066076",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐó chính là điều tôi lo.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000cd0f",
       "file_offset": 52495,
       "source": "\nsurprise when she gets back...",
       "source_sha256": "e25d29459da3d3b8c3971d845d49aad56e58fd0867ebf808aaaae5b5c3071313",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbất ngờ khi cô ấy trở về...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ce20",
       "file_offset": 52768,
       "source": " from 17 years ago!?!",
       "source_sha256": "a9960d6ef6a9fa4b6aa687aadf05642ec90747b0eb347ba5fb143ad4ae21f817",
-      "vi": "",
-      "status": "todo",
+      "vi": " từ 17 năm trước sao!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000cf25",
       "file_offset": 53029,
       "source": "\nanything about it?",
       "source_sha256": "89f4a157836d5156d3f03ef48ad00c23cc05f11d8bf060b1813542ea804a1665",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiết gì về chuyện đó không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d01f",
       "file_offset": 53279,
       "source": "... What happened?",
       "source_sha256": "9ddfcb5d93491589ae6c0ba9a0ab6ddb5f8c48b40a574edee5502a3b3442b5d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "... Đã xảy ra chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d1fc",
       "file_offset": 53756,
       "source": "Why...?",
       "source_sha256": "41573511eea4a80396edea006b0a404c9578c304851ebc16fc83889068d8811c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tại sao chứ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d279",
       "file_offset": 53881,
       "source": "\nProbably by the same person.",
       "source_sha256": "cfcbba22eed221c2e8cabc8f88218a87885cdf3e966c9276579679fef6e61b95",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCó lẽ do cùng một người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d2f9",
       "file_offset": 54009,
       "source": "\nbecause you weren't here.",
       "source_sha256": "382fcdc85094d03429729db417d40f276dff4b1044fd22d64199e027c7526cee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì bạn không có ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d3fb",
       "file_offset": 54267,
       "source": "\neveryone what they really think.",
       "source_sha256": "6feede0c2e8101fdcd57e940b1996ebed1a5c68b6d46c9f4f6890d352ed1252e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho mọi người biết họ thực sự nghĩ gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d464",
       "file_offset": 54372,
       "source": "I'll do the same.",
       "source_sha256": "a36e26913de676302822c86a5c30030c54068b9dcde93ac12ec60cdb75a88225",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi cũng sẽ làm vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d565",
       "file_offset": 54629,
       "source": " to do something.",
       "source_sha256": "c79941ce8f59c680767ffae3cbc7bb5a340f34f35f731842405b9b64726e8ba2",
-      "vi": "",
-      "status": "todo",
+      "vi": " làm điều gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d5db",
       "file_offset": 54747,
       "source": "\nin this village for so long?",
       "source_sha256": "f445af4880e5ea3dffff1656694cbbd0d5015fe703847d4ddfdc071fabb2ad76",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở làng này lâu đến vậy sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d673",
       "file_offset": 54899,
       "source": "\nMust be a woman.",
       "source_sha256": "918d8b73fa17a46cc15d010fdc6a2a48c3488be97d0458166085971a838640d6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChắc là một phụ nữ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d76a",
       "file_offset": 55146,
       "source": "\neveryone thinks she's a murderer.",
       "source_sha256": "0a0dd9d08ed2bc68af7192832c82badcb04ca94c516c5f8800e35669079e1c08",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nai cũng nghĩ cô ấy là kẻ giết người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d7f0",
       "file_offset": 55280,
       "source": "\nthe village seems to be a woman!",
       "source_sha256": "39d032eb8865216ab58e6df785470ec6250a5887e261311bae43d5967a0f3b2d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười trong làng ấy có vẻ là phụ nữ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. 'village seems to be a woman' bị mất chủ ngữ, không tự gán ai."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d898",
       "file_offset": 55448,
       "source": "\nmissing in the village?",
       "source_sha256": "64e1b4d86062c5565ea36d176b3004f67d6b1d722ec39cb0973029bd0f1e60b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiến mất trong làng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000d916",
       "file_offset": 55574,
       "source": "\npurpose of scientific studies?",
       "source_sha256": "faec05b17daf861ba2eadba89272be96e155ba59390a78f77b1102a0c82d58dd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì mục đích nghiên cứu khoa học sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000dab2",
       "file_offset": 55986,
       "source": "\na scholar?",
       "source_sha256": "034a56ba10fcd5076cb5bc6933fc972462330fdac321b21a74ede173a542f215",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột học giả sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000db24",
       "file_offset": 56100,
       "source": "\nfor someone who went missing.",
       "source_sha256": "6c3029820e9c842a205b66851392a661391f95b272c4263086481326ed27383c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể tìm người đã mất tích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000dc2d",
       "file_offset": 56365,
       "source": " after...",
       "source_sha256": "6367d1b4ecf1409ececd9b24ea09602ef579211bc5132dd3b8f8b67454e64b0c",
-      "vi": "",
-      "status": "todo",
+      "vi": " sau...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000dc97",
       "file_offset": 56471,
       "source": "\nshe be in hiding?",
       "source_sha256": "fb2c33205450da77fc06b6b7151afe2c65a660f741938bedec0fdae4801ba72c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy đang lẩn trốn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000dd32",
       "file_offset": 56626,
       "source": "\nshe be here?",
       "source_sha256": "6a1e0e36d1b0b4f4519d5226e8c59d7a9fc502a8814a57a8fbfebd09d775b072",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy ở đây sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000dd95",
       "file_offset": 56725,
       "source": "\nOr... for something else?",
       "source_sha256": "efec0ae84fe3517bc881cf1e213063352b3de16d384fe199ee79806654d8d5d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHay... vì chuyện gì khác?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000de1c",
       "file_offset": 56860,
       "source": "\nbe one of the villagers?",
       "source_sha256": "cdd09387a1a615208085c71ffab6b030b7be203ab5cb66837e48dc0c7856e7c5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà một người dân trong làng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000df17",
       "file_offset": 57111,
       "source": " to hide.",
       "source_sha256": "017c599c332d7f1cba44db416f0eeec06cb7170e8efcdeb7ce2c0673029fa5f9",
-      "vi": "",
-      "status": "todo",
+      "vi": " để trốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e07b",
       "file_offset": 57467,
       "source": "(They say they've found a way in.",
       "source_sha256": "7b4a9067fa5f27e09d8e162ea749a3194eae3b06f74c7fbb445b91ee66b21ffc",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Nghe nói họ đã tìm được lối vào.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển. Dấu '(' có thể là suy nghĩ nội tâm hoặc marker; giữ nguyên."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e1c8",
       "file_offset": 57800,
       "source": "\nis looking for.",
       "source_sha256": "8b33e4f0142bdd3f2436caa66b8170cb9e002df6c39b8fc191f6a9bbfbf4d093",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang tìm kiếm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e2c0",
       "file_offset": 58048,
       "source": ", too?",
       "source_sha256": "65a6186668ab19b06a5c57b10e179e0500bbc459ccb23aa61fb8b1fee26dc8f5",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e30c",
       "file_offset": 58124,
       "source": "Maybe I have...",
       "source_sha256": "6c6b78201eb3900218fcdc662f493a2008a0d37fe6bed2680a1b4ef84f85c6b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có lẽ tôi đã...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e488",
       "file_offset": 58504,
       "source": "\nshe knows...",
       "source_sha256": "9c48f00e6dc6f1d3ff3288e37b037ffac6b052d63dd5703604841b9daed85947",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy biết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e4db",
       "file_offset": 58587,
       "source": "(She is the only one who can know!",
       "source_sha256": "dd1a871043cdff10756a4ace858aeba397db6ffb00c359c5960bd5353024ccd6",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Chỉ mình cô ấy mới có thể biết!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển. Nguồn '(' ở đầu, câu cảm thán cần xác minh người nói."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e55b",
       "file_offset": 58715,
       "source": "\nher about it.",
       "source_sha256": "25544d7510bbe06eac6e3d67f3bf38dc53ebc545558679492f1f049713c18b20",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho cô ấy biết chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e7aa",
       "file_offset": 59306,
       "source": "\nWhy were you killed?",
       "source_sha256": "f94d8004985dc4a3d6c4b0f0ca101c6f7011cfecccd3a72abe7e5355346d0484",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSao bạn lại bị sát hại?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Nguồn 'you were killed' nói với người đã khuất; không tự gán nhân vật hoặc quan hệ."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e819",
       "file_offset": 59417,
       "source": "\nsuch a delicate person...",
       "source_sha256": "5865784ab6d29785e4f04dba2defe7a111eb69c910d0e50ad51647cdcfb950bf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người mong manh như thế...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e878",
       "file_offset": 59512,
       "source": "Yeah, that's right.",
       "source_sha256": "4aeb440d5733bf208244d073edff50f7ab3c049446d00738f2aec4611ebc84a5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừ, đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e90e",
       "file_offset": 59662,
       "source": "\nthe other day.",
       "source_sha256": "9fa5dc8eaf7c5b250d2929cbb05c918940d1cda05a77a80577e09e2664291fc0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmới hôm nọ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000e993",
       "file_offset": 59795,
       "source": "\nthe lighthouse keeper's grave.",
       "source_sha256": "11f7f2ff0af127051383ddb6cac7fd81e301c2ac4678a032ff6bda2a04c528c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmộ người gác hải đăng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000eac2",
       "file_offset": 60098,
       "source": "\nhad never occurred.",
       "source_sha256": "e1a682bfe97279f9db2456dcd627fb1a4fe06e25e01d9771a023cb6469a1ffe5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchưa bao giờ xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ebad",
       "file_offset": 60333,
       "source": "? Isn't it dangerous?",
       "source_sha256": "5619cb6fca8a0832dc2a1df7002209342004af137fa91a08f0fee521775ad330",
-      "vi": "",
-      "status": "todo",
+      "vi": "? Không nguy hiểm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ec99",
       "file_offset": 60569,
       "source": "? Isn't it dangerous?",
       "source_sha256": "5619cb6fca8a0832dc2a1df7002209342004af137fa91a08f0fee521775ad330",
-      "vi": "",
-      "status": "todo",
+      "vi": "? Không nguy hiểm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ee80",
       "file_offset": 61056,
       "source": "\nlike talking to you anymore.",
       "source_sha256": "70dda76054a6bf8c54aaae2e4ed147ab67194bcb102dc1dfb2f63702294651cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn nói chuyện với bạn nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f144",
       "file_offset": 61764,
       "source": "\nenter the Divine Sanctuary, given",
       "source_sha256": "ca126bdab288bef29adc9834b8b028f31f3643431b2305bd845d362a6f2fd432",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào Thánh địa, xét đến",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Divine Sanctuary tạm gọi Thánh địa, chưa xác minh tên riêng trong game."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f1cb",
       "file_offset": 61899,
       "source": "\nof the ancient tribes.",
       "source_sha256": "649c521493accf6fffa0d7d43566e21301f3f0de069983c2867f00a98b112fe0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa những bộ tộc cổ xưa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f2e5",
       "file_offset": 62181,
       "source": " had.",
       "source_sha256": "7f4689ba11a164189ca745f3688aba2be963277add3a6b3788c4cf75809c00e5",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã có.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f4eb",
       "file_offset": 62699,
       "source": "\nIt's just like in the legends.",
       "source_sha256": "d9ea011fe7513f45aaf5e8a5c319fa10984ec580fb8c2548a4e5a66669e71d07",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nGiống hệt trong truyền thuyết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f56a",
       "file_offset": 62826,
       "source": "\ninto the Divine Sanctuary?",
       "source_sha256": "c875dc355caae812d30ed9d699184fcbd5276f4cc2d1ee505ec756a39f75f55d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào Thánh địa sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Divine Sanctuary tạm Thánh địa, cần đối chiếu cùng các lần xuất hiện."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f5e9",
       "file_offset": 62953,
       "source": "\non its metallic surface.",
       "source_sha256": "09a4daf18fa50305a7e597d0fdc727a16fc64f7fd85cc0302fe2d3e97ba6bc11",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrên bề mặt kim loại của nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Metallic surface là bề mặt kim loại, chưa xác định vật phẩm."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f687",
       "file_offset": 63111,
       "source": "\nlook more closely into it.",
       "source_sha256": "c8812a3425ffb49fe4ab42810ed128a6c4bac5324a3a93d8c6807a1e9de7d545",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm hiểu kỹ hơn về nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f723",
       "file_offset": 63267,
       "source": "\nthan we had imagined.",
       "source_sha256": "434eb35f426a8239ebc976ebc515ba86ecb1f7a8c5a1993e21403550d9e61874",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn chúng ta từng hình dung.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000f8a5",
       "file_offset": 63653,
       "source": ", too. She's coming.",
       "source_sha256": "629dec8005e016dbf8f43e84bc91e1142c35cb6b34f423cdb790b96081ace569",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa. Cô ấy đang đến.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000fa19",
       "file_offset": 64025,
       "source": "\npraying so fervently.",
       "source_sha256": "c8a38d1b10aca43bd4f2a2af9c76730d74982034516f287a33989531033a4ec4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncầu nguyện tha thiết đến vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000fb07",
       "file_offset": 64263,
       "source": "$They found her before dawn...",
       "source_sha256": "22f5423cff436bf110dd4b825f797406b891741ac58fff490537867aa23bc35e",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Họ tìm thấy cô ấy trước bình minh...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Bảo toàn dấu đầu có thể là mã điều khiển. Trước bình minh là thông tin thời điểm trong câu, giữ nguyên."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000fb9f",
       "file_offset": 64415,
       "source": "\nterror on her face...",
       "source_sha256": "da4da51e2f9967a50e33cd628b13593ed4610ef458aa1819d2ea1542d9ac4a5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi kinh hoàng trên gương mặt cô ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000fc1c",
       "file_offset": 64540,
       "source": "\nthing I still don't understand.",
       "source_sha256": "b07290a4f7f8aa6b2f45bc545bb2a30831f09efc1deae0bf55b7f24ab362bdf8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều tôi vẫn chưa hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000fd2e",
       "file_offset": 64814,
       "source": "\nsmile and her memory.",
       "source_sha256": "fffd391ab2a6c5c1ee28385a3c73d08f6b62f9ba84e0ea66ad12447be4e616c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnụ cười và ký ức của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ff2c",
       "file_offset": 65324,
       "source": " has been killed...",
       "source_sha256": "84ab4fdffaa5dfff30ec4d79334fc6deb406884d2aacbb3a4cd8c3baa976beee",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã bị sát hại...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000ff9e",
       "file_offset": 65438,
       "source": "\ndidn't deserve that.",
       "source_sha256": "8fdd6ff517b99483fa9ad4d4943613cf00aafe72ae1235b984deee0eda1845ce",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông đáng chịu chuyện ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00010015",
       "file_offset": 65557,
       "source": "\nThe old ones are all dead.",
       "source_sha256": "38c1adbb77edf423610c14e0138c38db635fff580a0a62c85adaa8635af57f2b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhững người xưa đều đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00010098",
       "file_offset": 65688,
       "source": "\nWell... nothing SHOULD happen...",
       "source_sha256": "845ddded335b042e132e3e436d106bf11a3d7a802d30d407a1ad71cf1e730797",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nỪm... đáng lẽ KHÔNG có chuyện gì...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Chữ SHOULD được nhấn mạnh, tạm thể hiện bằng KHÔNG ở tiếng Việt; chờ chỉnh nguyên cảnh."
     },
     {
       "id": "talk/en/tk104_en.bin_@000101bb",
       "file_offset": 65979,
       "source": " out.",
       "source_sha256": "4af614161d07ce80c0cf5c95ee38a4eb00bfae37383723be66bdce0b829ea647",
-      "vi": "",
-      "status": "todo",
+      "vi": " ra ngoài.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@00010229",
       "file_offset": 66089,
       "source": "\nworking to help solve this.",
       "source_sha256": "251ec3c6328edba7dccf25e1e71fce3c62899b310dc968cbd685a47b664498a7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang cố giúp giải quyết chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000103b2",
       "file_offset": 66482,
       "source": "\nasked for the Faery Prayers.",
       "source_sha256": "c4f63e5b3555819639ccbfd87c2f57b4cccbc8f7fd187f27b40d01a2333aad33",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xin những Lời Cầu Nguyện Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô. Faery Prayers có thể là tên vật phẩm hoặc nghi thức; giữ cách viết hoa tạm."
     },
     {
       "id": "talk/en/tk104_en.bin_@0001044c",
       "file_offset": 66636,
       "source": " is still there.",
       "source_sha256": "00b5b688004cd2a9c0ecd888d9ea96ce58463984c9d3ba3333b2d719c47f0920",
-      "vi": "",
-      "status": "todo",
+      "vi": " vẫn còn ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000104bf",
       "file_offset": 66751,
       "source": "\nevents that occurred there.",
       "source_sha256": "fe70bb9071826b1192bab2c721c95e0d9e6bd0966c568fccbe2d980f03d30d76",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững chuyện đã xảy ra ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000105c7",
       "file_offset": 67015,
       "source": "\nevents that occurred there.",
       "source_sha256": "fe70bb9071826b1192bab2c721c95e0d9e6bd0966c568fccbe2d980f03d30d76",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững chuyện đã xảy ra ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng bản nháp đã có, giữ đúng bản dịch thống nhất; chưa xác minh người nói. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000106e8",
       "file_offset": 67304,
       "source": "\nthe day.",
       "source_sha256": "4bed8f377e9fbfe7a68ef0a5cc0df619e0cb47cdd3d7adf3e68bc259d551906b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngày hôm đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ candidate ASCII NUL; chưa biết đầy đủ người nói và ranh giới thông điệp. Mảnh câu chưa có đủ ngữ cảnh để chốt xưng hô."
     },
     {
       "id": "talk/en/tk104_en.bin_@000108dc",

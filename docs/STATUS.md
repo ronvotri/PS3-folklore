@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft`, 578/578 mục tk103 `draft` và 89/731 mục tk104 `draft`. Còn 8.902 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 1.922 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 578 tk103, 89 tk104). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft`, 578/578 mục tk103 `draft` và 289/731 mục tk104 `draft`. Còn 8.702 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 2.122 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 578 tk103, 289 tk104). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -192,3 +192,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nội dung tk104: nhà Harriet, cổ vật đồng thau, kỷ vật, người phụ nữ, bức ảnh và Faery. Giữ ngôi xưng trung tính tại câu thiếu speaker, đánh dấu notes cho `year to live`, `bare to watch`, `Anachronisms`, `acting`. Các source trùng đồng nhất vi trong tk100–104.
 - Kiểm tra bất biến ID/hash/source/offset/source_review và thứ tự, NFC/newline/control marker/placeholder. Chỉ sửa `vi/status/notes`; chưa đóng gói game hay thử RPCS3, font Merienda V3 giữ nguyên. CI Windows/Ubuntu chạy validator và unittest sau push.
 - Checkpoint tiếp theo: `talk/en/tk104_en.bin_@00004f2e`.
+
+## Lượt 022 — 11/10/2026 (200 ứng viên tk104)
+
+- `tk104` tăng 89→289 draft trên 731 ứng viên (còn 442 todo); toàn bộ 158 catalog có **3.184 draft** và **8.702 todo**. Trong lượt 200 mục: 18 bản nháp kế thừa source trùng trước đó, 3 lần lặp trong batch, 179 nguồn mới khác nhau.
+- Nội dung: thư gửi bác sĩ Lester nhắc Cecilia, ký ức và chuyện chết chóc 17 năm trước, Faery, Thánh địa, nữ tư tế cổ và cổ vật. Các từ chuyên biệt chưa đủ chứng cứ hoặc fragment thiếu người nói đều có notes; không áp đặt đại từ, giữ giọng phù hợp bí ẩn/truyền thuyết.
+- QA chỉ sửa vi/status/notes; ID/source/source_sha256/file_offset/source_review bất biến; NFC/newline/placeholder/tiền tố và bản dịch source trùng không mâu thuẫn. Vẫn là candidate/draft, chưa đóng gói/hỗ trợ parser/repacker talk/cmc hay thử RPCS3. Giữ nguyên font V3.
+- Lượt 023 bắt đầu `talk/en/tk104_en.bin_@000108dc`. Sau commit CI Windows/Ubuntu chạy validator và unittest.
