@@ -241,3 +241,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nội dung: điều tra ở nhà thờ, dân làng/nhà nghiên cứu, người sống và người chết, gia đình, quán rượu, Gam/Gee, Sứ giả, hướng dẫn Faery và Folk. Giữ nguyên tên riêng đã thống nhất, không tự gán speaker/quan hệ.
 - QA đúng vùng 100 ID, chỉ thay vi/status/notes; giữ source/ID/SHA/offset/source_review/order, NFC, newline, dấu đầu, placeholder và nguồn trùng đồng nhất. Những mảnh lược chủ ngữ và ngôi xưng nghi vấn đã ghi notes. Tất cả vẫn candidate/draft, không có parser/repacker hay test RPCS3; font Merienda V3, ROM/binary không đổi.
 - **Tiếp:** `talk/en/tk201_en.bin_@0000ed26` (`Many different tricks to try!`) và phần còn lại của `tk201`. CI validator/unittest chạy trên GitHub Actions sau commit.
+
+## Lượt 024d — 11/10/2026 (100 mảnh tk201, Folk/Faery/Cõi âm)
+
+- Dịch tiếp `tk201` **100 todo→draft** từ `talk/en/tk201_en.bin_@0000ed26` đến `talk/en/tk201_en.bin_@000147df`: 33 mục tái dùng source cũ, 5 mục lặp trong lượt, 62 source mới. `tk201` đạt **350/496 draft**, còn **146 todo**. Tổng repo **4.965/11.886 draft**, còn **6.921 todo**.
+- Nội dung: Sứ giả, khả năng Folk, chiến đấu theo hệ, Land of the Dead, ký ức, Mnemosyne, Oblivion (tên riêng tạm giữ) và Đại sảnh Tiếp kiến (Audience Hall, thuật ngữ tạm). Chỗ thiếu speaker/ngữ cảnh hoặc điều kiện phủ định cần xác minh có notes. Không áp đặt vai nhân vật theo offset.
+- QA vùng đúng 100 ID, chỉ vi/status/notes thay đổi, id/source/source_sha256/offset/source_review/order bất biến; Unicode NFC, newline, ký tự đầu, placeholder và nguồn trùng không xung đột. Chưa có parser/repacker thoại, chưa thử RPCS3 và không đụng font Merienda V3, ISO/ROM/payload.
+- **Tiếp theo:** `talk/en/tk201_en.bin_@00014b1b`; 146 mục cuối tk201 phần lớn nguồn trùng đã có bản dịch chuẩn từ tk200/tk100–105. CI validator/unittest sau commit.
