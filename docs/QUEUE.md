@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục khoảng 200 mục `todo` theo thứ tự trong mỗi lượt (hoặc hết phần menu nếu còn ít hơn),
-   bắt đầu từ `lang_en.bi5_@00008757`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00009bd3`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 784 mục `draft` (134 mẫu V3 + 650 mục qua 10 lượt), còn 232 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 984 mục `draft` (134 mẫu V3 + 850 mục qua 11 lượt), còn 32 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -126,3 +126,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: đúng 200 ID `todo`, chỉ sửa vi/status/notes, nguồn/sha/offset/order/source_review bất biến; NFC, newline, placeholder/control token giữ nguyên; 0 xung đột ở các English source trùng. Không can thiệp font Merienda V3 hoặc binary/payload game.
 - Chưa test trong RPCS3, vẫn `draft`. Chạy GitHub Actions validator + unittest Windows/Ubuntu sau commit.
 - **Tiếp theo:** `lang_en.bi5_@00008757` — `  Creating Dungeons`; còn 232 mục menu, tiếp tục ~200 mục lượt 011.
+
+## Lượt menu 011 — 10/10/2026 (200 mục)
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: hoàn tất 200 mục `todo` → `draft`, từ `lang_en.bi5_@00008757` đến `lang_en.bi5_@00009bbd`; QA bốn nhóm 50, commit một lượt.
+- Nội dung: hướng dẫn tạo hầm ngục, Download Play, thưởng điểm, quy tắc hầm ngục/thử nghiệm, tải lên và xếp hạng, lỗi mạng, dữ liệu phòng/vật phẩm tăng cường, mã thưởng %s, cảnh báo PSN, giao diện chỉnh sửa, cấu hình phòng/điều kiện hoàn thành, thoát/bỏ cuộc.
+- Các mảnh văn bản cùng thông báo được dịch để đọc liền mạch nhưng giữ từng ID và nguồn nguyên vẹn. Thống nhất Boost → Tăng cường, Quota → Chỉ tiêu (tạm), CampaignPt → Điểm chiến dịch (cần QA bố cục), Dungeon → hầm ngục, Test Play → Chơi thử, Folk nguyên danh xưng. Có ghi chú cho câu nguồn sai 'Dungeon Dungeon' và mảnh thông báo bị chia nhỏ.
+- QA: chỉ đổi vi/status/notes của đúng 200 mục; bất biến id/source/sha256/offset/source_review/order; NFC, newline, mã đặc biệt %s, △○×□, ™/® và khoảng trắng đầu/fullwidth; không có source trùng dịch xung đột. Không thay font V3 hoặc ROM/binary/payload.
+- Chưa test trong RPCS3; các mục vẫn draft. Chạy validator/unittest Windows và Ubuntu qua GitHub Actions sau commit.
+- **Tiếp theo:** `lang_en.bi5_@00009bd3` (`Play current Dungeon?`), còn đúng 32 mục menu; hoàn tất menu, rồi bắt đầu kiểm tra CMC/talk như hàng đợi.

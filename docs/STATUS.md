@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 784 mục menu `draft` (134 mục mẫu + 650 mục từ 10 lượt ngày 10/10/2026); còn 11.102 `todo` toàn bộ catalog (trong đó 232 menu).
+viên hội thoại/tương tác/cảnh. Có 984 mục menu `draft` (134 mục mẫu + 850 mục từ 11 lượt ngày 10/10/2026); còn 10.902 `todo` toàn bộ catalog (trong đó 32 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -116,3 +116,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nội dung: điều kiện tấn công nguyên tố/Folk, đá ký ức, sách tranh, cảnh báo HDD, menu tương tác/tùy chọn, tên nhân vật/vai, thoại Ellen–Keats–Livane, phụ đề và chế độ hầm ngục. Giữ đúng ngữ cảnh, tên riêng và thuật ngữ.
 - QA theo bốn nhóm 50: bất biến ID/source/hash/offset/source_review/order, chỉ vi/status/notes thay đổi; NFC, newline, placeholder và kiểm tra trùng nguồn không có xung đột. Các mục chưa rõ ghi notes, font V3 vẫn giữ nguyên.
 - Chưa áp patch và chưa test trực tiếp RPCS3. CI Windows/Linux chạy validator và unittest sau commit. Lượt 011 tại `lang_en.bi5_@00008757`.
+
+## Lượt menu 011 — 10/10/2026 (200 mục)
+
+- Hoàn tất 200 mục menu `todo` → `draft` (`lang_en.bi5_@00008757` đến `lang_en.bi5_@00009bbd`). Menu hiện `984`/1.016 bản nháp, còn `32` chưa dịch; toàn bộ catalog còn 10.902 todo.
+- Nội dung: tạo và tải hầm ngục, chơi thử, tính điểm, màn xếp hạng, mạng/PSN, giới hạn phòng/vật phẩm, popup quản lý hầm ngục và các nhãn giao diện. Nhiều câu tiếng Anh được tách thành fragment, đã dịch có xét chuỗi liên tiếp mà không sửa source hay offset.
+- QA bốn nhóm ~50: 200 mục thay đúng vi/status/notes; source, id, offset, hash, source_review và thứ tự bất biến; kiểm tra Unicode NFC, newline, placeholder và ký hiệu gamepad/trademark; kiểm tra source trùng không xung đột. Font Merienda V3 giữ nguyên.
+- Chưa chạy RPCS3/cài patch, mọi mục vẫn draft; CI Windows/Linux chạy validator + unittest sau commit. Lượt 012 sẽ dịch nốt 32 mục menu tại `lang_en.bi5_@00009bd3`, sau đó chuyển sang CMC/talk.
