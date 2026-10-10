@@ -11,670 +11,670 @@
       "file_offset": 4440,
       "source": "To Netherworld",
       "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000011b8",
       "file_offset": 4536,
       "source": "Use item",
       "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dùng vật phẩm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001214",
       "file_offset": 4628,
       "source": "Memo pad",
       "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sổ ghi chú",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000014d4",
       "file_offset": 5332,
       "source": "Ellen's hut",
       "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Túp lều của Ellen",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001530",
       "file_offset": 5424,
       "source": "Keats' base",
       "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
-      "vi": "",
-      "status": "todo",
+      "vi": "Căn cứ của Keats",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000158c",
       "file_offset": 5516,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000015ec",
       "file_offset": 5612,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001650",
       "file_offset": 5712,
       "source": "Pub owner's home",
       "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà chủ quán rượu",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000016b4",
       "file_offset": 5812,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001714",
       "file_offset": 5908,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001777",
       "file_offset": 6007,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000017e4",
       "file_offset": 6116,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001844",
       "file_offset": 6212,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001924",
       "file_offset": 6436,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001984",
       "file_offset": 6532,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000019e0",
       "file_offset": 6624,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001a44",
       "file_offset": 6724,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001aa8",
       "file_offset": 6824,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001b08",
       "file_offset": 6920,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001c43",
       "file_offset": 7235,
       "source": "\nWhat does that mean...?",
       "source_sha256": "7853920ab487321a72760d9c5dad565186293476654807c2ac6705734764ca9a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChuyện đó nghĩa là sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001ced",
       "file_offset": 7405,
       "source": "\nday. Heh heh.",
       "source_sha256": "b29ea6c9b1fab1be2ebe1fbc60ce95cd8206cad7edc7b25a546f5377672ef37e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngày. Hê hê.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001e73",
       "file_offset": 7795,
       "source": " reaction.",
       "source_sha256": "b0f70357141ab4f2fb3402e6b73beaf1da1284dcd39f56b3bf943c725b23bc31",
-      "vi": "",
-      "status": "todo",
+      "vi": " phản ứng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00001f7a",
       "file_offset": 8058,
       "source": "\nhe's ready to talk to me.",
       "source_sha256": "5f7ba7509466acc33006b42396dee54958c9bf4289b182a4a5ec1530ac0c9396",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nanh ấy đã sẵn lòng nói chuyện với tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. Nguồn 'he' không rõ danh tính/độ tuổi; đại từ 'anh ấy' chỉ là tạm trong draft."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000214d",
       "file_offset": 8525,
       "source": " first...",
       "source_sha256": "7bd1976e07a56e0a0f220383444f1bc5bf072cd486f610ef3d34437ebb1fd3f0",
-      "vi": "",
-      "status": "todo",
+      "vi": " trước đã...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002303",
       "file_offset": 8963,
       "source": " out?",
       "source_sha256": "24a46de61eefaaa56cff37e481503b8d0b5f95a99563e1125f059339b52057d8",
-      "vi": "",
-      "status": "todo",
+      "vi": " ra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000023b3",
       "file_offset": 9139,
       "source": ", was it?",
       "source_sha256": "a32d010bdfc52f10697bfe3cc62e32a6e2dc57388899dbd162840ab546a7529e",
-      "vi": "",
-      "status": "todo",
+      "vi": ", phải không nhỉ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002434",
       "file_offset": 9268,
       "source": "\nfind my husband...?",
       "source_sha256": "f13df125ecf1208697209bffac355324b3f6089ab509d5fa080ad5387a70da7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm chồng tôi...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. Người nói đang tìm chồng; không tự gán vai/giới tính người nghe."
     },
     {
       "id": "talk/en/tk103_en.bin_@000024aa",
       "file_offset": 9386,
       "source": "\nin the village...",
       "source_sha256": "473f6c6d6bb16f638294529f5b3b20b6a1db7dd2a6e5974bb65b62673eb8efdb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong làng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000253a",
       "file_offset": 9530,
       "source": "\nsomething has happened to him!",
       "source_sha256": "04affa3b7188957b14013769a2e6615e1219833ea73e2e001fbf0f2810ecc2d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc anh ấy đã gặp chuyện rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. Nguồn 'him' chưa xác định là chồng/bác sĩ; dịch trung tính."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002658",
       "file_offset": 9816,
       "source": "OK. I'll help you.",
       "source_sha256": "322fa90f6a9403bb264b0dcdb1fc10ed5e0a9dcc9ba6c4b5027ca8f91ac087a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Được. Tôi sẽ giúp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002823",
       "file_offset": 10275,
       "source": "$No, I don't think he's here.",
       "source_sha256": "90dae29f05035b7c519b50256963e4d8ffb381a73b3c4e818747ecbe92d83a8a",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Không, tôi nghĩ anh ấy không có ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Ký hiệu đầu nguồn giữ nguyên vì nghi là mã điều khiển. Dấu $ ở đầu chưa xác định là mã hoặc ký hiệu lời nói, giữ nguyên."
     },
     {
       "id": "talk/en/tk103_en.bin_@000029d0",
       "file_offset": 10704,
       "source": "Is the doctor here?",
       "source_sha256": "baa0490fd0ed54495d03783e8dba809d69a350c411eb82c4f605a5eb257f1520",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bác sĩ có ở đây không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002b51",
       "file_offset": 11089,
       "source": "\nEspecially not at night...",
       "source_sha256": "ab8b0d4040a2e5cac259f5a5a174b8805166c515568db5320e87c3f41c2953fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhất là vào ban đêm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002c01",
       "file_offset": 11265,
       "source": " looking, as well?",
       "source_sha256": "e1f5a3d98e85f6b9f6da87bf10e53d3f1377158bffb5f7541082d5bc339881bf",
-      "vi": "",
-      "status": "todo",
+      "vi": " cũng đang tìm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. 'looking' thiếu tân ngữ; không suy người được tìm."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002c70",
       "file_offset": 11376,
       "source": "\nisn't at home...",
       "source_sha256": "4365b6a24f62b7badbd7d41bbac45bc902bcf999a317ea219c7bfdcde8a2e0e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông có ở nhà...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002d5e",
       "file_offset": 11614,
       "source": "\nWhat could the motive have been?",
       "source_sha256": "c7775afedb3df525230c4cf0e2057051cc7dee548734fd34cafda597641a1807",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐộng cơ gây án có thể là gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002ee1",
       "file_offset": 12001,
       "source": "\nmaking any progress today!",
       "source_sha256": "14542569779ddf6c7a0126d0d4989b2ffb9928a5c7b95e09394767c3f0aa52c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhôm nay chẳng tiến triển gì cả!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00002f73",
       "file_offset": 12147,
       "source": "\nsomething about all of this.",
       "source_sha256": "63dde22b56e70817aaa5942152abd051f980742fa9ce5507d42b6e599d287a82",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện này còn điều gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000030af",
       "file_offset": 12463,
       "source": "\nyour husband's death...",
       "source_sha256": "0fcdbcef47545c641fb8ec057774e424141bd0e3c11eea6e0063e51564b79e5d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncái chết của chồng bà...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. 'your husband's death' xác nhận người nghe có chồng, nhưng không xác minh tuổi nên 'bà' chỉ là tạm, cần sửa khi thấy speaker."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003155",
       "file_offset": 12629,
       "source": "\nwith the doctor?",
       "source_sha256": "24ad00a9878fb9a7d1fe526bbb9f8ef540f90e528364137de28cb3494e43d594",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới bác sĩ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000031c8",
       "file_offset": 12744,
       "source": "I... I don't know...",
       "source_sha256": "a598206094480d8002bed151dff4b1af8943805a81bc3bd910c567cac3cc68bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi... tôi không biết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game."
     },
     {
       "id": "talk/en/tk103_en.bin_@000033d0",
       "file_offset": 13264,
       "source": "\n17 years too.",
       "source_sha256": "290acc8bfc31deb60d8d1abd611cc1db024eb0faef739e5f6c63893dda662afc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng đã 17 năm rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. Nguồn chỉ '17 years too', thiếu vế trước; không ghép thành vụ án 17 năm trước khi chưa xác minh."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000343e",
       "file_offset": 13374,
       "source": "\nthere anyone still alive here?",
       "source_sha256": "cc5205e0d400e3081260e4feb8b5147e928df91d2ee3f07016937866c4ea7161",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đây còn ai sống sót không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. Câu bị cắt, không rõ so sánh người chết/sống sót hay người còn ở làng."
     },
     {
       "id": "talk/en/tk103_en.bin_@000034ee",
       "file_offset": 13550,
       "source": "\nthat's enough for today.",
       "source_sha256": "6118496efd9a97bdb924e284e4492952a0022ebb669d9d2a07aeb13ba7294297",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhôm nay đến đây thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003594",
       "file_offset": 13716,
       "source": "\nfor my husband.",
       "source_sha256": "df20948d47e1e6cd3a870d4fb3c4962a6afaec0b775dabbd65e6d5c60ea5eac9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho chồng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000360a",
       "file_offset": 13834,
       "source": "\nI should be getting back...",
       "source_sha256": "41c9bd45d5a89c781ca537b2ecb9e71f84bebe1452cb9fd713a9bc9ee8e3a388",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi nên quay về thôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000036e4",
       "file_offset": 14052,
       "source": "\nI'm ready to drop.",
       "source_sha256": "539bc83114793bcca5ebd20e04ac2821ad779eaf45b7f77f00cd10c2f60355e4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi sắp kiệt sức rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000037bf",
       "file_offset": 14271,
       "source": "* Explore a bit more",
       "source_sha256": "1e1471ee8de9831413b9d68d77d5080538f67fe16e4f463446f16f478671b77a",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Tìm hiểu thêm chút nữa",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Source trùng với bản dịch tk100/tk101/tk102, giữ cách dùng từ và ngôi xưng thống nhất; candidate chưa xác minh người nói. Ký hiệu đầu nguồn giữ nguyên vì nghi là mã điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003b11",
       "file_offset": 15121,
       "source": "\nlike he was quite sick.",
       "source_sha256": "1662885d492a2a1faa91979e3b3030773722e211815ee39ba5731669deedd2c5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrông anh ấy ốm nặng lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. 'he' chưa xác định là ai; giữ đại từ trung tính."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003b8a",
       "file_offset": 15242,
       "source": "\nthe dead have to say to me.",
       "source_sha256": "b7b672ef334220565c1a6aac22d507759a0f2393105b9b0def31bccae55abfd8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười đã khuất muốn nói gì với tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003c94",
       "file_offset": 15508,
       "source": "\ntry it out.",
       "source_sha256": "b4aec90b1bb732bf7515ca4e0074757921f9a357f83fe7253145399875296ef1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthử xem sao.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003dee",
       "file_offset": 15854,
       "source": "\nto crumble into nothingness.",
       "source_sha256": "d606e0e8e28fe2f329845287fb4b0f1d85a84c7517f39aad64ed7d9abeb3590e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntan thành hư vô.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. Oblivion liên quan quên lãng/hư vô, cảnh chưa đủ để xác định chi tiết."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003e98",
       "file_offset": 16024,
       "source": " beyond.",
       "source_sha256": "e1b57cd4a66e4298abea5454fa880aaccaa5dbd93bb9145fb5ec3f40cda326f7",
-      "vi": "",
-      "status": "todo",
+      "vi": " ở phía bên kia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00003fbb",
       "file_offset": 16315,
       "source": "\nthing, but still...",
       "source_sha256": "ba5e44f2b4a15921ef8290b1d15982227cf464bc0f6d23314baf6ce902d5bbbd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện đó, nhưng mà...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000404c",
       "file_offset": 16460,
       "source": " around?",
       "source_sha256": "960e7007d4a19b37936b5777cd338deee5d7d9ee7c1d333a83958f959bbfe24d",
-      "vi": "",
-      "status": "todo",
+      "vi": " quanh đây sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004299",
       "file_offset": 17049,
       "source": "\nCould you fill in the details?",
       "source_sha256": "206c73745f3336c0f3460328c51eda2cbc699a0b3cf9da863ec859708b185a7a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn kể rõ hơn được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004310",
       "file_offset": 17168,
       "source": "\nsubmerged truths.",
       "source_sha256": "9e691c16e20a182c43259dd050405344986d2fc71cc9640e205f50032f22d34b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững sự thật bị chôn vùi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000439c",
       "file_offset": 17308,
       "source": "\notherwise make life unbearable.",
       "source_sha256": "9d5d4decad1b894e5e3662ba376d0a4ec46703005d181bc5b834d2a62e98a9ca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnếu không sẽ khiến cuộc sống khổ sở.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000443d",
       "file_offset": 17469,
       "source": "\nthose things there.",
       "source_sha256": "703893214edd3d812a9124454817e217fd65ed6b91fa524e17f221d56938f0d4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững thứ đó ở đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004498",
       "file_offset": 17560,
       "source": "So it's... Oblivion.",
       "source_sha256": "325f7a3a65020045dbc0c8f2b0d58ab33fb9a7fde01e26fa954ba0e00f129e02",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy ra đó là... Lãng quên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Oblivion có thể là tên cõi/tên chương, 'Lãng quên' đang là dịch tạm."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004643",
       "file_offset": 17987,
       "source": "(Things that people had forgotten.",
       "source_sha256": "db656da91250169318a2d52795f055b46daf1087074913145b901d035a330731",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Những điều người ta đã quên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Ký hiệu đầu nguồn giữ nguyên vì nghi là mã điều khiển. Dấu mở '(' trong nguồn nghi control, giữ nguyên; chỉ là đoạn chưa đầy đủ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004823",
       "file_offset": 18467,
       "source": "\nWho are you?",
       "source_sha256": "9f52dd975c05efb1f62b6848ec09727e1c7d1928ec9e14a9a883ad5480d25559",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn là ai?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000493f",
       "file_offset": 18751,
       "source": "\nused to read it all the time!",
       "source_sha256": "e3fbd363e6907a1ef201c5d2af0a56bdc41c74d8ebb271d0efd54c6f431d5de2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrước đây lúc nào cũng đọc nó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@000049d5",
       "file_offset": 18901,
       "source": "\ntaste then, son.",
       "source_sha256": "e5901a6dcba04a582d1c91e0c4814fe9c6a563d3f84a869220f2f853ab501f9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnếm thử đi, con trai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ. 'taste then, son.' thiếu vế đầu; xưng con dựa chữ 'son' trong nguồn, nhưng chưa rõ là con ruột hay lời thân mật, cần QA."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004a46",
       "file_offset": 19014,
       "source": "\nWhat are you up to?",
       "source_sha256": "cb64ead759e5a92c5514deefa7f812e39ffac635e0ad64c309f7aa27bf1c7766",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐang làm gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004b49",
       "file_offset": 19273,
       "source": "\ncan be forgotten...",
       "source_sha256": "c5c59faf61e137298b658a292aeb373d3e597f6e9c4604f97c818d4665091e87",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể bị lãng quên...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004bdb",
       "file_offset": 19419,
       "source": "\nsort all of this out.",
       "source_sha256": "da883326029879364fdfe8b152ce18f95fbf05bf7d101a1b8b9af9b1b0a920d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiải quyết hết chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên từ vùng dữ liệu được quét, chỉ dịch phần chắc nghĩa; người nói và các mảnh trước/sau cần xác minh trong game. Nguồn là mảnh câu thiếu vế trước, không tự gán người nói/quan hệ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00004c8b",

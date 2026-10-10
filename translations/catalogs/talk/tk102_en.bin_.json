@@ -3621,1330 +3621,1330 @@
       "file_offset": 91914,
       "source": "\nan end to this.",
       "source_sha256": "ef8af93dc739620990ecb3bfc063f7a48751b3603970d0c87a09267c2920613f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchấm dứt chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001680a",
       "file_offset": 92170,
       "source": "\nto be expected.",
       "source_sha256": "43077cccdb663d2be6962b7364f0f549279b57b635a5204f237413c2f0237646",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng là chuyện dễ hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001687a",
       "file_offset": 92282,
       "source": "\nanything to help matters.",
       "source_sha256": "455e740dfebb374c98622d904df40675ec600a794d749cbd16fddf5bd0491239",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm được gì để cải thiện tình hình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000168f7",
       "file_offset": 92407,
       "source": "\nsetting off on her own.",
       "source_sha256": "1d09bab87ce8553e65b0bd8eb1416c1272bea6d12cdde81d3e6af174e82497db",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntự mình lên đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001697d",
       "file_offset": 92541,
       "source": "\nmight be willing to meet you.",
       "source_sha256": "4c6e30713ca58465fc38edd03d0a3036f671ead796e43ae524af5ba2e52db3b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó lẽ sẽ chịu gặp bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000169e9",
       "file_offset": 92649,
       "source": "\nYou're joking.",
       "source_sha256": "92fed841b3babbc1379b9fc53e85bff9e7a9d8253e7fe5ab2af8b246d546cb7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đùa đấy à.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016a8b",
       "file_offset": 92811,
       "source": "\nthat you want to know about.",
       "source_sha256": "ed9db3b839be29b0700e09d67d8b0462730f159945b264d7252b08ade3500068",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều bạn muốn biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016b0e",
       "file_offset": 92942,
       "source": "\nfew things that don't make sense.",
       "source_sha256": "8eadbaab56c2e7d95e497a5157bd4aa25ad442f862a85642e7fe05a759200d57",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvài chuyện nghe chẳng hợp lý.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016b8f",
       "file_offset": 93071,
       "source": "\nThe phone call for help...",
       "source_sha256": "70727f986f25354972f08bde5285848cb417fcfd41ff7ebdb5654c101e4db34c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCuộc gọi cầu cứu ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016c67",
       "file_offset": 93287,
       "source": "\nI'd like to find out.",
       "source_sha256": "c1babe5c74546823a10421ad4f3a1690a098d257672b148b54b5617ceffc2fd8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi muốn tìm hiểu rõ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016cdf",
       "file_offset": 93407,
       "source": "\nworth asking about.",
       "source_sha256": "31267642f2eafb1cf74c80baa9d3a995d33762450dea1ea03ad095bb0a15c7ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáng để hỏi thử.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016dcb",
       "file_offset": 93643,
       "source": " was writing it.",
       "source_sha256": "4c392009e4c19e7cbab5abbe6f8f29251ebb2f0ba185a1b5c047914d93065db5",
-      "vi": "",
-      "status": "todo",
+      "vi": " đang viết nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016e6a",
       "file_offset": 93802,
       "source": "\nSounds like a child's tale to me.",
       "source_sha256": "418872cea35ccd0e7005161be526b7ae205b55e762b4ecc1c8a656a2aa7bfaba",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNghe giống truyện trẻ con quá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016f1b",
       "file_offset": 93979,
       "source": " What's wrong with yer???",
       "source_sha256": "22b2b5d7bdfb776a7729269e7a6bee5b369993446249a05ab72fdc1e6939be44",
-      "vi": "",
-      "status": "todo",
+      "vi": " Ông bị làm sao thế???",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016f9a",
       "file_offset": 94106,
       "source": "\nlike something isn't right.",
       "source_sha256": "34e40a683055a5f233f15dff173aa82cd11f0ab0fc2d031341f6ed313001f426",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncảm thấy có gì đó không ổn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000170a8",
       "file_offset": 94376,
       "source": "\npart can be obtained now.",
       "source_sha256": "4129dcda0a3fabcc43f82b57ab8d9102812efe48e1bf2bccbdcdd1321ae2b5c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ có thể lấy được phần ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017108",
       "file_offset": 94472,
       "source": "Oh yeah?",
       "source_sha256": "3ee865676f6e4c9903fd4e855996034d731c7d27799b0aa56ab48db3f4824adb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017176",
       "file_offset": 94582,
       "source": "\ninto it.",
       "source_sha256": "ba5b46a411d96bf8152565b5334cd279473c18ecfa84ce08217bbe5e07131813",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm hiểu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001725c",
       "file_offset": 94812,
       "source": "\nthe search for the grail ends.",
       "source_sha256": "69b32c2bb52bf737067da98ed38b38c62a5108da26577299028d7c2063028e11",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuộc tìm kiếm Chén Thánh kết thúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000172de",
       "file_offset": 94942,
       "source": "\ncreated by a little child.",
       "source_sha256": "dc27b5d85cadb7dc34841b1b1b75dc46a628141b731dff7e8f90ab149d834497",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndo một đứa trẻ tạo ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017504",
       "file_offset": 95492,
       "source": "\nwhat he was doing up there?",
       "source_sha256": "98c460d9f0e14f97676e8aeadde39edee0ddd60380e3ccc788f7494de3d44a10",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nanh ấy làm gì trên đó vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000175ac",
       "file_offset": 95660,
       "source": "\nhim down.",
       "source_sha256": "ebf555bddd181c6bdcdb29af172be6e0e6a6ca2fad46710e8cb96103932fcf8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđưa anh ấy xuống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000176e9",
       "file_offset": 95977,
       "source": "\nsaxophone! Yeah, saxophone.",
       "source_sha256": "3ac7c9a133fd4bb356bf1018d25dba65d9c94591dd4513685107dfcafbb55f69",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkèn saxophone! Đúng rồi, saxophone.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000177e5",
       "file_offset": 96229,
       "source": "\nperform for us!",
       "source_sha256": "370489f0771d890726055d19e966ab2f8a9b13aeed59e740b219a22fc167bf52",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiểu diễn cho chúng tôi xem!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017871",
       "file_offset": 96369,
       "source": "\nhas some kind of problem.",
       "source_sha256": "13cf590435a627a0f127e48e95775ea601e72f8d68b6a4b7ccda8cd7720b2ce3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang gặp chuyện gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000178fd",
       "file_offset": 96509,
       "source": " and talk to Charlie?",
       "source_sha256": "2b27ee65ae03e18b8253801094aabcedc518bc0c739fa10bd7f3ee5bf1f573f6",
-      "vi": "",
-      "status": "todo",
+      "vi": " rồi nói chuyện với Charlie không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000179ea",
       "file_offset": 96746,
       "source": " that doesn't fit.",
       "source_sha256": "ba8fab8233558a20e43fa8c39d79fcbba11d66301303624a6f903218802960d8",
-      "vi": "",
-      "status": "todo",
+      "vi": " không hợp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017a84",
       "file_offset": 96900,
       "source": "\nwon't even tell us.",
       "source_sha256": "b81b8cca7b5aa6a43bfe625a10db55b4b00fe972e139915ecf33a1db7bd8e81a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncòn chẳng chịu nói cho chúng tôi biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017af7",
       "file_offset": 97015,
       "source": "\nsomeone in the past?",
       "source_sha256": "b6f600123046faca28c0796b493e24df29712446b4c912e188b0e1a82371c2db",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người trong quá khứ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017c69",
       "file_offset": 97385,
       "source": "\nyou a letter.",
       "source_sha256": "55f10927d2ca2133564b467cb6bca0b828bd5c3ca1babdd9bcc8f53182568bcb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn một lá thư.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017cd8",
       "file_offset": 97496,
       "source": "\nSo I didn't.",
       "source_sha256": "226592f936aef0c0dc1928a8389ac989bfc151e53fcca0fafa771a90e29d3d19",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThế nên tôi đã không làm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017d2c",
       "file_offset": 97580,
       "source": "Let me see...",
       "source_sha256": "cf81b83e28e92b1fb3e94c3b8d729bfb6dd173d50c640a79d54c023fa4c0d039",
-      "vi": "",
-      "status": "todo",
+      "vi": "Để tôi xem nào...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017e0d",
       "file_offset": 97805,
       "source": "\nHe says he gets bad headaches.)",
       "source_sha256": "02a6b51309b0e1daf315c56f51dfd839780051c252dc74e975795eeb9b0dd423",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nAnh ấy bảo mình hay bị đau đầu.)",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017ebc",
       "file_offset": 97980,
       "source": "...She must be worried.",
       "source_sha256": "2bbce778e40e503b2eedfd22772b98bdcc33a7c6883ca6df7da37ad7ff520713",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Chắc cô ấy lo lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00017fd4",
       "file_offset": 98260,
       "source": "\nstop him from drinking.)",
       "source_sha256": "a4b1c83d74f7a829608bbed8052c49ad8070b67daad9d0f211918e4bc90844d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngăn anh ấy uống rượu.)",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018051",
       "file_offset": 98385,
       "source": "\n bring that medicine to me.)",
       "source_sha256": "edcd45c1fc550ae44bb229f2bb88a611c79549525dc1f5b2765eb3b8cce0a975",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n mang thuốc đó về cho tôi.)",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000180fc",
       "file_offset": 98556,
       "source": "...What's wrong?",
       "source_sha256": "05a9a32abccc67b543ec95df4e87507b12e6de8153c51f61e15515b73920c4a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Có chuyện gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018181",
       "file_offset": 98689,
       "source": "\nthat I will do it.",
       "source_sha256": "9d1cd8b04894f68b520429f8b6227678a94591a683badafaf07043332b3dabee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi sẽ làm việc đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001828a",
       "file_offset": 98954,
       "source": "\nforget his dead girlfriend.",
       "source_sha256": "e918ad3d7b29b89cdc463effbfc03a71eeda7542c7e835149a1e087c7fde14fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquên đi người bạn gái đã mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018336",
       "file_offset": 99126,
       "source": "\nDo you know what that means?",
       "source_sha256": "dbca90e71d7d138f61c0a7909fd35f293ed5bd4134e6dc477f6370858768a4ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn biết điều đó nghĩa là gì không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000183e0",
       "file_offset": 99296,
       "source": "Yes. I'll look into it.",
       "source_sha256": "fd6c217930902da94813be18153f14911069aaa53a8600f5c499cca14ddb7971",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừ. Tôi sẽ tìm hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000184ec",
       "file_offset": 99564,
       "source": "\nDON'T FIGHT in her sleep.",
       "source_sha256": "95d9e4eb542c72ee890577c1fe11afc952c18b3b8e71014892559df09daa99bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐỪNG ĐÁNH NHAU khi cô ấy đang ngủ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018575",
       "file_offset": 99701,
       "source": "\ndaughter, is she?",
       "source_sha256": "292aefdf8224b8148b1440cf4c512730ccf99ebcdb70229d6e065a696e5c9827",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncon gái bà ấy phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000185cc",
       "file_offset": 99788,
       "source": "It's a family thing.",
       "source_sha256": "ac491a3d99faade1f332dfd9590a518dd674198a0265c392fde53a9c7d97e114",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chuyện gia đình thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018665",
       "file_offset": 99941,
       "source": "\nupsets her now.",
       "source_sha256": "0e2b81716844fca2aad159422c475a4b27d9bafe73446dba73636114f6347d97",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ khiến cô ấy buồn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000186d9",
       "file_offset": 100057,
       "source": "\nfighting, even in her dreams.",
       "source_sha256": "7121a57856f0783fe28243ab54159c56d8ab9b2eef69576ed192bf3faa8d7461",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđánh nhau, ngay cả trong mơ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018753",
       "file_offset": 100179,
       "source": "\nin her sleep?",
       "source_sha256": "e15c8b81ef1492d172f73bbfd3914c178705ac6fd8e26f37cc3c6e6e2ece2fd1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi cô ấy ngủ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018870",
       "file_offset": 100464,
       "source": "\nthat they really exist.",
       "source_sha256": "90e6bad8b21dd48036f2d696748f8ca6ebbcd9d8df73649116377bda55d0b7e7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrằng họ thực sự tồn tại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000188d0",
       "file_offset": 100560,
       "source": "I see.",
       "source_sha256": "420c703b11610f7b7a8e910dc406505b7bda360bb628955d4625a5a8d7c3005c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi hiểu rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018998",
       "file_offset": 100760,
       "source": "\njust after that.",
       "source_sha256": "658e82d673fdaff1c7fea2b3844985738c4d71e120c3241f1a50f74253db8ea3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay sau đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018a2b",
       "file_offset": 100907,
       "source": "\nvillage and see you again.",
       "source_sha256": "53295e57ce8d11db7186c0473fd1283435fee3abe8b5e46cd3a170b870297cae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng rồi gặp lại bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018a8c",
       "file_offset": 101004,
       "source": "Yes... Thank you.",
       "source_sha256": "7ef3eaeaf523fec4bd7d269fbf2d94f8d21b53dea15012cc11f432eab316ad35",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vâng... Cảm ơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018b01",
       "file_offset": 101121,
       "source": "\nsay, but...",
       "source_sha256": "c02000d97d41081623a052f3cba49f861c4f88859b3537ec1bb12c14c6db5a50",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói ra, nhưng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018b73",
       "file_offset": 101235,
       "source": "\ntime to talk to her?",
       "source_sha256": "ab9ada59911c40868bd9d0493a4ca58c3e04c3c702276bd73602e8fed42c3349",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thời gian nói chuyện với cô ấy không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018c0b",
       "file_offset": 101387,
       "source": "\ngo to see her there?",
       "source_sha256": "b9540d1b071b709047009920d9b8f197acec8be0695a3fa00d2d963e619d2470",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến đó gặp cô ấy được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018c68",
       "file_offset": 101480,
       "source": "Yes, perhaps...",
       "source_sha256": "d37019df5c3ff552c1e99b75e5f61485d47fd55647ab04c3acdc3e02e1b39cd8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừ, có lẽ vậy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018d35",
       "file_offset": 101685,
       "source": " is still out cold...",
       "source_sha256": "500de2b6943cfbef9cd21cb8f0066c3716c0560c9529628c3fa1d651bb611575",
-      "vi": "",
-      "status": "todo",
+      "vi": " vẫn đang bất tỉnh...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018dd7",
       "file_offset": 101847,
       "source": "\nher trauma.",
       "source_sha256": "1bf6cff54ee37468b810a75919ea80b350eea8e901da0ef424f07db19f00622b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi sang chấn của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018e45",
       "file_offset": 101957,
       "source": "\nshe committed those murders.",
       "source_sha256": "e73d3ed8f0e7e7dd4a137dd68e1105c27d45e1b37e620510fcd73d1520f3a8da",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy đã gây ra những vụ giết người ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00018f46",
       "file_offset": 102214,
       "source": "\nmy responsibility, indeed.",
       "source_sha256": "3d0925f204f1dad2d1a1add813f1958d9baacd4b35220b6162546ceb42a2dc16",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđúng là trách nhiệm của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019054",
       "file_offset": 102484,
       "source": "\nquite popular amongst us.",
       "source_sha256": "7f54c92ba5123999e9bddef1b197718059ad12fe2996c2ee157b42c98c75943c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhá được lòng chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000190fe",
       "file_offset": 102654,
       "source": "\nthe story ends?",
       "source_sha256": "2e931a038ea2e584ddd3fb0524a52594ddac77fb5781b2e2303442bd56ec1c9e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncâu chuyện kết thúc thế nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001919d",
       "file_offset": 102813,
       "source": "\nHow odd...",
       "source_sha256": "041cc0de7d88b2fce9f0e8406569b808cdc2196a30792d1ed76e8facd9c340c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nLạ thật...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019279",
       "file_offset": 103033,
       "source": "\nWe've found the next parts.",
       "source_sha256": "e30d7d0b4f06015406c62107e9457f356edcd8b11c066368815ebbdab5a1690b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChúng ta đã tìm thấy những phần tiếp theo.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000192f6",
       "file_offset": 103158,
       "source": "\nto this.",
       "source_sha256": "48f52657ec7aa0adba853b3b6ce31209dc8921ca7c1fb2a7b8f6806eba6cb4d4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001937c",
       "file_offset": 103292,
       "source": "\nIt takes place in Hell!",
       "source_sha256": "920559f7dc5a8987b4f552504b1ae98fa53bd6a5f34ebe9d69cef7cb7ff66685",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBối cảnh ở Địa Ngục!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019461",
       "file_offset": 103521,
       "source": "\nit seems to be a bit miserable.",
       "source_sha256": "502727f377d5e86c769e8914335d3236269c69eaf553f0bf5184a5c52d5762c9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó vẻ hơi thảm hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000195d9",
       "file_offset": 103897,
       "source": "\nThey're a kind of military group.",
       "source_sha256": "4b322ba1627d5329fdeb04147bca1f188bca93a4b4b9518aa9163435d6417d5e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHọ là một nhóm quân sự.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019657",
       "file_offset": 104023,
       "source": "\nalways picks on them.",
       "source_sha256": "7ec8a814b81d2d2e46d87a614a7640029eec78b58748042155eb07d5d11c41ca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nluôn bắt nạt họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@000196ce",
       "file_offset": 104142,
       "source": "\nget back at him.",
       "source_sha256": "42b132cb37ebd4ad584c0d683a3e748fbf17a0a87b02e87e7fa6f5dc802e353c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrả đũa hắn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001973d",
       "file_offset": 104253,
       "source": "\nwilling to help them?",
       "source_sha256": "e97abc1b98837359d4a420722420185eeafa1536ac629acfc1832314fe5ceef6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẵn lòng giúp họ không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019818",
       "file_offset": 104472,
       "source": "\nthe herd.",
       "source_sha256": "3bfc7c27d263e2b8e04c744fbf0747f4c52e32a66276e0a7323d91f9ca1811f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđàn thú.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019882",
       "file_offset": 104578,
       "source": "\nherd in the Forgotten Palace?",
       "source_sha256": "0020a3dbaad9b2cf79d5b976748303020ab46481b4d1e490a29c2d6fcba14e82",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđàn thú trong Cung điện Lãng quên sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019a27",
       "file_offset": 104999,
       "source": "\nreturn address.",
       "source_sha256": "1e1ff78716d5945bd83928d790cc323cb7877c7826774654874f5ff887e3d93b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđịa chỉ hồi âm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019a94",
       "file_offset": 105108,
       "source": "\nAnyway, here it is.",
       "source_sha256": "d204248494d417179f06830add237fc39a155976b85e7b5dd513c420b8d86e65",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nDù sao thì đây rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019b73",
       "file_offset": 105331,
       "source": "\non its way here.",
       "source_sha256": "3ec5417707f3e98437e904a5147aaea4ba3dbdc57c12e719e62b461509938b54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang trên đường đến đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019c0a",
       "file_offset": 105482,
       "source": "\nit back for me?",
       "source_sha256": "e3f86fc161828ab78d37cd10cac7c1685091336d5dca243643f8b3dffcbdfa2f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmang nó về giúp tôi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019ce2",
       "file_offset": 105698,
       "source": "\nI wonder what's wrong this time?",
       "source_sha256": "80d49b9e60db91e5ef7d344dfe780ef203d33ec206f2726d610c7142e699d0f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông biết lần này lại có chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019d62",
       "file_offset": 105826,
       "source": "\nyer business or anything.",
       "source_sha256": "b1b3885c66da13d64a649668c65b9489fb7188fd842cedae5548046a915044cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện riêng của bạn hay gì đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019e5d",
       "file_offset": 106077,
       "source": "\nthis village.",
       "source_sha256": "cb3a17bd217c84f7dde24f970d090dc0b96e60570824ffdf83c0e99694393c45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019ecc",
       "file_offset": 106188,
       "source": "\ndo with ye.",
       "source_sha256": "989c0087c8fad77cabe3bf1c0ef6e42aab0a5a202c523db3e6ca5da6f1cc3af9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nliên quan gì tới bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@00019f5e",
       "file_offset": 106334,
       "source": "\nor something.",
       "source_sha256": "d56a0b4a91ca49a20be9cc7fcfe548548de4e5deeb217d70c52e9a4017646682",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhay đại loại thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a049",
       "file_offset": 106569,
       "source": ", as always.",
       "source_sha256": "e3722902ead751a2c7edf45a01e5335c9c3e14e255733c62c9d1be7ddc5d4fa7",
-      "vi": "",
-      "status": "todo",
+      "vi": ", như mọi khi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a0d7",
       "file_offset": 106711,
       "source": "\nget past.",
       "source_sha256": "821107d215d94d17ee0f66d3383caa5adf3d583d2033f14a2acc692e533c9653",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđi qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a164",
       "file_offset": 106852,
       "source": "\nye details as to where to go.",
       "source_sha256": "18e83fc116fb5db1b8fbf028eb106acc17f60a24bcf1f9fb0978fa8abbd59e46",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhướng dẫn cho bạn đường đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a245",
       "file_offset": 107077,
       "source": "\nIt looks a little unfit, yeah.",
       "source_sha256": "20f009209de193e8c9867622de1328a9bd71ef52262e5d6c0f7bcbac88e5667b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTrông nó hơi yếu, ừ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a2e2",
       "file_offset": 107234,
       "source": "\nbest in a place it's used to.",
       "source_sha256": "e8d74c259e7db8b11aeaac5540f90c0ee546b0694ea6a23eea1aa9c0b0366abc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntốt nhất ở nơi nó quen thuộc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a451",
       "file_offset": 107601,
       "source": "\nattacking us for no reason.",
       "source_sha256": "5a03a683ccb32bb407953fde72f7b92f2ac8f721e4633381d8c5a54d8e979ed5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntấn công chúng ta vô cớ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a4d3",
       "file_offset": 107731,
       "source": "\nBougainvillea behind it.",
       "source_sha256": "5c28c9851b5a4cd01a4cfcd14ab25b62978c8629a4a9fa783d5590880e53f51a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhoa giấy phía sau nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a572",
       "file_offset": 107890,
       "source": "\ncontrol their actions.",
       "source_sha256": "1f1c1d2ff6b9f798944ee3ec2b8be12ff587d2aedfe40649d7fd8f2be0c1ac43",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkiểm soát hành động của mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a60b",
       "file_offset": 108043,
       "source": "\nand teach them a lesson for me?",
       "source_sha256": "e6206530cc24e335f6102d1aff088bb60926eac86aa16b33f6195540a1f670c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà dạy cho chúng một bài học giúp tôi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a6b1",
       "file_offset": 108209,
       "source": "\nare doing, so don't hurt them.",
       "source_sha256": "97a6b1ee6c3f4b667e29572add8b88560d336b1825340425974fa3abb0fb3880",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang làm gì, nên đừng làm chúng bị thương.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a79c",
       "file_offset": 108444,
       "source": "\ngo to the Core grow weaker.",
       "source_sha256": "2365b69d8731455ca75203bb31efb283beb74258118f019342cb5f60437da350",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđi đến Lõi thì yếu đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a821",
       "file_offset": 108577,
       "source": "\nis, but it's probably the Folks.",
       "source_sha256": "7194a979392ccb4401e69c2278aba39dba2969fce732ada280326891b7ae3dfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà gì, nhưng chắc là các Folk.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a8a5",
       "file_offset": 108709,
       "source": "\nwork out what's happening?",
       "source_sha256": "3cb226eaa91621e5679ff80a468d6d860cf0a5136adf1e3e51d8b4ec8740d8b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm ra chuyện gì đang xảy ra không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001a9a9",
       "file_offset": 108969,
       "source": "\ntree sap harvesting.",
       "source_sha256": "789bb8a391d1fce2835743d760efbf62a6b261a02b9853aa9fac6726ce1a8cca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthu hoạch nhựa cây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001aa43",
       "file_offset": 109123,
       "source": "\nWould ye go and sort that out?",
       "source_sha256": "ea077bc6e193b342c039fa6f2cf76010e9769dbcd6a67924b09ee6d89cc4d762",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đi xử lý chuyện đó giúp nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001ab49",
       "file_offset": 109385,
       "source": "\nthe Bullseye ran off to escape.",
       "source_sha256": "31f329d9e8837b22fec6ba97e3d65a52bdb82746a58088beb8aaa315d8cd5010",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBullseye đã bỏ chạy để trốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001abed",
       "file_offset": 109549,
       "source": "\nHelp him escape, will ye?",
       "source_sha256": "c562152e5c77a420c4269f4afdc1837f9781a9540e418ebc128f74984f7eb0c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nGiúp nó thoát đi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001acfb",
       "file_offset": 109819,
       "source": "\nits home was disturbed.",
       "source_sha256": "cd9989a6fedfcfd7eebf7e00b099662af0dffa84506d5cdda35d17dcde451fbf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi ở của nó bị quấy rầy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001ad97",
       "file_offset": 109975,
       "source": "\ntry to calm it before it comes out?",
       "source_sha256": "59a3f297fc49005483efc0f2122d76fc8beb231d0fb3da07a0ee6323899a583b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthử làm nó bình tĩnh trước khi nó xuất hiện không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001ae8b",
       "file_offset": 110219,
       "source": "\nsleep because of nightmares.",
       "source_sha256": "afa54ff113cab5036e11fb9e9df87a31b1d4435f4e482878888fbe7c31223cad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ngủ được vì ác mộng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001af2e",
       "file_offset": 110382,
       "source": "\nhear a disturbing voice.",
       "source_sha256": "6c64c20eb6dac1b1d2064ff954baa5f5e429cdb6210126d647d2aa7eeedd275e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnghe một giọng nói đáng sợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001af8c",
       "file_offset": 110476,
       "source": "Can someone help her?",
       "source_sha256": "5571756c5ff6db64658e9a6aebc5953237946cc25f24f65c3613b1700940d14a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có ai giúp được cô ấy không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b06d",
       "file_offset": 110701,
       "source": "\nhas no name of sender.",
       "source_sha256": "923af857c00bbc99b8f07d3c63eb761ce2b9c79d14fe52f023d00d9f968eb7a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ghi tên người gửi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b0eb",
       "file_offset": 110827,
       "source": "\nAnyway, it's yours.",
       "source_sha256": "3c661347513b920d382853fbe4ba8cde190f4d2bdb06577234dc84680367aa90",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nDù sao nó cũng là của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b200",
       "file_offset": 111104,
       "source": "\nof the year!",
       "source_sha256": "d574181c5d7c293338055271d8395aed409220c43ba5ab9fdb4e70e9ee29b375",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong năm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b287",
       "file_offset": 111239,
       "source": "\nto get t..together.",
       "source_sha256": "d61f803d301cdf2fdcd4ebed007e764415c4b7fe054f314a3ddd290c2537ab16",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể được ở... ở bên nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b32b",
       "file_offset": 111403,
       "source": "\nteach them a lesson?",
       "source_sha256": "e48e91caf64570dffc67c2a0d9e56cd22132427bd7ce6dc3080565a207885b6b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndạy cho chúng một bài học không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b3eb",
       "file_offset": 111595,
       "source": "(Why do I always run out of honey?",
       "source_sha256": "b70eb80ce4e01d5fff783cde99653ad7bc873343aa208bed58ccef7327777715",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Sao tôi cứ hết mật ong hoài vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b49f",
       "file_offset": 111775,
       "source": "\nand get me some?",
       "source_sha256": "a12a7a0f6274b94492986fb4aa156c60f8cb1f84bb67ac92f0084672bcfd8336",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà lấy giúp tôi ít mật ong nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b595",
       "file_offset": 112021,
       "source": "\nfrom the sea.",
       "source_sha256": "e64674d34b42029f8a66b61655754bfaf40fe9c99e45ea37b3ae092457ad0438",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b61d",
       "file_offset": 112157,
       "source": "\nfeel free to look into it.",
       "source_sha256": "05347c43e4ac610aa08f304b44bdda13fbb562d8b2e12262a4c018af96082d7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ tự nhiên tìm hiểu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b703",
       "file_offset": 112387,
       "source": "\nfood I want to serve.",
       "source_sha256": "1857396becc2e994c163291f2bf439ce11315c786429b206e3dd6184734ede0c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmón ăn tôi muốn phục vụ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b795",
       "file_offset": 112533,
       "source": "\nthree of them for me?",
       "source_sha256": "0d65d599472aac44a4cd34046d2f29fb772a44951aed06733d88ee6a210aab67",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nba con trong số đó giúp tôi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b82a",
       "file_offset": 112682,
       "source": "\nsoon as yer get them.",
       "source_sha256": "e74d2f92b3c87ab29f44ddff08da43ab2027540b11f669af069a8c2aa3b848f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay khi bạn lấy được chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b8eb",
       "file_offset": 112875,
       "source": " Do you know the Gladiolus?",
       "source_sha256": "f98bdfe8882fce8c48d88b8f4c5bab8201ebd6b0ad2b84b7a68c1fdaf3c831c7",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn biết Gladiolus chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001b9d5",
       "file_offset": 113109,
       "source": "\nfrom the stress, though.",
       "source_sha256": "6df539c041a2a0dd4df72afc453ebec3df24d2653288f2606533297cb484e594",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndo căng thẳng thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001ba71",
       "file_offset": 113265,
       "source": "\nof yer mind.",
       "source_sha256": "5e6692e57c0470c06484458b4c196c73df01be09302249d382b224cebef081d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong đầu bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001bb46",
       "file_offset": 113478,
       "source": "\nabout an old army mate of mine.",
       "source_sha256": "72e677555c698da5173a51feea44e04fb44aa3c429a05b40f1c0a44f7b7deb24",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề một đồng đội cũ của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001bbe7",
       "file_offset": 113639,
       "source": "\nget somewhere.",
       "source_sha256": "db7b0a00a12903fc3de601533082444fe09472426a24323da9708a5e685c8a7b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến được nơi nào đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001bc7b",
       "file_offset": 113787,
       "source": "\na sad clown.",
       "source_sha256": "9afb24a1aa88a82d4d04cba11088a686703a9b8f241def1231698d544f341c75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột chú hề buồn bã.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001bcef",
       "file_offset": 113903,
       "source": "\nthen something gets in his way.",
       "source_sha256": "d4bcf67c89b8a16bee994ca9c7b0cbf4a58e7f9431e0400d7ddfb503fa120701",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrồi lại có thứ cản đường anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001bd70",
       "file_offset": 114032,
       "source": "\nthere's nothing I can do.",
       "source_sha256": "1f0433efea0cd59fa5ce19d8325264e9569b651631bf370b1cb2dcc92f127954",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi cũng chẳng làm gì được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001be00",
       "file_offset": 114176,
       "source": "\nI won't ask you to do it for free.",
       "source_sha256": "5ea89b6f5c6cd7c143960f9e001f2493bfe7587312175fd3cffa544089b38045",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi sẽ không bắt bạn làm không công.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001becc",
       "file_offset": 114380,
       "source": "So what are you up for?",
       "source_sha256": "e73afd323272c1c490e2e9d66ff1534e8d4c8ad6048db97282fe8d7f388bc8bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy bạn muốn nhận việc nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001bfba",
       "file_offset": 114618,
       "source": "* Downloaded quests",
       "source_sha256": "8b81fdf107af346c1e47079a1ef203df78e4e815e1141eda355ed406563215f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Nhiệm vụ tải về",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001c084",
       "file_offset": 114820,
       "source": "Cancel current quests?",
       "source_sha256": "39eb6f2ba5a5c4000d060167ee40ceb41cad6828f2e01a11533b17f5731eb3c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hủy các nhiệm vụ hiện tại?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001c1a7",
       "file_offset": 115111,
       "source": "$Here're the available quests.",
       "source_sha256": "089613a7e5c788fbcd4e7b3f6103f064c93373cf4379915aa61c4a9270e56a11",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đây là các nhiệm vụ hiện có.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001c1cb",
       "file_offset": 115147,
       "source": " Cancel",
       "source_sha256": "24b113e7a0b4eb2fa77e88951bdcbe5fb616a8af4261f6edfe86b7754bc091c2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hủy",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001c1d3",
       "file_offset": 115155,
       "source": "Accept Q",
       "source_sha256": "802abe40170e06d340c1a0cb5d27cf55fb26e9a2fb4918bc2b29309bf2ad8a3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhận NV",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001c1dc",
       "file_offset": 115164,
       "source": "Refuse Q",
       "source_sha256": "c10bd5fb7a528701bfffe1e139852036f0c0905beee7e7bb5b9b93be322e12ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Từ chối NV",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001c28b",
       "file_offset": 115339,
       "source": " What should I go and do...",
       "source_sha256": "89462683564dcbdf1b7bf875bfd8f0e2e1dd8e396ef3a32b13e03d2ed0fc6605",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi nên đi làm gì đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn tiếng Anh trùng các chuỗi đã dịch ở tk100/tk101; giữ nguyên bản Việt hóa để tránh lệch thuật ngữ và xưng hô. Candidate chưa xác minh parser và người nói."
     }
   ]
 }

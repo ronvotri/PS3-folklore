@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft` và 361/494 mục tk102 `draft`. Còn 9.702 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 1.122 ứng viên talk có bản nháp (314 tk100, 447 tk101, 361 tk102). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft` và 67/578 mục tk103 `draft`. Còn 9.502 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 1.322 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 67 tk103). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -165,3 +165,9 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Rà xưng hô và diễn biến ở Doolin, Gam/Gee, tín ngưỡng linh hồn, trận chiến Folk; không gán speaker khi chỉ thấy mảnh câu, notes nêu các danh xưng/đại từ chưa chắc chắn. Giữ nguyên Halflive, Folk, Id; danh hiệu/chiêu thức chưa đủ bằng chứng chỉ là bản dịch nháp.
 - Chỉ thay vi/status/notes; id/source/source_sha256/file_offset/source_review/order giữ nguyên. QA NFC, số ngắt dòng, ký hiệu đầu nguồn và chuỗi trùng không xung đột. Không chỉnh font Merienda V3 hoặc game binary; parser/repacker talk/cmc và kiểm tra RPCS3 vẫn chưa có.
 - Checkpoint tiếp theo: `talk/en/tk102_en.bin_@0001670a`.
+
+## Lượt 018 — 11/10/2026 (200 mục hội thoại)
+
+- Hoàn thành 133 mục `tk102` (494/494 draft), tất cả có nguồn trùng `tk100/tk101` và dùng bản dịch đã thống nhất. Thêm 67 bản nháp trong `tk103` (67/578; 20 copy đúng nguồn cũ, 47 mảnh mới) có chủ đề bác sĩ/người chồng mất tích/Lãng quên. Tổng **2.384 draft**, **9.502 todo** trên 158 catalog.
+- QA chỉ vi/status/notes, giữ nguyên id/source/hash/file_offset/source_review và thứ tự; đảm bảo NFC, dòng, marker và source trùng nhất quán. Đánh dấu chỗ xưng hô, danh xưng chưa rõ trong notes; không suy người nói từ offset.
+- Chưa có repacker thoại và chưa chạy RPCS3/test font Merienda V3 cho các câu mới. Sau commit kiểm tra CI Windows/Ubuntu. Lượt 019 tiếp tại `talk/en/tk103_en.bin_@00004c8b`.
