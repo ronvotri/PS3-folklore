@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk104_en.bin_.json`: tiếp tục từ `talk/en/tk104_en.bin_@000108dc` (` / dead. Just what's going on here?`), còn 442 `todo`. Rà người nói/quan hệ trong mảnh câu và tên riêng liên quan Cecilia, bác sĩ Lester, Thánh địa.
-2. Các tệp `tk100`, `tk101`, `tk102`, `tk103` đã lần lượt đạt 314/314, 447/447, 494/494, 578/578 `draft`. Ba CMC `LCmc000`, `LCmc002`, `LCmc004` có tổng 46/46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
+1. `translations/catalogs/talk/tk200_en.bin_.json`: tiếp tục từ `talk/en/tk200_en.bin_@00001158` (`To Netherworld`), có 280 mục `todo`. Ưu tiên tái sử dụng bản dịch nguồn trùng từ tk100–tk107, rồi dịch mảnh thoại còn mới theo bối cảnh. Sau đó chuyển tk201.
+2. Các tệp `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đã đủ **3.273/3.273 mục draft** cộng lại; ba CMC `LCmc000`, `LCmc002`, `LCmc004` có 46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 494/494, tk103 578/578, tk104 289/731 `draft`. Còn 8.702 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu **1.016/1.016 draft**; CMC 46 draft; talk `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đủ tổng **3.273 draft**. Tổng toàn bộ **4.335/11.886 draft**, còn **7.551 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -22,10 +22,11 @@ Người dùng tự mở game/test/gửi ảnh; không tự điều khiển gi�
 
 ## Ghi sau mỗi lượt
 
-Theo yêu cầu người dùng ngày 10/10/2026: menu dịch khoảng **200 mục/lượt**,
-chia kiểm tra nội bộ mỗi ~50 mục nhưng chỉ bàn giao/commit sau khi hoàn tất cả
-lượt. Không tự dừng ở 50 nếu không có lỗi thật. Nếu hội thoại dài hoặc cần rà
-ngữ cảnh, giảm kích cỡ hợp lý nhưng giải thích trong checkpoint.
+Theo cập nhật yêu cầu người dùng ngày 11/10/2026: **không giới hạn cứng 200
+mục/lượt**; làm nhiều nhất khi vẫn giữ chất lượng/QA. Ưu tiên hoàn tất catalog,
+tránh dịch lại nguồn trùng, rà ngữ cảnh, xưng hô, newline và control markers.
+Chia nhóm kiểm tra nội bộ theo độ khó, commit sau khi hoàn thành một khối nhất
+quán. Có thể làm ít hơn khi thiếu speaker/metadata hoặc phát hiện lỗi thật.
 Ghi tệp, ID đầu/cuối hoặc danh sách ID, số mục đổi trạng thái, ngữ cảnh còn
 thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 khi thêm lịch sử.
 
@@ -230,3 +231,13 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA trước commit: đúng 200 ID, chỉ `vi/status/notes` thay đổi; English/source_sha256/file_offset/source_review/order và hash danh mục bất biến; Unicode NFC, số newline, placeholder, tiền tố `$`/`(`/`*` được soát. Font Merienda V3 và dữ liệu PS3 không đổi.
 - Tất cả vẫn chỉ `source_review=candidate` và `status=draft`, chưa có parser/repacker thoại hay kiểm thử RPCS3. Độ phủ dữ liệu trích xuất toàn repo: **3.184/11.886 mục draft**, còn **8.702 todo** (không phải tỷ lệ bản patch playable).
 - GitHub Actions sau push kiểm tra unittest và validator Windows/Ubuntu. **Lượt 023:** `talk/en/tk104_en.bin_@000108dc` (`dead. Just what's going on here?`).
+
+## Lượt 023 — 11/10/2026 (1.151 ứng viên; thay quy định 200/lượt)
+
+- Theo yêu cầu mới **không bắt buộc 200 mục**, đã hoàn thành **1.151 mục `todo→draft`** trong một đợt kiểm tra: 442 mục còn lại của `tk104` (`@000108dc` → `@00029a13`), toàn bộ 595 mục `tk105` (`@00001158` → `@00023717`), và 6 tệp 19 mục `tk000`, `tk011`, `tk106`, `tk107`, `tk206`, `tk207` (114 mục). Cả **8 catalog đều hiện đủ draft**.
+- `tk104`: 323 mục dùng lại bản `vi` nguồn trùng đã có, 25 lần lặp nội bộ, 94 nguồn mới phân biệt. `tk105`: 47 mục tái dùng nguồn trước trong 200 mục đầu, 12 lần lặp nội bộ, 141 nguồn mới; 395 mục sau gồm 358 lần trùng với tk104/tk105 đã dịch, một lần lặp nội bộ, 36 nguồn mới. 6 tệp nhỏ có 114/114 câu điều hướng/map/nhãn trùng nguyên văn `tk100`.
+- Ngữ cảnh mới: cư dân Doolin, quán rượu, tiền nhân/Thánh địa, cảnh câu đố phong ấn, bí mật về mẹ, thôi miên hồi quy, phóng viên, thành phố/cõi Địa Ngục, Tòa án và Sứ giả. Những câu bị cắt/mơ hồ như `Forebears`, `clerical duties`, `lift`, `ash tree`, `big fish in a small pond` được ghi notes; không tự gán speaker hay khóa cứng ngôi xưng.
+- QA trên bản dự thảo sau khi ghép cây Git: cả 12 tệp talk hoàn chỉnh có **3.273/3.273 draft**, không có source trùng được dịch khác nhau; bảo toàn ID, source, hash, file_offset, source_review và thứ tự. Kiểm tra NFC, số newline, tiền tố `$`/`(`/`*`, token/placeholder; tất cả talk vẫn `candidate/draft`.
+- Toàn bộ 158 catalog: **4.335/11.886 draft (36,5%)**, còn **7.551 todo**. Tỷ lệ này chỉ tính dữ liệu đã trích, **không phải bản vá Folklore playable**. Không có parser/repacker talk/cmc hoặc thử RPCS3; giữ nguyên Merienda V3, ISO và game binary.
+- Cập nhật quy định batch lớn không có mốc cứng ở `AGENTS.md`, `docs/CLOUD.md`, `docs/TRANSLATION.md`, `docs/QUEUE.md`; tài liệu tiếp nhận được đồng bộ.
+- **Tiếp theo:** `talk/en/tk200_en.bin_@00001158` (280 mục). Sau push xem GitHub Actions validator + unittest Windows/Ubuntu.

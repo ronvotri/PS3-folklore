@@ -3,7 +3,7 @@
 **Đang Việt hóa theo từng đợt lớn.** Repo có 158 catalog / 11.886 mục nguồn,
 thuật ngữ và checkpoint. Menu đã có 1.016/1.016 bản dịch nháp; các tệp talk/cmc
 chứa ứng viên từ quét dữ liệu chưa có parser hoàn chỉnh. Mỗi đợt ưu tiên khoảng
-200 mục khi có đủ ngữ cảnh; xem docs/QUEUE.md.
+nhiều mục nhất có thể kiểm tra chất lượng trong một lượt; không giới hạn cứng 200 mục; xem docs/QUEUE.md.
 
 Font **Merienda Regular 400 V3** được người dùng xác nhận sửa khoảng hở sau
 chữ có dấu. Đây là bản menu mẫu đã thử trong RPCS3; chưa xác minh toàn game,

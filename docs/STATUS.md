@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft`, 578/578 mục tk103 `draft` và 289/731 mục tk104 `draft`. Còn 8.702 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 2.122 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 578 tk103, 289 tk104). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **4.335 draft / 11.886** catalog entries, còn **7.551 todo** (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 3.273 ứng viên talk có bản nháp (tk000 19, tk011 19, tk100 314, tk101 447, tk102 494, tk103 578, tk104 731, tk105 595, tk106 19, tk107 19, tk206 19, tk207 19). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -199,3 +199,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nội dung: thư gửi bác sĩ Lester nhắc Cecilia, ký ức và chuyện chết chóc 17 năm trước, Faery, Thánh địa, nữ tư tế cổ và cổ vật. Các từ chuyên biệt chưa đủ chứng cứ hoặc fragment thiếu người nói đều có notes; không áp đặt đại từ, giữ giọng phù hợp bí ẩn/truyền thuyết.
 - QA chỉ sửa vi/status/notes; ID/source/source_sha256/file_offset/source_review bất biến; NFC/newline/placeholder/tiền tố và bản dịch source trùng không mâu thuẫn. Vẫn là candidate/draft, chưa đóng gói/hỗ trợ parser/repacker talk/cmc hay thử RPCS3. Giữ nguyên font V3.
 - Lượt 023 bắt đầu `talk/en/tk104_en.bin_@000108dc`. Sau commit CI Windows/Ubuntu chạy validator và unittest.
+
+## Lượt 023 — 11/10/2026 (1.151 ứng viên hội thoại)
+
+- Thay chính sách 200 mục cố định theo yêu cầu: xử lý được **1.151 todo→draft**, hoàn thành trọn `tk104` (731/731), `tk105` (595/595) và 6 tệp `tk000`, `tk011`, `tk106`, `tk107`, `tk206`, `tk207` (6×19=114). Trong đợt có 94 nguồn mới phân biệt tk104, 177 nguồn mới phân biệt tk105 (141+36), phần còn lại kế thừa và lặp trong đợt.
+- QA của 12 tệp talk đủ draft: **3.273 mục**, không có source giống nhau mà bản Việt hóa khác nhau. Metadata English/source hash/ID/offset/source_review không thay; chỉ vi/status/notes. Kiểm tra newline, Unicode NFC, mã/placeholder/tiền tố. Những đoạn không xác minh speaker và thuật ngữ đều có notes.
+- Tổng repo **4.335/11.886 draft**, **7.551 todo**. Đây là độ phủ ứng viên text, chưa có parser/repacker hay test RPCS3. Font Merienda V3 không thay. Cả 158 catalog còn rất nhiều CMC/talk chưa dịch.
+- **Checkpoint kế tiếp:** `talk/en/tk200_en.bin_@00001158`, `tk200` có 280 todo. GitHub Actions Windows/Ubuntu chạy validator + unittest sau push.

@@ -16,8 +16,8 @@ notes. Giữ nguyên nguồn/ID/order/metadata. Chỉ điền bản dịch và t
 NFC, không nhập ký tự alias font vào trường vi.
 
 Trạng thái: todo → draft → reviewed → tested. skip dành cho mục không phải
-văn bản cần dịch, phải giải thích trong notes. 134 mục menu mẫu đang draft:
-đã dịch thử, nhưng không phải tất cả đã được người dùng xem trong game.
+văn bản cần dịch, phải giải thích trong notes. Toàn bộ 1.016 mục menu hiện
+đã có bản nháp; chỉ một phần nhỏ đã được người dùng xem trong game.
 
 ## Xưng hô và khẩu khí nhân vật
 
@@ -38,11 +38,12 @@ xác minh; không cắt nguồn, nối mục hay sửa offset để làm câu tr
 
 ## Mỗi lượt
 
-Đối với menu đã xác minh: dịch khoảng 200 mục mỗi lượt (hoặc tất cả mục còn lại
-nếu ít hơn), rà thành từng nhóm nội bộ ~50 mục, kiểm tra từ vựng và source
-trùng nhau; chỉ bàn giao sau khi hoàn tất lượt lớn. Đối với hội thoại dài,
-cảnh có nhiều người nói hoặc dữ liệu chưa rõ metadata, chia lượng nhỏ hơn khi
-cần để giữ ngữ cảnh và chất lượng.
+Không có định mức cứng **200 mục/lượt**: làm nhiều nhất có thể mà vẫn QA,
+ưu tiên hoàn tất trọn tệp và đồng bộ những source tiếng Anh giống nhau.
+Rà theo các nhóm nội bộ phù hợp (có thể ~50 mục), kiểm tra xưng hô, thuật ngữ,
+nguồn trùng, newline, control markers. Khi thoại dài/thiếu speaker/metadata,
+giảm số lượng nếu cần để giữ chất lượng. Chỉ commit phần đã được soát và ghi
+cụ thể checkpoint.
 Chạy python tools/catalog.py validate và unittest; xem diff để chắc chỉ
 trường dịch/tiến độ thay đổi. Cập nhật
 QUEUE.md với tệp/ID đã làm, vấn đề còn mở và điểm bắt đầu lượt sau.

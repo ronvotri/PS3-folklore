@@ -11,190 +11,190 @@
       "file_offset": 648,
       "source": "To Netherworld",
       "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@000002e8",
       "file_offset": 744,
       "source": "Use item",
       "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dùng vật phẩm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000344",
       "file_offset": 836,
       "source": "Memo pad",
       "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sổ ghi chú",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000604",
       "file_offset": 1540,
       "source": "Ellen's hut",
       "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Túp lều của Ellen",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000660",
       "file_offset": 1632,
       "source": "Keats' base",
       "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
-      "vi": "",
-      "status": "todo",
+      "vi": "Căn cứ của Keats",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@000006bc",
       "file_offset": 1724,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@0000071c",
       "file_offset": 1820,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000780",
       "file_offset": 1920,
       "source": "Pub owner's home",
       "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà chủ quán rượu",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@000007e4",
       "file_offset": 2020,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000844",
       "file_offset": 2116,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@000008a7",
       "file_offset": 2215,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000914",
       "file_offset": 2324,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000974",
       "file_offset": 2420,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000a54",
       "file_offset": 2644,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000ab4",
       "file_offset": 2740,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000b10",
       "file_offset": 2832,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000b74",
       "file_offset": 2932,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000bd8",
       "file_offset": 3032,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     },
     {
       "id": "talk/en/tk000_en.bin_@00000c38",
       "file_offset": 3128,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Chuỗi điều hướng/địa điểm trùng nguyên văn với tk100: tái sử dụng vi chuẩn. Vẫn giữ source_review=candidate; chưa có parser/repacker hoặc runtime test."
     }
   ]
 }
