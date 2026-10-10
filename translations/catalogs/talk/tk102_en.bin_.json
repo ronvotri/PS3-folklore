@@ -1621,2000 +1621,2000 @@
       "file_offset": 39297,
       "source": "\ndevastated. They were close.",
       "source_sha256": "8a649365ed3277d9537fe0a270de8d96ef5621b4893200928d798d035c8d6fe4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy sụp. Hai người rất thân thiết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Chỉ biết hai người thân thiết và một người suy sụp; không đoán tên hoặc quan hệ."
     },
     {
       "id": "talk/en/tk102_en.bin_@00009a81",
       "file_offset": 39553,
       "source": "\ndevastated. They were close.",
       "source_sha256": "8a649365ed3277d9537fe0a270de8d96ef5621b4893200928d798d035c8d6fe4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy sụp. Hai người rất thân thiết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00009b8d",
       "file_offset": 39821,
       "source": "\nand is unable to walk.",
       "source_sha256": "c92bf25bd9598b42eacb448ba219fad23297464867b2e7dbc4583f31667c30f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà không thể đi lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Không xác định nhân vật không thể đi lại từ riêng fragment."
     },
     {
       "id": "talk/en/tk102_en.bin_@00009c29",
       "file_offset": 39977,
       "source": "\nfrom her wheelchair.",
       "source_sha256": "8ff963d3eca5b3caf2bf37352deb9d4f3d57039867c737df82c3cbe028e3121b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ chiếc xe lăn của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Đại từ cô ấy là tạm thời; chưa xác định độ tuổi hoặc danh tính người ngồi xe lăn."
     },
     {
       "id": "talk/en/tk102_en.bin_@00009d32",
       "file_offset": 40242,
       "source": "\nlife from her wheelchair.",
       "source_sha256": "94dde5f61f68e7cf8c30b1321cc385a9ba6494747a579f0df67a7e5c822c150a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuộc sống trên chiếc xe lăn của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Life from her wheelchair: nghĩa phụ thuộc đoạn trước, cần xem trọn câu."
     },
     {
       "id": "talk/en/tk102_en.bin_@00009ea1",
       "file_offset": 40609,
       "source": "\nthe girl asked me...",
       "source_sha256": "283f3bd9c4c90a45768062499be555fd53bba8b2d408643541fa41d288c57e2b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô gái đã hỏi tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00009f38",
       "file_offset": 40760,
       "source": ", too.",
       "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a024",
       "file_offset": 40996,
       "source": ", too.",
       "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a3bd",
       "file_offset": 41917,
       "source": "\nfarewell to the spirits of the dead.",
       "source_sha256": "740351016a0505cf30ca649ca034d7a0a0182470d38ef37e812ffbf088e0677e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntiễn biệt những linh hồn đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Bối cảnh nghi thức tiễn biệt linh hồn; không tự khẳng định tôn giáo cụ thể."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a443",
       "file_offset": 42051,
       "source": "\nwere impure.",
       "source_sha256": "5835044807202ef60c3ca909a19dfbfa55df90b47a55da153b4349d2e950f5e8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđều bị coi là ô uế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Impure là ô uế/không thanh sạch trong bối cảnh tín ngưỡng, chưa rõ chủ ngữ."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a4b9",
       "file_offset": 42169,
       "source": "\nthe dead has long been recognized.",
       "source_sha256": "ec5878532f7bc4bf94b0ed1f11eae6820045e46c826ff3e03b24beb8d17d0242",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười đã khuất từ lâu đã được thừa nhận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. The dead has long been recognized là mảnh câu; chưa rõ điều gì về người chết được công nhận."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a5a9",
       "file_offset": 42409,
       "source": "\nthe dead has long been recognized.",
       "source_sha256": "ec5878532f7bc4bf94b0ed1f11eae6820045e46c826ff3e03b24beb8d17d0242",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười đã khuất từ lâu đã được thừa nhận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a805",
       "file_offset": 43013,
       "source": "\nresponsive to spiritualism.",
       "source_sha256": "a692cfe638e3e306b3b3824bea97fde8fe1baa3765b5631f78f1ea459d64f878",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhạy cảm với những hiện tượng tâm linh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Spiritualism tạm thuyết tâm linh/hiện tượng tâm linh, cần đối chiếu nguyên đoạn."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a888",
       "file_offset": 43144,
       "source": "\nlife was revived in this village.",
       "source_sha256": "3b9b84b795c3a3d0546600df803045943f1652cc6d668bfdf515e7cc45dff8d1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự sống đã hồi sinh trong ngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000a9dd",
       "file_offset": 43485,
       "source": "\nthis village.",
       "source_sha256": "cb3a17bd217c84f7dde24f970d090dc0b96e60570824ffdf83c0e99694393c45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ab56",
       "file_offset": 43862,
       "source": "\na rest.",
       "source_sha256": "87c6caf26ae2365acc7c17f20e8ac7ec410fd09ee8c9042fd50004e8dabc13f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnghỉ ngơi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000abfa",
       "file_offset": 44026,
       "source": "\nthat woman in the wheelchair.",
       "source_sha256": "a3b998976c82614e8f4486a61e7563f6c006ace924bbfca238b2a1ec82390e17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười phụ nữ ngồi xe lăn ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ad03",
       "file_offset": 44291,
       "source": "\nthat woman in the wheelchair.",
       "source_sha256": "a3b998976c82614e8f4486a61e7563f6c006ace924bbfca238b2a1ec82390e17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười phụ nữ ngồi xe lăn ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b239",
       "file_offset": 45625,
       "source": "\nsome money here... Now look!",
       "source_sha256": "00bdcb187239bcae25cd1bc9206fb20287a82fdf4c413dfd22a6664d6a676444",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột ít tiền ở đây... Giờ nhìn này!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Mảnh chuyện tiền bạc chưa rõ người nói."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b2ba",
       "file_offset": 45754,
       "source": "\nopportunities for blackmail.",
       "source_sha256": "e4fc04660a3179ab3e6fca9d76679ffb157f8350bf6becb1df07d57a74e157cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncơ hội để tống tiền.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b380",
       "file_offset": 45952,
       "source": "What do you want...?",
       "source_sha256": "e1d09b343c02404a164da3f286c3b7c716208f51628762f4f800ec572668192a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn muốn gì...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b45d",
       "file_offset": 46173,
       "source": "\nmight be worth something.",
       "source_sha256": "1ad2bbf3b54b9bfed2ec96b166436b84821468ed3b91cc4f548f610d62109a9e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể đáng giá gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b4db",
       "file_offset": 46299,
       "source": "\ncould be sold for a good price.",
       "source_sha256": "bb7e52d0e236d306dbfd47288d23e07f09545a383d8af5572a4fee24445c0a28",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể bán được giá hời.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b55d",
       "file_offset": 46429,
       "source": "\nthe place up with dynamite...?",
       "source_sha256": "531dfbeb46192ba2cc03fd1670e9ba6c00b8a3261c17572a9c12b2eda2597f7b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho nổ tung chỗ đó bằng thuốc nổ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Dynamite là chất nổ; nguồn không nói đã thực hiện, giữ dạng nghi vấn."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b664",
       "file_offset": 46692,
       "source": "\nto make it worthwhile somehow!",
       "source_sha256": "0aff87fd22bf23904d21d395d1e8e720994fa5f9492af3f27b4c460dca1236fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể kiểu gì cũng kiếm được chút lợi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b756",
       "file_offset": 46934,
       "source": "\nWill you play with me?",
       "source_sha256": "78beada8ab5dafea7ba2d7eddd5b3f00fb5e8c28f0645f2287ed18a246071954",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn chơi với tôi nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000b818",
       "file_offset": 47128,
       "source": "Will you play with me?",
       "source_sha256": "a5f2d0ed34cbb323b6e66d9bc4db15ada53b92b2ac73351a0f9f1887ffd0fcaf",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn chơi với tôi nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ba71",
       "file_offset": 47729,
       "source": "\na bridge between people.",
       "source_sha256": "90692c8924e438132282fbc786a286dac453a7ea9df5615920c17ff0067bd735",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchiếc cầu nối giữa con người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. A bridge between people thiếu chủ ngữ; không tự đoán Folk."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000bb6c",
       "file_offset": 47980,
       "source": "\nThat could mean FAERYS?",
       "source_sha256": "ca0e26a219e8c542a31d53e51ad01133170180dfb08fe4f14df499bb21e230d3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nÝ là các FAERY sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. FAERYS viết hoa nhấn mạnh; giữ danh xưng Faery, không thay bằng tiên nữ."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000bc2f",
       "file_offset": 48175,
       "source": "$Everyone has their troubles.",
       "source_sha256": "49d81828a10331107486d781d287fdc4de472e5f9a1d610b36fc296daf6ca9c7",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ai cũng có nỗi khổ riêng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000bc93",
       "file_offset": 48275,
       "source": "$The Halflives come at night.",
       "source_sha256": "0a5698c5239025dfbfde0b9ea1109753620a03778b645b9636ce6941e0f2ab9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Các Halflive thường đến vào ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Bảo toàn tiền tố gốc nghi là control marker. Halflive là danh xưng nội tại game."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000bd17",
       "file_offset": 48407,
       "source": "\nthe pub during the day, yeah.",
       "source_sha256": "b4cc6d364e63079c22df2bcfca1455891fb7da1a15e09d836e0e3d002607e900",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquán rượu vào ban ngày, ừ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000bd7b",
       "file_offset": 48507,
       "source": "$Please drop in now and again.",
       "source_sha256": "30c7e5a4ec9a8e4bad683256bdbb1aa7e5ada08cc447ee661370b7440f134334",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Thỉnh thoảng ghé qua chơi nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000be82",
       "file_offset": 48770,
       "source": "\nPlease drop in now and again.",
       "source_sha256": "f5a37e9f10fec14fc2c3a4ad1a7e08daaadcda6552e8ceb2be7c4739590e40b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThỉnh thoảng ghé qua chơi nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c0cc",
       "file_offset": 49356,
       "source": "\nages. He must be busy.",
       "source_sha256": "560dbf238c5a19f8adc170208b19681bcb2804abf044b3c90ab7897a86dc05c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlâu rồi. Chắc người đó bận lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. He không rõ tên/tuổi, dịch trung tính người đó."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c13e",
       "file_offset": 49470,
       "source": "\nhis ale...",
       "source_sha256": "f88f2686b50aaf6c9e4facbf63398caf4d7faf2e947767d0677b9629af143de3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbia của anh ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Ale là bia, không rõ nhân vật được nhắc."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c22c",
       "file_offset": 49708,
       "source": "\nfind yerself stuck, why not, eh?",
       "source_sha256": "66b3262795a6692a739f6fe0b20200fb8a950cf061b2b1e5a9b3a003421b939f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnếu mắc kẹt thì cứ thử xem, nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Khẩu ngữ yer từ vùng Doolin; dịch thân tình nhưng chưa gán quan hệ."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c3d2",
       "file_offset": 50130,
       "source": "\nabsorbing thoughts on death.",
       "source_sha256": "b359a6895f57129887af55ef5d0873d77a0cf84f3490de05bf7e878b7adaecbc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđắm mình trong những suy tưởng về cái chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Absorbing thoughts on death thiếu vế trước; không rõ đối tượng suy tưởng."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c4c1",
       "file_offset": 50369,
       "source": "\nabsorbing thoughts on death.",
       "source_sha256": "b359a6895f57129887af55ef5d0873d77a0cf84f3490de05bf7e878b7adaecbc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđắm mình trong những suy tưởng về cái chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c6fb",
       "file_offset": 50939,
       "source": "\nwill change, but continue on.",
       "source_sha256": "e0b204426d44224764aed5825c48cf2aab9ad5924f8cbddff03d5f7aec843bf0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ thay đổi, nhưng vẫn tiếp diễn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c77c",
       "file_offset": 51068,
       "source": "\nIt has lost its way.",
       "source_sha256": "50b4c32b8074a792dc907ba5e2a3c1cdfb2ff20f0159499819168408c5f8b299",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNó đã lạc đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c85b",
       "file_offset": 51291,
       "source": "\nnow. It has lost its way.",
       "source_sha256": "41b52f1db90fb052e6823ef0311298dddfc79ebdfbb789182ebaaaf03270e6f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbây giờ. Nó đã lạc đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000c959",
       "file_offset": 51545,
       "source": "\ndream and which is reality?",
       "source_sha256": "6951bedaeb21823c03836e7af5c2c53499af0911e1008127194d789a5561c3a0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđâu là mơ, đâu là thực?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000cb14",
       "file_offset": 51988,
       "source": "\nor real world? Confusing, eh?",
       "source_sha256": "47a3ab9d183419985ec9d7d41aec1e159c378df160ae7cdb8fffd40daf9f7ff6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhay thế giới thực? Rối thật nhỉ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000cc12",
       "file_offset": 52242,
       "source": "\nall that difficult.",
       "source_sha256": "d00d6af12af34839f6cfcb1bc6780f2ba158ba0015b1f0cf3fafb3c98b4212bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhó khăn đến thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000cc89",
       "file_offset": 52361,
       "source": "\nyou'll also smell it.",
       "source_sha256": "8b7577b73f5b06b1fdf8cd13d877fdd567812fb5652042d62eeb7fa48640a503",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn còn ngửi thấy nó nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Thiếu vật được ngửi; không tự thêm chủ ngữ."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ce5b",
       "file_offset": 52827,
       "source": "\nvoices of the dead.",
       "source_sha256": "9bd4dd4920522ee5ef6addae75cdce92393ce118a7a6613ca0d0cbb8e909a58a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntiếng nói của người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ceb4",
       "file_offset": 52916,
       "source": "Help him, would you?",
       "source_sha256": "37d532a30707af317ab7937ee8fd4858950f6e986b5974421a053285b4ac1123",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giúp anh ấy được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. He chưa rõ danh tính, dùng anh ấy tạm chứ không định quan hệ."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000cf8e",
       "file_offset": 53134,
       "source": ", would you?",
       "source_sha256": "7be457f5887bc098364f9d83b17d2c0e058059ca07f20f196acb80955ebced96",
-      "vi": "",
-      "status": "todo",
+      "vi": ", được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d1bb",
       "file_offset": 53691,
       "source": "\nin spiritualism.",
       "source_sha256": "f48edee1c747c95570593d1a35dc2c7cc6fa8b2a128d1db96afe972d268c9cb9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào thuyết tâm linh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d232",
       "file_offset": 53810,
       "source": "\nbuilt what became the ruins.",
       "source_sha256": "3b8dc76452ef2f251d0641dc8e722791e201c0042869fec8996218cb4a695561",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xây nên nơi giờ chỉ còn phế tích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Ruins không chắc địa danh, tạm phế tích."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d2cc",
       "file_offset": 53964,
       "source": "\ndo you!?!",
       "source_sha256": "b8eb6941e255baedc9ca04703df7ca8c7c9fbae738a7dd9dbbd203daf72691da",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải không!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d3bd",
       "file_offset": 54205,
       "source": "\nbuilt what became the ruins.",
       "source_sha256": "3b8dc76452ef2f251d0641dc8e722791e201c0042869fec8996218cb4a695561",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xây nên nơi giờ chỉ còn phế tích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d4a3",
       "file_offset": 54435,
       "source": "\nturned up in the pub!",
       "source_sha256": "3889f6fdb6f1a0396d7ee557a835e745920929588af5636de72b111e7cb87017",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xuất hiện ở quán rượu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d4ff",
       "file_offset": 54527,
       "source": "(*squeak*... Do something about it!",
       "source_sha256": "ba248ed89bb9d7422bc20be8b7aa859eeda46a755722e502c5078beded52c670",
-      "vi": "",
-      "status": "todo",
+      "vi": "(*chít chít*... Làm gì đó đi chứ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Bảo toàn tiền tố gốc nghi là control marker. Tiếng kêu squeak nằm trong dấu *; giữ chính xác cặp * và dấu ( nguồn."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d584",
       "file_offset": 54660,
       "source": "\nhere anyway?!?",
       "source_sha256": "dd26f2bf905448d678197a86afa858a8f3be7941010a6539153786d6c9e719e8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đây làm gì chứ?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d5df",
       "file_offset": 54751,
       "source": "(*squeak*... How should I know?!?",
       "source_sha256": "a10ffb75988246f622aaa544519826e2e18e390c78040a6dc4edf3e49ad3bcad",
-      "vi": "",
-      "status": "todo",
+      "vi": "(*chít chít*... Sao tôi biết được?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Bảo toàn tiền tố gốc nghi là control marker. Giữ tiếng squeak và dấu ( mở từ nguồn."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d6c9",
       "file_offset": 54985,
       "source": "\nbe done about that scoundrel!",
       "source_sha256": "da448b19ab2f9340437a27bdea4bb7bbaaca54de10c56ec969dd2ca93b5eda5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải xử lý tên vô lại ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d7a3",
       "file_offset": 55203,
       "source": " Sick of fighting...",
       "source_sha256": "93ee5ac9e91fd0b11a459e98179e934f3d66d4fbc012a6bf5cc2c56296d0860c",
-      "vi": "",
-      "status": "todo",
+      "vi": " Chán đánh nhau quá...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Giọng Gam/Gee cãi nhau, dùng nhịp tự nhiên nhưng không áp đặt mày–tao."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d817",
       "file_offset": 55319,
       "source": "\nempty when we're not fighting...",
       "source_sha256": "6fc4ed5a1eac47a46272d08ab809281fcdad8b1cb3f4656415d79077c45bfcfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông cãi nhau lại thấy trống trải...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d8a7",
       "file_offset": 55463,
       "source": "\nthen!",
       "source_sha256": "868d5da91aa1ac4bc9ae3196ff48131c5b0450a2e2055daa95d6643bc1325a5a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthế thì!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d91c",
       "file_offset": 55580,
       "source": "\nshould I fight with you?!?",
       "source_sha256": "efff296e5517b010945a20ad9584560d5deefc940fec632c665cd17ced82caf9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsao tôi phải cãi nhau với bạn chứ?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000d9df",
       "file_offset": 55775,
       "source": " *squeak, squeak, squeak*",
       "source_sha256": "45463c73a689af7a8b88b8a2217d2351288ebf60f45ec1f6feeb7290b85b180a",
-      "vi": "",
-      "status": "todo",
+      "vi": " *chít, chít, chít*",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Tiếng squeak mô phỏng, giữ cặp *."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000dad5",
       "file_offset": 56021,
       "source": "\nAnything you'd like to know?",
       "source_sha256": "70f819f2b831b06fb3e68fdad9b69c7aa6ee73da74ad8b7e30f0cb64d9cc9009",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn muốn hỏi gì không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000dbf1",
       "file_offset": 56305,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000dcfe",
       "file_offset": 56574,
       "source": "\nback to the village.",
       "source_sha256": "52eb1df1a515caf291c0a340daf1824c4e230cfaaf9d003f4605d02a3cde5dea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrở về làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000dde7",
       "file_offset": 56807,
       "source": "\ndangerous as you go deeper in.",
       "source_sha256": "a1f9b05c996d6a33d2d9e884ff5801007e9d060d642500271e1f1f79f420435f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncàng tiến sâu càng nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000deb2",
       "file_offset": 57010,
       "source": "\nwill heal you.",
       "source_sha256": "a62b4a3ed6e43813057c35c2fb6e811d75e43a3c44cee8ad9d710be61f422f65",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ chữa lành vết thương cho bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000e032",
       "file_offset": 57394,
       "source": " in any way you like.",
       "source_sha256": "1128f404b1b776645bb1ddcc1e82d28d2a0a291db89299291f7c25ac19bdb8a7",
-      "vi": "",
-      "status": "todo",
+      "vi": " theo cách bạn thích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000e0ca",
       "file_offset": 57546,
       "source": "\nto live in this world.",
       "source_sha256": "b06e645ba28b5e747710770a0f77525ff8cd39d5a4177bf55aaddc350d3acc90",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsống ở thế giới này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000e1b8",
       "file_offset": 57784,
       "source": "\nwho have taken a different form.",
       "source_sha256": "257adc52bbd4387937ff5a3a58bb97d790ce9d0257fe5b4047db7cedeec4d9fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người đã mang một hình dạng khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000e23e",
       "file_offset": 57918,
       "source": "\ncan... change.",
       "source_sha256": "88fc8f748ea39ec39e4f77e75b6e41500937ad092e064abde99e367af20579d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể... thay đổi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000e7ff",
       "file_offset": 59391,
       "source": "$Anything you'd like to know?",
       "source_sha256": "1da1a9bd07a5e427c8a36ef130c953054dbc429bfbeeab7e9364bf07f53ead65",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có điều gì muốn biết không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000e91c",
       "file_offset": 59676,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ea19",
       "file_offset": 59929,
       "source": "\nuse some strategy.",
       "source_sha256": "d2d9822b35c7eeeaaad48015c14b49517d31e4a8e718ec9af120b9811d24bbb0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncần chút chiến thuật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000eab5",
       "file_offset": 60085,
       "source": "\nbutton to evade.",
       "source_sha256": "a050436ea46aa817213fe5485228107db5101df89fcd525d59f1944d78df1d1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnút để né tránh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ebb1",
       "file_offset": 60337,
       "source": "\nobjects. Pick them up!",
       "source_sha256": "26c2d1c697e461a7ba66092af56e83b8a68e733135fd12d12895e5cbb0d12a27",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđồ vật. Nhặt chúng lên!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ec77",
       "file_offset": 60535,
       "source": " food.",
       "source_sha256": "9ab7a22c846bfeead52d7f95eccf9400be8cfc9618e15babdaecd40b6e7bdaa1",
-      "vi": "",
-      "status": "todo",
+      "vi": " thức ăn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000ed58",
       "file_offset": 60760,
       "source": " you use grow stronger.",
       "source_sha256": "2ff1ce10dffd9f9b60475ac0d92ec1d1939be3c881b6b608fd16dd8751e33462",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn sử dụng sẽ mạnh hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000edfb",
       "file_offset": 60923,
       "source": " many times.",
       "source_sha256": "acf326394c63e6a01a206c6d30fa69363e3e4acba557089b1b7d674b24831d3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " nhiều lần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000eeec",
       "file_offset": 61164,
       "source": ". We won't attack you.",
       "source_sha256": "aa70372a1aa4294f40d2948824d6e15b3ddd7fd03e9db91b45136261f1404473",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Chúng tôi không tấn công bạn đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f07e",
       "file_offset": 61566,
       "source": "\nwhat happened.",
       "source_sha256": "7098345b0f5168088736fc6d983d85795ac600b6d89c30b42e5fb0e5842bfe62",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện đã xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f159",
       "file_offset": 61785,
       "source": "\nher mother...?",
       "source_sha256": "b420936959b311faca2e328f15bc462ec7c329d3929bc260f148b149977e99c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ cô ấy sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f256",
       "file_offset": 62038,
       "source": "\nopening the door with a memento.",
       "source_sha256": "a917cd0907d1a13ae6eb356fdbc0c2aba6fb98872f048822849a3a3a3e383e20",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmở cánh cửa bằng một kỷ vật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f4ab",
       "file_offset": 62635,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f5e7",
       "file_offset": 62951,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f6e1",
       "file_offset": 63201,
       "source": "\ncommitted to it.",
       "source_sha256": "6f20486729254a6d6c5ba0db65039d919e35c07f78a389ac58c86d6fe301955b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquyết tâm theo đuổi chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f753",
       "file_offset": 63315,
       "source": "\nyou'll have your chance!",
       "source_sha256": "52024c397989141bd4e54c75ee9248cece32fd39d57e87bc72d0f73006ada598",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sẽ có cơ hội!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f86d",
       "file_offset": 63597,
       "source": " drawn on them.",
       "source_sha256": "9fb4d929ecaded3e623a9333206ba2044a6b88930f159813bfcd71feeeb1b09b",
-      "vi": "",
-      "status": "todo",
+      "vi": " được vẽ trên chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f8e1",
       "file_offset": 63713,
       "source": "\nblind alley somewhere...",
       "source_sha256": "49c08afd4fbe7a9fdb2cca457b8b7a5ba308774f1354df5cb038bcecf8881457",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột ngõ cụt nào đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000f9e0",
       "file_offset": 63968,
       "source": "\nthey run off.",
       "source_sha256": "e0dd72d4fde76165d8954caeaed35292d4c31d98571ddda223fbae6953233de4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng bỏ chạy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000facb",
       "file_offset": 64203,
       "source": "\nimpervious to attack,",
       "source_sha256": "ceed8007920d1c11e2dcd06f8a7e5901d2e757a43dbfd580930c20eb4de08bca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông hề hấn trước đòn đánh,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000fb62",
       "file_offset": 64354,
       "source": "\nof water?",
       "source_sha256": "de7c35aa5d8f91b129d85b371474e706fc14aada343e4f26617951037be7179d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa nước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000fbd0",
       "file_offset": 64464,
       "source": "\none try another approach!",
       "source_sha256": "24e771092c01023b9d5f549faaa495b2c8399e940cdaf5fffc2df5054972edf1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông được thì thử cách khác!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000fd81",
       "file_offset": 64897,
       "source": "\nlove to hatred.",
       "source_sha256": "11475371037173d81195193a446b63a0c4eb08db29cc6fe0ac95f312e879b5f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ yêu thương hóa căm hận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000fe1e",
       "file_offset": 65054,
       "source": "\nafter death.",
       "source_sha256": "457ceae430aae54528e6b3dbcf44c57cb6f00272b5c60e8f35c75e353aa0bcdb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsau khi chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0000feed",
       "file_offset": 65261,
       "source": "\nimagine a fun afterlife...",
       "source_sha256": "888f56e9804f4458a540c79613b4411512b685711151201a072af4c60c7f7d71",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntưởng tượng một kiếp sau vui vẻ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001006a",
       "file_offset": 65642,
       "source": "\npowers to get to other worlds.",
       "source_sha256": "ae77dabb78941c82e228ba6b9967c2f952cf8aab9f0a47f9cfb24340d71d6173",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh để đến những thế giới khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001022f",
       "file_offset": 66095,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010348",
       "file_offset": 66376,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010450",
       "file_offset": 66640,
       "source": "\ndifficult to jolt.",
       "source_sha256": "2d2e6908aa1248852ee98f6f612697553b1135550d5fc376561a51f266ff4ecf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhó làm choáng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000104de",
       "file_offset": 66782,
       "source": "\nfreezing the Ids out of them.",
       "source_sha256": "7170bf79671ecfd78b5acf1273304d49126120175907ecc8685314fee94b0647",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđóng băng để lấy Id của chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010608",
       "file_offset": 67080,
       "source": " out of it.",
       "source_sha256": "adf2fa9c577a675d15633e71941a005595303c34a6ef5547462e6d557fe1a72a",
-      "vi": "",
-      "status": "todo",
+      "vi": " khỏi nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010684",
       "file_offset": 67204,
       "source": "\nalready said too much...",
       "source_sha256": "e8d137c78fd2cfc8491fa5497c130d2812a11a3c03cbbdff30da41e01af60303",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã nói quá nhiều rồi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010781",
       "file_offset": 67457,
       "source": "\nto do. Ask around at the pub.",
       "source_sha256": "43c82666ddadd26e1ef089fcae111e7e8c19f7b02606c0b52f154f0349c0e210",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải làm. Hãy hỏi quanh quán rượu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000107f6",
       "file_offset": 67574,
       "source": "\nperforming a quest by now.",
       "source_sha256": "c02b6ff72a130f637eaac429fabb5dc02d67c0a2ac6a7fd32debdf24225068f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang làm một nhiệm vụ rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001097e",
       "file_offset": 67966,
       "source": "\nwhat you seek, try touching one.",
       "source_sha256": "98bc9379fb26b656cd284aded1938744fb4608a730301b2507fb0753e9c7c063",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều bạn tìm, thử chạm vào một cái.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010a05",
       "file_offset": 68101,
       "source": "\nof your world.",
       "source_sha256": "00b61193d7ae3ad1ffcb754caa846895702441a8ebc07b7679c328e2acf6ca54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa thế giới bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010b06",
       "file_offset": 68358,
       "source": "\nknown as Messengers.",
       "source_sha256": "fea3cfdf5e04209caffe616468679f05c31c76fc94deba7f7d3556979307149d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược gọi là Sứ giả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010b99",
       "file_offset": 68505,
       "source": "\nthe living and the dead.",
       "source_sha256": "8df740ae9828c15793158231247f18cb057400d6de59574539c456f30a1ab030",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiữa người sống và người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010c9c",
       "file_offset": 68764,
       "source": "\nknown as Messengers.",
       "source_sha256": "fea3cfdf5e04209caffe616468679f05c31c76fc94deba7f7d3556979307149d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược gọi là Sứ giả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010d31",
       "file_offset": 68913,
       "source": "\nthe living and the dead.",
       "source_sha256": "8df740ae9828c15793158231247f18cb057400d6de59574539c456f30a1ab030",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiữa người sống và người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010e3b",
       "file_offset": 69179,
       "source": "\nthan their own.",
       "source_sha256": "985c0d0f41e749374add3ce86575dfaf12a438a9e71dc1a2a9bdb8e4429a0da8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn của chính họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00010f1b",
       "file_offset": 69403,
       "source": ",It's really LAND OF THE DEAD, though.",
       "source_sha256": "4c800a1bafcff2ab4004e7010dab0818be0670e9499ef3bfbdca4f2713d76e95",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Nhưng thật ra là VÙNG ĐẤT CỦA NGƯỜI CHẾT.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011033",
       "file_offset": 69683,
       "source": "\nthan their own.",
       "source_sha256": "985c0d0f41e749374add3ce86575dfaf12a438a9e71dc1a2a9bdb8e4429a0da8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn của chính họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001111b",
       "file_offset": 69915,
       "source": "really LAND OF THE DEAD, though.",
       "source_sha256": "a76b2cb4b628229e0fdd54e53df66ca7398a1ba7b81fd83452761b12ca320dbe",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật ra là VÙNG ĐẤT CỦA NGƯỜI CHẾT.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser."
     },
     {
       "id": "talk/en/tk102_en.bin_@000111e3",
       "file_offset": 70115,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011303",
       "file_offset": 70403,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011498",
       "file_offset": 70808,
       "source": "\nmust be handled carefully.",
       "source_sha256": "a7e5870df1bf731f4640cf9a00c233d84c7f64c8e775e50eca3452229a40f754",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải được xử lý cẩn thận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011516",
       "file_offset": 70934,
       "source": "\ntentacles are lightning swift.",
       "source_sha256": "528c266f672ab96fe692cd50e1863a9a03a2169d34280ad6823d6fff42b352f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxúc tu nhanh như chớp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011599",
       "file_offset": 71065,
       "source": "\nin the head to quiet it down.",
       "source_sha256": "d7504a63f8afa595cd2fb83f7f83b47cea7ef910af1c5a972895d88d0ccd621d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào đầu để nó yên lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011618",
       "file_offset": 71192,
       "source": "\nwhack it?",
       "source_sha256": "834ece277b501c12bae353cdcb8ec7d03ca85e4bb3450f2de0dce9fcf3396910",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđánh nó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000116ec",
       "file_offset": 71404,
       "source": "\nup ahead.",
       "source_sha256": "726f35f4aed755ca3db3a7d2523f50778e8485bd652d69c2c47f5ca2c3a4c6ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011774",
       "file_offset": 71540,
       "source": "\nYou should have a look!",
       "source_sha256": "a4ae858bd96063f4b72c8e9bdd5aec9517ba418cd9a324084d19b55798f1a9a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn nên tới xem!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011865",
       "file_offset": 71781,
       "source": "\nto summon the dead.",
       "source_sha256": "7576c96c1d94bbf01844854395689ad0aa7100572cca9c81b341330a4e23e04a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể triệu hồi người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001199e",
       "file_offset": 72094,
       "source": "\ncan use it.",
       "source_sha256": "45ebe6ddfe05d164eeea9a161c7654cd246bc16b39fc59ecc482be0963a538b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể sử dụng nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011baf",
       "file_offset": 72623,
       "source": "\nof the dead.",
       "source_sha256": "ebc9dbac17221f28bba90b27f82d33bb4754d3d3f84b8363c085f9ffa828ac5b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011c39",
       "file_offset": 72761,
       "source": "\nlife, return to your world.",
       "source_sha256": "41d77a0f7bc6002d3c33cc538c9e0f7a9153f2b08f21c463dc6f8b6d8e4f0698",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự sống, hãy trở về thế giới của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00011db1",
       "file_offset": 73137,
       "source": "\nAudience Hall?",
       "source_sha256": "3022920d9da0388352eb324cb063531d413afc1aacfe96089d29b56ed8f50fac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐại sảnh Tiếp kiến sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012079",
       "file_offset": 73849,
       "source": "\nlies beyond.",
       "source_sha256": "b94d877662eaad5aa50ae02041c1a593f67bc39ea758cfb6530969156220f7df",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnằm ở phía bên kia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000120e7",
       "file_offset": 73959,
       "source": "\nan audience.",
       "source_sha256": "9bf613a9261ac805001b5360d2ba040e4a3f2ca2b8fe9287a71a029d48bf1a95",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người lắng nghe.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000121bc",
       "file_offset": 74172,
       "source": "\nyou a few things.",
       "source_sha256": "1f7b3973ed496be1acb6d7ccfcaf2356d5439c04961a677c2d68bafadba11c52",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn vài điều.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000122e1",
       "file_offset": 74465,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@000123de",
       "file_offset": 74718,
       "source": "\nYou might find something good.",
       "source_sha256": "5d0bfedac0e8a8ec2673898f3cc309211a600b7e84d70a3845398d8111072b00",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBiết đâu bạn tìm được thứ hay ho.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012462",
       "file_offset": 74850,
       "source": "\nyou want to hurry on though.",
       "source_sha256": "7318c0888bcb5f07ca72f79771754ab6c31e83f7966834fb30fa988e08cdde7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng bạn nên đi nhanh lên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000124df",
       "file_offset": 74975,
       "source": "\nmany difficulties ahead.",
       "source_sha256": "4a51a32e8cc96ee675730de519402086217863b254069706ef0e64c55b44f7f1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbao khó khăn đang chờ phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000125d4",
       "file_offset": 75220,
       "source": " you use grow stronger.",
       "source_sha256": "2ff1ce10dffd9f9b60475ac0d92ec1d1939be3c881b6b608fd16dd8751e33462",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn sử dụng sẽ mạnh hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012677",
       "file_offset": 75383,
       "source": " many times.",
       "source_sha256": "acf326394c63e6a01a206c6d30fa69363e3e4acba557089b1b7d674b24831d3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " nhiều lần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000127a7",
       "file_offset": 75687,
       "source": " here.",
       "source_sha256": "78939e6020b2f2c43c582920a385fb63d09ee40b7e916834f29583b36c58cd40",
-      "vi": "",
-      "status": "todo",
+      "vi": " ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012812",
       "file_offset": 75794,
       "source": "\nyou'll have to look for them.",
       "source_sha256": "54c8c9eb5544d69cf1e313dee9383640022bf919b18eb2716a268b0559318e27",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sẽ phải tự tìm chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000129a9",
       "file_offset": 76201,
       "source": "\nas you go.",
       "source_sha256": "18978b0a66967d2337565b2137d869c53b652f33ef58330a1b40b9893cf066e3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrên đường đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012aa5",
       "file_offset": 76453,
       "source": "\nthat of the real world.",
       "source_sha256": "e9df87bec7945b93a6e41a667de7c24df5eb3aabba0a3b121923eeac8bfda352",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Fragment so sánh với thế giới thực, thiếu danh từ chính."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012b25",
       "file_offset": 76581,
       "source": "\nwho you thought left after you.",
       "source_sha256": "a1abbecbfc8e9f4e1b159ca304e456983e81db9055a104f37fb118f90ec99f7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười mà bạn tưởng đã rời đi sau bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. After you hiểu sau thời điểm bạn rời đi, cần ráp toàn câu."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012ba7",
       "file_offset": 76711,
       "source": "\nsomeone you thought you'd passed.",
       "source_sha256": "ea02fd00efb79de7380156aa996030e210e7ee7f67091961fff504722e6191fa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười mà bạn tưởng mình đã đi qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. passed không chắc vượt qua địa điểm hay một người; đánh dấu rà cảnh."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012cc0",
       "file_offset": 76992,
       "source": "\nstrength!",
       "source_sha256": "9d8f72085959cd71e04972510e11ed8047a31eaeccdc067341a89f05f3d60702",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00012f63",
       "file_offset": 77667,
       "source": "\nyour strength.",
       "source_sha256": "69db90563aad64955c83fa54e176851eb2045304e35f88f6533dfa8a9f68d777",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013037",
       "file_offset": 77879,
       "source": "\nAnything you'd like to know?",
       "source_sha256": "70f819f2b831b06fb3e68fdad9b69c7aa6ee73da74ad8b7e30f0cb64d9cc9009",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn muốn hỏi gì không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013177",
       "file_offset": 78199,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013269",
       "file_offset": 78441,
       "source": "\nUltimate Spear. Understand?",
       "source_sha256": "933f543e457fd14f64534bdcd4c83322f8c6b59c771c4d4220d4e1284457cab9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThương Tối thượng. Hiểu chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Ultimate Spear có thể là tên kỹ năng/vũ khí; Thương Tối thượng chỉ là bản nháp."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013371",
       "file_offset": 78705,
       "source": "\nincluding Bogle the Faery Knight.",
       "source_sha256": "9ffc300a49fbed1011a8cb93e37aa3fc2a9bdb8031c72f7a353cfb54a159ef50",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkể cả Bogle, Hiệp sĩ Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Bogle the Faery Knight là tên và danh hiệu; Bogle giữ nguyên."
     },
     {
       "id": "talk/en/tk102_en.bin_@000134f5",
       "file_offset": 79093,
       "source": "\nridiculously durable.",
       "source_sha256": "6f4523f4b1f293909ef21a695f4c4873194f67e96c814c9aeb613b66b26c573a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbền bỉ đến mức khó tin.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013572",
       "file_offset": 79218,
       "source": "\nDeal with their armor first.",
       "source_sha256": "788bb07f0f319d8e88b796ede9152502e2942cfe9113928006f265e4a66451aa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy xử lý giáp của chúng trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Không khẳng định vũ khí phá giáp khi nguồn chỉ nói xử lý giáp."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001367b",
       "file_offset": 79483,
       "source": "\nusing items, for example.",
       "source_sha256": "cae362edc7d51df64d9c643edcef9597ce781203911479326fce30d6ff27cb45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng hạn bằng vật phẩm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013786",
       "file_offset": 79750,
       "source": "\nlike they owned the place...",
       "source_sha256": "9c47e563ed6726a58e11f06ba220bce146a316381d4d756ee42c48d7caf619fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thể nơi này là của chúng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013a3e",
       "file_offset": 80446,
       "source": ". We need to be careful...",
       "source_sha256": "09f4325dd44ae1a4b78d2908a67ed328b8d097d906e4c81f8e2059a18f29597a",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Chúng ta phải cẩn thận...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013b2f",
       "file_offset": 80687,
       "source": "\nwill continue to expand...?",
       "source_sha256": "55b03c2d21164731be84e419a1a0f14295e42157ceda012b5c702ebe4ea52546",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ còn tiếp tục lan rộng...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Không rõ thứ gì lan rộng trong mảnh nguồn."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013bf3",
       "file_offset": 80883,
       "source": "$What would you like to know?",
       "source_sha256": "56864f6ee27a40d471a7cb818ec6e6e8dd9428bd3709a07300a6fda70749e7c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn muốn biết điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013d22",
       "file_offset": 81186,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013e74",
       "file_offset": 81524,
       "source": "Watch out for yourself.",
       "source_sha256": "91faafa206b2ad738e3869fc33d454619f2aed979cc68e6960346604d6335d2c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tự lo cho mình nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Watch out for yourself có thể mang nghĩa cẩn thận hoặc tự bảo vệ."
     },
     {
       "id": "talk/en/tk102_en.bin_@00013f85",
       "file_offset": 81797,
       "source": "\nweapon of destruction.",
       "source_sha256": "17d24edce803320c532e53af5acda11e05f7e33e2de1185424c6cddbfaa09d88",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvũ khí hủy diệt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001401f",
       "file_offset": 81951,
       "source": "\njust keeps going and going.",
       "source_sha256": "bb0b6e46fb110dea2f0fe71c4c4ca019dabf511082bc5be8318eb0e0b93645cc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ kéo dài mãi không thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000140bc",
       "file_offset": 82108,
       "source": "\narmor is really thick.",
       "source_sha256": "a009a7da549acd76dcc225b8fcdff7dc661dd1fd11aed51544cb18ccc7f02de6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlớp giáp rất dày.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000141c2",
       "file_offset": 82370,
       "source": " appears.",
       "source_sha256": "d88103908ac61fde42a96eb22a8d7ac3a1899e08627e777023fa4d960f24bc7a",
-      "vi": "",
-      "status": "todo",
+      "vi": " xuất hiện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001423a",
       "file_offset": 82490,
       "source": "\ncould meet the dead one you seek.",
       "source_sha256": "fb88377ae8ea0568402b23efa05c1f70956337e6000d88c972a9df27726c7848",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể gặp người đã khuất bạn đang tìm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Người đã khuất mà bạn tìm chưa được xác định là mẹ/cha trong fragment."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001437c",
       "file_offset": 82812,
       "source": "\nhave their troubles.",
       "source_sha256": "9af2dee04d3e7ff7a6057cd85a20a52090acab9a8c51120cec3a0f488482da53",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđều có nỗi khổ riêng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014431",
       "file_offset": 82993,
       "source": " freely.",
       "source_sha256": "14741ccacf5d8b5efb718368814a32b3da2ba512464deccd96bd21abf9932930",
-      "vi": "",
-      "status": "todo",
+      "vi": " một cách tự do.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014695",
       "file_offset": 83605,
       "source": "\ncloser to our dream.",
       "source_sha256": "a4812bfa95ea5c29491b99b68fe989a10bf78cdd7aa9a142ddc2d60c5f2e6426",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến gần giấc mơ của chúng ta hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014780",
       "file_offset": 83840,
       "source": "\nyou?",
       "source_sha256": "a8ebf6b65d596521726bda006d4885d9f5ed1452fe35ac0b677ac66a4c07102e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII bị cắt/không có speaker; dịch đúng phần đủ nghĩa, dùng đại từ trung tính, chờ QA theo cảnh. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán. Chỉ còn mảnh you?; không đủ ngữ cảnh để chọn xưng hô cố định."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014914",
       "file_offset": 84244,
       "source": "\nyou?",
       "source_sha256": "a8ebf6b65d596521726bda006d4885d9f5ed1452fe35ac0b677ac66a4c07102e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000149d2",
       "file_offset": 84434,
       "source": "* Stay awake",
       "source_sha256": "eebbd682b66f648ee826e5171611fd86f1713dc07f0569f7ed0b4cdd5073818b",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thức tiếp",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014ab0",
       "file_offset": 84656,
       "source": "* Stay awake",
       "source_sha256": "eebbd682b66f648ee826e5171611fd86f1713dc07f0569f7ed0b4cdd5073818b",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thức tiếp",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014b74",
       "file_offset": 84852,
       "source": "Seems to be locked.",
       "source_sha256": "a20e23e6ff0d07a1f0047ffe4af95c4c9d3acbf031dbc652cda1722822e1417a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có vẻ cửa đã khóa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014c93",
       "file_offset": 85139,
       "source": "$Looks like nothing happened...",
       "source_sha256": "a8a0232e88d067569daf0747e56198c2db4b6e008a7001cd170ef9207fc4dac9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Hình như chẳng có chuyện gì xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014d5b",
       "file_offset": 85339,
       "source": "$Looks like nothing happened...",
       "source_sha256": "a8a0232e88d067569daf0747e56198c2db4b6e008a7001cd170ef9207fc4dac9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Hình như chẳng có chuyện gì xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014e66",
       "file_offset": 85606,
       "source": "\nproper to visit at night...",
       "source_sha256": "6291c26485b98b5f7a984627bcf04193920b4f12ad477135a35c8d1d4e869c06",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông tiện ghé thăm vào ban đêm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014f2b",
       "file_offset": 85803,
       "source": "$Don't have anything to offer.",
       "source_sha256": "503042c5fdc92dfac9f8e717c2162f07dc60e0ff2a82f9f647410074d8bc9ccf",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chẳng có gì để dâng cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@00014ff3",
       "file_offset": 86003,
       "source": "$Don't have anything to offer.",
       "source_sha256": "503042c5fdc92dfac9f8e717c2162f07dc60e0ff2a82f9f647410074d8bc9ccf",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chẳng có gì để dâng cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@000150da",
       "file_offset": 86234,
       "source": "\nwhen I come in the day...",
       "source_sha256": "fe79f9681b8cad597e0aa2cc5e16d2b2dd541415fce2a977a7b1b8487474fe74",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi tôi đến vào ban ngày...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000151ba",
       "file_offset": 86458,
       "source": "\nit gets dark...",
       "source_sha256": "184fa45c3ebd9cbdda5266678ee77a91619d0f6ea741a486535f3e6ce95ce3b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrời bắt đầu tối...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015291",
       "file_offset": 86673,
       "source": "\nswear someone's inside.",
       "source_sha256": "1954e5bc0b988ff01c505ae0690711d1e914821623c129f81ec2bfadcf708158",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndám chắc có người ở bên trong.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015372",
       "file_offset": 86898,
       "source": "\nthey won't answer...",
       "source_sha256": "b92b76c224c76be3982f922902ebf45c5c44dd96ffd8af5cb308e4f368b24d8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhọ không chịu trả lời...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001542f",
       "file_offset": 87087,
       "source": "(I don't need any favors for now.",
       "source_sha256": "56bd20391441f181b58288d8d8b50e26babdf56c746da33ab2afdf01c48f6aa4",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Giờ tôi chưa cần ai giúp đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Bảo toàn tiền tố gốc nghi là control marker."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001551b",
       "file_offset": 87323,
       "source": "\nfor ye yet...",
       "source_sha256": "8d45c0d94d4cf6a1683ea3ddfa8e6271f6b73036694d0ad306eed5fd69b523a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn được...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000155e7",
       "file_offset": 87527,
       "source": "? Was that her name?",
       "source_sha256": "bb2fc52942cc87481fb27bdcaf09ef48372e45f1415eb0bf7e6b3e686045a935",
-      "vi": "",
-      "status": "todo",
+      "vi": "? Đó là tên cô ấy sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015697",
       "file_offset": 87703,
       "source": ", yeah.",
       "source_sha256": "ea1cdaf000a6603a5db1043ff1798ec7f39b6e9393ca3a523c3f346130d3ccbf",
-      "vi": "",
-      "status": "todo",
+      "vi": ", ừ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000156fc",
       "file_offset": 87804,
       "source": "\nwhen yer get the time?",
       "source_sha256": "e35f0d38b55e43967553961770357513cfbca2fa45fdd18003c973156a74ef9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi nào có thời gian nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000157ff",
       "file_offset": 88063,
       "source": "\ncliff... Yeah, I have an idea.",
       "source_sha256": "31c9872b880c8294185355c6e72d31c6a9256d8690ed108cc36c7ec55992670c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvách đá... Ừ, tôi có cách rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015b3b",
       "file_offset": 88891,
       "source": "\nthe dead that got hold of him.",
       "source_sha256": "035692d98992c84ef917de1e603a6611fb95271978d36023d95a7c9bb92861f6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chết đã bắt lấy anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015d50",
       "file_offset": 89424,
       "source": "Why...?",
       "source_sha256": "41573511eea4a80396edea006b0a404c9578c304851ebc16fc83889068d8811c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tại sao chứ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015ef1",
       "file_offset": 89841,
       "source": "\nin the first place?",
       "source_sha256": "76306cdf836d80d8b3cfd520ae2073245e346077fe3007071d74bc091810e704",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay từ đầu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00015f6c",
       "file_offset": 89964,
       "source": "\nto give him treatment?",
       "source_sha256": "6d0d545463a406c410ab57a399d0798e6d9a7b516c263ce0cdc17151aa981d8b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể chữa trị cho anh ấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016004",
       "file_offset": 90116,
       "source": "\nopened the place.",
       "source_sha256": "dd5fd89cd4e15de4bd71ab563aae32651c7239edfbfd98bc2a12a665e7ff8f9d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã mở nơi đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000160e9",
       "file_offset": 90345,
       "source": "\nhas a crush on someone!",
       "source_sha256": "71d989cabbd8532217aec096fc782f9b1eb92d8955ad8a3ecc22de4142377995",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang phải lòng ai đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016171",
       "file_offset": 90481,
       "source": "\ndon't ye go and calm him down?",
       "source_sha256": "bddff07e964a117140a50eb8bb61f458721a9e2b877e2fc8d6b284d65745aa3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsao không đến dỗ anh ấy đi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000161fe",
       "file_offset": 90622,
       "source": "\none? Ah, poor thing.",
       "source_sha256": "b8ff474486b8f9be2393f7e219c47493ce50e3fffe7996536b2d8fb90c7b3881",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người sao? Tội nghiệp thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000163f5",
       "file_offset": 91125,
       "source": "\ncreated it were wiped out.",
       "source_sha256": "f2ddec367b34721e27394da2bbb0ed3b623319583ddff0912f0c5152909998b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người tạo ra nó đều bị xóa sổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016472",
       "file_offset": 91250,
       "source": "\ntruth behind that story.",
       "source_sha256": "f250d1c6d7e078ccae332a977af5b3f019fb554cc4d350b58e001fed552bee17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự thật đằng sau câu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016559",
       "file_offset": 91481,
       "source": "\nclinic at the church.",
       "source_sha256": "3c0e7ea6cce2266667f4a8c2bc18e37ea5ad4c2e1f3583d119445dee6ae75641",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng khám ở nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@000165fe",
       "file_offset": 91646,
       "source": "\nand won't wake up.",
       "source_sha256": "34086347488b680ae58874dac3ed6469fc0cd0f91b2529df8236cd5aa7595149",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà không tỉnh lại nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@00016695",
       "file_offset": 91797,
       "source": "\nbeen badly hurt.",
       "source_sha256": "8c463e86133697aa79898ab1f4dc3bf29fbd0f0a7c7f567dbe2d47e028529618",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbị thương rất nặng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp nhất quán với chuỗi English đã dịch ở talk trước hoặc cùng tệp; chưa xác minh speaker/parser. Dấu hiệu fragment; chưa gán quan hệ hoặc chủ ngữ từ suy đoán."
     },
     {
       "id": "talk/en/tk102_en.bin_@0001670a",

@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft` và 161/494 mục tk102 `draft`. Còn 9.902 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 922 ứng viên talk có bản nháp (314 tk100, 447 tk101, 161 tk102). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft` và 361/494 mục tk102 `draft`. Còn 9.702 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 1.122 ứng viên talk có bản nháp (314 tk100, 447 tk101, 361 tk102). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -158,3 +158,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Duy trì quy tắc xưng hô: không suy speaker, tên nhân vật hay tuổi từ mảnh bị quét; notes các vế thiếu nghĩa. Kiểm tra ID/source/hash/offset/source_review, Unicode NFC, newline, token và bản dịch source trùng; dữ liệu nguồn bất biến.
 - Tổng 158 catalog: **1.984 draft / 11.886**, **9.902 todo**. Chưa có repacker hội thoại, chưa test trên RPCS3; Merienda V3 và các file game không thay đổi. Sau commit xác minh CI Windows/Ubuntu.
 - Tiếp theo `talk/en/tk102_en.bin_@00009981`.
+
+## Lượt 017 — 11/10/2026 (200 câu/mảnh tk102)
+
+- Thêm 200 mục `draft` (`@00009981` → `@00016695`), tk102 đạt 361/494. 113 bản nháp dùng lại từ nguồn đã dịch để giữ thống nhất, 87 bản nháp nguồn mới. Tổng cộng **2.184 draft / 11.886**, còn **9.702 todo**.
+- Rà xưng hô và diễn biến ở Doolin, Gam/Gee, tín ngưỡng linh hồn, trận chiến Folk; không gán speaker khi chỉ thấy mảnh câu, notes nêu các danh xưng/đại từ chưa chắc chắn. Giữ nguyên Halflive, Folk, Id; danh hiệu/chiêu thức chưa đủ bằng chứng chỉ là bản dịch nháp.
+- Chỉ thay vi/status/notes; id/source/source_sha256/file_offset/source_review/order giữ nguyên. QA NFC, số ngắt dòng, ký hiệu đầu nguồn và chuỗi trùng không xung đột. Không chỉnh font Merienda V3 hoặc game binary; parser/repacker talk/cmc và kiểm tra RPCS3 vẫn chưa có.
+- Checkpoint tiếp theo: `talk/en/tk102_en.bin_@0001670a`.

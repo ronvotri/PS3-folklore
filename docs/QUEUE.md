@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk102_en.bin_.json`: tiếp tục từ `talk/en/tk102_en.bin_@00009981` (` / devastated. They were close.`), còn 333 `todo`. Dịch và rà ngữ cảnh điều tra, nguồn fragment không đủ căn cứ xác định speaker.
+1. `translations/catalogs/talk/tk102_en.bin_.json`: tiếp tục từ `talk/en/tk102_en.bin_@0001670a` (` / an end to this.`), còn 133 `todo`. Dịch tiếp, đối chiếu nguồn trùng tk100/tk101/tk102 và chỉ chốt xưng hô khi biết speaker thực tế.
 2. `translations/catalogs/talk/tk100_en.bin_.json` đã có 314/314 và `tk101_en.bin_.json` có 447/447 mục `draft`; `LCmc000`, `LCmc002`, `LCmc004` có 46/46 draft. Tất cả hội thoại còn cần parser/repacker, chưa được kiểm thử.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 161/494 `draft`. Còn 9.902 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 361/494 `draft`. Còn 9.702 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -176,3 +176,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: đúng 200 mục `todo → draft`, giữ metadata, source, source_sha256, file_offset, source_review= `candidate`; Unicode NFC, số newline, token/tiền tố được giữ nguyên; kiểm tra bản dịch trùng không mâu thuẫn. Font Merienda V3 không đổi, chưa cài patch, chưa test RPCS3.
 - Toàn bộ **1.984/11.886** mục có bản dịch nháp, còn **9.902** mục todo. Đây là tiến độ *dữ liệu trích xuất*, không phải ước lượng phần game đã Việt hóa chạy được. Sau commit GitHub Actions chạy validator + unittest Windows/Ubuntu.
 - **Lượt 017:** `talk/en/tk102_en.bin_@00009981` (`devastated. They were close.`).
+
+## Lượt 017 — 11/10/2026 (200 ứng viên tk102)
+
+- Dịch **200 mục** `todo→draft` trong `translations/catalogs/talk/tk102_en.bin_.json` từ `talk/en/tk102_en.bin_@00009981` đến `@00016695`; tk102 hiện **361/494 draft**, còn 133 mục chưa dịch.
+- **113 mục** tái dùng bản dịch từ chuỗi tiếng Anh trùng đã dịch trong tk100/tk101/tk102, **87 mục** lần đầu có draft. Không có nguồn trùng nhận hai bản Việt hóa khác nhau trong ba tệp.
+- Chủ đề: người phụ nữ ngồi xe lăn, tín ngưỡng về linh hồn, Halflive, quán rượu Doolin, lời Gam/Gee tranh cãi, Sứ giả, hướng dẫn Folk và giáp phòng thủ. Những phần không rõ ngôi nói, thân phận hoặc tên skill (Ultimate Spear), địa danh đều được ghi chú vào `notes`. Giọng Việt tự nhiên, không áp đặt quan hệ nhân vật khi nguồn chỉ là fragment.
+- QA: đúng 200 item `todo→draft`, chỉ `vi/status/notes` được sửa; bất biến ID/source/hash/offset/source_review/order, Unicode NFC, số newline, placeholder và ký hiệu đầu câu. Font Merienda V3 không đổi, chưa build binary và chưa test RPCS3.
+- Tiến độ catalog trích xuất: **2.184/11.886 draft**, còn **9.702 todo**. Đây là dữ liệu nháp chưa phải phần trăm game đã chơi được bằng tiếng Việt.
+- Sau commit CI Windows/Ubuntu chạy `python tools/catalog.py validate` và unittest. **Lượt 018:** `talk/en/tk102_en.bin_@0001670a` (`an end to this.`).
