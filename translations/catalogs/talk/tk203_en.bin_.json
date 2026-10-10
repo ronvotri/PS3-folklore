@@ -2011,2000 +2011,2000 @@
       "file_offset": 52431,
       "source": "\nAnd for what reason?",
       "source_sha256": "6e532414b6aa340d2321bd1e428bd06dde3adce47c4de08e72434f9d0ac14ee6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVà vì lý do gì chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000cd7c",
       "file_offset": 52604,
       "source": "\nI can't believe this...",
       "source_sha256": "84cb4a77e0ebc5b14ef65ae849f611c9df07e51a3d41d078e2bf02b92a2f6695",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không thể tin nổi chuyện này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000ce5b",
       "file_offset": 52827,
       "source": "\nAnd for what reason?",
       "source_sha256": "6e532414b6aa340d2321bd1e428bd06dde3adce47c4de08e72434f9d0ac14ee6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVà vì lý do gì chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000cf4f",
       "file_offset": 53071,
       "source": "\nis going on?",
       "source_sha256": "6d7cda3a38d04c6d18559ddc0d7caf271e704618987c564e74cc2b9a8e883a75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang xảy ra vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d03b",
       "file_offset": 53307,
       "source": "\nis going on?",
       "source_sha256": "6d7cda3a38d04c6d18559ddc0d7caf271e704618987c564e74cc2b9a8e883a75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang xảy ra vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d141",
       "file_offset": 53569,
       "source": "\nThe doctor was broke.",
       "source_sha256": "4773fb0dddf3785b70859bd4fcf01be4f980065937415aaeba90264ac96ae657",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVị bác sĩ đã khánh kiệt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d200",
       "file_offset": 53760,
       "source": "The doctor was broke.",
       "source_sha256": "25901365293923b35f8d5b9a2d70741faf23f90003128e0957bb0972fd537aaf",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vị bác sĩ đã khánh kiệt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d30e",
       "file_offset": 54030,
       "source": "\nYou must have resolve.",
       "source_sha256": "072cab855c2ac1bf32ded41523950aa4d703a64f0c9842934eb74f8c9d2ed43d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn phải thật quyết tâm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d3f1",
       "file_offset": 54257,
       "source": "\ncrook like me could kill?",
       "source_sha256": "8b7371dbfa4d0a482d5f4d3c001ec8ec7dce127dc69f01cda121e13339b7cdd0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột tên gian như tôi lại có thể giết người sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d4ee",
       "file_offset": 54510,
       "source": "\nleave the village quickly.",
       "source_sha256": "27f03e09dc7250f4e25acc1c48f53d509ec8e6cebbda246718f36d48b7cc54b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmau chóng rời khỏi ngôi làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d5b3",
       "file_offset": 54707,
       "source": "$Well, this is pretty annoying.",
       "source_sha256": "7a0d07f0e802f9de4b8ba705925cfe5a3fc03fe389635e17d34f54eb8bdbeea4",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chà, chuyện này phiền phức thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d721",
       "file_offset": 55073,
       "source": "\nbut he's really kind!",
       "source_sha256": "8395ee177b96d796b764bfe33ee8f48b9cddbba5c4d756f1f7d95a6b9b4bbb31",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng anh ấy thật sự tốt bụng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000d809",
       "file_offset": 55305,
       "source": "\nbut he's really kind!",
       "source_sha256": "8395ee177b96d796b764bfe33ee8f48b9cddbba5c4d756f1f7d95a6b9b4bbb31",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng anh ấy thật sự tốt bụng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000dae0",
       "file_offset": 56032,
       "source": "I'm very sad...",
       "source_sha256": "71accff5952176fcd88c6c94a23930d9057f95f82b8fbc81d80f0925a7d682ce",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi buồn lắm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000dbf0",
       "file_offset": 56304,
       "source": "\nvery far away place.",
       "source_sha256": "9c149515c5c263a7a5ea062381249a183426cd6febf12cbc725aa8979975729b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột nơi rất xa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000dc89",
       "file_offset": 56457,
       "source": "\nthe truth!",
       "source_sha256": "ea91bac6d26eecc8fb35a3cc6559bbd3b149150603e7295cfe1dff981f8add00",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự thật!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000dcf6",
       "file_offset": 56566,
       "source": "\nWhere did the doctor go?",
       "source_sha256": "e3504fbeabcbd1a99b9b184da8fa185f7aa4bf829af5c67446157117b9f77571",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVị bác sĩ đã đi đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000dde6",
       "file_offset": 56806,
       "source": "\nWhere did the doctor go?",
       "source_sha256": "e3504fbeabcbd1a99b9b184da8fa185f7aa4bf829af5c67446157117b9f77571",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVị bác sĩ đã đi đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000dec9",
       "file_offset": 57033,
       "source": "\nIf ye have time, take one on.",
       "source_sha256": "2df19917e4df5f6169fee662f0f5acc30b8e2a16c5bc5d6fe347840a9e879d9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNếu rảnh, cứ nhận một nhiệm vụ nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000df8f",
       "file_offset": 57231,
       "source": "$If ye have time, take one on.",
       "source_sha256": "e819705d18c0f326fc93bcabad085a7456d418d893e7d9fc0a6ad6f50bed4717",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Nếu rảnh, cứ nhận một nhiệm vụ nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e083",
       "file_offset": 57475,
       "source": "\ncome lately, but he's here today.",
       "source_sha256": "4b82dc3fb1879a77f6818cc8e4b6b2b8210ccd16508c4a0cb89a38ec1ae6439a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngần đây không đến, nhưng hôm nay anh ấy có mặt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e11b",
       "file_offset": 57627,
       "source": "\nhasn't come round much recently.",
       "source_sha256": "8177c1ffddcc8c867d2026c0338131f124dd74bb05a4b5356f80d97343bc9521",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndạo này hiếm khi ghé qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e1ba",
       "file_offset": 57786,
       "source": " battle, I imagine.",
       "source_sha256": "ace89f4830261be486ca71ef2d934f847f5bc00465325527216beb6f0945350e",
-      "vi": "",
-      "status": "todo",
+      "vi": " trận chiến, tôi đoán thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e2a3",
       "file_offset": 58019,
       "source": "\ncome lately, but he's here today.",
       "source_sha256": "4b82dc3fb1879a77f6818cc8e4b6b2b8210ccd16508c4a0cb89a38ec1ae6439a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngần đây không đến, nhưng hôm nay anh ấy có mặt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e3ac",
       "file_offset": 58284,
       "source": "\ndays like this in the village.",
       "source_sha256": "542a4ee76db29661f100f1b9786d74c96251566deb6e9c1904d1004e107d7c7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững ngày như thế này ở làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e4b0",
       "file_offset": 58544,
       "source": "\ndays like this in the village.",
       "source_sha256": "542a4ee76db29661f100f1b9786d74c96251566deb6e9c1904d1004e107d7c7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững ngày như thế này ở làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e59c",
       "file_offset": 58780,
       "source": "\nAaaaaahhhhhh!!!",
       "source_sha256": "219db13eaa0ccda159a23f36b4e0bb9987281a9b6c1a5b927cb5b2b52f6c920d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nAaaaaaaa!!!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e608",
       "file_offset": 58888,
       "source": "W..what is it!?!",
       "source_sha256": "b0f9ac461cfd6baf27affcff412b927a7a52d2a116ad7a14ec4c8e43f7dc3a73",
-      "vi": "",
-      "status": "todo",
+      "vi": "C-Cái gì vậy!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e682",
       "file_offset": 59010,
       "source": "\nis going to happen!",
       "source_sha256": "74a96968ec1e2805b02539c0a7ec70be0a7b6413cd8379422804282c99d8c562",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsắp xảy ra!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e762",
       "file_offset": 59234,
       "source": "\nis going to happen!",
       "source_sha256": "74a96968ec1e2805b02539c0a7ec70be0a7b6413cd8379422804282c99d8c562",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsắp xảy ra!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e83e",
       "file_offset": 59454,
       "source": "\nI'm a disgrace to the banshees.",
       "source_sha256": "3d806a40b2d3288c4cbf383eb02e38dda11857731d5da221a82a33c376f06e4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi đúng là nỗi ô nhục của các Banshee.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000e8d4",
       "file_offset": 59604,
       "source": " was profoundly sad.",
       "source_sha256": "56ac0783d38235c657d153eec5f099d4403b8a19b35d9e283c6909ca323b56f8",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã vô cùng đau buồn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000ea4d",
       "file_offset": 59981,
       "source": "\nHe intended to die all along.",
       "source_sha256": "b08f353c4e4d4ac7e74d92c35d7100bd0a9703441cec468dd7294369fc91af50",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNgay từ đầu anh ấy đã định chết rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000eb88",
       "file_offset": 60296,
       "source": "\nto the cliff.",
       "source_sha256": "66a352c5f80146b56dfa700697d9128b103b0b4b249dc078e7c531034c8e0dae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến vách đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000ed96",
       "file_offset": 60822,
       "source": "\ndeath. It is like a sixth sense.",
       "source_sha256": "f2eaa159f96332af07ca7cb934fdcdcc0e802383c75f02eb5d504690327126c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncái chết. Nó như giác quan thứ sáu vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000ee4c",
       "file_offset": 61004,
       "source": " death?",
       "source_sha256": "e76c3da879ad40662dd358b4f48627bcd21a0a7a8f8d55dcfe7c72ad20e35aa6",
-      "vi": "",
-      "status": "todo",
+      "vi": " cái chết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000ef24",
       "file_offset": 61220,
       "source": "\ncame back to visit me!",
       "source_sha256": "5ac2b14834a54e67a84d5e15832fa1fd75c75613b04c3659cba621d767f678b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã quay lại thăm tôi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000efa1",
       "file_offset": 61345,
       "source": "\nsong to my mate's tireless work, ",
       "source_sha256": "a9d9354cf7d6b06bf814a910b7fc89d9213f2f04cfa27000f2f74be309993353",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbài hát dành cho người bạn miệt mài làm việc của tôi, ",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f033",
       "file_offset": 61491,
       "source": "\ngood shape.",
       "source_sha256": "831699ca6649774b626ff0d7fa6b8a391e8fa925897dcfc981dc088afdeb6426",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở tình trạng tốt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f10f",
       "file_offset": 61711,
       "source": "\na less-than-perfect sound!",
       "source_sha256": "b70fa6180c33a68840062be466afac9fb3a0aea605e3b4a1df5ec54ee31506c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột âm thanh chưa thật hoàn hảo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f217",
       "file_offset": 61975,
       "source": "\nabout me.",
       "source_sha256": "1e9ac2754e851165c98e81e2d0a9ccd51802b2ca8e2b3f32cf98fc61845557b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f30e",
       "file_offset": 62222,
       "source": "\nall jolly, you know?",
       "source_sha256": "355eee4d31e5ab94792aab3d676f89b3ac5d942db38bd31577462af6660788ea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nai cũng vui vẻ cả, biết không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f37f",
       "file_offset": 62335,
       "source": " premonition came true.",
       "source_sha256": "89dc8ed4c490a4f52cc8c53e4cf2a58f21e71dcae45e53a88f376bf3b3d0c85c",
-      "vi": "",
-      "status": "todo",
+      "vi": " điềm báo đã thành sự thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f413",
       "file_offset": 62483,
       "source": "\nbetter shape.",
       "source_sha256": "1bba1726c61cff62b81f98ad26cb7978e5cec721c00aa24abc64788610c4a28b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong tình trạng tốt hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f50a",
       "file_offset": 62730,
       "source": "\nor to whom, it will happen.",
       "source_sha256": "2c79018d5945d83a272809f0a2078ef35aed4cfeecce4202bd122fb2dd57eec5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhoặc chuyện ấy sẽ xảy đến với ai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f613",
       "file_offset": 62995,
       "source": "\nforget about old mates like me.",
       "source_sha256": "2cc5da792c8c866def309ee16c8edd9aa2160163add3e9e45423f05bbb06b0b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquên những người bạn cũ như tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f6fd",
       "file_offset": 63229,
       "source": "\ntime with you.",
       "source_sha256": "3b61cee71020d08d753092ce58ffe4fe802be0d2f7ca54227bc36da755b3a394",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthời gian bên bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f788",
       "file_offset": 63368,
       "source": " out of trouble!",
       "source_sha256": "8565c583e91ee8502c678dbacbceb3e9053ceea60affe1c9d8d3462f302d0263",
-      "vi": "",
-      "status": "todo",
+      "vi": " tránh xa rắc rối!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f872",
       "file_offset": 63602,
       "source": "\nabout me?",
       "source_sha256": "f4d12adb660619c43aff3e2830b82bd7e952fc9d1a78c920c6cbafb9189463b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề tôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000f956",
       "file_offset": 63830,
       "source": "\nabout me?",
       "source_sha256": "f4d12adb660619c43aff3e2830b82bd7e952fc9d1a78c920c6cbafb9189463b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề tôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fa4f",
       "file_offset": 64079,
       "source": "\nbeing conjured up by the living.",
       "source_sha256": "946501eb0b08403e1ae05e08dfd223e101395432004a0aa528fc89998fb25066",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang được người sống triệu hồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fae8",
       "file_offset": 64232,
       "source": "\nI..I can tell you that.",
       "source_sha256": "998f12e7fa608b9797f0d5d9e988c9758e434cba18134f7c112b69de7b828d75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nT-Tôi có thể nói cho bạn biết điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fb48",
       "file_offset": 64328,
       "source": "Then, is she human?",
       "source_sha256": "825194919614e3b68b26d6319a88748bcbba32d89add1467a4977727496dd7fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy cô ấy là con người sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fbc1",
       "file_offset": 64449,
       "source": "\nthe scariest m..monsters of all.",
       "source_sha256": "d624ecfcf352353492ab474919b1481c4fe41eeb49b2dd15fc63bfbc96cc5bcd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững con quái vật đ-đáng sợ nhất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fccf",
       "file_offset": 64719,
       "source": "\nbeing conjured up by the living.",
       "source_sha256": "946501eb0b08403e1ae05e08dfd223e101395432004a0aa528fc89998fb25066",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang được người sống triệu hồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fd68",
       "file_offset": 64872,
       "source": "\nI..I can tell you that.",
       "source_sha256": "998f12e7fa608b9797f0d5d9e988c9758e434cba18134f7c112b69de7b828d75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nT-Tôi có thể nói cho bạn biết điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fe4e",
       "file_offset": 65102,
       "source": "\nBut I..I don't know what to do.",
       "source_sha256": "e07333274c735f6141dfc40aaf17dc6d131319a1850ca836c0635479682db2d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng t-tôi không biết phải làm gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fef6",
       "file_offset": 65270,
       "source": "\nf..fella like me?",
       "source_sha256": "53271cafc38fd17b30079461d59e3879928cfdd76ba49a777334afc3f98bf58e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nm-một kẻ như tôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0000fff6",
       "file_offset": 65526,
       "source": "\nf..fella like me?",
       "source_sha256": "53271cafc38fd17b30079461d59e3879928cfdd76ba49a777334afc3f98bf58e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nm-một kẻ như tôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@000100e8",
       "file_offset": 65768,
       "source": "\nnow, aren't you?",
       "source_sha256": "6bf73cc7b75a1078ff7ed7f6fb4b955b05552ea58fd8355616f3cce941bd4c77",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbây giờ rồi, phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001016c",
       "file_offset": 65900,
       "source": "\nhere for you all this time.",
       "source_sha256": "431b74eda48bed093f09062bc58fd585a05845117a724733365163c3afa0e341",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã ở đây vì bạn suốt ngần ấy thời gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010268",
       "file_offset": 66152,
       "source": "\nfrom long, long ago.",
       "source_sha256": "4bbf8eff0c8814b0ff050320d4696127fd042cf00f8de510ccd601f0da204acd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ rất, rất lâu trước đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010403",
       "file_offset": 66563,
       "source": "\nhave friends to share it with!",
       "source_sha256": "0bb552959774891676dd80cbd840876dfd1280ebca5bd5978a68135a67bf2fcc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó bạn bè để cùng sẻ chia!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@000104c3",
       "file_offset": 66755,
       "source": " and the real world.",
       "source_sha256": "5616c0171247727796a2362a6ca66c7f859e0bb54c3734e3bc00b542484d3a95",
-      "vi": "",
-      "status": "todo",
+      "vi": " và thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010690",
       "file_offset": 67216,
       "source": " goes, I follow!",
       "source_sha256": "6fcfb7f31ebe16f43f2852647df7a0e5dd0599226f708854d219fccc2c16dd56",
-      "vi": "",
-      "status": "todo",
+      "vi": " đi đâu, tôi theo đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010725",
       "file_offset": 67365,
       "source": " will come too!",
       "source_sha256": "7b981b07375629d5e86986475a90cd74642cc2998d3e64db4f562eaa520d3525",
-      "vi": "",
-      "status": "todo",
+      "vi": " cũng sẽ đến!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@000108e2",
       "file_offset": 67810,
       "source": ", I'll go with you.",
       "source_sha256": "de3b66bf0de4fc3ce8ff80ea1ae44a76dbf718335ef09994cf2da4ed8a04e771",
-      "vi": "",
-      "status": "todo",
+      "vi": ", tôi sẽ đi cùng bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@000109d7",
       "file_offset": 68055,
       "source": "\nyet to cease.",
       "source_sha256": "968d347272ad91e5faf53b5b9cbf70d798946df1f385fc3bbb118cd03adafd10",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvẫn chưa chấm dứt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010a62",
       "file_offset": 68194,
       "source": "\nto have friends!",
       "source_sha256": "1682db3ba016b30ca665a922cad7008e6a4b412cb175129bba15b0ba13b64ea2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó những người bạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010aee",
       "file_offset": 68334,
       "source": "! Uwee hee hee!",
       "source_sha256": "0c2229122d93a812895005bb9afe8d51ebec23ff2c1225cb9ec37646ffdf5248",
-      "vi": "",
-      "status": "todo",
+      "vi": "! Hú hi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010b64",
       "file_offset": 68452,
       "source": "\nmemory! Wish me luck, too!",
       "source_sha256": "7627341c8007719e2384ed961fd47e54d984b5a3843a8237a842f5346d13b220",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nký ức! Cũng chúc tôi may mắn nhé!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL; mảnh thoại chưa xác định speaker và ranh giới câu. Cần soát nghĩa/quan hệ nhân vật khi có toàn cảnh."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010c5d",
       "file_offset": 68701,
       "source": "\nto have friends!",
       "source_sha256": "1682db3ba016b30ca665a922cad7008e6a4b412cb175129bba15b0ba13b64ea2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó những người bạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp trong cùng lượt, dùng nguyên bản Việt cho nhất quán; candidate/draft."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010cea",
       "file_offset": 68842,
       "source": "! Uwee hee hee!",
       "source_sha256": "0c2229122d93a812895005bb9afe8d51ebec23ff2c1225cb9ec37646ffdf5248",
-      "vi": "",
-      "status": "todo",
+      "vi": "! Hú hi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010de3",
       "file_offset": 69091,
       "source": "\nhelp you with, just ask.",
       "source_sha256": "1bcf2eeb26decadb1d6284ef4082b75d11f1f662113fabd6f2b45bb2fa8db7d9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó gì cần giúp thì cứ hỏi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00010f05",
       "file_offset": 69381,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011012",
       "file_offset": 69650,
       "source": "\nto return to the village.",
       "source_sha256": "8e36276b7c820f569c671cc7a48181a315dd2374845a997bc92de2f8b3c4b467",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể trở lại ngôi làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011103",
       "file_offset": 69891,
       "source": "\ndangerous as you go deeper.",
       "source_sha256": "6cfea38e76cb1cbcb7c1b8b0cdc679524d5c00f672e0e1c9e6f1f49f78d07b9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncàng đi sâu càng nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000111bf",
       "file_offset": 70079,
       "source": "\nYour injuries will be healed.",
       "source_sha256": "46614db95d255a52856532502dd468db859912a153c92474f109faf0d37bec0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVết thương của bạn sẽ được chữa lành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011356",
       "file_offset": 70486,
       "source": " you've absorbed.",
       "source_sha256": "1c472c9ecd7fc3fb32633a95c0299a0872327e16ce4aa334fde58f2732bfddc9",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn đã hấp thụ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000114d8",
       "file_offset": 70872,
       "source": " would pop out!",
       "source_sha256": "555ba5c69a97b553e5b2b510212096b356d28cf512eed139c1aabfe7f2b1b20d",
-      "vi": "",
-      "status": "todo",
+      "vi": " sẽ bất ngờ xuất hiện!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001162b",
       "file_offset": 71211,
       "source": " out of them!",
       "source_sha256": "02a7f29cd477aecda6e24d63c49bb01db4e5fb8aaef4d5f13e2548a68deaf043",
-      "vi": "",
-      "status": "todo",
+      "vi": " ra khỏi chúng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011726",
       "file_offset": 71462,
       "source": "\nwe Faerys live!",
       "source_sha256": "4ac4691a2eca91b76bd53aa39f07f4ed92f34ea3f60ede8ee2611432a83c344e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi các Faery chúng tôi sinh sống!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000117c2",
       "file_offset": 71618,
       "source": "\nliving. Heed our advice well!",
       "source_sha256": "67ecc7b70b1b2dc5f4b92bedcd0fe3992a92ec23a856ec20c0f6c04db7170d84",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười sống. Hãy nhớ kỹ lời khuyên!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011937",
       "file_offset": 71991,
       "source": "\nand they'll heal your wounds.",
       "source_sha256": "0e467c0b54d7f6ee371646714ca2d501396b495bddccf216c38ba911a9fae006",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà chúng sẽ chữa lành vết thương của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011a4c",
       "file_offset": 72268,
       "source": ", but not now.",
       "source_sha256": "508cd980fba91f1f4719c2f1b3efe2072fda37c4fc1d7c77a1498ce89fa8518c",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nhưng không phải lúc này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011ac0",
       "file_offset": 72384,
       "source": "\ncould visit the Land of the Dead?",
       "source_sha256": "3ad7b0fb48c0188f442fd3f4d7aba2dea8149e7383716b2a2373b928d092ad4f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể đến thăm Vùng đất Người Chết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011ba9",
       "file_offset": 72617,
       "source": "\noff by mystery stones.",
       "source_sha256": "ac18abfeb95d5c1abe58036043adc1399a8e4417a8e7ddd408d05f1f7dca9123",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbởi những phiến đá bí ẩn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011c29",
       "file_offset": 72745,
       "source": "\nno matter how hard they're hit...",
       "source_sha256": "aeb68388bc31db59959bcf33d89702f0d4b51bdf04b9940957e7d38ab285780e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndù bị đánh mạnh đến đâu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011cd1",
       "file_offset": 72913,
       "source": "\nthem on fire though.",
       "source_sha256": "208d8cba1260c46649cd2b1a6719d6db46e4ab4f41614a55ea809c1713a3ea02",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng vẫn có thể đốt cháy chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011d8f",
       "file_offset": 73103,
       "source": "$Anything you'd like to know?",
       "source_sha256": "1da1a9bd07a5e427c8a36ef130c953054dbc429bfbeeab7e9364bf07f53ead65",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có điều gì muốn biết không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011eae",
       "file_offset": 73390,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00011fae",
       "file_offset": 73646,
       "source": " at the enemy.",
       "source_sha256": "107924beb5c57989606e717eeb1e2bd29d24508a93892e0c45637b12076d972f",
-      "vi": "",
-      "status": "todo",
+      "vi": " vào kẻ địch.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012031",
       "file_offset": 73777,
       "source": " button.",
       "source_sha256": "53f4b6c685cd00669e6923c485bf5e37bd980b6fde1ffa87c65b3f738214e5a0",
-      "vi": "",
-      "status": "todo",
+      "vi": " nút.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000120ae",
       "file_offset": 73902,
       "source": "\nMany different tricks to try!",
       "source_sha256": "9e63cd1a0bff7a24a592ee91af4922b61e0b1a96dccf0ebbf72d8eec9c6d1bf4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCó nhiều mẹo hay để thử lắm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000121e1",
       "file_offset": 74209,
       "source": "\ncan be quite useful.",
       "source_sha256": "6b0804dcc4340cf70d9392deadd64f04e4fd12b66df8d38377ae42f9d0cc54c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể rất hữu ích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000123b3",
       "file_offset": 74675,
       "source": "\nare Messengers.",
       "source_sha256": "77b5342701886e870e0975745fe23596d2706e8316405e5ad64b714e1cffbd71",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà những Sứ giả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012445",
       "file_offset": 74821,
       "source": "\nthe living to the dead.",
       "source_sha256": "61dfee081ee6caab3496ca5f98e6635e35f535b0402e203abae2563c6406a7fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnối người sống với người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012578",
       "file_offset": 75128,
       "source": "\nthey return to the ground.",
       "source_sha256": "a09214064eac187bf89f3215c6f0323a9a9f538b8665d1855cc6b1e3c94a4374",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng lại trở về lòng đất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000125f3",
       "file_offset": 75251,
       "source": "\nafter that.",
       "source_sha256": "98c975d81eeaa82183d0952bc9a0dd775dd29a3c7ce1c4e18b70c09db466701d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsau đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000126a7",
       "file_offset": 75431,
       "source": "$Well! No Messengers in a while.",
       "source_sha256": "836461d9172dcafced59c9cc4be1c105775a725dcd919a97710d69a465044d25",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chà! Đã lâu chẳng có Sứ giả nào tới.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012749",
       "file_offset": 75593,
       "source": "\nnever do...",
       "source_sha256": "c64331ac46ae171896cdb3bdfbe89fff55203f069a26cb495f4be564286feb98",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông bao giờ làm vậy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000127bd",
       "file_offset": 75709,
       "source": "\nvisit the Land of the Dead...?",
       "source_sha256": "1a9f3c2d7dbc90527d449e415923a8a9e876ca8a15ed3844287b6bb2b736136c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến thăm Vùng đất Người Chết sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012917",
       "file_offset": 76055,
       "source": "(I'm relying on you. We all are...",
       "source_sha256": "0e1adb01918d447ab0b58f38fccf64f436f9f5831048e5102e6fc58d02aa4be5",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi đặt cả niềm tin vào bạn. Tất cả chúng tôi đều thế...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012bf8",
       "file_offset": 76792,
       "source": "\nshare our knowledge with you.",
       "source_sha256": "5c0a892bc169c9a6635890f51e2b9b9f93d284dbd78e49e091b50c5e3ef630ab",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchia sẻ hiểu biết của chúng tôi với bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012d16",
       "file_offset": 77078,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012dff",
       "file_offset": 77311,
       "source": "\nnow can transform itself.",
       "source_sha256": "dda5f135efb45a57d3edee1c0d28eaf53905366363ae70eb138a038256f2018a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ đã có thể biến hình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012e9b",
       "file_offset": 77467,
       "source": "\nvarious new abilities.",
       "source_sha256": "606725b8526311ee088681480646ab2da4f4c17aee79f570e4492fb7f37e3282",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhiều năng lực mới khác nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00012f39",
       "file_offset": 77625,
       "source": "\nto undergo various trials.",
       "source_sha256": "ae3c654df488092fcdf70d4cde9138c1002aee4039689dc8a85da15ff6125ca2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể vượt qua nhiều thử thách.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001303b",
       "file_offset": 77883,
       "source": "\naround trying to escape.",
       "source_sha256": "6f80e61606bbc12675c22d7ccfb498c22bfbe4caad497190e149e3d78517d672",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nloay hoay tìm cách trốn thoát.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000130d8",
       "file_offset": 78040,
       "source": "\nbet you'd know how to handle it.",
       "source_sha256": "57276ce2512b0576d86485ef9c8ec86308cf89fb21ea9724f11cbf04e7dbe344",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncá là bạn biết cách xử lý chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000131de",
       "file_offset": 78302,
       "source": "\nmight if hit by wind or thunder?",
       "source_sha256": "3c93afd312ef15676e52b6ae507bece3cd69646b5ad146048188edc66bae2237",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể... nếu bị gió hoặc sét đánh trúng?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013281",
       "file_offset": 78465,
       "source": "\nsomething good inside!",
       "source_sha256": "2e38c00ab2e00a50a8d9892db9964ff92cc6a345edb2fb5ea64f80ca5bef8d9d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thứ hay ho bên trong!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013370",
       "file_offset": 78704,
       "source": "\nown territories.",
       "source_sha256": "ab49f7981d0cfe1a6788460b5c45be9f88ea7017e595be7ba227b71beced9b5c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlãnh địa riêng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000133e7",
       "file_offset": 78823,
       "source": "\nthe Folks' sanction is needed.",
       "source_sha256": "1a4be82a8316f729d25199044f454fc9ca8e9f218c58d7461d41c06516cf2669",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncần được các Folk chấp thuận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000134d0",
       "file_offset": 79056,
       "source": "\nseek yet?",
       "source_sha256": "51e46e06644747291dc18659fc4b16270e12d21c54230223f1c21c4bde40e04c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã tìm kiếm chưa?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013554",
       "file_offset": 79188,
       "source": " for advice.",
       "source_sha256": "2db8670f27aec6877b1de5207dfcfee316730c23ff6d5519eedff2c543bd58b8",
-      "vi": "",
-      "status": "todo",
+      "vi": " để xin lời khuyên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013645",
       "file_offset": 79429,
       "source": " as stars.",
       "source_sha256": "b4dd5f9258b50bc50e58c467ee1626e0d364987353141fe5d0b7aa5ab8cf152d",
-      "vi": "",
-      "status": "todo",
+      "vi": " như những vì sao.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000136b5",
       "file_offset": 79541,
       "source": "\nthey have a connection with.",
       "source_sha256": "437f8a1180c7a4c6245fef047b7bddbe6f4d173499878addc07ad1fc87dfd6f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng có mối liên hệ với.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013856",
       "file_offset": 79958,
       "source": "\nvery close to reality, you know.",
       "source_sha256": "2f0c58da0878784738ffb07996330c1635f0677efa193e74adb2d1b03d8e35ba",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrất gần với thực tế, biết không.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000138f5",
       "file_offset": 80117,
       "source": "\nbased on true experiences.",
       "source_sha256": "a66b52e769bc110aa1d8de96b9605e4381616fcae4c33e885d68a6ef4e8edf82",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndựa trên những trải nghiệm có thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000139f5",
       "file_offset": 80373,
       "source": "\nbased on true experiences.",
       "source_sha256": "a66b52e769bc110aa1d8de96b9605e4381616fcae4c33e885d68a6ef4e8edf82",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndựa trên những trải nghiệm có thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013abb",
       "file_offset": 80571,
       "source": "$Anything you'd like to know?",
       "source_sha256": "1da1a9bd07a5e427c8a36ef130c953054dbc429bfbeeab7e9364bf07f53ead65",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có điều gì muốn biết không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013bf1",
       "file_offset": 80881,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013d7f",
       "file_offset": 81279,
       "source": "\nvery special occasions.",
       "source_sha256": "2923ce4f2388bf570668c9099fe194cd7916716e1311ccd328c6bdfb06ffe09a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững dịp vô cùng đặc biệt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013f50",
       "file_offset": 81744,
       "source": "\nits thick, abundant fur.",
       "source_sha256": "d19539eaf8629bb311ac2829fb06e8ca00d274f269a9928f1684a0455ab2e909",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbộ lông dày và rậm của nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00013fc8",
       "file_offset": 81864,
       "source": "\nanywhere near it with scissors.",
       "source_sha256": "21c34dcfc5805148815e3ce70f4e2fbd1ebf2e4a901b9d57a6510f2795d50ed8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến gần nó cùng một chiếc kéo.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014076",
       "file_offset": 82038,
       "source": "\nshock of it all.",
       "source_sha256": "03e08690339a11b50b7db8c22add57d9e85d395311bda562b63b02597c6687e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncú sốc trước tất cả chuyện ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014169",
       "file_offset": 82281,
       "source": "\nto do. Ask around at the pub.",
       "source_sha256": "43c82666ddadd26e1ef089fcae111e7e8c19f7b02606c0b52f154f0349c0e210",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải làm. Hãy hỏi quanh quán rượu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000141e2",
       "file_offset": 82402,
       "source": "\nperforming a quest by now.",
       "source_sha256": "c02b6ff72a130f637eaac429fabb5dc02d67c0a2ac6a7fd32debdf24225068f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang làm một nhiệm vụ rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000142c7",
       "file_offset": 82631,
       "source": "\nbefore the living on a whim.",
       "source_sha256": "31cd9e397855e3e350cd26b21de032a3eaae040552944e6118daf531fdfcb386",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrước mặt người sống theo hứng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014385",
       "file_offset": 82821,
       "source": "\nAudience Hall.",
       "source_sha256": "f71ee3c5d628b56c12de1318d68cdbed2ad5975a943ad1225f0af756e0f4cb38",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐại sảnh Tiếp kiến.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014429",
       "file_offset": 82985,
       "source": "\nhave when they were alive.",
       "source_sha256": "4751f2a60bd6600b88562049f9ad2464845bfb55c9f3de114ee398e9ca89d0da",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó khi họ còn sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000145a3",
       "file_offset": 83363,
       "source": "\nterrifying than death...",
       "source_sha256": "1dc70e36600d17eaa1e169c4c663280a88c2bf4cb3fa81a49528a2c6463248f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáng sợ hơn cả cái chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014603",
       "file_offset": 83459,
       "source": "$His spirit actually vanishes!",
       "source_sha256": "b1f1217c931b48da8616e741b80c56354f8f0bbb5aadc852dc31f263f7b15831",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Linh hồn của anh ta thực sự biến mất!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001477f",
       "file_offset": 83839,
       "source": "\nterrifying than death...",
       "source_sha256": "1dc70e36600d17eaa1e169c4c663280a88c2bf4cb3fa81a49528a2c6463248f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáng sợ hơn cả cái chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000147df",
       "file_offset": 83935,
       "source": "$His spirit actually vanishes!",
       "source_sha256": "b1f1217c931b48da8616e741b80c56354f8f0bbb5aadc852dc31f263f7b15831",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Linh hồn của anh ta thực sự biến mất!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000148c6",
       "file_offset": 84166,
       "source": "\ndream or an illusion!",
       "source_sha256": "7e9a3a613a04cc9a7368bff9c3e839f9c9c75f5da74067b189d12b8cc0b667f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchỉ là mơ hay ảo giác!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001495c",
       "file_offset": 84316,
       "source": "\ndisappearing into the Oblivion.",
       "source_sha256": "4b36c3f6a1075b14215265646644f3393c7b89de468c644a823271ddf559a679",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiến mất vào Oblivion.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014a46",
       "file_offset": 84550,
       "source": "\ndream or an illusion!",
       "source_sha256": "7e9a3a613a04cc9a7368bff9c3e839f9c9c75f5da74067b189d12b8cc0b667f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchỉ là mơ hay ảo giác!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014adc",
       "file_offset": 84700,
       "source": "\ndisappearing into the Oblivion.",
       "source_sha256": "4b36c3f6a1075b14215265646644f3393c7b89de468c644a823271ddf559a679",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiến mất vào Oblivion.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014ba7",
       "file_offset": 84903,
       "source": "$What would you like to know?",
       "source_sha256": "56864f6ee27a40d471a7cb818ec6e6e8dd9428bd3709a07300a6fda70749e7c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn muốn biết điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014cd4",
       "file_offset": 85204,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014dd9",
       "file_offset": 85465,
       "source": "\nDefeating it will not be easy.",
       "source_sha256": "86abee31903059ec5a69262bf2bfd9d161730ba3de6d707f0ba308323b896b0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐánh bại nó không dễ đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014e5e",
       "file_offset": 85598,
       "source": "\ntentacles are lightning swift.",
       "source_sha256": "528c266f672ab96fe692cd50e1863a9a03a2169d34280ad6823d6fff42b352f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxúc tu nhanh như chớp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014f03",
       "file_offset": 85763,
       "source": "\nno one's had the nerve to do it.",
       "source_sha256": "2c61ef4f7dac3bfad6141ce5895ac6a1aea907fe000bc14d8389a8ddb9fe5e7a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchưa ai đủ gan làm vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00014fa2",
       "file_offset": 85922,
       "source": "\nsomething big in there...!",
       "source_sha256": "7154a4f7bf0ee59e51c908d1e232f9ef666193af81a7d9ac8a26921981979d3e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thứ gì đó rất lớn bên trong...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015086",
       "file_offset": 86150,
       "source": "\noften performed up ahead.",
       "source_sha256": "35b3c2ad2b7df42b93ff2e7f50df8dbbbcbd685162947aab7957f5b86533ecb3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthường được cử hành ở phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001510b",
       "file_offset": 86283,
       "source": "\nmaking offerings of treasure.",
       "source_sha256": "099d4740eef2ec34792de4f06bd814654c1d02343dd688ff1e314007e4a17084",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndâng báu vật làm lễ vật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015170",
       "file_offset": 86384,
       "source": "Go and have a look.",
       "source_sha256": "e3cb30d421d166b058263c065bb7a3aa4044a3b76b8352a2663956b2ff9c5394",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đi xem thử đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001525c",
       "file_offset": 86620,
       "source": " you use grow stronger.",
       "source_sha256": "2ff1ce10dffd9f9b60475ac0d92ec1d1939be3c881b6b608fd16dd8751e33462",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn sử dụng sẽ mạnh hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000152ff",
       "file_offset": 86783,
       "source": " many times.",
       "source_sha256": "acf326394c63e6a01a206c6d30fa69363e3e4acba557089b1b7d674b24831d3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " nhiều lần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015464",
       "file_offset": 87140,
       "source": "\nthe dead, touch the Mnemosyne.",
       "source_sha256": "93c97f9150ac61e4d9f50a6be2863ba3d432c3a700c443a8af4d336fb057a7a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười đã khuất, hãy chạm vào Mnemosyne.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000154e2",
       "file_offset": 87266,
       "source": "\ninsect would in your world!",
       "source_sha256": "a7213964b85ad1b43160b20817a636b0075fec29ce875b0e404d156c6660ca89",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư côn trùng ở thế giới của bạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015601",
       "file_offset": 87553,
       "source": "\nlong ago.",
       "source_sha256": "aeacdf3f7a8a0b9f6461ac58ed73f337f028749b1d46b46fdaa3882fae03bc75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ rất lâu rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015699",
       "file_offset": 87705,
       "source": "\nand ask him.",
       "source_sha256": "10c441b7bf526212d4635fc9a49c0ff4e14ab45e685e7dd88f4d0a70cc34b244",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà hỏi người đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015824",
       "file_offset": 88100,
       "source": "\nrelying on you, you know!",
       "source_sha256": "10aa7332012fecf4c82cc740cba4019ea963847fb5436a55eae732a242467a0e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang trông cậy vào bạn đấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015936",
       "file_offset": 88374,
       "source": " leave!",
       "source_sha256": "81f8addb672ed3ffaed3a0bb1baa596e23f6cc082b353ca50359c5dd00ec20bf",
-      "vi": "",
-      "status": "todo",
+      "vi": " đi đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000159a2",
       "file_offset": 88482,
       "source": "\nNot to mention recklessness...",
       "source_sha256": "61efae8657dcdc482d3b12c6eb2865964c86b8962aad16cad9e90eae37aae802",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChưa kể còn quá liều lĩnh nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015a93",
       "file_offset": 88723,
       "source": "\npicked up memories from the dead.",
       "source_sha256": "8f83a8207c5bab3cf6ce7a80fd362515c2057c6c3bd3f02ca7dcd27fef51ba40",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhặt được những ký ức của người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015b48",
       "file_offset": 88904,
       "source": "\nof these dead people.",
       "source_sha256": "75a1648770f2da4d2d5845f2ecb76aec49551dde45f4a9fc81071eaa16b4efc3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa những người đã khuất này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015c07",
       "file_offset": 89095,
       "source": " What would you like to ask?",
       "source_sha256": "876c5dcd9ca7f1a32dc3e04056f43390a216676a423db9bc8d6d496b3152abf2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn muốn hỏi điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015d29",
       "file_offset": 89385,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015e50",
       "file_offset": 89680,
       "source": "\nfunctions properly.",
       "source_sha256": "c3666c971eb3082a0719d4910055168f743cc754fcb1cb944443c64dc7d2554d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhoạt động bình thường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015ecd",
       "file_offset": 89805,
       "source": "\nforce has affected it.",
       "source_sha256": "e7a52ae40496315209160ce8ebfe8b3556cec9d5284ad944c8a28d5405424718",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã bị một sức mạnh tác động.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00015f72",
       "file_offset": 89970,
       "source": "\nHall should return to normal.",
       "source_sha256": "a96e33bd79a3b2e1d5996082c2ffbe8f220d3a038f8c1defee499e0dd4db57e3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐại sảnh sẽ trở lại bình thường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000160b5",
       "file_offset": 90293,
       "source": " most elite.",
       "source_sha256": "e2dff30c02f37b79501442c599f1717f5fd0acf8dd1d34efa6fc85eb13ef94b1",
-      "vi": "",
-      "status": "todo",
+      "vi": " tinh nhuệ nhất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001618d",
       "file_offset": 90509,
       "source": "\nthe Land of the Faerys.",
       "source_sha256": "204ee514868b9d9225238f439a41300a8169a41ddca1c42505ab3f2a90dfb02d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVùng đất của các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00016208",
       "file_offset": 90632,
       "source": "\npeople's memories.",
       "source_sha256": "ca2d1b8e0ed931bfd765c45c43195e78cdc90b4b57b4fde4507ad43faa0bdb19",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nký ức của con người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000162a9",
       "file_offset": 90793,
       "source": "\narea ahead.",
       "source_sha256": "bce1a7144b44f9277606ee281e8ac2558e4bba0435fe74f2a8d8e98aa83670b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhu vực phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001643c",
       "file_offset": 91196,
       "source": "\nwill probably soon be affected.",
       "source_sha256": "992f077e97a2007476269f53e6db0103e79b658b0e7d3586c2152fa7a7222ba8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó lẽ cũng sắp bị ảnh hưởng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000164d1",
       "file_offset": 91345,
       "source": "\ntakes over?",
       "source_sha256": "258ce10e3cefb165ea44a87b9b715b99996c13a062703250d9d5ddfc1554914c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchiếm lấy thì sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00016690",
       "file_offset": 91792,
       "source": "\nhave long awaited you.",
       "source_sha256": "1bfdc1f8e486786b7dd77bc714da58e41f1efbc6910926e6eee6043f1d4aef7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã chờ đợi bạn từ rất lâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001676b",
       "file_offset": 92011,
       "source": " by storm!",
       "source_sha256": "2f93e551b9f46bfd42251957c57a2b13740c07e4677d8955fd68266501808b0d",
-      "vi": "",
-      "status": "todo",
+      "vi": " như vũ bão!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00016dc9",
       "file_offset": 93641,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00016ec6",
       "file_offset": 93894,
       "source": "\nYou might find something good.",
       "source_sha256": "5d0bfedac0e8a8ec2673898f3cc309211a600b7e84d70a3845398d8111072b00",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBiết đâu bạn tìm được thứ hay ho.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00016f4a",
       "file_offset": 94026,
       "source": "\nyou want to hurry on though.",
       "source_sha256": "7318c0888bcb5f07ca72f79771754ab6c31e83f7966834fb30fa988e08cdde7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng bạn nên đi nhanh lên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00016fc7",
       "file_offset": 94151,
       "source": "\nmany difficulties ahead.",
       "source_sha256": "4a51a32e8cc96ee675730de519402086217863b254069706ef0e64c55b44f7f1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbao khó khăn đang chờ phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000170b9",
       "file_offset": 94393,
       "source": "\nof the stones you can destroy.",
       "source_sha256": "0702b054c4808ace029992a08d0bd1fe99599cac92bf641c18a60ebd734b2f3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa những hòn đá mà bạn có thể phá hủy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001713b",
       "file_offset": 94523,
       "source": "\nso be careful.",
       "source_sha256": "d96f8de23ebce3b0b034d0c05eb96826b25f3950378deeb46dd16252dea85f76",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì vậy hãy cẩn thận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001722a",
       "file_offset": 94762,
       "source": " in the fortress.",
       "source_sha256": "e95d8e471de360bff59cb99ca91262d8a7fb5ed6fc7e71b17dfdda4986b0de9b",
-      "vi": "",
-      "status": "todo",
+      "vi": " trong pháo đài.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001729b",
       "file_offset": 94875,
       "source": "\nwith that task.",
       "source_sha256": "ae31d6bb0619e1a99710633b9a577f6c76aeb47424a670cc3ed318a55948f3ee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới nhiệm vụ ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000173a3",
       "file_offset": 95139,
       "source": " upside down.",
       "source_sha256": "bfd0e43e473fb8b6a28136540e741b918fe8d50666febb5414da95a9ff567a1f",
-      "vi": "",
-      "status": "todo",
+      "vi": " lộn ngược.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017437",
       "file_offset": 95287,
       "source": "\na Messenger joined them.",
       "source_sha256": "d3bb880a68b14cd1c53fdf28ec04edc4f3f35ca7ae7aa86d1109997745153dcd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột Sứ giả đã gia nhập cùng họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017758",
       "file_offset": 96088,
       "source": "\nnone with your abilities!",
       "source_sha256": "48f7029eb99b40eaf397716897c02f4408ad70bae609dfe9a1a6b317bfc9e1ea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng ai có năng lực như bạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017846",
       "file_offset": 96326,
       "source": "\nlong ago to help clean it up.",
       "source_sha256": "2d2cf242571ee53c72b42791a47baf75e2635b116ae294079e93a01ceda3e3ce",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ lâu để giúp dọn dẹp nơi đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000179d6",
       "file_offset": 96726,
       "source": "\ngo on, I wonder...?",
       "source_sha256": "fb51ef18277d2f9569e180ce63fdc0a4b0b34418829bf227459461f4d223e364",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntiếp tục diễn ra thế nào nhỉ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017ab1",
       "file_offset": 96945,
       "source": "\ncome all this way, you know.",
       "source_sha256": "833f029261db3bb6e7436949343b902c1d38ab91e9ecb46251e7e46739bc12ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã đi xa đến tận đây, biết không.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017bdb",
       "file_offset": 97243,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017ce5",
       "file_offset": 97509,
       "source": "\nthey're really hard to deal with.",
       "source_sha256": "f9add43eda4b48e0086531b2a14f244295d348ef1097c3818de6d27a5adc7867",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđối phó với chúng rất khó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017d6a",
       "file_offset": 97642,
       "source": "\ndo something about their armor.",
       "source_sha256": "5635b7c77fb337f7535163fb650dd548b3230a636aaf4bd28126173581fb0926",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm cách xử lý lớp giáp của chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017e6e",
       "file_offset": 97902,
       "source": "\nBelieve this.",
       "source_sha256": "d8b57643114c6b2bed210a82d4ef246b34867c4f0a5572ee072ea44af29e8ea5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy tin điều này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017f47",
       "file_offset": 98119,
       "source": "\nMachine Soldiers buzzing around.",
       "source_sha256": "3a52c49f7df6db0a03ca8a24cfb3b872728ff685e722c76f79fff7cfffc2dd55",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđám Lính Máy đang lởn vởn khắp nơi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00017fcf",
       "file_offset": 98255,
       "source": "\nThunder Machine Soldiers.",
       "source_sha256": "facd16dc0659379e0e79e426b933e20f795187f9fa3ac74cfeb224365b6973d7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nLính Máy hệ Sét.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00018109",
       "file_offset": 98569,
       "source": " here.",
       "source_sha256": "78939e6020b2f2c43c582920a385fb63d09ee40b7e916834f29583b36c58cd40",
-      "vi": "",
-      "status": "todo",
+      "vi": " ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001818d",
       "file_offset": 98701,
       "source": "\naround on the battlefield.",
       "source_sha256": "f9b95950616e415cdf609b3fea49fe25acfbd7367ea2b942b0210e2910101016",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquanh chiến trường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000182b9",
       "file_offset": 99001,
       "source": " affair.",
       "source_sha256": "efcb845e704c759de36253236e4163feef6e2adb7cf8d2b1b19747c9e522df72",
-      "vi": "",
-      "status": "todo",
+      "vi": " vụ việc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00018325",
       "file_offset": 99109,
       "source": "\nhaving you too involved...",
       "source_sha256": "59a88b3d992efdd02c598e4cf68ffeaea57301b29d29e948ce91a21e46cede4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể bạn dính líu quá sâu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00018424",
       "file_offset": 99364,
       "source": "\nForgive us...",
       "source_sha256": "da621b7a9c558570485ad9ffd6b1559c4cc5921a9c6d8096b3548130d40c16a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nXin hãy tha thứ cho chúng tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@0001851e",
       "file_offset": 99614,
       "source": "\nsudden or accidental death.",
       "source_sha256": "4bae4a56f31a6a2537520c14c3895d743bfe34826bbf2d954864589eabb46687",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncái chết đột ngột hoặc do tai nạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@000186a8",
       "file_offset": 100008,
       "source": "\nthe next place for a new life...",
       "source_sha256": "afb3eedde7e7a27d6edb2586c323c3b784bfbb523c453978d3db0d55bf5ccd56",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi tiếp theo để bắt đầu một cuộc đời mới...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng đã được dịch nháp trong các catalog talk trước; dùng nguyên bản để thống nhất. Vẫn cần parser/speaker."
     },
     {
       "id": "talk/en/tk203_en.bin_@00018773",

@@ -339,3 +339,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: chỉ vi/status/notes tại 100 ID; bất biến ID, nguồn, source_sha256, file_offset, source_review, order, mã mở đầu/newline/placeholder/NFC. 0 xung đột nguồn trùng; không thay Merienda V3/ROM/binary. Talk/cmc chưa có parser/repacker hoặc test RPCS3.
 - Tổng 158 catalog **5.829/11.886 draft**, còn **6.057 todo**. Không phải độ phủ bản patch chơi được.
 - **Tiếp theo:** `talk/en/tk203_en.bin_@0000cccf` (`And for what reason?`). CI validator/unittest sau commit.
+
+## Lượt 026c — 11/10/2026 (200 mục tk203: Doolin và Banshee)
+
+- Từ `talk/en/tk203_en.bin_@0000cccf` đến `talk/en/tk203_en.bin_@000186a8` dịch **200 todo→draft** theo 4 nhóm QA: 130 nguồn trùng đã dịch, 12 nguồn trùng trong lô và 58 nguồn mới khác nhau. `tk203` đạt **400/663 draft**, còn **263 todo**.
+- Ngữ cảnh: bác sĩ phá sản, điều tra người chết, vách đá, Banshee, điềm báo và bài hát, nhiệm vụ ở Doolin, hình bóng người chết và ký ức. Không gán speaker theo offset và chưa chốt đại từ dựa vào mảnh câu. Ghi notes cho các chỗ bị cắt hay thuật ngữ/giới tính chưa chắc.
+- QA: chỉ vi/status/notes thay đổi ở 200 ID; English/source SHA/offset/source_review và thứ tự bất biến; NFC, newline, mã dẫn, ký tự kết thúc khoảng trắng, token và bản dịch nguồn trùng nhất quán. Tất cả candidate/draft; chưa có parser/repacker thoại hoặc kiểm tra RPCS3, giữ Merienda V3 và binary nguyên.
+- Tổng 158 catalog: **6.029/11.886 draft**, còn **5.857 todo** của dữ liệu trích xuất, chưa phải phần trăm Việt hóa playable.
+- **Tiếp theo:** `talk/en/tk203_en.bin_@00018773`; còn 263 mục tk203, trong đó nhiều nguồn trùng tk202/tk201. GitHub Actions validator + unittest được kích hoạt sau commit.
