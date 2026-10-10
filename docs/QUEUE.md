@@ -2,7 +2,7 @@
 
 ## Bắt đầu ngay
 
-1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
+1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục khoảng 200 mục `todo` theo thứ tự trong mỗi lượt (hoặc hết phần menu nếu còn ít hơn),
    bắt đầu từ `lang_en.bi5_@00007059`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
@@ -28,6 +28,10 @@ Người dùng tự mở game/test/gửi ảnh; không tự điều khiển gi�
 
 ## Ghi sau mỗi lượt
 
+Theo yêu cầu người dùng ngày 10/10/2026: menu dịch khoảng **200 mục/lượt**,
+chia kiểm tra nội bộ mỗi ~50 mục nhưng chỉ bàn giao/commit sau khi hoàn tất cả
+lượt. Không tự dừng ở 50 nếu không có lỗi thật. Nếu hội thoại dài hoặc cần rà
+ngữ cảnh, giảm kích cỡ hợp lý nhưng giải thích trong checkpoint.
 Ghi tệp, ID đầu/cuối hoặc danh sách ID, số mục đổi trạng thái, ngữ cảnh còn
 thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 khi thêm lịch sử.
 

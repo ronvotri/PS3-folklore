@@ -16,8 +16,13 @@ This is a small menu test, not a full-game or full-alphabet verification.
 ## Default translation work
 
 When asked to continue translating, work immediately on the existing catalogs.
-Use translations/index.json and docs/QUEUE.md to pick 40-80 entries per batch;
-prefer verified menu entries first. Do not request a ROM just to translate.
+Use translations/index.json and docs/QUEUE.md to pick approximately 200 verified
+menu entries per work session (or all remaining if fewer), checking in logical
+subgroups of about 50 for consistency, metadata invariants and control codes.
+Do not stop after the first 50 entries unless a real blocker appears; report
+progress and commit once the larger batch is checked. For long narrative or
+context-sensitive dialogue, choose a smaller batch only when necessary for
+translation quality. Prefer verified menu entries first. Do not request a ROM just to translate.
 Edit vi, status, notes; update source_review only after actual source review.
 Keep IDs, English sources, hashes, offsets, metadata and order unchanged.
 Read neighboring entries for context. Use translations/glossary.json.

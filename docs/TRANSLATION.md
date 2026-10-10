@@ -29,8 +29,13 @@ xác minh; không cắt nguồn, nối mục hay sửa offset để làm câu tr
 
 ## Mỗi lượt
 
-Làm khoảng 40-80 mục theo nhóm/ngữ cảnh. Chạy python tools/catalog.py validate
-và unittest; xem diff để chắc chỉ trường dịch/tiến độ thay đổi. Cập nhật
+Đối với menu đã xác minh: dịch khoảng 200 mục mỗi lượt (hoặc tất cả mục còn lại
+nếu ít hơn), rà thành từng nhóm nội bộ ~50 mục, kiểm tra từ vựng và source
+trùng nhau; chỉ bàn giao sau khi hoàn tất lượt lớn. Đối với hội thoại dài,
+cảnh có nhiều người nói hoặc dữ liệu chưa rõ metadata, chia lượng nhỏ hơn khi
+cần để giữ ngữ cảnh và chất lượng.
+Chạy python tools/catalog.py validate và unittest; xem diff để chắc chỉ
+trường dịch/tiến độ thay đổi. Cập nhật
 QUEUE.md với tệp/ID đã làm, vấn đề còn mở và điểm bắt đầu lượt sau.
 Không suy phần trăm game hoàn tất từ số mục đã dịch.
 
