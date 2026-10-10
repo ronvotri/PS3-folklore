@@ -1011,1000 +1011,1000 @@
       "file_offset": 27227,
       "source": " 17 years ago.",
       "source_sha256": "88b016829d52fa0d9443f2998a51ec46f9d9229671ee492a016f57af3d36a872",
-      "vi": "",
-      "status": "todo",
+      "vi": " 17 năm trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006ac3",
       "file_offset": 27331,
       "source": " What!?! How do you...!?!",
       "source_sha256": "15cabf284348ee5a14383c50ba229907ba37455f850d7d5e93a39a8de1b62f80",
-      "vi": "",
-      "status": "todo",
+      "vi": " Gì cơ!?! Sao bạn lại...!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006be3",
       "file_offset": 27619,
       "source": "\nyou took that photo?",
       "source_sha256": "d9ac68711b2cf1dcd800ecb39e6fbdbb7126733a913660798d94430337bddeea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn đã chụp bức ảnh đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006ca9",
       "file_offset": 27817,
       "source": "\nplace again today.",
       "source_sha256": "56f94a13d00e8b3eebd39aeaf29177a77277bba67cafe27fe0bf28a9ce87af10",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđịa điểm ấy một lần nữa hôm nay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006df6",
       "file_offset": 28150,
       "source": "\nthing like that?",
       "source_sha256": "70e6f2378fd414cc8704087fca65eea62399a3d7f5c5edebebb8c59bb47c0a09",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện như thế sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006ebd",
       "file_offset": 28349,
       "source": "\nwrong, that he did it for you.",
       "source_sha256": "fa22cbed9af4d8d1b0bf86dd1bdfb93c4e9dfacad5c87feabf25b3566f3a7f76",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsai lầm, rằng anh ấy làm vậy vì bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006f38",
       "file_offset": 28472,
       "source": "And it got him killed.",
       "source_sha256": "64e868b153871271cd8b6b8bee2aacccf41beb554a998b2be7e0daf726aaaab0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Và chính chuyện đó đã khiến anh ấy mất mạng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006fb2",
       "file_offset": 28594,
       "source": "\nhim his request now.",
       "source_sha256": "f12ef340cd58fe76655fdff5a1e6f96c45c001d801571ad7108be96fe6b4b805",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáp ứng lời thỉnh cầu của anh ấy lúc này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007097",
       "file_offset": 28823,
       "source": "\nbelieve this madness...?",
       "source_sha256": "27b869189acd1bc59de8f080f1bdbd0a9b78e386a46620ab84a43860674bef37",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin nổi chuyện điên rồ này sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007170",
       "file_offset": 29040,
       "source": "Wait...!",
       "source_sha256": "aecc42103e70c9c9814c9eb793245e37a66f640109e82544c43d57a5ad9af2f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khoan đã...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007207",
       "file_offset": 29191,
       "source": "(I... suppose I do want to know...",
       "source_sha256": "5bc9d8fa04bb4a525b9dd9d545553527c9c428bbcdffd50db1c47ed8cde5739e",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi... nghĩ mình cũng muốn biết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000729a",
       "file_offset": 29338,
       "source": "\nthe church that day...",
       "source_sha256": "766ee0d38695fed77b88322b49cf5e8a7c5f555a82adcb18d41ee1a25b349a29",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhà thờ hôm ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000072f7",
       "file_offset": 29431,
       "source": "$Please take me to the church.",
       "source_sha256": "e9b5c3fc58369ecc6c3befcb5f37effe46b58cf1675e35804d24c953decc23b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Xin hãy đưa tôi đến nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007370",
       "file_offset": 29552,
       "source": "Okay, I will!",
       "source_sha256": "ea4c1efaf09e127925cebfe5ce197a3ed3c88d4f0d503085042e0afe977a0fec",
-      "vi": "",
-      "status": "todo",
+      "vi": "Được, tôi sẽ làm vậy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000075d9",
       "file_offset": 30169,
       "source": "\nthis place, you know!",
       "source_sha256": "e4e6eac95200acafeea7a1460ed1767bc1dbbbfbb1aaa98030647eb678be32b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi này đấy, bạn biết không!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007678",
       "file_offset": 30328,
       "source": "\ndeep in this realm!",
       "source_sha256": "79dc7dc30a42bda515e3b5ad19a66769c88178161b5bd0d9c6045d7d01e84a65",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsâu bên trong cõi này!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000078cb",
       "file_offset": 30923,
       "source": "\nand help relieve your burden.",
       "source_sha256": "9ca64bc775326182ebd83a4bb7b54abc3fd121a1fc68633229d90b6b48a2346f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà giúp bạn vơi bớt gánh nặng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000079df",
       "file_offset": 31199,
       "source": "\nthere?",
       "source_sha256": "f91962eba88c247af49c26360c31bed80d250a816500400386a861eb2e799755",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng nguyên bản dịch tiếng Việt của nguồn trùng đã có; vẫn cần đối chiếu cảnh khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007a2c",
       "file_offset": 31276,
       "source": "No idea. Uwee hee hee.",
       "source_sha256": "2f9055239fbcd4f342a9fd8da70996be6b679ccce09cca70d01ef3348a86b8e9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chẳng biết nữa. Ui hi hi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007ab3",
       "file_offset": 31411,
       "source": "\nanything with the likes of me.",
       "source_sha256": "32a9772a741d690b6388aa5786f279da7dcfbfac177266463dbdeb56f5393163",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều gì với kẻ như tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007cf8",
       "file_offset": 31992,
       "source": "\nto help the Land of the Dead.",
       "source_sha256": "9a9af9eaa75b9969879534e54ae2f01deb74e57f6bf593f478c8c2e88fbaf622",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể giúp Vùng đất Người Chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007ec2",
       "file_offset": 32450,
       "source": "\nspirits to have died in vain.",
       "source_sha256": "e51ce1403d92fd10ddbfc08c2b0f694d3f371307dbd91ee1be387f8406a998ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững linh hồn đã chết một cách vô ích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007f28",
       "file_offset": 32552,
       "source": "Your Lordship...?",
       "source_sha256": "f5a64b46b3f3a6c8397fc0daf6a97ea2368f1017e028b621c087d650d63a0ab9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thưa ngài...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00007fb2",
       "file_offset": 32690,
       "source": "\nI will take part in the battle.",
       "source_sha256": "9db2aa7f21facadbde93628ee7bda5eb927ee78c82dd1e98e03770627484ca98",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi sẽ tham gia trận chiến.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000080af",
       "file_offset": 32943,
       "source": "\nfront line right beside you.",
       "source_sha256": "2e5bf2076675837bfa12d9b03e15ec49cf387abbd90812be496dcce51537a6fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntuyến đầu ngay bên cạnh ngài.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008161",
       "file_offset": 33121,
       "source": "\nan impossible task of you.",
       "source_sha256": "36b9ec57ff755ae0ec764c9e7395915c1686b3fe2749b790bf4eff5d3d72b7cc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột nhiệm vụ bất khả thi cho ngài.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008322",
       "file_offset": 33570,
       "source": "\nmany of us sacrificed...!",
       "source_sha256": "a2e9cd7357321acc7cc1008b9cbf5460c73ec2030ca1a2bc589636817d2b64f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiết bao người trong chúng tôi đã hy sinh...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000083b9",
       "file_offset": 33721,
       "source": " was simply too powerful.",
       "source_sha256": "2356b9a99e599d501409c293d94e669de9ab231e179a24952a28a012706ec168",
-      "vi": "",
-      "status": "todo",
+      "vi": " đơn giản là quá mạnh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000084e0",
       "file_offset": 34016,
       "source": " courage.",
       "source_sha256": "2869cfa03dead5d2da20f1b7b92be64ae8da961154be543720d13aeb2ad61c0e",
-      "vi": "",
-      "status": "todo",
+      "vi": " lòng can đảm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000085ed",
       "file_offset": 34285,
       "source": "\nis grim...",
       "source_sha256": "831251cca65bf45f993c09e034bb0ce3dad307b9f338e00d39416ebf97bc637e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthật ảm đạm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008779",
       "file_offset": 34681,
       "source": "\nfor clues about your mother?",
       "source_sha256": "bf7e82fe6307b598a25e0d15f14eacb5690295f7d55db28d250790e8cb22d58a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể tìm manh mối về mẹ bạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000087fb",
       "file_offset": 34811,
       "source": "\nto like what you find...",
       "source_sha256": "90681e84d782442d7b0468347adf51d8409a047b12ec248271aea6697d2bdbc6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthích những gì bạn tìm thấy đâu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@000088fa",
       "file_offset": 35066,
       "source": "\nabout your mother's past...",
       "source_sha256": "6dd41e26a9ea0ce2a7e69745b39d233c5b53c874b8d3e3302302a6edc1b475d7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề quá khứ của mẹ bạn...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000089ea",
       "file_offset": 35306,
       "source": "\ndefinitely hiding something...",
       "source_sha256": "290c1f01e50dd80a38e7ff020be858e6bb7929f6ee8ab2569154debe8509b3ab",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc chắn đang che giấu chuyện gì đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008a50",
       "file_offset": 35408,
       "source": "I don't like it...",
       "source_sha256": "c85a686910cfdca5d626b1cf8d869b8ee998e9b7c0ae4a0c4dbde25c3e023faa",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi không thích chuyện này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008b36",
       "file_offset": 35638,
       "source": "\ndefinitely hiding something...",
       "source_sha256": "290c1f01e50dd80a38e7ff020be858e6bb7929f6ee8ab2569154debe8509b3ab",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc chắn đang che giấu chuyện gì đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008c2c",
       "file_offset": 35884,
       "source": "\nremember him well.",
       "source_sha256": "c1669d18e06476508e4fcffd2ecdcfbc803415892b1af475928e833d151fb8f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhớ rõ người ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008cbb",
       "file_offset": 36027,
       "source": "\nchurch graveyard...",
       "source_sha256": "e13539e65c965b2c2a1f405b9c4f11acda378c744b0cf8179573d555f1b26b97",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnghĩa địa nhà thờ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008dac",
       "file_offset": 36268,
       "source": ", I believe.",
       "source_sha256": "ffea69e6cc6a5e58f4b7fd7514cee1d920dea6dbf7ae7f3a6f6e8a5077fca984",
-      "vi": "",
-      "status": "todo",
+      "vi": ", tôi nghĩ vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008ea0",
       "file_offset": 36512,
       "source": ", I believe.",
       "source_sha256": "ffea69e6cc6a5e58f4b7fd7514cee1d920dea6dbf7ae7f3a6f6e8a5077fca984",
-      "vi": "",
-      "status": "todo",
+      "vi": ", tôi nghĩ vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@00008f93",
       "file_offset": 36755,
       "source": "\nBut that's impossible...",
       "source_sha256": "651c218ee29b328a3d84f6debc585bf6df0c1e7587289d55746b637dae188594",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng chuyện đó là bất khả thi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009024",
       "file_offset": 36900,
       "source": "\nhow wonderful that would be!",
       "source_sha256": "95058391ea43846325b12643d5f83e80e2cae6726b80df79089a737fe2c5401d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thế thì tuyệt biết mấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000913a",
       "file_offset": 37178,
       "source": "\nthat would be...!",
       "source_sha256": "3ff618dd65674ea8cbc4265452b1fdbfd07963c122b575c02de9183791b4e0f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thế thì...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000922c",
       "file_offset": 37420,
       "source": "\nI'll place it in your charge.",
       "source_sha256": "12d207a142cdf51e03e2720f7904176b2ebbfbfe633d15f09477490b2f70047c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi sẽ giao nó cho bạn trông nom.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@000095cf",
       "file_offset": 38351,
       "source": "\nthat kind of talk...?",
       "source_sha256": "0ff9d09a3e5dc75915cc08bf918d853fa2e035e5ba0a3db8d76bd506b1077963",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững lời như thế sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009786",
       "file_offset": 38790,
       "source": "\nI only arrived a week ago.",
       "source_sha256": "e32e8e778e2f434a540d688779fa8f47d10d1ab7243ce2c7fb3d9aec2e062005",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi mới đến đây một tuần trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009891",
       "file_offset": 39057,
       "source": "\nof a village with so many legends.",
       "source_sha256": "a58c4199d8f800d5559204a4917de08b01dbd9b47e598572401b67e4a3f1b406",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa một ngôi làng có nhiều truyền thuyết đến thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000993e",
       "file_offset": 39230,
       "source": "\nhave been involved in something?",
       "source_sha256": "4250c7ac028c932a6f4cc6b17d6236866cefe7a6ad2f31585aea56be1d5382be",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã dính líu tới chuyện gì đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009a3d",
       "file_offset": 39485,
       "source": "\nwith these villagers...",
       "source_sha256": "2b58352927d03af35444593f1fcc9a690b67632d98262e2509671290e58b9371",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới dân làng ở đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009d3a",
       "file_offset": 40250,
       "source": "\nto their problems.",
       "source_sha256": "296db1ff3dd865a0114e4e461de934dd66899ef7eb6cbbf5466e696ab4a689ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới những rắc rối của họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009db3",
       "file_offset": 40371,
       "source": "\nto death, then all the more so.",
       "source_sha256": "cd31fcf38ceaac6cb96dc72b0dd5575582dc543b1d143c69be1437ef455a6008",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến chết, lại càng như thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009e47",
       "file_offset": 40519,
       "source": "\nlong had such a system...",
       "source_sha256": "be75aacc64ac94b947c97a58a7ef1db2d2f743e39f6f09fce24e89dbd35c199d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ lâu đã có một hệ thống như vậy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009ee5",
       "file_offset": 40677,
       "source": "\nsolve problems.",
       "source_sha256": "74e258ad74f47a1a146be6523db576158bb2dd575e823b6c82c62731c7f63cd6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiải quyết vấn đề.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@00009f56",
       "file_offset": 40790,
       "source": "\nthey make people feel better.",
       "source_sha256": "7ae1dfb7fcfdd34185e0bcdfd05a7742650fd81aa89e206a63af78a30a9de3be",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng khiến người ta thấy dễ chịu hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a05b",
       "file_offset": 41051,
       "source": "\ntalking about the dead.",
       "source_sha256": "327a2a38e127630759051177dc2442e6447b0073ec2322795c5ec8c468baaf06",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhắc đến người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a12e",
       "file_offset": 41262,
       "source": ", the lighthouse keeper...",
       "source_sha256": "726602ea8993457038c7cbfb137533921420dcc56587d13980be73d912b0f1a4",
-      "vi": "",
-      "status": "todo",
+      "vi": ", người gác hải đăng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a1c9",
       "file_offset": 41417,
       "source": "\nOne of the good ones.",
       "source_sha256": "121bb0a4ebc1401bcf83b5a44058a91d347c8cc6622c5809c38126d3bf1e5960",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMột người tốt đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a2bb",
       "file_offset": 41659,
       "source": "\nreally got resolved, either.",
       "source_sha256": "73f7d11269e4ec696771a341ebe9718ceb5c48275d4a123238ee5f16f8cf2583",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthật sự được giải quyết cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a37b",
       "file_offset": 41851,
       "source": "\nseed, that woman.",
       "source_sha256": "71110d1460e005f91b51dce8d3e1f035263daddf1876c77e31d3f2f8512b03fe",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột kẻ chẳng ra gì, người đàn bà ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a3ee",
       "file_offset": 41966,
       "source": "\ntruth out of her!",
       "source_sha256": "bdb11659a1251f66a4156a885f7a77ba7616996a3730016449d983d076ea3542",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhiến bà ta phải nói ra sự thật!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a4a5",
       "file_offset": 42149,
       "source": ", too.",
       "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng nguyên bản dịch tiếng Việt của nguồn trùng đã có; vẫn cần đối chiếu cảnh khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a635",
       "file_offset": 42549,
       "source": ", too.",
       "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng nguyên bản dịch tiếng Việt của nguồn trùng đã có; vẫn cần đối chiếu cảnh khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a8f4",
       "file_offset": 43252,
       "source": "\nnever know what now...",
       "source_sha256": "75facdb146fae7d03126c09b3f74fcb3f48e156474acb54472ac69339bd09892",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ chẳng biết phải làm sao nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000a9fc",
       "file_offset": 43516,
       "source": "\nnever know what now...",
       "source_sha256": "75facdb146fae7d03126c09b3f74fcb3f48e156474acb54472ac69339bd09892",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ chẳng biết phải làm sao nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000aad9",
       "file_offset": 43737,
       "source": "\nsome money here... Now look!",
       "source_sha256": "00bdcb187239bcae25cd1bc9206fb20287a82fdf4c413dfd22a6664d6a676444",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột ít tiền ở đây... Giờ nhìn này!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng nguyên bản dịch tiếng Việt của nguồn trùng đã có; vẫn cần đối chiếu cảnh khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000ab57",
       "file_offset": 43863,
       "source": "\nopportunities here, though...",
       "source_sha256": "eb486da1dc69537d111cd8863ef2a44abbaf11fb4e90d386fb07fb8a42e6a67b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntuy vậy, vẫn có cơ hội ở đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000abbb",
       "file_offset": 43963,
       "source": "(Think I'll do a little homework.",
       "source_sha256": "f12134e80f91cd39162639e5bc1cf00ec5cb2fc8bfb4011713aabd646497870c",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Có lẽ tôi nên tìm hiểu trước một chút.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000ac87",
       "file_offset": 44167,
       "source": "(Think I'll do a little homework.",
       "source_sha256": "f12134e80f91cd39162639e5bc1cf00ec5cb2fc8bfb4011713aabd646497870c",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Có lẽ tôi nên tìm hiểu trước một chút.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000aed6",
       "file_offset": 44758,
       "source": "\nthe church...",
       "source_sha256": "27075413886abb2e359fbd47d650f4997a333443a61f8747955c54298db107a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhà thờ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000af48",
       "file_offset": 44872,
       "source": "\nthere, after all this time?",
       "source_sha256": "23cc0b1ead87f4ae3940d3328a62116c9d11a02e2b0e45b64771d15cedb0dd69",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đó sau ngần ấy thời gian sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000afcd",
       "file_offset": 45005,
       "source": "\nclinic closed after 6 months.",
       "source_sha256": "ceda1ad2d7d83a22ffa59042834e3c47bfa59128eacbf3224fa6f75b3ecae098",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng khám đóng cửa sau sáu tháng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b0b5",
       "file_offset": 45237,
       "source": "\nclinic closed after 6 months.",
       "source_sha256": "ceda1ad2d7d83a22ffa59042834e3c47bfa59128eacbf3224fa6f75b3ecae098",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng khám đóng cửa sau sáu tháng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b2af",
       "file_offset": 45743,
       "source": "\nmuch. I'm really worried...",
       "source_sha256": "ede87dd48ccff47eef0de44119722205031146793be6f13ecc4d1b6564ce8c9a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhiều lắm. Tôi lo quá...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b4eb",
       "file_offset": 46315,
       "source": "\ncircle... Make my wish come true.",
       "source_sha256": "1ef14b6bcbce067af24b8213c519b80c80db628c891660071ec3b8d5cf69f7c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvòng tròn... Xin hãy biến điều ước của tôi thành sự thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b586",
       "file_offset": 46470,
       "source": "\nand they'll grant you a wish.",
       "source_sha256": "8af7c5318d1ba49b4c82142e70c70d7b4b5fd27f054b9af4db79e3cea7144c4e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà họ sẽ ban cho bạn một điều ước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b671",
       "file_offset": 46705,
       "source": "\nforgotten it...",
       "source_sha256": "4ef99bf20638448e10d1c9614cdf188e4f2f18b4781f7b69ccf5969b26dd283c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã quên mất chuyện ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b78a",
       "file_offset": 46986,
       "source": " travels.",
       "source_sha256": "d5a57d6b07b154e8ef315d4a4aa160886361928acf35a9737f927a4906623a91",
-      "vi": "",
-      "status": "todo",
+      "vi": " những chuyến đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b812",
       "file_offset": 47122,
       "source": "\na quest.",
       "source_sha256": "6a6f773ec34875856eb11f9be4f88250af2a8c2b091194ca1e2d5656f97738d9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột nhiệm vụ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b899",
       "file_offset": 47257,
       "source": " is often the cause.",
       "source_sha256": "f9f1552206cf6ed61497dccbc60863cf687ee79d604b4441b5a9207e53f64711",
-      "vi": "",
-      "status": "todo",
+      "vi": " thường là nguyên nhân.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000b90f",
       "file_offset": 47375,
       "source": "\nknow what to do about it.",
       "source_sha256": "ecd1a60960f2695532fce2d44f9ed06e0ce233356001900555716ecd0a076218",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiết phải làm gì với chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000ba0d",
       "file_offset": 47629,
       "source": " is often the cause.",
       "source_sha256": "f9f1552206cf6ed61497dccbc60863cf687ee79d604b4441b5a9207e53f64711",
-      "vi": "",
-      "status": "todo",
+      "vi": " thường là nguyên nhân.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000bb08",
       "file_offset": 47880,
       "source": "\nno one notices...?",
       "source_sha256": "276a3ab3e8376054070d4985738cfb8711db15c130412d9309719287ba5f08d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ai để ý sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000bc00",
       "file_offset": 48128,
       "source": "\nno one notices...?",
       "source_sha256": "276a3ab3e8376054070d4985738cfb8711db15c130412d9309719287ba5f08d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ai để ý sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000bd0f",
       "file_offset": 48399,
       "source": "\nfelt for her family is gone now.",
       "source_sha256": "a9054a08dbf261e16a9df373e210e7b577785612feb975707de2964248393d7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndành cho gia đình mình giờ đã không còn nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c0a3",
       "file_offset": 49315,
       "source": "$Something is about to happen.",
       "source_sha256": "21bb4b36113ef3a9e9109511e5738cf5240866bd152b1e6486077c8f74749920",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Sắp có chuyện xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c107",
       "file_offset": 49415,
       "source": "$Be aware... and be careful...",
       "source_sha256": "5ff69d63fd89795e1014d03a2e0373185631233b6642a56d8506c8460117d1be",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Hãy cảnh giác... và cẩn thận...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c1ee",
       "file_offset": 49646,
       "source": "\nBe aware... and be careful...",
       "source_sha256": "877ea2f15a6bbd3548bf2306c9b3d3efdaa4b8010458e7a878c0c938ff2252a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy cảnh giác... và cẩn thận...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c303",
       "file_offset": 49923,
       "source": "\nfor daytime and nighttime.",
       "source_sha256": "6f63263b2eb92107f1912cae8106da02d56539b5e6fc5c9d346fa792e3d8e87a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho ban ngày và ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c413",
       "file_offset": 50195,
       "source": "\nfor daytime and night-time.",
       "source_sha256": "9789a16f1d71c7af5163940120c7024ed0b760871547fb1ddc7fc4f4cc872e06",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho ban ngày và ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c67b",
       "file_offset": 50811,
       "source": "\nfor daytime and night-time.",
       "source_sha256": "9789a16f1d71c7af5163940120c7024ed0b760871547fb1ddc7fc4f4cc872e06",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho ban ngày và ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c78b",
       "file_offset": 51083,
       "source": "\nfor daytime and night-time.",
       "source_sha256": "9789a16f1d71c7af5163940120c7024ed0b760871547fb1ddc7fc4f4cc872e06",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho ban ngày và ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c897",
       "file_offset": 51351,
       "source": "\nsaxophonist you've ever heard!",
       "source_sha256": "beebccb747f18dd0b510c3e38b1a77f462b2e9d98b78773edc4bcb5508b82f45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chơi saxophone mà bạn từng nghe!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c938",
       "file_offset": 51512,
       "source": "\nconditions are met exactly.",
       "source_sha256": "749dd3c789ab3a2f96f1da58c5b0be6544fed76e95c5494c354664bc6c571256",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncác điều kiện được đáp ứng chính xác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000c9b9",
       "file_offset": 51641,
       "source": "\nhim! Can anything be done...?",
       "source_sha256": "abbe986da50e7249f26570921a9dfc8907368764a190214797c1684224f107cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nanh ấy! Có cách nào không...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật. Cần rà lại nghĩa hoặc khẩu khí theo đoạn đầy đủ."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000caa1",
       "file_offset": 51873,
       "source": "\nsax is great!!",
       "source_sha256": "bda7f15ac99aaa5ce11b444746958e51e71eaedf0f8a7929eb30691834ba023a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntiếng saxophone thật tuyệt!!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000ccb3",
       "file_offset": 52403,
       "source": "$You have that special spark!",
       "source_sha256": "2834c99dfd808458bb41069348499a5ce8fe50cb130c128b9893852b92ef1bc3",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn có tia sáng đặc biệt ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000cdf6",
       "file_offset": 52726,
       "source": "\nNothing but liars and fakes!",
       "source_sha256": "d63aa24c4de04fca3f01234fe768610349a0ca7b4e5ec815a7a20d5643a41477",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nToàn là những kẻ dối trá và giả mạo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000cebb",
       "file_offset": 52923,
       "source": "$You have that special spark!",
       "source_sha256": "2834c99dfd808458bb41069348499a5ce8fe50cb130c128b9893852b92ef1bc3",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn có tia sáng đặc biệt ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dùng lại bản dịch nguồn lặp trong cùng lượt; tiếp tục để candidate/draft."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000cfb7",
       "file_offset": 53175,
       "source": "\nyou have to go, be careful!",
       "source_sha256": "99edac4f7130bf7c4675a42614b35d3fd52d2088ef043a151cf486647910190d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnếu bạn phải đi thì hãy cẩn thận!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000d043",
       "file_offset": 53315,
       "source": "\nGive her some specific advice!",
       "source_sha256": "4da51ba8e4230e8dfdc98cb3c2f8402771951a724d9108e7eab3f77a135de2d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy cho cô ấy lời khuyên cụ thể!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa xác minh ranh giới, speaker và quan hệ nhân vật."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000d0d1",

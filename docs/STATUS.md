@@ -264,3 +264,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA cục bộ: 100 ID đúng checkpoint, chỉ vi/status/notes được sửa, source/source_sha256/file_offset/source_review/order bất biến; NFC, ngắt dòng, tiền tố và placeholder không mất; nguồn trùng không mâu thuẫn. Chưa đóng gói talk/cmc, chưa test RPCS3, không sửa font Merienda V3 hoặc ROM/binary.
 - Toàn bộ 158 catalog **5.211/11.886 draft, 6.675 todo**, chỉ là độ phủ dữ liệu trích xuất, không phải bản vá tiếng Việt playable.
 - **Tiếp theo:** `talk/en/tk202_en.bin_@00006a5b` (`17 years ago.`); GitHub Actions chạy validator và unittest sau commit.
+
+## Lượt 025b — 11/10/2026 (100 mục tiếp tk202)
+
+- Dịch thêm `tk202` **100 todo→draft** từ `talk/en/tk202_en.bin_@00006a5b` đến `talk/en/tk202_en.bin_@0000d043`: 4 nguồn trùng catalog trước, 10 mảnh trùng nội bộ và 86 nguồn mới. `tk202` đạt **200/518 draft**, còn **318 todo**.
+- Ngữ cảnh: 17 năm trước, vụ án ảnh xé và phòng khám Doolin, Cõi âm, quân lính, mẹ và quá khứ, truyền thuyết, nhà thờ, người gác hải đăng, lời đồn/dịch vụ của dân làng. Ghi chú ở các fragment có phụ thuộc ngôi xưng, thành ngữ và đối thoại chưa xác định speaker.
+- QA cấu trúc: đúng 100 ID, chỉ vi/status/notes thay đổi; bất biến tiếng Anh/offset/source hash/source_review/order; NFC, số newline, prefix và placeholder, 0 nguồn trùng có hai bản dịch khác. Tất cả vẫn candidate/draft. Không đụng Merienda V3, game binary, ROM/ISO; talk/cmc chưa repack/test RPCS3.
+- Tổng **5.311/11.886 draft**, còn **6.575 todo** trong dữ liệu trích xuất.
+- **Tiếp theo:** `talk/en/tk202_en.bin_@0000d0d1`; GitHub Actions chạy validator/unittest sau commit.
