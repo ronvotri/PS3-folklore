@@ -9,9 +9,10 @@ Repo đã có nguồn câu để dịch; đừng yêu cầu người dùng tải
 
 Tiếp tục Việt hóa Folklore BCUS98147. Đọc AGENTS.md, STATUS.md, TRANSLATION.md
 và QUEUE.md. Font Merienda V3 đã được người dùng xác nhận sửa khoảng hở.
-Hãy rà và dịch khoảng 200 mục menu kế tiếp (hoặc hết menu nếu còn ít hơn),
-kiểm tra nội bộ thành nhóm ~50 mục nhưng không dừng hoặc báo hoàn thành sau
-nhóm đầu tiên; giữ nguyên nguồn/ID/control codes và thuật ngữ đã chốt. Chạy validator và unittest, cập nhật tiến độ,
+Hãy theo docs/QUEUE.md, dịch khoảng 200 ứng viên hội thoại tiếp theo khi đủ
+ngữ cảnh; kiểm tra theo nhóm, không dừng sau vài chục câu nếu không có lỗi thật.
+Menu đã có đủ bản nháp. Giữ nguyên nguồn/ID/control codes và thuật ngữ đã chốt,
+không tự suy speaker hoặc quan hệ xưng hô khi câu chỉ là fragment. Chạy validator và unittest, cập nhật tiến độ,
 rồi lưu thay đổi vào GitHub qua commit hoặc PR để tôi tiếp tục phiên sau.
 
 Sau đó có thể nói “dịch tiếp menu”, “dịch nhóm cảnh tìm mẹ”, “rà lại xưng hô”.

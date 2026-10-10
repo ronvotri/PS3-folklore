@@ -1,8 +1,9 @@
 # Folklore — Việt hóa PS3 BCUS98147
 
-**Sẵn sàng bắt đầu dịch trên cloud.** Repo có 158 catalog / 11.886 mục nguồn,
-bản dịch menu mẫu, thuật ngữ và hướng dẫn bàn giao. Mở repo này trong môi trường
-cloud có GitHub, nói “dịch tiếp 50 câu” sau prompt ở docs/CLOUD.md.
+**Đang Việt hóa theo từng đợt lớn.** Repo có 158 catalog / 11.886 mục nguồn,
+thuật ngữ và checkpoint. Menu đã có 1.016/1.016 bản dịch nháp; các tệp talk/cmc
+chứa ứng viên từ quét dữ liệu chưa có parser hoàn chỉnh. Mỗi đợt ưu tiên khoảng
+200 mục khi có đủ ngữ cảnh; xem docs/QUEUE.md.
 
 Font **Merienda Regular 400 V3** được người dùng xác nhận sửa khoảng hở sau
 chữ có dấu. Đây là bản menu mẫu đã thử trong RPCS3; chưa xác minh toàn game,
@@ -13,7 +14,7 @@ PS3 thật hoặc Steam Deck.
 Đọc AGENTS.md, docs/STATUS.md, docs/QUEUE.md và docs/TRANSLATION.md.
 Dịch trong translations/catalogs/; giữ nguyên nguồn/ID/metadata, điền vi và
 trạng thái. Có 1.016 mục menu, 10.870 ứng viên từ talk/cmc; không chứng minh
-đã trích đủ mọi câu. 134 mục menu có draft, hội thoại chưa dịch.
+đã trích đủ mọi câu. Menu đã có 1.016 mục draft; hội thoại đang được dịch nháp theo QUEUE.md.
 
 python tools/catalog.py validate
 python -m unittest discover -s tests -v

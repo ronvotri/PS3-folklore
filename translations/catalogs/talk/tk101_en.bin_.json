@@ -4091,390 +4091,390 @@
       "file_offset": 94917,
       "source": "\nwork out what's happening?",
       "source_sha256": "3cb226eaa91621e5679ff80a468d6d860cf0a5136adf1e3e51d8b4ec8740d8b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm ra chuyện gì đang xảy ra không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000173c9",
       "file_offset": 95177,
       "source": "\ntree sap harvesting.",
       "source_sha256": "789bb8a391d1fce2835743d760efbf62a6b261a02b9853aa9fac6726ce1a8cca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthu hoạch nhựa cây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017463",
       "file_offset": 95331,
       "source": "\nWould ye go and sort that out?",
       "source_sha256": "ea077bc6e193b342c039fa6f2cf76010e9769dbcd6a67924b09ee6d89cc4d762",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đi xử lý chuyện đó giúp nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017569",
       "file_offset": 95593,
       "source": "\nthe Bullseye ran off to escape.",
       "source_sha256": "31f329d9e8837b22fec6ba97e3d65a52bdb82746a58088beb8aaa315d8cd5010",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBullseye đã bỏ chạy để trốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001760d",
       "file_offset": 95757,
       "source": "\nHelp him escape, will ye?",
       "source_sha256": "c562152e5c77a420c4269f4afdc1837f9781a9540e418ebc128f74984f7eb0c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nGiúp nó thoát đi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001771b",
       "file_offset": 96027,
       "source": "\nits home was disturbed.",
       "source_sha256": "cd9989a6fedfcfd7eebf7e00b099662af0dffa84506d5cdda35d17dcde451fbf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi ở của nó bị quấy rầy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000177b7",
       "file_offset": 96183,
       "source": "\ntry to calm it before it comes out?",
       "source_sha256": "59a3f297fc49005483efc0f2122d76fc8beb231d0fb3da07a0ee6323899a583b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthử làm nó bình tĩnh trước khi nó xuất hiện không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000178ab",
       "file_offset": 96427,
       "source": "\nsleep because of nightmares.",
       "source_sha256": "afa54ff113cab5036e11fb9e9df87a31b1d4435f4e482878888fbe7c31223cad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ngủ được vì ác mộng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001794e",
       "file_offset": 96590,
       "source": "\nhear a disturbing voice.",
       "source_sha256": "6c64c20eb6dac1b1d2064ff954baa5f5e429cdb6210126d647d2aa7eeedd275e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnghe một giọng nói đáng sợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000179ac",
       "file_offset": 96684,
       "source": "Can someone help her?",
       "source_sha256": "5571756c5ff6db64658e9a6aebc5953237946cc25f24f65c3613b1700940d14a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có ai giúp được cô ấy không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017a8d",
       "file_offset": 96909,
       "source": "\nhas no name of sender.",
       "source_sha256": "923af857c00bbc99b8f07d3c63eb761ce2b9c79d14fe52f023d00d9f968eb7a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông ghi tên người gửi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017b0b",
       "file_offset": 97035,
       "source": "\nAnyway, it's yours.",
       "source_sha256": "3c661347513b920d382853fbe4ba8cde190f4d2bdb06577234dc84680367aa90",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nDù sao nó cũng là của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017c20",
       "file_offset": 97312,
       "source": "\nof the year!",
       "source_sha256": "d574181c5d7c293338055271d8395aed409220c43ba5ab9fdb4e70e9ee29b375",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong năm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017ca7",
       "file_offset": 97447,
       "source": "\nto get t..together.",
       "source_sha256": "d61f803d301cdf2fdcd4ebed007e764415c4b7fe054f314a3ddd290c2537ab16",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể được ở... ở bên nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017d4b",
       "file_offset": 97611,
       "source": "\nteach them a lesson?",
       "source_sha256": "e48e91caf64570dffc67c2a0d9e56cd22132427bd7ce6dc3080565a207885b6b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndạy cho chúng một bài học không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017e0b",
       "file_offset": 97803,
       "source": "(Why do I always run out of honey?",
       "source_sha256": "b70eb80ce4e01d5fff783cde99653ad7bc873343aa208bed58ccef7327777715",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Sao tôi cứ hết mật ong hoài vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017ebf",
       "file_offset": 97983,
       "source": "\nand get me some?",
       "source_sha256": "a12a7a0f6274b94492986fb4aa156c60f8cb1f84bb67ac92f0084672bcfd8336",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà lấy giúp tôi ít mật ong nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00017fb5",
       "file_offset": 98229,
       "source": "\nfrom the sea.",
       "source_sha256": "e64674d34b42029f8a66b61655754bfaf40fe9c99e45ea37b3ae092457ad0438",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001803d",
       "file_offset": 98365,
       "source": "\nfeel free to look into it.",
       "source_sha256": "05347c43e4ac610aa08f304b44bdda13fbb562d8b2e12262a4c018af96082d7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ tự nhiên tìm hiểu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018123",
       "file_offset": 98595,
       "source": "\nfood I want to serve.",
       "source_sha256": "1857396becc2e994c163291f2bf439ce11315c786429b206e3dd6184734ede0c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmón ăn tôi muốn phục vụ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000181b5",
       "file_offset": 98741,
       "source": "\nthree of them for me?",
       "source_sha256": "0d65d599472aac44a4cd34046d2f29fb772a44951aed06733d88ee6a210aab67",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nba con trong số đó giúp tôi được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001824a",
       "file_offset": 98890,
       "source": "\nsoon as yer get them.",
       "source_sha256": "e74d2f92b3c87ab29f44ddff08da43ab2027540b11f669af069a8c2aa3b848f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay khi bạn lấy được chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001830b",
       "file_offset": 99083,
       "source": " Do you know the Gladiolus?",
       "source_sha256": "f98bdfe8882fce8c48d88b8f4c5bab8201ebd6b0ad2b84b7a68c1fdaf3c831c7",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn biết Gladiolus chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000183f5",
       "file_offset": 99317,
       "source": "\nfrom the stress, though.",
       "source_sha256": "6df539c041a2a0dd4df72afc453ebec3df24d2653288f2606533297cb484e594",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndo căng thẳng thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018491",
       "file_offset": 99473,
       "source": "\nof yer mind.",
       "source_sha256": "5e6692e57c0470c06484458b4c196c73df01be09302249d382b224cebef081d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong đầu bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018566",
       "file_offset": 99686,
       "source": "\nabout an old army mate of mine.",
       "source_sha256": "72e677555c698da5173a51feea44e04fb44aa3c429a05b40f1c0a44f7b7deb24",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề một đồng đội cũ của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018607",
       "file_offset": 99847,
       "source": "\nget somewhere.",
       "source_sha256": "db7b0a00a12903fc3de601533082444fe09472426a24323da9708a5e685c8a7b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến được nơi nào đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001869b",
       "file_offset": 99995,
       "source": "\na sad clown.",
       "source_sha256": "9afb24a1aa88a82d4d04cba11088a686703a9b8f241def1231698d544f341c75",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột chú hề buồn bã.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@0001870f",
       "file_offset": 100111,
       "source": "\nthen something gets in his way.",
       "source_sha256": "d4bcf67c89b8a16bee994ca9c7b0cbf4a58e7f9431e0400d7ddfb503fa120701",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrồi lại có thứ cản đường anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018790",
       "file_offset": 100240,
       "source": "\nthere's nothing I can do.",
       "source_sha256": "1f0433efea0cd59fa5ce19d8325264e9569b651631bf370b1cb2dcc92f127954",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi cũng chẳng làm gì được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018820",
       "file_offset": 100384,
       "source": "\nI won't ask you to do it for free.",
       "source_sha256": "5ea89b6f5c6cd7c143960f9e001f2493bfe7587312175fd3cffa544089b38045",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi sẽ không bắt bạn làm không công.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000188ec",
       "file_offset": 100588,
       "source": "So what are you up for?",
       "source_sha256": "e73afd323272c1c490e2e9d66ff1534e8d4c8ad6048db97282fe8d7f388bc8bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy bạn muốn nhận việc nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@000189da",
       "file_offset": 100826,
       "source": "* Downloaded quests",
       "source_sha256": "8b81fdf107af346c1e47079a1ef203df78e4e815e1141eda355ed406563215f0",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Nhiệm vụ tải về",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018aa4",
       "file_offset": 101028,
       "source": "Cancel current quests?",
       "source_sha256": "39eb6f2ba5a5c4000d060167ee40ceb41cad6828f2e01a11533b17f5731eb3c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hủy các nhiệm vụ hiện tại?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018bc7",
       "file_offset": 101319,
       "source": "$Here're the available quests.",
       "source_sha256": "089613a7e5c788fbcd4e7b3f6103f064c93373cf4379915aa61c4a9270e56a11",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đây là các nhiệm vụ hiện có.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018beb",
       "file_offset": 101355,
       "source": " Cancel",
       "source_sha256": "24b113e7a0b4eb2fa77e88951bdcbe5fb616a8af4261f6edfe86b7754bc091c2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hủy",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018bf3",
       "file_offset": 101363,
       "source": "Accept Q",
       "source_sha256": "802abe40170e06d340c1a0cb5d27cf55fb26e9a2fb4918bc2b29309bf2ad8a3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhận NV",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018bfc",
       "file_offset": 101372,
       "source": "Refuse Q",
       "source_sha256": "c10bd5fb7a528701bfffe1e139852036f0c0905beee7e7bb5b9b93be322e12ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Từ chối NV",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     },
     {
       "id": "talk/en/tk101_en.bin_@00018cab",
       "file_offset": 101547,
       "source": " What should I go and do...",
       "source_sha256": "89462683564dcbdf1b7bf875bfd8f0e2e1dd8e396ef3a32b13e03d2ed0fc6605",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi nên đi làm gì đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng câu đã dịch ở tk100; tái dùng bản nháp để thống nhất giọng nhân vật và thuật ngữ. Vẫn là ứng viên ASCII chưa xác minh ngữ cảnh, người nói hoặc parser."
     }
   ]
 }

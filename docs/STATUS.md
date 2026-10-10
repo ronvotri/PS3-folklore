@@ -1,4 +1,4 @@
-# Tiến độ — 10/10/2026
+# Tiến độ — cập nhật 11/10/2026
 
 ## Đã xác nhận
 
@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314 mục tk100 `draft` và 408 mục tk101 `draft`. Còn 10.102 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 722 ứng viên talk có bản nháp (314 tk100, 408 tk101). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft` và 161/494 mục tk102 `draft`. Còn 9.902 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 922 ứng viên talk có bản nháp (314 tk100, 447 tk101, 161 tk102). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -151,3 +151,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - 200 mục tk101 chuyển todo→draft, tệp đạt 408/447. 146 mục lặp với tk100/tk101 đã dịch trước được giữ y bản Việt hóa; 54 source mới dịch theo nội dung và đánh dấu điểm thiếu ngữ cảnh xưng hô.
 - QA đủ 200 ID: metadata/source/hash/offset/source_review không đổi, NFC/newline/placeholder/ký hiệu đầu được bảo toàn; 0 bản dịch khác nhau cho nguồn trùng trong cả hai tệp.
 - Tổng tiến độ hiện 1.784 draft và 10.102 todo (toàn 158 catalog). Chưa repack/run RPCS3; font Merienda V3 giữ nguyên. Chuyển lượt 016 tại `talk/en/tk101_en.bin_@000172c5`.
+
+## Lượt 016 — 11/10/2026 (200 mục hội thoại)
+
+- Thêm 39 bản nháp cuối của tk101 (447/447) và 161 mục đầu tk102 (161/494). 39 mục tk101 tái dùng từ tk100; trong tk102 24 mục trùng bản dịch đã có và 137 mảnh mới dịch theo ngữ cảnh án mạng/kỷ vật/nhà thờ/17 năm trước.
+- Duy trì quy tắc xưng hô: không suy speaker, tên nhân vật hay tuổi từ mảnh bị quét; notes các vế thiếu nghĩa. Kiểm tra ID/source/hash/offset/source_review, Unicode NFC, newline, token và bản dịch source trùng; dữ liệu nguồn bất biến.
+- Tổng 158 catalog: **1.984 draft / 11.886**, **9.902 todo**. Chưa có repacker hội thoại, chưa test trên RPCS3; Merienda V3 và các file game không thay đổi. Sau commit xác minh CI Windows/Ubuntu.
+- Tiếp theo `talk/en/tk102_en.bin_@00009981`.
