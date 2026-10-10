@@ -11,1000 +11,1000 @@
       "file_offset": 4440,
       "source": "To Netherworld",
       "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@000011b8",
       "file_offset": 4536,
       "source": "Use item",
       "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dùng vật phẩm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001214",
       "file_offset": 4628,
       "source": "Memo pad",
       "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sổ ghi chú",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@000014d4",
       "file_offset": 5332,
       "source": "Ellen's hut",
       "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Túp lều của Ellen",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001530",
       "file_offset": 5424,
       "source": "Keats' base",
       "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
-      "vi": "",
-      "status": "todo",
+      "vi": "Căn cứ của Keats",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000158c",
       "file_offset": 5516,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@000015ec",
       "file_offset": 5612,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001650",
       "file_offset": 5712,
       "source": "Pub owner's home",
       "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà chủ quán rượu",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@000016b4",
       "file_offset": 5812,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001714",
       "file_offset": 5908,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001777",
       "file_offset": 6007,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@000017e4",
       "file_offset": 6116,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001844",
       "file_offset": 6212,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001924",
       "file_offset": 6436,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001984",
       "file_offset": 6532,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@000019e0",
       "file_offset": 6624,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001a44",
       "file_offset": 6724,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001aa8",
       "file_offset": 6824,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001b08",
       "file_offset": 6920,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001c31",
       "file_offset": 7217,
       "source": " family...",
       "source_sha256": "580899bbc4ef7d7c8bd320dbd64748433a5fe83df9c7434353f4a66479783e1e",
-      "vi": "",
-      "status": "todo",
+      "vi": " gia đình...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001c9d",
       "file_offset": 7325,
       "source": "\nto do with my past.",
       "source_sha256": "806129ceae4746df34db5c6b64b3b7e4a487d8ad02729c5da4dcc5e684c32e71",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nliên quan đến quá khứ của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001def",
       "file_offset": 7663,
       "source": "\nthis village?",
       "source_sha256": "2aa854b7add18cd43b8792a4e949c8e22a1f770fc0e7bc1d0a777ceae8680260",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001f3e",
       "file_offset": 7998,
       "source": "\nwhile, maybe you know something?",
       "source_sha256": "22382616de2832ac9bcf29dc647f94b74e8a9e8ac4dc5e4ad264ba30c2c25ee2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột thời gian, biết đâu bạn biết điều gì chăng?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00001fd5",
       "file_offset": 8149,
       "source": "\nvillage?",
       "source_sha256": "b7c70d09990a66ddb1c496e43900e6be447a348218094c0cde6f2ef4943254dd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000020bf",
       "file_offset": 8383,
       "source": "\na clinic here in the village.",
       "source_sha256": "4c7ea7f6bd95527faa43c81480819ae6a3b944b346d62bed8a6c85fff11c1f2d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột phòng khám ngay trong làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002145",
       "file_offset": 8517,
       "source": "\nonly for a short time.",
       "source_sha256": "90062d95adfcbbb422d591293cf71f4da3a78c1e5ec3810cd59adf9d385995b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchỉ trong một thời gian ngắn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000229a",
       "file_offset": 8858,
       "source": "\nkeeper. A very kind man.",
       "source_sha256": "0d6e80cb34ba4ba5b29492bd277e779b22cf717c58435c5ac996b277b21d537b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười trông coi. Một người đàn ông rất tốt bụng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000022f8",
       "file_offset": 8952,
       "source": "Where is he now...?",
       "source_sha256": "d9356ff603cdb22f4ba0cbeeb00fa0344b28e6c57705dcfaa402921c0f21a9b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giờ người ấy ở đâu...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000023cb",
       "file_offset": 9163,
       "source": "\nyears ago.",
       "source_sha256": "b99e717101eed9a7083e345de730012b4c64567c95878916221c9caa52423746",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnăm trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002458",
       "file_offset": 9304,
       "source": "\njust like it is now.",
       "source_sha256": "3513bef57d4c0339958d423c397b373aacbf781c600ac68ccbb35c9a0c3299e8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhệt như bây giờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000024b4",
       "file_offset": 9396,
       "source": "Where was he killed...?",
       "source_sha256": "858a1b314825962d3366ff3617670bc3ae1f42e059e8aa0a74d7c862e5c19f69",
-      "vi": "",
-      "status": "todo",
+      "vi": "Người đó bị sát hại ở đâu...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002538",
       "file_offset": 9528,
       "source": "\nasked him to go there.",
       "source_sha256": "82d009c35cde45a31e3a11465a9b947a2defa5d7d95d883e039ae3489d9e3f77",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã bảo người đó đến đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000260a",
       "file_offset": 9738,
       "source": " of his?",
       "source_sha256": "0157da2d267e4c64bfd17411d29ceacec37f0c14b2713bcee629501eec68c359",
-      "vi": "",
-      "status": "todo",
+      "vi": " của người đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002686",
       "file_offset": 9862,
       "source": "\nsomething out?",
       "source_sha256": "ae5f0bc8d8a52fa1fc13ac35e7c94900fcc282732d62c430f51875499b945439",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphát hiện ra điều gì sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000270c",
       "file_offset": 9996,
       "source": "\nme, but...",
       "source_sha256": "0cc373c66a9f20630db23a889693097d19d28d72354dbe9b8801552cd93b5a72",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi, nhưng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002798",
       "file_offset": 10136,
       "source": "\nhalf, though...",
       "source_sha256": "d0bc15fc11f2a940b412a773a044139cd66b61ec01aec99d60af5f27f4354144",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndù chỉ một nửa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000028ed",
       "file_offset": 10477,
       "source": "\nto the north.",
       "source_sha256": "655521aa7fda46d5a781d709c22590f8854f9884bcc734dab5081484fbd27ba4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề phía bắc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002961",
       "file_offset": 10593,
       "source": "\nme know, won't you?",
       "source_sha256": "853ed0e535dfe0f307817380a0232eca40d9b5ebff6b01cc63fc30b72cb5a03d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho tôi biết nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000029ed",
       "file_offset": 10733,
       "source": "\nbelieving me...",
       "source_sha256": "d403bc78cfeb3800b27017a041499c0d9ebe3665c7ab873e14680b56d210d164",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin lời tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002c63",
       "file_offset": 11363,
       "source": "\ndoctor...?",
       "source_sha256": "a3aa4d8e0c812b2e9ff690f41c16e9d2586a870bc9344ad6e24d3c2477cee7ba",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbác sĩ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002dc0",
       "file_offset": 11712,
       "source": "Nothing's happening...?",
       "source_sha256": "5269ac84eb7f0c7a1bcafcda8634ec5b50b5091cccc83f2436b28dadc04a020d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chẳng có gì xảy ra sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002e39",
       "file_offset": 11833,
       "source": "\nboth halves of the photo...?",
       "source_sha256": "83964622d257b9c3e0f66484a7fdf4fd78fdddefff9b19cefebc397875f926c5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncả hai nửa của bức ảnh sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002ee3",
       "file_offset": 12003,
       "source": "$I'll explore again tomorrow.",
       "source_sha256": "182523568e5d6dfd2f08b4a2a187c22f9ef662d73ade6f119150561af8f6ddb5",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ngày mai tôi sẽ tìm hiểu tiếp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00002faa",
       "file_offset": 12202,
       "source": ", didn't he?",
       "source_sha256": "32e39b11c6d856064bb825a02770c05d930d34badc77bc05f091c571f386ead4",
-      "vi": "",
-      "status": "todo",
+      "vi": ", phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003084",
       "file_offset": 12420,
       "source": "\nthe photo until tomorrow?",
       "source_sha256": "6972d8b3bc378713d39f1e317934fa34ca6ef072220051a232c49630c5e4a6c9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbức ảnh đến ngày mai sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000032e9",
       "file_offset": 13033,
       "source": "\nmakes for a good story. Heheh.",
       "source_sha256": "39e03b4c9eba8d375bb412789a3377e76f7d7f4e71711868eedd18e1b15b047f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđúng là chất liệu cho bài báo hay. Hê hê.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000342a",
       "file_offset": 13354,
       "source": "\nNo problem, take it.",
       "source_sha256": "6408afeba6a60b8c5d57009eb8ed8dfa5cf9b731282ac93a0da69fbc31986a4a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông sao, cứ cầm lấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003497",
       "file_offset": 13463,
       "source": " Thanks. It'll really help.",
       "source_sha256": "6f2b676f35ff479dfcf54b9b900bb3d1a816feea10c1e72f91a796f70989fe3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " Cảm ơn. Nó giúp ích lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003544",
       "file_offset": 13636,
       "source": "\nHeh heh.",
       "source_sha256": "96c2e7e58b23a4205ef82ed5b208c31ac7c6c296cbd68495a9689ce713e9593b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHì hì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000036ef",
       "file_offset": 14063,
       "source": "$Here, you can have the photo.",
       "source_sha256": "0aa180b08633bf78b75e2e0395fa559539121a83f602b3a9eeca6e38515a30f1",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đây, bạn cứ giữ bức ảnh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003767",
       "file_offset": 14183,
       "source": " Thanks. It'll really help.",
       "source_sha256": "6f2b676f35ff479dfcf54b9b900bb3d1a816feea10c1e72f91a796f70989fe3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " Cảm ơn. Nó giúp ích lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003924",
       "file_offset": 14628,
       "source": "Can I have the photo?",
       "source_sha256": "7dd177c72382dbd815f401ca190dd7b1723ce65eafcbf8aed8b7b2b33e3485dd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi xin bức ảnh được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003a59",
       "file_offset": 14937,
       "source": "\nmakes for a good story. Heheh.",
       "source_sha256": "39e03b4c9eba8d375bb412789a3377e76f7d7f4e71711868eedd18e1b15b047f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđúng là chất liệu cho bài báo hay. Hê hê.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003b67",
       "file_offset": 15207,
       "source": " memento.",
       "source_sha256": "f6c5d5930899503035af5d001df5904cf6e6ba2589e845aeda8a4478e603db77",
-      "vi": "",
-      "status": "todo",
+      "vi": " kỷ vật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003c3e",
       "file_offset": 15422,
       "source": "* Explore a bit more",
       "source_sha256": "1e1471ee8de9831413b9d68d77d5080538f67fe16e4f463446f16f478671b77a",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Tìm hiểu thêm chút nữa",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003d35",
       "file_offset": 15669,
       "source": "\ndo with that photo?",
       "source_sha256": "bc74dd7b0af17cf6c28356354ce443fbe01f20d5446f626067004c2b493c87c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm gì với bức ảnh đó?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003de1",
       "file_offset": 15841,
       "source": "\nI want to know what happens.",
       "source_sha256": "8707d11683ef7c42cc827941f7e6b46d6171f113af4af817eea721ee99578307",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi muốn biết rồi sẽ có chuyện gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00003ecb",
       "file_offset": 16075,
       "source": "* Explore a bit more",
       "source_sha256": "1e1471ee8de9831413b9d68d77d5080538f67fe16e4f463446f16f478671b77a",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Tìm hiểu thêm chút nữa",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000415b",
       "file_offset": 16731,
       "source": " do with the photo?",
       "source_sha256": "006d56728522c4c812b29ff80acee7a1f1bb7ada3549f1678634723b273a80cc",
-      "vi": "",
-      "status": "todo",
+      "vi": " làm gì với bức ảnh?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000043fa",
       "file_offset": 17402,
       "source": "\nthis exist...?!",
       "source_sha256": "55c3cbd68b195ec59f82fb615aea1b2ebe85d74c51a345fe6d764d7a5cab8c9d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthứ này lại tồn tại sao...?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000045b3",
       "file_offset": 17843,
       "source": "(...was created by modern man...?",
       "source_sha256": "c8cd426c2c038d735656d63f70fd42d4a261d0e40ae345a02060771b50208b0f",
-      "vi": "",
-      "status": "todo",
+      "vi": "(...do con người thời nay tạo ra sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000461b",
       "file_offset": 17947,
       "source": "(Uwee hee. You hit it on the nose!",
       "source_sha256": "f3d5f5b921a41d096984172983bdfeee418568181f890bba447a6ab0d2e644f5",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Ui hi hi. Đúng phóc rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000046f8",
       "file_offset": 18168,
       "source": "\nsomewhere...?",
       "source_sha256": "a69a6b1eedd9e4e4f814424e9c3a2a33b129716753ea18f765a33ea772fe6fd1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đâu đó sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000048ca",
       "file_offset": 18634,
       "source": "...? How did you get here?",
       "source_sha256": "13209d011ae0d84a201e4535d4386193527e90dc8d91337083b2e907eb3908b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "...? Sao bạn lại đến được đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000049ff",
       "file_offset": 18943,
       "source": "\nour guide.",
       "source_sha256": "02c2cc01c78ef5de669e5cdbb2b07abaa87db4c9cd4222796b27b59bcb1120fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười dẫn đường của chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004aa7",
       "file_offset": 19111,
       "source": "\nadvise you.",
       "source_sha256": "35dec641a4247be6e05aa0fba467ba406a9efa3d53ef6b0eec2ccf10f0e6e5b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn lời khuyên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004c0b",
       "file_offset": 19467,
       "source": ", as well.",
       "source_sha256": "e63e4b33dfec37b92bf53d4ee3f5988332654481670bfb35636a97279d09d532",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004cb9",
       "file_offset": 19641,
       "source": "\nare fighting each other.",
       "source_sha256": "e2d6ae419706f913093ffa994fb4e5abe1541cee6c6bf059ccbf0f7939933939",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang đánh nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004d18",
       "file_offset": 19736,
       "source": "We have to stop them.",
       "source_sha256": "30fbd93c842058b259fbb0abe192089269702f58bbb94b0d20513c7db8773626",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chúng ta phải ngăn họ lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004d74",
       "file_offset": 19828,
       "source": "But how?",
       "source_sha256": "d03dde6a8d8ef485928d7960b85a31d533bc44d4d30aa38d9a6af931b4fa0d32",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng bằng cách nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004e0d",
       "file_offset": 19981,
       "source": "\nthis realm under control!",
       "source_sha256": "9ab110cc9fb62fa9c95b7b8c4f2a6bdb2492bd692b92827bb8f016215c567766",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkiểm soát cõi này!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004eba",
       "file_offset": 20154,
       "source": "\ncome here to fight...",
       "source_sha256": "e8bfda70d1fb43fc97a2b25459cfdd55985c25ba0ef2b9efa0810dc5d9e5f4f1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến đây để chiến đấu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00004f52",
       "file_offset": 20306,
       "source": "\nmust be done!",
       "source_sha256": "42bb7eaececec9b50bd128713af7dd3b99b1d8a1e50d845508615900be04538d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhất định phải làm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000504b",
       "file_offset": 20555,
       "source": "... The Faerys are...",
       "source_sha256": "31af9be6f1de501d6c8ad91be6ef46435af95e9ad305ae25e425fea6637d6b84",
-      "vi": "",
-      "status": "todo",
+      "vi": "... Các Faery đang...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000051ff",
       "file_offset": 20991,
       "source": "\nyou go on ahead.",
       "source_sha256": "efa8ab168acd94b461f77cf40059206f4d60cd03f4ba0a3d7b6b05ae3a5497e4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn cứ đi trước đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005273",
       "file_offset": 21107,
       "source": "\neager to help you.",
       "source_sha256": "0d14c10f2956ed7f3d2baf61e283441f5599df1f33122123bf2be2890921c727",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrất muốn giúp bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000053dc",
       "file_offset": 21468,
       "source": "Who knows?",
       "source_sha256": "10096605a2eac03041b60b3da6025c8a31f582eea558fcd4f2dfc26e836102a9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ai mà biết được?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005476",
       "file_offset": 21622,
       "source": "\nlike me.",
       "source_sha256": "a192ffbd294416dc2c0b90306b6d9a51d1b1eeaf19f51799f0167c81c2fc0407",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005664",
       "file_offset": 22116,
       "source": "Thank you very much...",
       "source_sha256": "593118865da875339030b6e644e7eb438ac7ad7502351de79afc4e639fd5dd64",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cảm ơn rất nhiều...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000056df",
       "file_offset": 22239,
       "source": "\nabout something...",
       "source_sha256": "3d31cbaf495afe94122a8f3e1a7c2368af72a949a11b04b7888c18705e0bd3c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề chuyện gì đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005767",
       "file_offset": 22375,
       "source": "\nlike this?",
       "source_sha256": "f23102bd93b15f2945e203aab410a72852c8a712cdd8a9882127eac333684534",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thế này sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005872",
       "file_offset": 22642,
       "source": ", too?",
       "source_sha256": "65a6186668ab19b06a5c57b10e179e0500bbc459ccb23aa61fb8b1fee26dc8f5",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005935",
       "file_offset": 22837,
       "source": " a better place...",
       "source_sha256": "9832a69a59e529274b2c8feaf9862a8e3baa616593889f275b4184e41e09a546",
-      "vi": "",
-      "status": "todo",
+      "vi": " một nơi tốt đẹp hơn...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000059d4",
       "file_offset": 22996,
       "source": " however.",
       "source_sha256": "5b801c0f381228ab7c057d19a3e26d0601786f1bc207135800f19e59b5d66000",
-      "vi": "",
-      "status": "todo",
+      "vi": " tuy nhiên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005a52",
       "file_offset": 23122,
       "source": "\nyou don't...",
       "source_sha256": "b4f5ce28f666b351164cd187e2bedf32bcb500498eda3b7c47dc0f3f3aaeca70",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn không...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005af4",
       "file_offset": 23284,
       "source": " deepest reaches...",
       "source_sha256": "63a615c3d0379c235f668c51720e117202fdb396f689b73e983547979b99577b",
-      "vi": "",
-      "status": "todo",
+      "vi": " nơi sâu thẳm nhất...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005beb",
       "file_offset": 23531,
       "source": "\nexplain all of this to you soon.",
       "source_sha256": "5f56afabe900567e70403f572f75b33ffb7648f5344755d44a4f7c870bb05511",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsớm giải thích mọi chuyện cho bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005dc8",
       "file_offset": 24008,
       "source": "\ntalking inside the church.",
       "source_sha256": "b682fb15f4eeac86a13d6e49d23b3608615d80db3eff0a2859a7ee9b4b33ee3c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói chuyện trong nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005e27",
       "file_offset": 24103,
       "source": " When that photo was taken?",
       "source_sha256": "86e21951f64b74a341bbd7d22c42e21a82994d9b6ca36ede55d6069dfdcc0002",
-      "vi": "",
-      "status": "todo",
+      "vi": " Khi bức ảnh đó được chụp sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005ec9",
       "file_offset": 24265,
       "source": "\nSomething odd was going on...",
       "source_sha256": "a5e2e059e47656a7a99c7d7f19709b2e3ca1ceaabbae76c008efa1204b71f84c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCó chuyện gì đó kỳ lạ đã xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00005f6b",
       "file_offset": 24427,
       "source": "\na clinic inside the church.",
       "source_sha256": "2633a93e1d9713d3e287ea6fb9914df8ac28a11da9b99d3ada1525cab1f24ab4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột phòng khám trong nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000601b",
       "file_offset": 24603,
       "source": ", ask him.",
       "source_sha256": "b2b43566d30301de4c072c1d328c05c77b91de26aabcc3951a81bf6c91156a55",
-      "vi": "",
-      "status": "todo",
+      "vi": ", hãy hỏi người đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000060d4",
       "file_offset": 24788,
       "source": "That's right.",
       "source_sha256": "644e298d89f966a7dfe74254b405f2a711c668fbd45fcfdaf0939bca56f25a11",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nguồn trùng được tái sử dụng, chưa có parser/speaker xác thực."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006198",
       "file_offset": 24984,
       "source": "\nvillage please tell her something.",
       "source_sha256": "be66698677a287e7fa7bf6e84848ce4aee80c2ae3645cf7af2a1dbe481e882c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng, xin hãy nói với cô ấy điều gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006297",
       "file_offset": 25239,
       "source": "\nthings, and try to be happy.",
       "source_sha256": "c435923e1dfbdaaf1b6051e57c25f11c1d2f776e1df1e214408ba8b2c4cb09ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmọi chuyện, rồi cố sống vui vẻ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006374",
       "file_offset": 25460,
       "source": "\ntake her behind the church.",
       "source_sha256": "b11dc24340dbfb5db52e154aa3cc349b4ae8a27ff6d50a3ee2a89a0355d021cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđưa cô ấy ra phía sau nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@0000641d",
       "file_offset": 25629,
       "source": "\nsomething I wanted to show her.",
       "source_sha256": "cf724e7ef562531fe0b75040eb572ba9323f3e0897efd0a2dfb796a75f778029",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thứ tôi muốn cho cô ấy xem.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@000064a2",
       "file_offset": 25762,
       "source": "\nbelieve you.",
       "source_sha256": "7cf102e875e9ad2cc869d9ee3f9a54ad941b0d28a3226770eeaf63ed25529236",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006594",
       "file_offset": 26004,
       "source": "Why were you killed?",
       "source_sha256": "68d50dd199b610b96ee798f9ed608cdcaaf0d02e2b9c6617921da7c095e0b161",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vì sao bạn bị sát hại?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006960",
       "file_offset": 26976,
       "source": "\nthe dead...?",
       "source_sha256": "d3b86decb6ca615095d8dcebd1ba81fbd72f5acc57086842749bbd17630bb89d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chết sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp mảnh ASCII NUL, giữ ngôi xưng thận trọng; cần ráp cảnh và rà nghĩa đầy đủ khi có parser."
     },
     {
       "id": "talk/en/tk202_en.bin_@00006a5b",

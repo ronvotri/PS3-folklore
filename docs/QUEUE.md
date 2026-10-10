@@ -298,3 +298,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA trên 146 dòng cuối: id, source, sha256, file_offset, source_review, thứ tự giữ nguyên; chỉ vi/status/notes, Unicode NFC/newline/marker/placeholder; không source trùng được dịch mâu thuẫn. Không sửa Merienda V3, binary, ROM/ISO; talk/cmc chưa có parser/repacker và chưa thử RPCS3.
 - **Lượt tiếp theo:** `talk/en/tk202_en.bin_@00001158` (`To Netherworld`); `tk202` có 518 todo. Ưu tiên xử lý source trùng trước, dịch các fragment mới theo ngữ cảnh, không tự gán speaker.
 - Commit kích hoạt validator và unittest trên GitHub Actions Windows/Linux.
+
+## Lượt 025a — 11/10/2026 (100 mục đầu tk202)
+
+- Từ `talk/en/tk202_en.bin_@00001158` đến `talk/en/tk202_en.bin_@00006960`: dịch **100 mục todo→draft** (30 nguồn trùng tái dùng bản dịch, 70 mảnh mới); `tk202` hiện **100/518 draft**, còn 418 todo.
+- Nội dung: ảnh bị xé, chuyện án mạng, quá khứ và phòng khám nhà thờ Doolin, Faery và cuộc xung đột các cõi. Không tự suy người nói/quan hệ từ offset; các fragment chỉ dịch phần ý chắc chắn, ghi notes.
+- QA cục bộ: 100 ID đúng checkpoint, chỉ vi/status/notes được sửa, source/source_sha256/file_offset/source_review/order bất biến; NFC, ngắt dòng, tiền tố và placeholder không mất; nguồn trùng không mâu thuẫn. Chưa đóng gói talk/cmc, chưa test RPCS3, không sửa font Merienda V3 hoặc ROM/binary.
+- Toàn bộ 158 catalog **5.211/11.886 draft, 6.675 todo**, chỉ là độ phủ dữ liệu trích xuất, không phải bản vá tiếng Việt playable.
+- **Tiếp theo:** `talk/en/tk202_en.bin_@00006a5b` (`17 years ago.`); GitHub Actions chạy validator và unittest sau commit.
