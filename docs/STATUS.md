@@ -281,3 +281,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Tổng repo 158 catalog: **5.629/11.886 draft**, còn **6.257 todo**. Đây chỉ là độ phủ ứng viên text, không phải phần trăm patch đã chạy được.
 - **Tiếp theo:** `talk/en/tk203_en.bin_@00001158` (`To Netherworld`), catalog tk203 có 663 mục. Bắt đầu theo nguồn trùng trước, sau đó mới dịch fragment mới; không có giới hạn cứng lô nhưng QA theo cảnh và commit vừa sức.
 - GitHub Actions trên Windows/Linux chạy validator + unittest khi push.
+
+## Lượt 026a — 11/10/2026 (100 ứng viên đầu tk203)
+
+- Từ `talk/en/tk203_en.bin_@00001158` đến `talk/en/tk203_en.bin_@00005e10`: dịch **100 todo→draft**, gồm 20 câu trùng nguồn các catalog đã dịch được tái sử dụng nguyên văn và 80 mảnh mới; `tk203` **100/663 draft, còn 563 todo**.
+- Ngữ cảnh: mật khẩu, người gác hải đăng, hồ sơ cái chết, nhà thờ và ký ức tập thể; Cõi âm và Oblivion. Chỉ dịch nghĩa có thể xác minh; tiền tố/nội dung thiếu speaker ghi notes, không ép anh-em, ông-cháu hoặc quan hệ người nói.
+- QA trước commit: chỉ `vi/status/notes` được sửa ở 100 ID; source/hash/offset/source_review/order bất biến, Unicode NFC, newline, prefix và placeholders giữ nguyên; 0 source trùng mâu thuẫn. Chưa có parser/repacker talk/cmc hay thử hiển thị RPCS3; giữ Merienda V3/ROM/binary nguyên.
+- Toàn bộ 158 catalog **5.729/11.886 draft**, còn **6.157 todo**. Đây là độ phủ nháp dữ liệu trích, không phải tỉ lệ playable.
+- **Tiếp:** `talk/en/tk203_en.bin_@00005f9e` (`correct that aberration.`). CI Windows/Linux chạy validate + unittest sau commit.
