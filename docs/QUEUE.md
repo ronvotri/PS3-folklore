@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@00006833`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00007059`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 534 mục `draft` (134 mẫu V3 + 400 mục qua 8 lượt), còn 482 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 584 mục `draft` (134 mẫu V3 + 450 mục qua 9 lượt), còn 432 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -104,3 +104,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: đối chiếu 50 ID theo `todo`, chỉ thay vi/status/notes; bất biến source/hash/offset/order/source_review, bảo toàn NFC/newline/token; 0 xung đột giữa bản dịch cùng nguồn. Không can thiệp font V3, ROM, ISO hoặc payload.
 - Chưa thử runtime RPCS3, mọi mục vẫn `draft`. GitHub Actions chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` trên Windows/Linux sau commit.
 - **Tiếp theo:** `lang_en.bi5_@00006833` — `Receive Folk` và 49 mục `todo` kế tiếp.
+
+## Lượt menu 009 — 10/10/2026
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: dịch đúng 50 mục menu `todo` kế tiếp thành `draft`, từ `lang_en.bi5_@00006833` đến `lang_en.bi5_@00007030`.
+- Chủ đề: nhận/gửi Folk và vật phẩm liên kết, 4 nhiệm vụ Herve có điều kiện mở theo Keats/Ellen, trao đổi Id/dữ liệu quái vật, Karma, trình tự PSP™ Link/Memory Stick™, lỗi giao tiếp và tăng hạng Keats/Ellen.
+- Giữ các mã `%s`, `%d`, ký hiệu `™`/`®` và tên `PSP™`, `PlayStation®Portable`, `Memory Stick™`, `Pied Piper`, `Folk`, `Id`, `Karma`, `Keats`, `Ellen`, `Herve`. Ghi notes cho các chỗ nghĩa UI chưa chắc (Linked item/Give Id/Increased Id), nguồn có typo `has bee` và khoảng trắng thừa: không sửa source.
+- QA cấu trúc trước commit: đúng 50 ID tiếp theo, chỉ vi/status/notes thay đổi; source/hash/offset/order/source_review giữ nguyên; NFC, số xuống dòng và protected tokens giữ nguyên; 0 xung đột chuỗi English trùng. Không can thiệp font Merienda V3, ROM/ISO/binary/payload.
+- Vẫn ở mức `draft`, chưa hiển thị/test với RPCS3. GitHub Actions chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` (Windows/Ubuntu) sau commit.
+- **Tiếp theo:** `lang_en.bi5_@00007059` — `Level up for Keats! / Maximum HP increased!`, tiếp 50 mục menu.

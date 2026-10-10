@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 534 mục menu `draft` (134 mục mẫu + 400 mục từ 8 lượt ngày 10/10/2026); còn 11.352 `todo` toàn bộ catalog (trong đó 482 menu).
+viên hội thoại/tương tác/cảnh. Có 584 mục menu `draft` (134 mục mẫu + 450 mục từ 9 lượt ngày 10/10/2026); còn 11.302 `todo` toàn bộ catalog (trong đó 432 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -101,3 +101,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Đã dịch hiệu ứng nguyên tố/trạng thái, thông báo Karma/nâng cấp Folk, nhiệm vụ và bộ đếm 20 → 1, giữ `%s`, MC, Folk, Karma, Malabaricus nguyên dạng. Từ chuyên môn cần rà được ghi notes.
 - QA trước commit: giữ source/ID/sha/offset/order/metadata, chỉ vi/status/notes thay ở 50 mục; NFC, newline, placeholder và nguồn trùng đều kiểm tra đạt; Merienda V3 không đổi.
 - Chưa xác nhận hiển thị trong RPCS3. CI GitHub Actions kiểm tra validator/unittest Windows/Linux. Lượt 009 bắt đầu `lang_en.bi5_@00006833`.
+
+## Lượt menu 009 — 10/10/2026
+
+- Dịch đúng 50 mục menu `todo` → `draft` từ `lang_en.bi5_@00006833` đến `lang_en.bi5_@00007030`. Menu hiện `584`/1.016 draft và `432` todo; còn 11.302 todo trong toàn bộ 158 catalog.
+- Nội dung: PSP™ Link nhận/gửi Folk, trao đổi Id, 4 nhiệm vụ Herve, thiết bị Memory Stick™, dữ liệu lỗi và thông báo Rank up/HP của Keats/Ellen. Giữ placeholder `%s`, `%d`, ™/® và tên riêng; ghi chú các nguồn tiếng Anh có lỗi đánh máy nhưng không sửa source.
+- Đã soát đúng 50 mục và các trường chỉ được sửa vi/status/notes; kiểm tra NFC, newline, token, nguồn trùng không xung đột; giữ Merienda V3 và metadata không đổi.
+- Chưa build binary/patch hoặc test hiển thị RPCS3. GitHub Actions chạy validator/unittest Windows/Linux sau commit.
+- Checkpoint lượt 010: `lang_en.bi5_@00007059`.

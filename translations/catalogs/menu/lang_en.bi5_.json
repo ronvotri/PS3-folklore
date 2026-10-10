@@ -5221,8 +5221,8 @@
       "file_offset": 26675,
       "source": "Receive Folk",
       "source_sha256": "f81b904157749e8bfd20ede7678274eda143ec7b50036dd846c433d0c968c7e0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhận Folk",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5231,8 +5231,8 @@
       "file_offset": 26688,
       "source": "Send Folk",
       "source_sha256": "bbee825d539bca10538777c73cdfa6314a97d2093d7381c49ecba4df23ef19a9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gửi Folk",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5241,38 +5241,38 @@
       "file_offset": 26698,
       "source": "Linked item information sent",
       "source_sha256": "14aa6168ea1eaf1142693e5cb91f98cee65c5c174d5dd863d70d51deefde4260",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã gửi thông tin vật phẩm liên kết",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Linked item là mục dữ liệu dùng trong chế độ liên kết PSP; cần kiểm tra màn hình để xác minh phân biệt vật phẩm với dữ liệu."
     },
     {
       "id": "lang_en.bi5_@00006867",
       "file_offset": 26727,
       "source": "You received %d PSP™ Linked items",
       "source_sha256": "d24a291099103784f56254aceb48b4966c1033968037647973328a91f2c660e4",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã nhận %d vật phẩm liên kết PSP™",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Giữ nguyên %d và PSP™. Số lượng vật phẩm biến đổi theo placeholder."
     },
     {
       "id": "lang_en.bi5_@0000688b",
       "file_offset": 26763,
       "source": "Linked Keats Quest:\n\"Herve's Quest 1\" added",
       "source_sha256": "55b14333aec8dadc8b2a3fade3a0e9b936ee5fb76f1eb81fb47655a2d0f1d89c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm nhiệm vụ liên kết của Keats:\n\"Nhiệm vụ của Herve 1\"",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Linked Quest tạm dịch 'nhiệm vụ liên kết'; tên nhiệm vụ Herve giữ số 1 và tên riêng."
     },
     {
       "id": "lang_en.bi5_@000068b7",
       "file_offset": 26807,
       "source": "This quest can be played after \nthe end of Keats Chapter 1",
       "source_sha256": "9285052223a16dfb89bba059b54de7acf1838976b3bfbc5b8c4c0e1a29f39808",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có thể chơi nhiệm vụ này sau\nkhi hoàn thành Chương 1 của Keats",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5281,18 +5281,18 @@
       "file_offset": 26866,
       "source": "Linked Ellen Quest:\n\"Herve's Quest 2\" added",
       "source_sha256": "bf7443d003964d28d4168a8ef8639d5a58634fbd2fd14ca0ecfd8d338dc38439",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm nhiệm vụ liên kết của Ellen:\n\"Nhiệm vụ của Herve 2\"",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Linked Quest tạm dịch 'nhiệm vụ liên kết'; tên nhiệm vụ Herve giữ số 2 và tên riêng."
     },
     {
       "id": "lang_en.bi5_@0000691e",
       "file_offset": 26910,
       "source": "This quest can be played after \nthe end of Ellen Chapter 2",
       "source_sha256": "148ed12a2010d1633168097ecf512b00f782c65d904dcb5105ad0282d9e69bff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có thể chơi nhiệm vụ này sau\nkhi hoàn thành Chương 2 của Ellen",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5301,18 +5301,18 @@
       "file_offset": 26969,
       "source": "The Keats Linked Quest  \n\"Herve's Quest 3\" was added",
       "source_sha256": "ded85f35b015ffd7ceb4353801563e1c7057a652c0b04b2729a844f2de6906bf",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm nhiệm vụ liên kết của Keats:\n\"Nhiệm vụ của Herve 3\"",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Nguồn chứa hai khoảng trắng cuối dòng 1; không sửa nguồn; tên nhiệm vụ của Herve giữ số 3."
     },
     {
       "id": "lang_en.bi5_@0000698e",
       "file_offset": 27022,
       "source": "This quest can be played after \nthe end of Keats Chapter 3",
       "source_sha256": "4e07d3e9ca539413e0528ec6d6c1b78b653545d006859e077bb1652fe4742019",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có thể chơi nhiệm vụ này sau\nkhi hoàn thành Chương 3 của Keats",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5321,18 +5321,18 @@
       "file_offset": 27081,
       "source": "The Ellen Linked Quest \n\"Herve's Quest 4\" was added",
       "source_sha256": "1748bc41347488c522b191452d0bc1213a9bd00db8dd41043bb26c9691e605f6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm nhiệm vụ liên kết của Ellen:\n\"Nhiệm vụ của Herve 4\"",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Linked Quest tạm dịch 'nhiệm vụ liên kết'; tên nhiệm vụ Herve giữ số 4 và tên riêng."
     },
     {
       "id": "lang_en.bi5_@000069fd",
       "file_offset": 27133,
       "source": "This quest can be played after \nthe end of Ellen Chapter 5",
       "source_sha256": "7d2cd32326471ee712db7209e76f9b898598c3aa3ded6c156abf9480bc3541e9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có thể chơi nhiệm vụ này sau\nkhi hoàn thành Chương 5 của Ellen",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5341,18 +5341,18 @@
       "file_offset": 27192,
       "source": "Special Karma added to\n%s through Link!",
       "source_sha256": "cc026eafa94dcdde36e3e027e070545f732d445b8c53b4a5e71aa5a4ea6b3d5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm Karma đặc biệt cho\n%s qua liên kết!",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Giữ %s, Karma và quan hệ nhân vật/Folk chưa được xác định bởi placeholder."
     },
     {
       "id": "lang_en.bi5_@00006a68",
       "file_offset": 27240,
       "source": "- Unknown -",
       "source_sha256": "441c4d6ab06a0a93a3da45c23e3b7bd16b99d93767d9b72f6c3bb7d263255a20",
-      "vi": "",
-      "status": "todo",
+      "vi": "- Chưa rõ -",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5361,18 +5361,18 @@
       "file_offset": 27252,
       "source": "Special Karma added to Pied Piper\nthrough Link!",
       "source_sha256": "49cc1dd43a2c2fb8814259ccd908be15d3b8a1b428bff88dc99584b55f86fd46",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm Karma đặc biệt cho Pied Piper\nqua liên kết!",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Pied Piper là tên riêng/tên Folk; giữ nguyên, không dịch theo truyện cổ dân gian khi chưa xác minh."
     },
     {
       "id": "lang_en.bi5_@00006aa4",
       "file_offset": 27300,
       "source": "Id held",
       "source_sha256": "6d53f79eeef035e90bd734124d5c0c6ba89bdcd0099b1df4a38d6159bb626a0a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Id hiện có",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5381,28 +5381,28 @@
       "file_offset": 27308,
       "source": "Give Id",
       "source_sha256": "722feab87808f142fb3bb05effa1670ab006501f22f62265db72351015c1bfb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chuyển Id",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Give Id tạm dịch 'Chuyển Id' theo ngữ cảnh truyền Folk qua PSP; cần xác minh UI."
     },
     {
       "id": "lang_en.bi5_@00006ab4",
       "file_offset": 27316,
       "source": "Increased Id",
       "source_sha256": "a9e5f946585c0d28e122ae7b52c718cd0b99e2408833b84f84fded08d5057fec",
-      "vi": "",
-      "status": "todo",
+      "vi": "Id tăng thêm",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Increased Id tạm dịch 'Id tăng thêm' như nhãn số lượng, cần đối chiếu hệ thống."
     },
     {
       "id": "lang_en.bi5_@00006ac1",
       "file_offset": 27329,
       "source": "No monster data received",
       "source_sha256": "32164263818854c5eec02e0f66dee121561fbe5252c386fffc03c5a5e654ac3e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chưa nhận được dữ liệu quái vật",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5411,8 +5411,8 @@
       "file_offset": 27354,
       "source": "Monster data received!\nData converted to Id",
       "source_sha256": "22a3107fab799cfc8fdbd223745ce20fed72acb743381eb4eaf18e4455092015",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã nhận dữ liệu quái vật!\nDữ liệu được chuyển thành Id",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5421,8 +5421,8 @@
       "file_offset": 27398,
       "source": "This Folk can\nonly be used\nby Keats",
       "source_sha256": "03ada2b33ee4788dbe52c076059836d112572d18205a75de6d51419ead3edabd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chỉ Keats mới\ncó thể sử dụng\nFolk này",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5431,8 +5431,8 @@
       "file_offset": 27434,
       "source": "This Folk can\nonly be used\nby Ellen",
       "source_sha256": "c00a8ab783f27610d27d68afeb784aaa57447471510d6523513886ac969d1111",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chỉ Ellen mới\ncó thể sử dụng\nFolk này",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5441,8 +5441,8 @@
       "file_offset": 27470,
       "source": "Choose the\ncharacter who will\nuse the Folks",
       "source_sha256": "a1787a2c1206fe5c3f9881f1dcf76cca0890527b8eff3066c354e52228d65272",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chọn nhân vật\nsẽ sử dụng\ncác Folk",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5451,8 +5451,8 @@
       "file_offset": 27514,
       "source": "This Folk cannot be used yet",
       "source_sha256": "46ca83d164cfec80886ccc92cae61e6f85e005fd7cb6dddd2cc9d93d869d99ca",
-      "vi": "",
-      "status": "todo",
+      "vi": "Folk này chưa thể sử dụng",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5461,8 +5461,8 @@
       "file_offset": 27543,
       "source": "You will be able to\nuse it after the\ngame progresses further",
       "source_sha256": "93f1a3b9b4856004ae38cef3bd5397277defa85488bb3b9092a5618255cad099",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn sẽ có thể\nsử dụng khi trò chơi\ntiến triển xa hơn",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5471,8 +5471,8 @@
       "file_offset": 27604,
       "source": "Add this Folk to Keats' list?",
       "source_sha256": "c54f6c6a9134f7224486c69f37b679708dd080d7431f35026494be18cb8a776a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thêm Folk này vào danh sách của Keats?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5481,8 +5481,8 @@
       "file_offset": 27634,
       "source": "Add this Folk to Ellen's list?",
       "source_sha256": "0e6c2419e2c5e0dc55e8e4c29763f85cee1ba6d49215861cb17f63a65d8f04ab",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thêm Folk này vào danh sách của Ellen?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5491,8 +5491,8 @@
       "file_offset": 27665,
       "source": "%s's Karma is released",
       "source_sha256": "5bf01aab63bb534f9f470d01e4a2526fce93c7f4b2d501b94a8b6f1c40e8924e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Karma của %s đã được giải phóng",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5501,8 +5501,8 @@
       "file_offset": 27688,
       "source": "Special Link Karma was added!",
       "source_sha256": "c60d4da8df9832750a16c4d136573cdb17439b4f5ef7ce753386ec0fe3278e09",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm Karma liên kết đặc biệt!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5511,38 +5511,38 @@
       "file_offset": 27718,
       "source": "End receipt of Folks ",
       "source_sha256": "64335d8b4ba358191caee36e9d4d3d62233f1d864ed7fd0da2597ca8db27d68d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Kết thúc nhận Folk",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Nguồn 'End receipt of Folks ' có khoảng trắng thừa cuối, giữ source nguyên, bỏ khoảng trắng cuối trong bản dịch."
     },
     {
       "id": "lang_en.bi5_@00006c5c",
       "file_offset": 27740,
       "source": "This Folk has bee added to Keats' list",
       "source_sha256": "a7a7aefa5047bd29e7ff54203e8d8a66c80e184976a7c68af07829c6c1d380ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm Folk này vào danh sách của Keats",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Nguồn gõ nhầm 'has bee' (đúng phải been); dịch theo nghĩa 'đã thêm' nhưng không chỉnh nguồn."
     },
     {
       "id": "lang_en.bi5_@00006c83",
       "file_offset": 27779,
       "source": "This Folk has bee added to Ellen's list",
       "source_sha256": "3dc649f6855737d06157e63689fdbdadc1bb646e1913fbeb1d6345b4ee7fd9bb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thêm Folk này vào danh sách của Ellen",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Nguồn gõ nhầm 'has bee' (đúng phải been); dịch theo nghĩa 'đã thêm' nhưng không chỉnh nguồn."
     },
     {
       "id": "lang_en.bi5_@00006cab",
       "file_offset": 27819,
       "source": "Some Folk data has not\nyet been received by the\nPSP™. Send cancelled.",
       "source_sha256": "26d5ef0974de599e821d61947f160a56a3dc6cf5e152aa9421e4706dcafd143f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Một số dữ liệu Folk vẫn\nchưa được PSP™ nhận.\nĐã hủy gửi.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5551,18 +5551,18 @@
       "file_offset": 27891,
       "source": "You can change a Folk's Id\ninto monster data to send\nto a PSP™ ",
       "source_sha256": "677cd92cf3441664749cbd36bb9594bf37548242420f479ac4ae0679c4fb80d1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn có thể chuyển Id của Folk\nthành dữ liệu quái vật để gửi\nsang PSP™",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Nguồn có khoảng trắng thừa cuối 'PSP™ '; chỉ làm sạch ở vi, giữ source/offset/hash."
     },
     {
       "id": "lang_en.bi5_@00006d35",
       "file_offset": 27957,
       "source": "Choose the Folk\nto send",
       "source_sha256": "798c672405c52c6f0371126fa6a33bac826ff5555c0d564166e74e0f35ff8960",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chọn Folk\nmuốn gửi",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5571,8 +5571,8 @@
       "file_offset": 27981,
       "source": "Not enough Id \nto send Folk",
       "source_sha256": "5142e079b92f3c6c75a65f904fac0cb778309613e7c794ecf003c81cebbe6347",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không đủ Id\nđể gửi Folk",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5581,8 +5581,8 @@
       "file_offset": 28009,
       "source": "OK to send this Folk?",
       "source_sha256": "9f50ca6235d2900ad86d1e9cdae05fb75b2bb8af73f9857cbd103464cc5aba23",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gửi Folk này?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5591,8 +5591,8 @@
       "file_offset": 28031,
       "source": "No Folk was selected.\nExit without sending?",
       "source_sha256": "aec3302175b175744cb6f9496cebff812f36f4b84651db6fae92f5ae09c2ab98",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn chưa chọn Folk nào.\nThoát mà không gửi?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5601,8 +5601,8 @@
       "file_offset": 28075,
       "source": "Closing PSP™ Link",
       "source_sha256": "9c19f26fcbdc973009f1171280a546148c5b207822af1f08be1a0aa502144c4f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đang ngắt liên kết PSP™",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5611,18 +5611,18 @@
       "file_offset": 28263,
       "source": "Create a PSP™ (PlayStation®Portable)\nLink?",
       "source_sha256": "d778820ef6041315f18d8d3cfde193c0cdde1169c8b7d0eeb1df3a0325e85b16",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tạo liên kết PSP™ (PlayStation®Portable)\nkhông?",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Giữ nguyên PSP™ và PlayStation®Portable như định dạng nhãn thiết bị; cần kiểm tra chiều rộng hộp thoại sau đóng gói."
     },
     {
       "id": "lang_en.bi5_@00006e95",
       "file_offset": 28309,
       "source": "Choose the save data that will\nreflect the Link",
       "source_sha256": "0589dee4b640fc7327ff722b0023927eb55afec943cb07bd49bc1ace52b91a6f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chọn bản lưu sẽ\náp dụng dữ liệu liên kết",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5631,8 +5631,8 @@
       "file_offset": 28357,
       "source": "No save data was selected.\nCancel PSP™ Link?",
       "source_sha256": "c49d7564decd4d093d8e6581e482ccbf5dac20d9f2dbe8c622dce13701c1e895",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chưa chọn bản lưu nào.\nHủy liên kết PSP™?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5641,28 +5641,28 @@
       "file_offset": 28404,
       "source": "Connect to PSP™\nMemory Stick™",
       "source_sha256": "e440a196d67e44fa1c3aa5a8ab1d022667d84d3b8e30bb4dad5370db67e2ec81",
-      "vi": "",
-      "status": "todo",
+      "vi": "Kết nối với thẻ\nMemory Stick™ của PSP™",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "PSP™ Memory Stick™ có thể là tên hiển thị thiết bị/thẻ; dịch tạm là thẻ Memory Stick™ của PSP™."
     },
     {
       "id": "lang_en.bi5_@00006f16",
       "file_offset": 28438,
       "source": "Select the PSP™\nMemory Stick™.\nWhen the confirmation\nmessage appears, choose Yes.",
       "source_sha256": "8d5fb9258825f2fe437efc94bd91316447da3ac9e0a93f66b719f6c3740e7c24",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chọn thẻ nhớ\nMemory Stick™ của PSP™.\nKhi thông báo xác nhận\nxuất hiện, hãy chọn Có.",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Giữ nguyên tên thương mại Memory Stick™/PSP™, Yes được dịch 'Có' tương ứng UI mẫu."
     },
     {
       "id": "lang_en.bi5_@00006f6c",
       "file_offset": 28524,
       "source": "Communication error with the\nPSP™. Cancel Link?",
       "source_sha256": "dba359c14ac4da5b8514c27ec44d668ea4235d4dc524cfc608cd486d0e9b0938",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lỗi giao tiếp với\nPSP™. Hủy liên kết?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5671,8 +5671,8 @@
       "file_offset": 28574,
       "source": "Save communications data",
       "source_sha256": "de1e632ee372b752236a0e6f77399ad5253257244f22d0809b8b0ebbbecb9928",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lưu dữ liệu kết nối",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5681,8 +5681,8 @@
       "file_offset": 28599,
       "source": "The PSP™ Link failed",
       "source_sha256": "a77edcbf41d0a5e42af9c7895cdf11be6681a1ff89fe3caa1028fc335ccc1a33",
-      "vi": "",
-      "status": "todo",
+      "vi": "Liên kết PSP™ thất bại",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5691,8 +5691,8 @@
       "file_offset": 28622,
       "source": "Data from the PSP™ is corrupt.\nThe PSP™ Link failed.",
       "source_sha256": "ca2948b27a14d8a905774cc248b50a71ef7daa9d3c3c9452147e18630f82d46a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dữ liệu từ PSP™ bị hỏng.\nLiên kết PSP™ thất bại.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -5701,20 +5701,20 @@
       "file_offset": 28679,
       "source": "Rank up for Keats!\nMaximum HP increased!",
       "source_sha256": "5e2d4df5feafa71c08915a9cd8dbf0ac1cc91c2c33cb4ee8db4582b328a081f7",
-      "vi": "",
-      "status": "todo",
+      "vi": "Keats được tăng hạng!\nHP tối đa tăng!",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Rank up khác Level up; tạm dịch Tăng hạng, không nhập nhằng với lên cấp. Giữ HP."
     },
     {
       "id": "lang_en.bi5_@00007030",
       "file_offset": 28720,
       "source": "Rank up for Ellen!\nMaximum HP increased!",
       "source_sha256": "a394f58fcfa5a89323b28f82ff4a82612b7bed0cceb16a8468e0418df8d1026f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ellen được tăng hạng!\nHP tối đa tăng!",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Rank up khác Level up; tạm dịch Tăng hạng, không nhập nhằng với lên cấp. Giữ HP."
     },
     {
       "id": "lang_en.bi5_@00007059",
