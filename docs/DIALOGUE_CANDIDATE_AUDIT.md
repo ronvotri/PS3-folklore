@@ -31,3 +31,8 @@ Catalog JSON không kèm bytes xung quanh chuỗi, bảng tham chiếu, opcode, 
 - `tk103` đã được dịch nháp đến `@0000fc9a` (267/578), còn 311 candidate; 200 mục mới trong lượt có **159 nguồn mở đầu newline**, **11 nguồn mở đầu dấu cách** và chỉ **172 nguồn tiếng Anh phân biệt**. Nhiều source xuất hiện lặp lại ngay trong một tệp; đây không phải bằng chứng chúng nằm chung một lời thoại.
 - Các trường hợp cần parser kiểm chứng: `@000051d2` (bị xóa khỏi ký ức mọi người?), `@000065f5` (will: di nguyện hay ý chí?), `@000074bd` (chủ ngữ/động từ thiếu), `@0000b30d` (Hag là tên riêng hay danh từ?), `@0000e9c5` (nhịp nói lắp của nhân vật). Giữ các bản Việt hóa dạng draft và notes, không khẳng định speaker.
 - Phạm vi cloud: `tools/catalog.py` vẫn chỉ quét ASCII-NUL; đã xác minh không có trong dữ liệu catalog cấu trúc pointer/speaker đủ an toàn để tạo repacker. Việc phân tích dữ liệu byte nguyên gốc và vòng parse→serialize byte-for-byte vẫn là việc còn thiếu. **Không dựng patch dựa vào `file_offset` của candidate.**
+
+## Lượt 020 — 11/10/2026: ghi chú kiểm tra parser
+
+- 200 mục `tk103` (`@0000fe1a` đến `@0001c740`) đã có bản dịch nháp; 161 lượt trùng với nguồn cũ, 5 lượt lặp ngay trong batch, 34 nguồn mới. Một số câu cần dựng message đầy đủ: `@00016b6e` (mức hiểm nguy), `@00017c9f` (phong ấn), `@000181fc` (đóng băng nước), `@00019885` (`Oblivion` là gì?). Bản nháp vẫn `source_review=candidate`.
+- JSON mới chỉ lưu chuỗi ASCII NUL/offset và metadata tối thiểu; không có chứng cứ xác minh pointer/speaker, nên chưa thể thiết kế bộ thay chuỗi vào binary an toàn. Bước tiếp theo là kiểm tra bytes nguyên gốc + parse→serialize byte-for-byte trên bản sao local, không vá thẳng tại `file_offset`.

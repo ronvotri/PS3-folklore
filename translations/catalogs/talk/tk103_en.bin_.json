@@ -2681,2000 +2681,2000 @@
       "file_offset": 65050,
       "source": " in any way you like.",
       "source_sha256": "1128f404b1b776645bb1ddcc1e82d28d2a0a291db89299291f7c25ac19bdb8a7",
-      "vi": "",
-      "status": "todo",
+      "vi": " theo cách bạn thích.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000feb2",
       "file_offset": 65202,
       "source": "\nto live in this world.",
       "source_sha256": "b06e645ba28b5e747710770a0f77525ff8cd39d5a4177bf55aaddc350d3acc90",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsống ở thế giới này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0000ffa0",
       "file_offset": 65440,
       "source": "\nwho have taken a different form.",
       "source_sha256": "257adc52bbd4387937ff5a3a58bb97d790ce9d0257fe5b4047db7cedeec4d9fb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người đã mang một hình dạng khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010026",
       "file_offset": 65574,
       "source": "\ncan... change.",
       "source_sha256": "88fc8f748ea39ec39e4f77e75b6e41500937ad092e064abde99e367af20579d8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể... thay đổi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001033d",
       "file_offset": 66365,
       "source": "\nmedium in your tongue.",
       "source_sha256": "54f75146c6054bae59f52266561fcea1f82fe6fef19720f639bc87e52cff0e9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđồng cốt theo cách gọi của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010400",
       "file_offset": 66560,
       "source": " to do that.",
       "source_sha256": "3c85e389fa475ccb3f8e4fbbdfda4498af02cdddedc6db38f9d5e2a909472167",
-      "vi": "",
-      "status": "todo",
+      "vi": " để làm điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010491",
       "file_offset": 66705,
       "source": "\ndanger of losing their souls.",
       "source_sha256": "62b6ea53711e1cf2992d0ee079e6af6348031bd9871f2fce94f334faca1c1cc7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó nguy cơ đánh mất linh hồn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000106e3",
       "file_offset": 67299,
       "source": "$Anything you'd like to know?",
       "source_sha256": "1da1a9bd07a5e427c8a36ef130c953054dbc429bfbeeab7e9364bf07f53ead65",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có điều gì muốn biết không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010800",
       "file_offset": 67584,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@000108fd",
       "file_offset": 67837,
       "source": "\nuse some strategy.",
       "source_sha256": "d2d9822b35c7eeeaaad48015c14b49517d31e4a8e718ec9af120b9811d24bbb0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncần chút chiến thuật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010999",
       "file_offset": 67993,
       "source": "\nbutton to evade.",
       "source_sha256": "a050436ea46aa817213fe5485228107db5101df89fcd525d59f1944d78df1d1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnút để né tránh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010a95",
       "file_offset": 68245,
       "source": "\nobjects. Pick them up!",
       "source_sha256": "26c2d1c697e461a7ba66092af56e83b8a68e733135fd12d12895e5cbb0d12a27",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđồ vật. Nhặt chúng lên!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010b5b",
       "file_offset": 68443,
       "source": " food.",
       "source_sha256": "9ab7a22c846bfeead52d7f95eccf9400be8cfc9618e15babdaecd40b6e7bdaa1",
-      "vi": "",
-      "status": "todo",
+      "vi": " thức ăn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010c3c",
       "file_offset": 68668,
       "source": " you use grow stronger.",
       "source_sha256": "2ff1ce10dffd9f9b60475ac0d92ec1d1939be3c881b6b608fd16dd8751e33462",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn sử dụng sẽ mạnh hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010cdf",
       "file_offset": 68831,
       "source": " many times.",
       "source_sha256": "acf326394c63e6a01a206c6d30fa69363e3e4acba557089b1b7d674b24831d3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " nhiều lần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010dd0",
       "file_offset": 69072,
       "source": ". We won't attack you.",
       "source_sha256": "aa70372a1aa4294f40d2948824d6e15b3ddd7fd03e9db91b45136261f1404473",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Chúng tôi không tấn công bạn đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00010f62",
       "file_offset": 69474,
       "source": "\nwhat happened.",
       "source_sha256": "7098345b0f5168088736fc6d983d85795ac600b6d89c30b42e5fb0e5842bfe62",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện đã xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001103d",
       "file_offset": 69693,
       "source": "\nher mother...?",
       "source_sha256": "b420936959b311faca2e328f15bc462ec7c329d3929bc260f148b149977e99c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ cô ấy sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000112e7",
       "file_offset": 70375,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011423",
       "file_offset": 70691,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001151d",
       "file_offset": 70941,
       "source": "\ncommitted to it.",
       "source_sha256": "6f20486729254a6d6c5ba0db65039d919e35c07f78a389ac58c86d6fe301955b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquyết tâm theo đuổi chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001158f",
       "file_offset": 71055,
       "source": "\nyou'll have your chance!",
       "source_sha256": "52024c397989141bd4e54c75ee9248cece32fd39d57e87bc72d0f73006ada598",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sẽ có cơ hội!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000116a9",
       "file_offset": 71337,
       "source": " drawn on them.",
       "source_sha256": "9fb4d929ecaded3e623a9333206ba2044a6b88930f159813bfcd71feeeb1b09b",
-      "vi": "",
-      "status": "todo",
+      "vi": " được vẽ trên chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001171d",
       "file_offset": 71453,
       "source": "\nblind alley somewhere...",
       "source_sha256": "49c08afd4fbe7a9fdb2cca457b8b7a5ba308774f1354df5cb038bcecf8881457",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột ngõ cụt nào đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001181c",
       "file_offset": 71708,
       "source": "\nthey run off.",
       "source_sha256": "e0dd72d4fde76165d8954caeaed35292d4c31d98571ddda223fbae6953233de4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng bỏ chạy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011907",
       "file_offset": 71943,
       "source": "\nimpervious to attack,",
       "source_sha256": "ceed8007920d1c11e2dcd06f8a7e5901d2e757a43dbfd580930c20eb4de08bca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông hề hấn trước đòn đánh,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001199e",
       "file_offset": 72094,
       "source": "\nof water?",
       "source_sha256": "de7c35aa5d8f91b129d85b371474e706fc14aada343e4f26617951037be7179d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa nước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011a0c",
       "file_offset": 72204,
       "source": "\none try another approach!",
       "source_sha256": "24e771092c01023b9d5f549faaa495b2c8399e940cdaf5fffc2df5054972edf1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông được thì thử cách khác!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011bbd",
       "file_offset": 72637,
       "source": "\nlove to hatred.",
       "source_sha256": "11475371037173d81195193a446b63a0c4eb08db29cc6fe0ac95f312e879b5f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ yêu thương hóa căm hận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011c5a",
       "file_offset": 72794,
       "source": "\nafter death.",
       "source_sha256": "457ceae430aae54528e6b3dbcf44c57cb6f00272b5c60e8f35c75e353aa0bcdb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsau khi chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011d29",
       "file_offset": 73001,
       "source": "\nimagine a fun afterlife...",
       "source_sha256": "888f56e9804f4458a540c79613b4411512b685711151201a072af4c60c7f7d71",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntưởng tượng một kiếp sau vui vẻ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00011ea6",
       "file_offset": 73382,
       "source": "\npowers to get to other worlds.",
       "source_sha256": "ae77dabb78941c82e228ba6b9967c2f952cf8aab9f0a47f9cfb24340d71d6173",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh để đến những thế giới khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001206b",
       "file_offset": 73835,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012184",
       "file_offset": 74116,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001228c",
       "file_offset": 74380,
       "source": "\ndifficult to jolt.",
       "source_sha256": "2d2e6908aa1248852ee98f6f612697553b1135550d5fc376561a51f266ff4ecf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhó làm choáng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001231a",
       "file_offset": 74522,
       "source": "\nfreezing the Ids out of them.",
       "source_sha256": "7170bf79671ecfd78b5acf1273304d49126120175907ecc8685314fee94b0647",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđóng băng để lấy Id của chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012444",
       "file_offset": 74820,
       "source": " out of it.",
       "source_sha256": "adf2fa9c577a675d15633e71941a005595303c34a6ef5547462e6d557fe1a72a",
-      "vi": "",
-      "status": "todo",
+      "vi": " khỏi nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000124c0",
       "file_offset": 74944,
       "source": "\nalready said too much...",
       "source_sha256": "e8d137c78fd2cfc8491fa5497c130d2812a11a3c03cbbdff30da41e01af60303",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã nói quá nhiều rồi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000125bd",
       "file_offset": 75197,
       "source": "\nto do. Ask around at the pub.",
       "source_sha256": "43c82666ddadd26e1ef089fcae111e7e8c19f7b02606c0b52f154f0349c0e210",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải làm. Hãy hỏi quanh quán rượu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012632",
       "file_offset": 75314,
       "source": "\nperforming a quest by now.",
       "source_sha256": "c02b6ff72a130f637eaac429fabb5dc02d67c0a2ac6a7fd32debdf24225068f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang làm một nhiệm vụ rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000127ba",
       "file_offset": 75706,
       "source": "\nwhat you seek, try touching one.",
       "source_sha256": "98bc9379fb26b656cd284aded1938744fb4608a730301b2507fb0753e9c7c063",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều bạn tìm, thử chạm vào một cái.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012841",
       "file_offset": 75841,
       "source": "\nof your world.",
       "source_sha256": "00b61193d7ae3ad1ffcb754caa846895702441a8ebc07b7679c328e2acf6ca54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa thế giới bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012942",
       "file_offset": 76098,
       "source": "\nknown as Messengers.",
       "source_sha256": "fea3cfdf5e04209caffe616468679f05c31c76fc94deba7f7d3556979307149d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược gọi là Sứ giả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000129d5",
       "file_offset": 76245,
       "source": "\nthe living and the dead.",
       "source_sha256": "8df740ae9828c15793158231247f18cb057400d6de59574539c456f30a1ab030",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiữa người sống và người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012ad8",
       "file_offset": 76504,
       "source": "\nknown as Messengers.",
       "source_sha256": "fea3cfdf5e04209caffe616468679f05c31c76fc94deba7f7d3556979307149d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược gọi là Sứ giả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012b6d",
       "file_offset": 76653,
       "source": "\nthe living and the dead.",
       "source_sha256": "8df740ae9828c15793158231247f18cb057400d6de59574539c456f30a1ab030",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiữa người sống và người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012c77",
       "file_offset": 76919,
       "source": "\nthan their own.",
       "source_sha256": "985c0d0f41e749374add3ce86575dfaf12a438a9e71dc1a2a9bdb8e4429a0da8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn của chính họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012d57",
       "file_offset": 77143,
       "source": ",It's really LAND OF THE DEAD, though.",
       "source_sha256": "4c800a1bafcff2ab4004e7010dab0818be0670e9499ef3bfbdca4f2713d76e95",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Nhưng thật ra là VÙNG ĐẤT CỦA NGƯỜI CHẾT.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012e6f",
       "file_offset": 77423,
       "source": "\nthan their own.",
       "source_sha256": "985c0d0f41e749374add3ce86575dfaf12a438a9e71dc1a2a9bdb8e4429a0da8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn của chính họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00012f57",
       "file_offset": 77655,
       "source": "really LAND OF THE DEAD, though.",
       "source_sha256": "a76b2cb4b628229e0fdd54e53df66ca7398a1ba7b81fd83452761b12ca320dbe",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật ra là VÙNG ĐẤT CỦA NGƯỜI CHẾT.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001301f",
       "file_offset": 77855,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001313f",
       "file_offset": 78143,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@000132d4",
       "file_offset": 78548,
       "source": "\nmust be handled carefully.",
       "source_sha256": "a7e5870df1bf731f4640cf9a00c233d84c7f64c8e775e50eca3452229a40f754",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải được xử lý cẩn thận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013352",
       "file_offset": 78674,
       "source": "\ntentacles are lightning swift.",
       "source_sha256": "528c266f672ab96fe692cd50e1863a9a03a2169d34280ad6823d6fff42b352f9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxúc tu nhanh như chớp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000133d5",
       "file_offset": 78805,
       "source": "\nin the head to quiet it down.",
       "source_sha256": "d7504a63f8afa595cd2fb83f7f83b47cea7ef910af1c5a972895d88d0ccd621d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào đầu để nó yên lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013454",
       "file_offset": 78932,
       "source": "\nwhack it?",
       "source_sha256": "834ece277b501c12bae353cdcb8ec7d03ca85e4bb3450f2de0dce9fcf3396910",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđánh nó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013528",
       "file_offset": 79144,
       "source": "\nup ahead.",
       "source_sha256": "726f35f4aed755ca3db3a7d2523f50778e8485bd652d69c2c47f5ca2c3a4c6ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000135b0",
       "file_offset": 79280,
       "source": "\nYou should have a look!",
       "source_sha256": "a4ae858bd96063f4b72c8e9bdd5aec9517ba418cd9a324084d19b55798f1a9a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn nên tới xem!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000136a1",
       "file_offset": 79521,
       "source": "\nto summon the dead.",
       "source_sha256": "7576c96c1d94bbf01844854395689ad0aa7100572cca9c81b341330a4e23e04a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể triệu hồi người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000137da",
       "file_offset": 79834,
       "source": "\ncan use it.",
       "source_sha256": "45ebe6ddfe05d164eeea9a161c7654cd246bc16b39fc59ecc482be0963a538b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể sử dụng nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000139eb",
       "file_offset": 80363,
       "source": "\nof the dead.",
       "source_sha256": "ebc9dbac17221f28bba90b27f82d33bb4754d3d3f84b8363c085f9ffa828ac5b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013a75",
       "file_offset": 80501,
       "source": "\nlife, return to your world.",
       "source_sha256": "41d77a0f7bc6002d3c33cc538c9e0f7a9153f2b08f21c463dc6f8b6d8e4f0698",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự sống, hãy trở về thế giới của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013bed",
       "file_offset": 80877,
       "source": "\nAudience Hall?",
       "source_sha256": "3022920d9da0388352eb324cb063531d413afc1aacfe96089d29b56ed8f50fac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐại sảnh Tiếp kiến sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013eb9",
       "file_offset": 81593,
       "source": "\nlies beyond.",
       "source_sha256": "b94d877662eaad5aa50ae02041c1a593f67bc39ea758cfb6530969156220f7df",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnằm ở phía bên kia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013f27",
       "file_offset": 81703,
       "source": "\nan audience.",
       "source_sha256": "9bf613a9261ac805001b5360d2ba040e4a3f2ca2b8fe9287a71a029d48bf1a95",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người lắng nghe.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00013ffc",
       "file_offset": 81916,
       "source": "\nyou a few things.",
       "source_sha256": "1f7b3973ed496be1acb6d7ccfcaf2356d5439c04961a677c2d68bafadba11c52",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn vài điều.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014121",
       "file_offset": 82209,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001421e",
       "file_offset": 82462,
       "source": "\nYou might find something good.",
       "source_sha256": "5d0bfedac0e8a8ec2673898f3cc309211a600b7e84d70a3845398d8111072b00",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBiết đâu bạn tìm được thứ hay ho.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000142a2",
       "file_offset": 82594,
       "source": "\nyou want to hurry on though.",
       "source_sha256": "7318c0888bcb5f07ca72f79771754ab6c31e83f7966834fb30fa988e08cdde7e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng bạn nên đi nhanh lên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001431f",
       "file_offset": 82719,
       "source": "\nmany difficulties ahead.",
       "source_sha256": "4a51a32e8cc96ee675730de519402086217863b254069706ef0e64c55b44f7f1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbao khó khăn đang chờ phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014414",
       "file_offset": 82964,
       "source": " you use grow stronger.",
       "source_sha256": "2ff1ce10dffd9f9b60475ac0d92ec1d1939be3c881b6b608fd16dd8751e33462",
-      "vi": "",
-      "status": "todo",
+      "vi": " bạn sử dụng sẽ mạnh hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000144b7",
       "file_offset": 83127,
       "source": " many times.",
       "source_sha256": "acf326394c63e6a01a206c6d30fa69363e3e4acba557089b1b7d674b24831d3f",
-      "vi": "",
-      "status": "todo",
+      "vi": " nhiều lần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000145e7",
       "file_offset": 83431,
       "source": " here.",
       "source_sha256": "78939e6020b2f2c43c582920a385fb63d09ee40b7e916834f29583b36c58cd40",
-      "vi": "",
-      "status": "todo",
+      "vi": " ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014652",
       "file_offset": 83538,
       "source": "\nyou'll have to look for them.",
       "source_sha256": "54c8c9eb5544d69cf1e313dee9383640022bf919b18eb2716a268b0559318e27",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sẽ phải tự tìm chúng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000147e9",
       "file_offset": 83945,
       "source": "\nas you go.",
       "source_sha256": "18978b0a66967d2337565b2137d869c53b652f33ef58330a1b40b9893cf066e3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrên đường đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000148e5",
       "file_offset": 84197,
       "source": "\nthat of the real world.",
       "source_sha256": "e9df87bec7945b93a6e41a667de7c24df5eb3aabba0a3b121923eeac8bfda352",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014965",
       "file_offset": 84325,
       "source": "\nwho you thought left after you.",
       "source_sha256": "a1abbecbfc8e9f4e1b159ca304e456983e81db9055a104f37fb118f90ec99f7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười mà bạn tưởng đã rời đi sau bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000149e7",
       "file_offset": 84455,
       "source": "\nsomeone you thought you'd passed.",
       "source_sha256": "ea02fd00efb79de7380156aa996030e210e7ee7f67091961fff504722e6191fa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười mà bạn tưởng mình đã đi qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014b00",
       "file_offset": 84736,
       "source": "\nstrength!",
       "source_sha256": "9d8f72085959cd71e04972510e11ed8047a31eaeccdc067341a89f05f3d60702",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014da3",
       "file_offset": 85411,
       "source": "\nyour strength.",
       "source_sha256": "69db90563aad64955c83fa54e176851eb2045304e35f88f6533dfa8a9f68d777",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014e77",
       "file_offset": 85623,
       "source": "\nAnything you'd like to know?",
       "source_sha256": "70f819f2b831b06fb3e68fdad9b69c7aa6ee73da74ad8b7e30f0cb64d9cc9009",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn muốn hỏi gì không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00014fb7",
       "file_offset": 85943,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@000150a9",
       "file_offset": 86185,
       "source": "\nUltimate Spear. Understand?",
       "source_sha256": "933f543e457fd14f64534bdcd4c83322f8c6b59c771c4d4220d4e1284457cab9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThương Tối thượng. Hiểu chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000151b1",
       "file_offset": 86449,
       "source": "\nincluding Bogle the Faery Knight.",
       "source_sha256": "9ffc300a49fbed1011a8cb93e37aa3fc2a9bdb8031c72f7a353cfb54a159ef50",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkể cả Bogle, Hiệp sĩ Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015335",
       "file_offset": 86837,
       "source": "\nridiculously durable.",
       "source_sha256": "6f4523f4b1f293909ef21a695f4c4873194f67e96c814c9aeb613b66b26c573a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbền bỉ đến mức khó tin.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000153b2",
       "file_offset": 86962,
       "source": "\nDeal with their armor first.",
       "source_sha256": "788bb07f0f319d8e88b796ede9152502e2942cfe9113928006f265e4a66451aa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy xử lý giáp của chúng trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000154bb",
       "file_offset": 87227,
       "source": "\nusing items, for example.",
       "source_sha256": "cae362edc7d51df64d9c643edcef9597ce781203911479326fce30d6ff27cb45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng hạn bằng vật phẩm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000155c6",
       "file_offset": 87494,
       "source": "\nlike they owned the place...",
       "source_sha256": "9c47e563ed6726a58e11f06ba220bce146a316381d4d756ee42c48d7caf619fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thể nơi này là của chúng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001587e",
       "file_offset": 88190,
       "source": ". We need to be careful...",
       "source_sha256": "09f4325dd44ae1a4b78d2908a67ed328b8d097d906e4c81f8e2059a18f29597a",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Chúng ta phải cẩn thận...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001596f",
       "file_offset": 88431,
       "source": "\nwill continue to expand...?",
       "source_sha256": "55b03c2d21164731be84e419a1a0f14295e42157ceda012b5c702ebe4ea52546",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ còn tiếp tục lan rộng...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015a33",
       "file_offset": 88627,
       "source": "$What would you like to know?",
       "source_sha256": "56864f6ee27a40d471a7cb818ec6e6e8dd9428bd3709a07300a6fda70749e7c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn muốn biết điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015b62",
       "file_offset": 88930,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015cb4",
       "file_offset": 89268,
       "source": "Watch out for yourself.",
       "source_sha256": "91faafa206b2ad738e3869fc33d454619f2aed979cc68e6960346604d6335d2c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tự lo cho mình nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015dc5",
       "file_offset": 89541,
       "source": "\nweapon of destruction.",
       "source_sha256": "17d24edce803320c532e53af5acda11e05f7e33e2de1185424c6cddbfaa09d88",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvũ khí hủy diệt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015e5f",
       "file_offset": 89695,
       "source": "\njust keeps going and going.",
       "source_sha256": "bb0b6e46fb110dea2f0fe71c4c4ca019dabf511082bc5be8318eb0e0b93645cc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ kéo dài mãi không thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00015efc",
       "file_offset": 89852,
       "source": "\narmor is really thick.",
       "source_sha256": "a009a7da549acd76dcc225b8fcdff7dc661dd1fd11aed51544cb18ccc7f02de6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlớp giáp rất dày.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016002",
       "file_offset": 90114,
       "source": " appears.",
       "source_sha256": "d88103908ac61fde42a96eb22a8d7ac3a1899e08627e777023fa4d960f24bc7a",
-      "vi": "",
-      "status": "todo",
+      "vi": " xuất hiện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001607a",
       "file_offset": 90234,
       "source": "\ncould meet the dead one you seek.",
       "source_sha256": "fb88377ae8ea0568402b23efa05c1f70956337e6000d88c972a9df27726c7848",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể gặp người đã khuất bạn đang tìm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000161bc",
       "file_offset": 90556,
       "source": "\nhave their troubles.",
       "source_sha256": "9af2dee04d3e7ff7a6057cd85a20a52090acab9a8c51120cec3a0f488482da53",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđều có nỗi khổ riêng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016271",
       "file_offset": 90737,
       "source": " freely.",
       "source_sha256": "14741ccacf5d8b5efb718368814a32b3da2ba512464deccd96bd21abf9932930",
-      "vi": "",
-      "status": "todo",
+      "vi": " một cách tự do.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000164d5",
       "file_offset": 91349,
       "source": "\ncloser to our dream.",
       "source_sha256": "a4812bfa95ea5c29491b99b68fe989a10bf78cdd7aa9a142ddc2d60c5f2e6426",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến gần giấc mơ của chúng ta hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000165c0",
       "file_offset": 91584,
       "source": "\nyou?",
       "source_sha256": "a8ebf6b65d596521726bda006d4885d9f5ed1452fe35ac0b677ac66a4c07102e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016754",
       "file_offset": 91988,
       "source": "\nyou?",
       "source_sha256": "a8ebf6b65d596521726bda006d4885d9f5ed1452fe35ac0b677ac66a4c07102e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016803",
       "file_offset": 92163,
       "source": "$So what do you want to know?",
       "source_sha256": "118445d0d5b8100283dd42db703421e18c215c561a9ffd271d455ace95a9bea6",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Vậy bạn muốn biết gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Giữ nguyên tiền tố nghi điều khiển. Ký hiệu $ có thể là control code, chưa có parser."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001692e",
       "file_offset": 92462,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016a20",
       "file_offset": 92704,
       "source": "\nyou strike them!",
       "source_sha256": "837aa6523cfe2030f3c05a06febd4b96ce8aa1b92a9761415ce0989ae9ee60f6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn tấn công chúng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016a8e",
       "file_offset": 92814,
       "source": "\nopponent's weakness in mind.",
       "source_sha256": "21b96d88c670102ab63a67039238b861b350bbff07fe900a462e8cd804ea27b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiểm yếu của đối thủ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'Opponent's weakness' ở mảnh câu thiếu vế điều kiện; không tự suy combat mechanic."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016b6e",
       "file_offset": 93038,
       "source": "\nmore danger you will find.",
       "source_sha256": "b32f7816625b46f146471baceb8aab179adeb3773bc8cf8a328a4befd74b6dc8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncàng đi sâu càng gặp nhiều nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016bef",
       "file_offset": 93167,
       "source": "\nto head back to the portal.",
       "source_sha256": "bba73a1164f1087fdc390e44d0bc871ed63572ed5163c04550e81d563c617505",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể quay về cổng dịch chuyển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016e9a",
       "file_offset": 93850,
       "source": "\nnow things are as you see.",
       "source_sha256": "720c7d0ffc8ce7df08d70b657e5589be8069db6becc74d59190c2867e681d31c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ mọi chuyện đúng như bạn thấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00016f91",
       "file_offset": 94097,
       "source": " is coming here, in person!",
       "source_sha256": "4da5b4d88daa734cfdcb628d169aa92afdabff351a123ceecf0aafb33efe0d07",
-      "vi": "",
-      "status": "todo",
+      "vi": " sẽ đích thân tới đây!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. Không có chủ ngữ xác định người sẽ đích thân tới, để trống."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001707e",
       "file_offset": 94334,
       "source": "\nWow, that's impressive.",
       "source_sha256": "c117d53c8a7a2071e6707e4c05320342fc5b3d826d0d73da577e547c9352c3b7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChà, ấn tượng thật đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017285",
       "file_offset": 94853,
       "source": "\nin person!",
       "source_sha256": "3466a0103cff3ce9b0f98efcf692ffd2dcaf395a44cb5ea7c7f796adcd6a9924",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđích thân!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000172f4",
       "file_offset": 94964,
       "source": "\nour fight.",
       "source_sha256": "bdf43b940cc711be57e456480377c0a8467b3242df28fdb7bbdd6300a95cb8cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrận chiến của chúng ta.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000173c9",
       "file_offset": 95177,
       "source": "\nway. Which way will you go?",
       "source_sha256": "3157b804d28d443875bf92e317a525cb2e32b1693e390be036ce7d00b88dcb8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđường. Bạn sẽ chọn lối nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. Mảnh về lối đi thiếu vế đầu, cần ghép trong game."
     },
     {
       "id": "talk/en/tk103_en.bin_@000174e3",
       "file_offset": 95459,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@000175f3",
       "file_offset": 95731,
       "source": "\nits lair.",
       "source_sha256": "3fe513b4041b88e889a9fb9da5b7302ca31fc27a67de7e9c28c5abf647536425",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhang ổ của nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017681",
       "file_offset": 95873,
       "source": "\nit has a weakness - fire!",
       "source_sha256": "48ab9fa24cb1b5af8e19b3c80c2b446cee14544ace87f3adf81c5669a69d5c26",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnó có điểm yếu là lửa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. Nêu yếu điểm hệ lửa nhưng chưa biết Folk cụ thể."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001781b",
       "file_offset": 96283,
       "source": "\nequally treacherous!",
       "source_sha256": "ae25d610e5efe05480110db9f5d4aaedf4034b5f1fcafc8cfd37fbe8b427aeb5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng hiểm trở chẳng kém!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017986",
       "file_offset": 96646,
       "source": "\na splendid place.",
       "source_sha256": "577918f1b209770e5808854493db929043814bb120645b26eabdec0823964a53",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột nơi tuyệt đẹp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017acc",
       "file_offset": 96972,
       "source": "It is a fearsome place.",
       "source_sha256": "8367774a66747ce1fa986f4f4b35922a01e245a010ac282c61bcb0c6a8d3a7bc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đó là một nơi đáng sợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017c9f",
       "file_offset": 97439,
       "source": "\nthereby breaking the seal?",
       "source_sha256": "01206eb0e95abf89d4493e2c597f552b02bcacfc36e36b273770ef9645215574",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể phá vỡ phong ấn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. Câu nghi vấn liên quan phá vỡ phong ấn, chưa rõ chủ thể."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017e77",
       "file_offset": 97911,
       "source": "\nthereby breaking the seal?",
       "source_sha256": "01206eb0e95abf89d4493e2c597f552b02bcacfc36e36b273770ef9645215574",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể phá vỡ phong ấn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00017f3b",
       "file_offset": 98107,
       "source": "$Oh, all right. I'll tell you.",
       "source_sha256": "80dfb0ce75f35f8f61824bb230fb20f90eb55767bb9baa859c214a166eaa76d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ồ, được thôi. Tôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001806b",
       "file_offset": 98411,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018156",
       "file_offset": 98646,
       "source": "\na fearsome beast!",
       "source_sha256": "4d4221787071dd55c1b579724a496cf9b816fb36e0efba7bef8b04c315d1b1ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột con quái vật đáng sợ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000181fc",
       "file_offset": 98812,
       "source": "\nfreezing the water around it.",
       "source_sha256": "713058452c500f4492f645d30ea9bbd7dd6f5a12ea0c2e241b84a1cffd97ce56",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđóng băng nước xung quanh nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'Freezing the water' có thể là hướng dẫn puzzle, cần thử runtime."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001829c",
       "file_offset": 98972,
       "source": "\nhave to freeze that area.",
       "source_sha256": "0611dd5be13a7b1047e714ff805cc0c6b3c9a77d052d8d911e023e3c02fca1b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải đóng băng khu vực đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018411",
       "file_offset": 99345,
       "source": "\nhelped us then.",
       "source_sha256": "7f8fd366b3a62bf29b0fb32ec94bb3e45e3ec5474acef231c824e80454a846a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã giúp chúng ta khi ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001872f",
       "file_offset": 100143,
       "source": "\nare hidden in the palace.",
       "source_sha256": "565a0e65b42a5fb3e89274a4f96e55d6da957773044ddeede53bfff86d5503c1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược giấu trong cung điện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'Palace' chưa đủ căn cứ khẳng định Cung điện Lãng quên."
     },
     {
       "id": "talk/en/tk103_en.bin_@000187ca",
       "file_offset": 100298,
       "source": "\nhelp them.",
       "source_sha256": "56bbcfc3847144e52fb74d1fb3e9c846cb21928ec2c1e97383528438f5787748",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiúp họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018a3f",
       "file_offset": 100927,
       "source": " was last defeated.",
       "source_sha256": "91c6d24fdab831a6c755e1b42d18043ac6f9858b988f2616a125949458abe3de",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã bị đánh bại lần trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'was last defeated' chưa rõ chủ ngữ."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018b3e",
       "file_offset": 101182,
       "source": "\nbig decisions.",
       "source_sha256": "2aa712a8fc10c3749b7b1bc886d4d70ab43289bc33c54fc948774d8e70b7fcb7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững quyết định trọng đại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018c3a",
       "file_offset": 101434,
       "source": "\nbig decisions.",
       "source_sha256": "2aa712a8fc10c3749b7b1bc886d4d70ab43289bc33c54fc948774d8e70b7fcb7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững quyết định trọng đại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018d06",
       "file_offset": 101638,
       "source": "\nWhat do you want to know?",
       "source_sha256": "866c73b0a35cefaae86832d6b8fadb576451e1ccc576e0e4446b93496a0b1a19",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn muốn biết điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. Mẫu hỏi tùy chọn; không gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018e4a",
       "file_offset": 101962,
       "source": "* Nevermind",
       "source_sha256": "356789c0b41d9c2ad7157007ec1cfcbe2590564cd4a5cd3025815a5171814998",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thôi khỏi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018f3e",
       "file_offset": 102206,
       "source": "\na fearsome beast!",
       "source_sha256": "4d4221787071dd55c1b579724a496cf9b816fb36e0efba7bef8b04c315d1b1ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột con quái vật đáng sợ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00018fdc",
       "file_offset": 102364,
       "source": "\nthey froze the sea to catch it.",
       "source_sha256": "dcd8c24d1162c8290c34b330d429642d7c81dda9a0502b144f0b046c9e89aa48",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhọ đóng băng mặt biển để bắt nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019080",
       "file_offset": 102528,
       "source": "\nhave to freeze that area.",
       "source_sha256": "0611dd5be13a7b1047e714ff805cc0c6b3c9a77d052d8d911e023e3c02fca1b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphải đóng băng khu vực đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000191fd",
       "file_offset": 102909,
       "source": "\nhelped us then.",
       "source_sha256": "7f8fd366b3a62bf29b0fb32ec94bb3e45e3ec5474acef231c824e80454a846a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã giúp chúng ta khi ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019305",
       "file_offset": 103173,
       "source": "\nwho were kings.",
       "source_sha256": "9a1b70bb1984a43fe823e18396fdc4c32e0efc6a1373a877dfdd8b382a56593a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người từng là vua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'Who were kings' mất vế chính."
     },
     {
       "id": "talk/en/tk103_en.bin_@000194a0",
       "file_offset": 103584,
       "source": "\nwant to think about it...",
       "source_sha256": "f1945c7138596d136e4800fbe6432dccdc5528d1f3f871a9b764889275828cc1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn nghĩ thêm về chuyện đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019589",
       "file_offset": 103817,
       "source": "\nthat I get so many visitors.",
       "source_sha256": "1797497c0f5b6e8a8c85af5424fdea50fa685423140a258118a4ea117665e03c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì tôi có nhiều khách đến thăm như thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@000196fe",
       "file_offset": 104190,
       "source": "\na country under the sea.",
       "source_sha256": "72370951ad73bb509107ba0e5f1d40ad9042ca9b18bc585a7d823ea98401e9d4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột đất nước dưới đáy biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'Country under the sea' là đất nước, không tự đồng nhất với Undersea City."
     },
     {
       "id": "talk/en/tk103_en.bin_@000197f5",
       "file_offset": 104437,
       "source": " has been defeated!",
       "source_sha256": "33fdd00a5753a6bf4d101acafa69d15fbf23e6b6069f214645b787941d23444d",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã bị đánh bại!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019885",
       "file_offset": 104581,
       "source": "\nOblivion has reappeared.",
       "source_sha256": "5c5333963a7387a6feab1ad739505060831cbc17dd49bc857dfbdaebc82baed9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nOblivion đã xuất hiện trở lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. Oblivion có thể là thực thể hoặc địa danh, tạm giữ nguyên tên riêng và chưa chốt tiếng Việt."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019a9c",
       "file_offset": 105116,
       "source": "\nfinally released.",
       "source_sha256": "43af8e66e7adf8b827fa93de38b6ad2f1ec48153dabb95c722db564fff70ae57",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuối cùng đã được giải thoát.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp từ ứng viên ASCII NUL; speaker và mảnh câu trước/sau chưa tái dựng. Là mảnh câu chưa đầy đủ, không tự gán người nói. 'finally released' không rõ đối tượng được giải thoát."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019b66",
       "file_offset": 105318,
       "source": "* Stay awake",
       "source_sha256": "eebbd682b66f648ee826e5171611fd86f1713dc07f0569f7ed0b4cdd5073818b",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thức tiếp",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019c44",
       "file_offset": 105540,
       "source": "* Stay awake",
       "source_sha256": "eebbd682b66f648ee826e5171611fd86f1713dc07f0569f7ed0b4cdd5073818b",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Thức tiếp",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019d08",
       "file_offset": 105736,
       "source": "Seems to be locked.",
       "source_sha256": "a20e23e6ff0d07a1f0047ffe4af95c4c9d3acbf031dbc652cda1722822e1417a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có vẻ cửa đã khóa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019e27",
       "file_offset": 106023,
       "source": "$Looks like nothing happened...",
       "source_sha256": "a8a0232e88d067569daf0747e56198c2db4b6e008a7001cd170ef9207fc4dac9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Hình như chẳng có chuyện gì xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019eef",
       "file_offset": 106223,
       "source": "$Looks like nothing happened...",
       "source_sha256": "a8a0232e88d067569daf0747e56198c2db4b6e008a7001cd170ef9207fc4dac9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Hình như chẳng có chuyện gì xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@00019ffa",
       "file_offset": 106490,
       "source": "\nproper to visit at night...",
       "source_sha256": "6291c26485b98b5f7a984627bcf04193920b4f12ad477135a35c8d1d4e869c06",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông tiện ghé thăm vào ban đêm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a0bf",
       "file_offset": 106687,
       "source": "$Don't have anything to offer.",
       "source_sha256": "503042c5fdc92dfac9f8e717c2162f07dc60e0ff2a82f9f647410074d8bc9ccf",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chẳng có gì để dâng cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a187",
       "file_offset": 106887,
       "source": "$Don't have anything to offer.",
       "source_sha256": "503042c5fdc92dfac9f8e717c2162f07dc60e0ff2a82f9f647410074d8bc9ccf",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chẳng có gì để dâng cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a26e",
       "file_offset": 107118,
       "source": "\nwhen I come in the day...",
       "source_sha256": "fe79f9681b8cad597e0aa2cc5e16d2b2dd541415fce2a977a7b1b8487474fe74",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi tôi đến vào ban ngày...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a34e",
       "file_offset": 107342,
       "source": "\nit gets dark...",
       "source_sha256": "184fa45c3ebd9cbdda5266678ee77a91619d0f6ea741a486535f3e6ce95ce3b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrời bắt đầu tối...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a425",
       "file_offset": 107557,
       "source": "\nswear someone's inside.",
       "source_sha256": "1954e5bc0b988ff01c505ae0690711d1e914821623c129f81ec2bfadcf708158",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndám chắc có người ở bên trong.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a506",
       "file_offset": 107782,
       "source": "\nthey won't answer...",
       "source_sha256": "b92b76c224c76be3982f922902ebf45c5c44dd96ffd8af5cb308e4f368b24d8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhọ không chịu trả lời...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a5c3",
       "file_offset": 107971,
       "source": "(I don't need any favors for now.",
       "source_sha256": "56bd20391441f181b58288d8d8b50e26babdf56c746da33ab2afdf01c48f6aa4",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Giờ tôi chưa cần ai giúp đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Giữ nguyên tiền tố nghi điều khiển."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a6af",
       "file_offset": 108207,
       "source": "\nfor ye yet...",
       "source_sha256": "8d45c0d94d4cf6a1683ea3ddfa8e6271f6b73036694d0ad306eed5fd69b523a2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn được...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a77b",
       "file_offset": 108411,
       "source": "? Was that her name?",
       "source_sha256": "bb2fc52942cc87481fb27bdcaf09ef48372e45f1415eb0bf7e6b3e686045a935",
-      "vi": "",
-      "status": "todo",
+      "vi": "? Đó là tên cô ấy sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a82b",
       "file_offset": 108587,
       "source": ", yeah.",
       "source_sha256": "ea1cdaf000a6603a5db1043ff1798ec7f39b6e9393ca3a523c3f346130d3ccbf",
-      "vi": "",
-      "status": "todo",
+      "vi": ", ừ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a890",
       "file_offset": 108688,
       "source": "\nwhen yer get the time?",
       "source_sha256": "e35f0d38b55e43967553961770357513cfbca2fa45fdd18003c973156a74ef9f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi nào có thời gian nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001a993",
       "file_offset": 108947,
       "source": "\ncliff... Yeah, I have an idea.",
       "source_sha256": "31c9872b880c8294185355c6e72d31c6a9256d8690ed108cc36c7ec55992670c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvách đá... Ừ, tôi có cách rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001accf",
       "file_offset": 109775,
       "source": "\nthe dead that got hold of him.",
       "source_sha256": "035692d98992c84ef917de1e603a6611fb95271978d36023d95a7c9bb92861f6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười chết đã bắt lấy anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001aee4",
       "file_offset": 110308,
       "source": "Why...?",
       "source_sha256": "41573511eea4a80396edea006b0a404c9578c304851ebc16fc83889068d8811c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tại sao chứ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b085",
       "file_offset": 110725,
       "source": "\nin the first place?",
       "source_sha256": "76306cdf836d80d8b3cfd520ae2073245e346077fe3007071d74bc091810e704",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay từ đầu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b100",
       "file_offset": 110848,
       "source": "\nto give him treatment?",
       "source_sha256": "6d0d545463a406c410ab57a399d0798e6d9a7b516c263ce0cdc17151aa981d8b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể chữa trị cho anh ấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b198",
       "file_offset": 111000,
       "source": "\nopened the place.",
       "source_sha256": "dd5fd89cd4e15de4bd71ab563aae32651c7239edfbfd98bc2a12a665e7ff8f9d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã mở nơi đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b27d",
       "file_offset": 111229,
       "source": "\nhas a crush on someone!",
       "source_sha256": "71d989cabbd8532217aec096fc782f9b1eb92d8955ad8a3ecc22de4142377995",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang phải lòng ai đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b305",
       "file_offset": 111365,
       "source": "\ndon't ye go and calm him down?",
       "source_sha256": "bddff07e964a117140a50eb8bb61f458721a9e2b877e2fc8d6b284d65745aa3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsao không đến dỗ anh ấy đi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b392",
       "file_offset": 111506,
       "source": "\none? Ah, poor thing.",
       "source_sha256": "b8ff474486b8f9be2393f7e219c47493ce50e3fffe7996536b2d8fb90c7b3881",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột người sao? Tội nghiệp thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b589",
       "file_offset": 112009,
       "source": "\ncreated it were wiped out.",
       "source_sha256": "f2ddec367b34721e27394da2bbb0ed3b623319583ddff0912f0c5152909998b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người tạo ra nó đều bị xóa sổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b606",
       "file_offset": 112134,
       "source": "\ntruth behind that story.",
       "source_sha256": "f250d1c6d7e078ccae332a977af5b3f019fb554cc4d350b58e001fed552bee17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự thật đằng sau câu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b6ed",
       "file_offset": 112365,
       "source": "\nclinic at the church.",
       "source_sha256": "3c0e7ea6cce2266667f4a8c2bc18e37ea5ad4c2e1f3583d119445dee6ae75641",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng khám ở nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b792",
       "file_offset": 112530,
       "source": "\nand won't wake up.",
       "source_sha256": "34086347488b680ae58874dac3ed6469fc0cd0f91b2529df8236cd5aa7595149",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà không tỉnh lại nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b829",
       "file_offset": 112681,
       "source": "\nbeen badly hurt.",
       "source_sha256": "8c463e86133697aa79898ab1f4dc3bf29fbd0f0a7c7f567dbe2d47e028529618",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbị thương rất nặng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b89e",
       "file_offset": 112798,
       "source": "\nan end to this.",
       "source_sha256": "ef8af93dc739620990ecb3bfc063f7a48751b3603970d0c87a09267c2920613f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchấm dứt chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001b99e",
       "file_offset": 113054,
       "source": "\nto be expected.",
       "source_sha256": "43077cccdb663d2be6962b7364f0f549279b57b635a5204f237413c2f0237646",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncũng là chuyện dễ hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001ba0e",
       "file_offset": 113166,
       "source": "\nanything to help matters.",
       "source_sha256": "455e740dfebb374c98622d904df40675ec600a794d749cbd16fddf5bd0491239",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm được gì để cải thiện tình hình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001ba8b",
       "file_offset": 113291,
       "source": "\nsetting off on her own.",
       "source_sha256": "1d09bab87ce8553e65b0bd8eb1416c1272bea6d12cdde81d3e6af174e82497db",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntự mình lên đường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bb11",
       "file_offset": 113425,
       "source": "\nmight be willing to meet you.",
       "source_sha256": "4c6e30713ca58465fc38edd03d0a3036f671ead796e43ae524af5ba2e52db3b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó lẽ sẽ chịu gặp bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bb7d",
       "file_offset": 113533,
       "source": "\nYou're joking.",
       "source_sha256": "92fed841b3babbc1379b9fc53e85bff9e7a9d8253e7fe5ab2af8b246d546cb7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đùa đấy à.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bc1f",
       "file_offset": 113695,
       "source": "\nthat you want to know about.",
       "source_sha256": "ed9db3b839be29b0700e09d67d8b0462730f159945b264d7252b08ade3500068",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều bạn muốn biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bca2",
       "file_offset": 113826,
       "source": "\nfew things that don't make sense.",
       "source_sha256": "8eadbaab56c2e7d95e497a5157bd4aa25ad442f862a85642e7fe05a759200d57",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvài chuyện nghe chẳng hợp lý.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bd23",
       "file_offset": 113955,
       "source": "\nThe phone call for help...",
       "source_sha256": "70727f986f25354972f08bde5285848cb417fcfd41ff7ebdb5654c101e4db34c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCuộc gọi cầu cứu ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bdfb",
       "file_offset": 114171,
       "source": "\nI'd like to find out.",
       "source_sha256": "c1babe5c74546823a10421ad4f3a1690a098d257672b148b54b5617ceffc2fd8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi muốn tìm hiểu rõ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001be73",
       "file_offset": 114291,
       "source": "\nworth asking about.",
       "source_sha256": "31267642f2eafb1cf74c80baa9d3a995d33762450dea1ea03ad095bb0a15c7ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáng để hỏi thử.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bf5f",
       "file_offset": 114527,
       "source": " was writing it.",
       "source_sha256": "4c392009e4c19e7cbab5abbe6f8f29251ebb2f0ba185a1b5c047914d93065db5",
-      "vi": "",
-      "status": "todo",
+      "vi": " đang viết nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001bffe",
       "file_offset": 114686,
       "source": "\nSounds like a child's tale to me.",
       "source_sha256": "418872cea35ccd0e7005161be526b7ae205b55e762b4ecc1c8a656a2aa7bfaba",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNghe giống truyện trẻ con quá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c0af",
       "file_offset": 114863,
       "source": " What's wrong with yer???",
       "source_sha256": "22b2b5d7bdfb776a7729269e7a6bee5b369993446249a05ab72fdc1e6939be44",
-      "vi": "",
-      "status": "todo",
+      "vi": " Ông bị làm sao thế???",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c12e",
       "file_offset": 114990,
       "source": "\nlike something isn't right.",
       "source_sha256": "34e40a683055a5f233f15dff173aa82cd11f0ab0fc2d031341f6ed313001f426",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncảm thấy có gì đó không ổn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c23c",
       "file_offset": 115260,
       "source": "\npart can be obtained now.",
       "source_sha256": "4129dcda0a3fabcc43f82b57ab8d9102812efe48e1bf2bccbdcdd1321ae2b5c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiờ có thể lấy được phần ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c29c",
       "file_offset": 115356,
       "source": "Oh yeah?",
       "source_sha256": "3ee865676f6e4c9903fd4e855996034d731c7d27799b0aa56ab48db3f4824adb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c30a",
       "file_offset": 115466,
       "source": "\ninto it.",
       "source_sha256": "ba5b46a411d96bf8152565b5334cd279473c18ecfa84ce08217bbe5e07131813",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm hiểu chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c3f0",
       "file_offset": 115696,
       "source": "\nthe search for the grail ends.",
       "source_sha256": "69b32c2bb52bf737067da98ed38b38c62a5108da26577299028d7c2063028e11",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuộc tìm kiếm Chén Thánh kết thúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c472",
       "file_offset": 115826,
       "source": "\ncreated by a little child.",
       "source_sha256": "dc27b5d85cadb7dc34841b1b1b75dc46a628141b731dff7e8f90ab149d834497",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndo một đứa trẻ tạo ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c698",
       "file_offset": 116376,
       "source": "\nwhat he was doing up there?",
       "source_sha256": "98c460d9f0e14f97676e8aeadde39edee0ddd60380e3ccc788f7494de3d44a10",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nanh ấy làm gì trên đó vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c740",
       "file_offset": 116544,
       "source": "\nhim down.",
       "source_sha256": "ebf555bddd181c6bdcdb29af172be6e0e6a6ca2fad46710e8cb96103932fcf8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđưa anh ấy xuống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn lặp, dùng đúng bản dịch đã có để tránh lệch ngôi xưng/thuật ngữ. Chưa xác minh speaker. Là mảnh câu chưa đầy đủ, không tự gán người nói."
     },
     {
       "id": "talk/en/tk103_en.bin_@0001c87d",

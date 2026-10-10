@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk103_en.bin_.json`: tiếp tục từ `talk/en/tk103_en.bin_@0000fe1a` (` in any way you like.`), còn 311 `todo`. Rà kỹ đoạn bị cắt và các đại từ chưa xác minh, giữ source_review=candidate.
+1. `translations/catalogs/talk/tk103_en.bin_.json`: tiếp tục từ `talk/en/tk103_en.bin_@0001c87d` (` / saxophone! Yeah, saxophone.`), còn 111 `todo`. Rà các mảnh câu về nhân vật/ngôi xưng, không nâng source_review khi chưa có parser.
 2. Các tệp `tk100`, `tk101`, `tk102` đã lần lượt đạt 314/314, 447/447 và 494/494 `draft`. Ba CMC `LCmc000`, `LCmc002`, `LCmc004` có tổng 46/46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 494/494, tk103 267/578 `draft`. Còn 9.302 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314, tk101 447/447, tk102 494/494, tk103 467/578 `draft`. Còn 9.102 mục `todo` trên 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -203,3 +203,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Bất biến ID, English, offset, source_sha256, thứ tự catalog, source_review; chỉ vi/status/notes thay đổi. Kiểm tra NFC, số newline, ký hiệu tiền tố, placeholder và source trùng. Không sửa font Merienda V3, ISO hoặc payload.
 - **Parser/repacker:** tiếp tục cần byte vùng lân cận, pointer table, opcode/speaker từ bản gốc local; catalog trên cloud chỉ chứng minh đoạn ASCII NUL, không có căn cứ vá bằng offset trực tiếp. Chưa tạo/tuyên bố có repacker hoặc patch chạy được.
 - Tổng 158 catalog: **2.584 draft / 11.886**, còn **9.302 todo**. Sau commit GitHub Actions chạy validator và unittest Windows/Ubuntu. **Lượt 020** ở `talk/en/tk103_en.bin_@0000fe1a` (`in any way you like.`).
+
+## Lượt 020 — 11/10/2026 (200 ứng viên tk103)
+
+- Dịch nháp 200 mục `todo→draft` từ `talk/en/tk103_en.bin_@0000fe1a` đến `@0001c740`. `tk103` đạt **467/578 draft**, còn 111 `todo`. Trong 200 lượt có **161 bản dịch tái sử dụng từ các catalog trước**, **5 lần lặp của những câu mới ngay trong lượt**, và **34 chuỗi nguồn mới phân biệt** được dịch. Không có source trùng nhận hai bản `vi` khác nhau.
+- Chủ đề: chiến thuật Folk (điểm yếu hệ lửa, đông băng nước, các cánh cổng), Bogle, phòng ngự, phong ấn, cung điện, `Oblivion` xuất hiện trở lại. `Oblivion` được giữ tên gốc trong bản nháp `@00019885`, vì chưa chứng minh đó là thực thể/địa danh/trạng thái; chưa quy đổi vội thành Lãng quên. Xưng hô theo nguồn rõ nghĩa, không tự đặt speaker ở những mảnh thiếu trước/sau.
+- QA: 200 mục theo thứ tự, chỉ `vi/status/notes`; bất biến ID/source/offset/source_sha256/source_review/order; kiểm tra NFC, số newline, placeholder và dấu đầu, 0 bản dịch trùng nguồn mâu thuẫn. Những mục khó hiểu có notes, vẫn `candidate`/`draft`.
+- Tài liệu `docs/DIALOGUE_CANDIDATE_AUDIT.md` đã bổ sung các chuỗi còn cần parser xác minh ở `tk103`, không tự tạo repacker từ JSON; công cụ `tools/catalog.py` vẫn quét ASCII NUL, chưa có bảng người nói/pointer table đủ tin cậy. Chưa thử RPCS3, không thay binary/font Merienda V3.
+- Toàn 158 catalog: **2.784/11.886 bản nháp**, còn **9.102 todo**. CI sau push sẽ chạy validator và unittest Windows/Ubuntu.
+- **Lượt 021:** `talk/en/tk103_en.bin_@0001c87d` (`saxophone! Yeah, saxophone.`), dịch nốt 111 mục tk103 rồi qua catalog tiếp theo.

@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft` và 267/578 mục tk103 `draft`. Còn 9.302 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 1.522 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 267 tk103). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314/314 mục tk100 `draft`, 447/447 mục tk101 `draft`, 494/494 mục tk102 `draft` và 467/578 mục tk103 `draft`. Còn 9.102 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 1.722 ứng viên talk có bản nháp (314 tk100, 447 tk101, 494 tk102, 467 tk103). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -178,3 +178,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Ngữ cảnh: Herve, Đầm lầy, lãng quên, phóng viên, bác sĩ và các vụ án ở Doolin; đại từ chỉ tạm thời trong mảnh câu; ghi notes những từ/vai nói cần QA. 159/200 nguồn bắt đầu newline, cảnh chưa có parser xác minh.
 - QA metadata immutable (source/ID/offset/hash/source_review), NFC/newline/placeholders/prefix, không có xung đột chuỗi trùng. Chỉ dịch catalog, chưa repack/test RPCS3; font Merienda V3 không đổi.
 - Lượt 020 bắt đầu `talk/en/tk103_en.bin_@0000fe1a`. Sau push xác minh GitHub Actions validator + unittest trên Windows và Ubuntu.
+
+## Lượt 020 — 11/10/2026 (200 mục tk103)
+
+- 200 mục `tk103` đổi `todo→draft`, tệp đạt 467/578; toàn repo 2.784 `draft` và 9.102 `todo`. 161 mục kế thừa bản dịch có sẵn, 34 source mới khác nhau và 5 lần lặp trong lượt; không có xung đột source→vi.
+- Nội dung: hướng dẫn trận chiến, điểm yếu hệ lửa, phong ấn, vương quốc dưới biển, `Oblivion` và những cuộc nói chuyện liên quan. Không suy tên người nói từ ID, giữ tên riêng chưa xác minh, ví dụ `Oblivion`, ở bản nháp; các fragment cần ráp có notes.
+- Bảo toàn ID/offset/hash/source_review/English, Unicode NFC, newline và marker; chỉ cập nhật `vi/status/notes`. Không làm binary patch hay thay Merienda V3; parser/repacker cho talk/cmc và thử trong RPCS3 vẫn là blocker. CI Windows/Ubuntu chạy sau khi push.
+- Checkpoint 021: `talk/en/tk103_en.bin_@0001c87d`.
