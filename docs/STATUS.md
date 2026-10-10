@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314 mục tk100 `draft` và 208 mục tk101 `draft`. Còn 10.302 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
-Đã có 46 câu CMC và 522 ứng viên talk có bản nháp (314 tk100, 208 tk101). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`, 314 mục tk100 `draft` và 408 mục tk101 `draft`. Còn 10.102 mục `todo` toàn bộ 158 catalog (10.870 mục dialogue/candidate tổng).
+Đã có 46 câu CMC và 722 ứng viên talk có bản nháp (314 tk100, 408 tk101). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -145,3 +145,9 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA NFC, số dòng, placeholder, tiền tố; không sửa source/hash/offset/metadata/source_review. Soát 12 cặp chuỗi lặp nội bộ và các source trùng với tk100, 0 mâu thuẫn.
 - Không cập nhật font V3/binary và chưa thử RPCS3. CMC/talk chưa có repacker đã xác minh. Sau commit GitHub Actions kiểm tra Windows/Ubuntu.
 - Checkpoint lượt 015: `talk/en/tk101_en.bin_@0000c5ec`.
+
+## Lượt 015 — 10/10/2026
+
+- 200 mục tk101 chuyển todo→draft, tệp đạt 408/447. 146 mục lặp với tk100/tk101 đã dịch trước được giữ y bản Việt hóa; 54 source mới dịch theo nội dung và đánh dấu điểm thiếu ngữ cảnh xưng hô.
+- QA đủ 200 ID: metadata/source/hash/offset/source_review không đổi, NFC/newline/placeholder/ký hiệu đầu được bảo toàn; 0 bản dịch khác nhau cho nguồn trùng trong cả hai tệp.
+- Tổng tiến độ hiện 1.784 draft và 10.102 todo (toàn 158 catalog). Chưa repack/run RPCS3; font Merienda V3 giữ nguyên. Chuyển lượt 016 tại `talk/en/tk101_en.bin_@000172c5`.

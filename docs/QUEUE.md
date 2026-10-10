@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk101_en.bin_.json`: tiếp tục từ `talk/en/tk101_en.bin_@0000c5ec` (` / spirits in your world.`), còn 239 `todo`. Giữ phương án xưng hô trung tính khi chưa xác minh speaker; ghi chú các mảnh câu trước khi xét sửa theo bối cảnh.
+1. `translations/catalogs/talk/tk101_en.bin_.json`: tiếp tục từ `talk/en/tk101_en.bin_@000172c5` (` / work out what's happening?`), còn 39 `todo`. Dịch hết tk101 trước, rồi chuyển sang catalog tiếp theo; chưa gán speaker cho mảnh câu.
 2. `translations/catalogs/talk/tk100_en.bin_.json`: đã đủ 314/314 `draft`; `LCmc000`, `LCmc002`, `LCmc004` có 46/46 `draft`. Các ứng viên cần được parser xác minh trước khi nâng `source_review`.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu đã đủ 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314 `draft`; tk101 208/447 `draft`. Còn 10.302 mục `todo` trên 158 catalog. Tất cả hội thoại vẫn là draft, chưa parser/repacker/test.
+Menu 1.016/1.016 `draft`; CMC 46 `draft`; tk100 314/314 `draft`; tk101 408/447 `draft`. Còn 10.102 mục `todo` trên 158 catalog. Hội thoại vẫn là `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -158,3 +158,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Bổ sung chính sách xưng hô vào `docs/TRANSLATION.md`: đại từ phải theo người nói/quan hệ đã xác minh; không nhất loạt dùng một cặp cho mọi nhân vật; tiếng Ireland khẩu ngữ dịch tự nhiên nhưng không suy thân thiết; đặc biệt các fragment phải giữ draft + notes.
 - Chưa chạy game; sau commit kiểm tra CI Windows/Ubuntu validator + unittest.
 - **Tiếp theo:** `talk/en/tk101_en.bin_@0000c5ec` — ` / spirits in your world.`.
+
+## Lượt 015 — 10/10/2026 (200 candidate tk101)
+
+- Xử lý đúng 200 mục `todo→draft` từ `talk/en/tk101_en.bin_@0000c5ec` đến `talk/en/tk101_en.bin_@00017241`; tk101 đạt 408/447, còn 39 todo. Toàn dự án đạt 1.784 draft, còn 10.102 todo.
+- **146/200 source trùng các bản draft đã có trong tk100 hoặc tk101**, tái sử dụng nguyên bản tiếng Việt nhằm không làm lệch xưng hô/thuật ngữ; **54 mảnh chưa từng dịch** được soạn mới và ghi notes theo vị trí. Trong những chuỗi mới: nhắc Sứ giả, vùng đất của người chết, Id, Folk, kỹ năng và các cảnh trò chuyện Doolin.
+- Rà đại từ theo ngữ cảnh: khi thiếu người nói/đầu câu thì dùng câu trung tính hoặc lược đại từ, không tự gán quan hệ. Notes chỉ rõ những chỗ còn cần soát trong cảnh như Messengers, Audience Hall, Freezing Id và những tiếng lắp bắp.
+- QA trước commit: chỉ vi/status/notes đổi ở đúng 200 ID; bảo toàn source/source_sha256/file_offset/source_review, số newline, ký hiệu đầu, Unicode NFC, placeholders; **0 xung đột nguồn trùng** giữa tk100/tk101. Font V3 và binary game không thay đổi.
+- CMC/talk vẫn chưa có parser/repacker hoặc kiểm thử RPCS3; không được coi là bản dịch đã tích hợp. Sau commit xác minh CI Windows/Ubuntu validator và unittest.
+- **Lượt 016:** tiếp `talk/en/tk101_en.bin_@000172c5` (39 mục cuối tk101), rồi theo hàng đợi catalog tiếp theo.
