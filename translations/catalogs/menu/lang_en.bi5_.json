@@ -8731,10 +8731,10 @@
       "file_offset": 37947,
       "source": "corridor item.",
       "source_sha256": "63455f15653bf0da1375732b898409bf73307cb7fe0abbca098219672311b86e",
-      "vi": "hành lang không hợp lệ.",
+      "vi": "hành lang.",
       "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "QA sửa bản dịch fragment do gặp source 'corridor item.' lặp ở @00009cdb trong ngữ cảnh khác: dùng bản dịch trung tính, cần đối chiếu khi build."
     },
     {
       "id": "lang_en.bi5_@0000944e",
@@ -9851,8 +9851,8 @@
       "file_offset": 39891,
       "source": "Play current Dungeon?",
       "source_sha256": "7308e30ca69585464009e4f3eb1947bf421566d8f5fc6292a9d4cd8dacaf606f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chơi hầm ngục hiện tại?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9861,8 +9861,8 @@
       "file_offset": 39915,
       "source": "Overwrite current Dungeon?",
       "source_sha256": "5e85abec968dc9fd8d4139dc6b597a5ec1f005dbbc4bf42f487ed5edb4c08236",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ghi đè hầm ngục hiện tại?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9871,8 +9871,8 @@
       "file_offset": 39943,
       "source": "Overwrite current Dungeon?",
       "source_sha256": "5e85abec968dc9fd8d4139dc6b597a5ec1f005dbbc4bf42f487ed5edb4c08236",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ghi đè hầm ngục hiện tại?",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9881,48 +9881,48 @@
       "file_offset": 39971,
       "source": "The starting point for this Dungeon",
       "source_sha256": "4b7cc889ea1a42a9ce23e92ef610f5cb7d4c27ccdf23e8f1ea08dc98f17e859c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Điểm xuất phát của hầm ngục này",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009c47",
       "file_offset": 40007,
       "source": "has not been configured correctly.",
       "source_sha256": "c1f04e46a4064f76cacf81f976f246d5a49f5a0321f39e0d5e5cf32a8c97471e",
-      "vi": "",
-      "status": "todo",
+      "vi": "chưa được thiết lập đúng.",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009c6a",
       "file_offset": 40042,
       "source": "The goal for this Dungeon has",
       "source_sha256": "9fba1afccb10ffdac8594e6a7333e4ae6277aa424ce2aa63cc733a7edf1e3766",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đích đến của hầm ngục này",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009c88",
       "file_offset": 40072,
       "source": "not been configured correctly.",
       "source_sha256": "42af0f5774917b562011a61c492f9e26d5696b9c78d96b89c2f4377a7ce9bd1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "chưa được thiết lập đúng.",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009ca7",
       "file_offset": 40103,
       "source": "This dungeon is not complete.",
       "source_sha256": "3fc9c3695466aa1e274b1caa7633b7b3a88276de4e51764f3a48dba9e439ebf6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hầm ngục này chưa hoàn chỉnh.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9931,28 +9931,28 @@
       "file_offset": 40134,
       "source": "Deleted unused room/",
       "source_sha256": "496af764539d4bc8d8ec8ec407f5b2aa936a981c87211397b9dbaf8223a523d5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã xóa phòng không dùng/",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009cdb",
       "file_offset": 40155,
       "source": "corridor item.",
       "source_sha256": "63455f15653bf0da1375732b898409bf73307cb7fe0abbca098219672311b86e",
-      "vi": "",
-      "status": "todo",
+      "vi": "hành lang.",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009cea",
       "file_offset": 40170,
       "source": "Network connection error.",
       "source_sha256": "91b69ccb4524526f39a86a284e8593bbc02353de0e090b30914ec359001e7296",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lỗi kết nối mạng.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9961,8 +9961,8 @@
       "file_offset": 40196,
       "source": "Network connection error.",
       "source_sha256": "91b69ccb4524526f39a86a284e8593bbc02353de0e090b30914ec359001e7296",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lỗi kết nối mạng.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9971,8 +9971,8 @@
       "file_offset": 40223,
       "source": "Data uploaded!",
       "source_sha256": "5bee8e153e9969965014d5744c43894e8f5e29783762e3400e5d37caa7b7bea7",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã tải dữ liệu lên!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9981,8 +9981,8 @@
       "file_offset": 40238,
       "source": "# of identical rooms increased!",
       "source_sha256": "736788b4e82f338750008f7f121e0b12c48d64cbc088ef418751d5533ea2af5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã tăng số phòng cùng loại!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -9991,8 +9991,8 @@
       "file_offset": 40270,
       "source": "x 2　→　x 3",
       "source_sha256": "c49755af659ae9634b9bbb8af83684d692b2532d213ce3af694ae50b5437a0d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "x 2　→　x 3",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10001,8 +10001,8 @@
       "file_offset": 40286,
       "source": "# of identical rooms increased!",
       "source_sha256": "736788b4e82f338750008f7f121e0b12c48d64cbc088ef418751d5533ea2af5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã tăng số phòng cùng loại!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10011,8 +10011,8 @@
       "file_offset": 40318,
       "source": "x 3　→　x 6",
       "source_sha256": "f7804ab77c81e50803bc75f11c34949db7095324226f0ab7ef10a06a4b6bddd7",
-      "vi": "",
-      "status": "todo",
+      "vi": "x 3　→　x 6",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10021,8 +10021,8 @@
       "file_offset": 40335,
       "source": "# of identical rooms increased!",
       "source_sha256": "736788b4e82f338750008f7f121e0b12c48d64cbc088ef418751d5533ea2af5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã tăng số phòng cùng loại!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10031,8 +10031,8 @@
       "file_offset": 40367,
       "source": "x 6　→　x 9",
       "source_sha256": "d491aedb06b3703d61ef048e0c276d0ff5d2aac806dfcbdf938cbe5812065d4a",
-      "vi": "",
-      "status": "todo",
+      "vi": "x 6　→　x 9",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10041,8 +10041,8 @@
       "file_offset": 40383,
       "source": "Rare Folk captured!",
       "source_sha256": "717fc81fc1e91f93a5044c6439e3232037c9c2c3ae2177b4f492fce209035478",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thu phục Folk hiếm!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10051,8 +10051,8 @@
       "file_offset": 40403,
       "source": "Rare Folk captured!",
       "source_sha256": "717fc81fc1e91f93a5044c6439e3232037c9c2c3ae2177b4f492fce209035478",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã thu phục Folk hiếm!",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10061,8 +10061,8 @@
       "file_offset": 40423,
       "source": "Room discarded. You can't hold any more.",
       "source_sha256": "847b1dad8f2b70b36d566feb983bf37572a296fad4b3c5b76aa03601b546fb74",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã bỏ phòng. Không thể giữ thêm.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10071,8 +10071,8 @@
       "file_offset": 40464,
       "source": "Room discarded. You can't hold any more.",
       "source_sha256": "847b1dad8f2b70b36d566feb983bf37572a296fad4b3c5b76aa03601b546fb74",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã bỏ phòng. Không thể giữ thêm.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10081,8 +10081,8 @@
       "file_offset": 40505,
       "source": "Room discarded. You can't hold any more.",
       "source_sha256": "847b1dad8f2b70b36d566feb983bf37572a296fad4b3c5b76aa03601b546fb74",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã bỏ phòng. Không thể giữ thêm.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10091,8 +10091,8 @@
       "file_offset": 40546,
       "source": "Room discarded. You can't hold any more.",
       "source_sha256": "847b1dad8f2b70b36d566feb983bf37572a296fad4b3c5b76aa03601b546fb74",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã bỏ phòng. Không thể giữ thêm.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10101,8 +10101,8 @@
       "file_offset": 40587,
       "source": "Boost discarded. You can't hold any more.",
       "source_sha256": "d4478fabae75e0e64ab3974a03a34584cdf4340b0f60bc35f6978584f1db1b56",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã bỏ vật phẩm tăng cường. Không thể giữ thêm.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10111,38 +10111,38 @@
       "file_offset": 40631,
       "source": "This mode will not be playable ",
       "source_sha256": "b45b717ecff5adec6d5fe06ee82280b007f4015d24ff2128698a6c02a380dc3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không thể chơi chế độ này ",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009ed7",
       "file_offset": 40663,
       "source": "until Chapter 1 in the main",
       "source_sha256": "06eaf9a6747f0b9550708979b7dc1a27913b55c166d8aee08309a1fb74797282",
-      "vi": "",
-      "status": "todo",
+      "vi": "cho đến khi hoàn thành Chương 1 của",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009ef3",
       "file_offset": 40691,
       "source": "game is cleared.",
       "source_sha256": "f4dc81c45078b98222e8d87716e558d633bb96ba5c581b8089b13510f50919f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "trò chơi chính.",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009f04",
       "file_offset": 40708,
       "source": "Network connection error.",
       "source_sha256": "91b69ccb4524526f39a86a284e8593bbc02353de0e090b30914ec359001e7296",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lỗi kết nối mạng.",
+      "status": "draft",
       "source_review": "verified_menu",
       "notes": ""
     },
@@ -10151,20 +10151,20 @@
       "file_offset": 40734,
       "source": "Check your password or network",
       "source_sha256": "70fcf05d32601b6ef9bfffefcba7c8e467258a2dda2bae53ddd5a0d4d08a471a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hãy kiểm tra mật khẩu hoặc",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     },
     {
       "id": "lang_en.bi5_@00009f3d",
       "file_offset": 40765,
       "source": "connection.",
       "source_sha256": "1b33ea86c997922848e845841d9b20d52d8426de945d7ca7dbbce97fd99c9694",
-      "vi": "",
-      "status": "todo",
+      "vi": "kết nối mạng.",
+      "status": "draft",
       "source_review": "verified_menu",
-      "notes": ""
+      "notes": "Mảnh câu bị chia theo ID, dịch theo mảnh kề; cần xác minh thứ tự ghép trong game."
     }
   ]
 }

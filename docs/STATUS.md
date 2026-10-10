@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 984 mục menu `draft` (134 mục mẫu + 850 mục từ 11 lượt ngày 10/10/2026); còn 10.902 `todo` toàn bộ catalog (trong đó 32 menu).
-Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft` (134 mẫu + 882 mục qua 12 lượt), 0 `todo` menu; 22 mục CMC `draft` và 146 candidate talk tk100 `draft`. Còn 10.702 `todo` toàn bộ 158 catalog.
+Đã bắt đầu dịch 22 câu CMC và 146 ứng viên talk tk100. Speaker/metadata/parser/repacker chưa được xác minh; các bản dịch hiện chỉ là draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -123,3 +123,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nội dung: tạo và tải hầm ngục, chơi thử, tính điểm, màn xếp hạng, mạng/PSN, giới hạn phòng/vật phẩm, popup quản lý hầm ngục và các nhãn giao diện. Nhiều câu tiếng Anh được tách thành fragment, đã dịch có xét chuỗi liên tiếp mà không sửa source hay offset.
 - QA bốn nhóm ~50: 200 mục thay đúng vi/status/notes; source, id, offset, hash, source_review và thứ tự bất biến; kiểm tra Unicode NFC, newline, placeholder và ký hiệu gamepad/trademark; kiểm tra source trùng không xung đột. Font Merienda V3 giữ nguyên.
 - Chưa chạy RPCS3/cài patch, mọi mục vẫn draft; CI Windows/Linux chạy validator + unittest sau commit. Lượt 012 sẽ dịch nốt 32 mục menu tại `lang_en.bi5_@00009bd3`, sau đó chuyển sang CMC/talk.
+
+## Lượt 012 — 10/10/2026 (200 mục mới)
+
+- Dịch nốt 32 menu `todo→draft`, hoàn thành 1.016/1.016 mục menu nháp; QA sửa một fragment `corridor item.` cũ do nguồn lặp trong các cảnh có nghĩa khác nhau.
+- Thêm 22 câu CMC (LCmc000 và LCmc002) và 146 ứng viên trong talk tk100. Nhiều câu bị quét thành mảnh có newline đầu hoặc tiền tố như `$`, `(`, `*`: đã giữ nguyên ở vi và notes, không tự đặt người nói.
+- Tổng thêm 200 mục `draft`; còn 10.702 `todo` toàn bộ catalog. Giữ dữ liệu nguồn/ID/hash/offset/thứ tự/source_review, kiểm tra NFC/newline/token và source trùng trong từng catalog. Không sửa Merienda V3.
+- Chưa thử hiển thị RPCS3; chưa có repacker talk/cmc. CI Windows/Ubuntu chạy validator + unittest sau commit. Lượt tới ở `talk/en/tk100_en.bin_@00008818`.

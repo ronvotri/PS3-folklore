@@ -11,110 +11,110 @@
       "file_offset": 12383,
       "source": "(Perhaps you can\nfind your mother.",
       "source_sha256": "2ec4b84931c0f638ab9f76df0d7c1e95a7c383514ef77d8d1de7a8d28ea69f78",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Biết đâu bạn sẽ\ntìm thấy mẹ mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp. Giữ dấu mở đầu nghi là ký hiệu điều khiển."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@00003088",
       "file_offset": 12424,
       "source": "Who are you?!?",
       "source_sha256": "a09d661cffeb4f979b94179fc9a86b605ecf1401814b924d2d019fe4257fec9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ngươi là ai?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@000030a3",
       "file_offset": 12451,
       "source": "$You're not alone\nUwee hee hee.",
       "source_sha256": "1ad0aa903eac802e50ad2c3420035b58d2ccfac281d1656f1ac97c3f6214a223",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ngươi đâu có một mình!\nHí hí hí.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp. Giữ dấu mở đầu nghi là ký hiệu điều khiển."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@000030fb",
       "file_offset": 12539,
       "source": "(I thought I had\nfinally found you.",
       "source_sha256": "a5a1c606c83b0a689c4ebb63eb1bb98fe7f48576a779bd60c80ba73ae97265c6",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi cứ tưởng\ncuối cùng đã tìm thấy mẹ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp. Giữ dấu mở đầu nghi là ký hiệu điều khiển."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@00003124",
       "file_offset": 12580,
       "source": "It's always the same.",
       "source_sha256": "592c931452c88a13c8dc0541225206a659064e444d8e97a861a39d550163dc83",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lần nào cũng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@00003140",
       "file_offset": 12608,
       "source": "A glimpse of hope",
       "source_sha256": "14d60af0e28c0936638e1589037513c15fb6cb6fbd76e262b11472581303da53",
-      "vi": "",
-      "status": "todo",
+      "vi": "Một tia hy vọng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@00003157",
       "file_offset": 12631,
       "source": " that quickly fades away.",
       "source_sha256": "2080390e9c7adc851754e8db357a7b27692ee10efaef0b9818bbd4493041a09d",
-      "vi": "",
-      "status": "todo",
+      "vi": " rồi lại vụt tắt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@00003177",
       "file_offset": 12663,
       "source": "(... Mother...\nJust what happened?",
       "source_sha256": "887656fb8b17b20b89b6772dbb9198d9616eb6135d9510d9e21b38b1b055e9a0",
-      "vi": "",
-      "status": "todo",
+      "vi": "(... Mẹ ơi...\nRốt cuộc đã xảy ra chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp. Giữ dấu mở đầu nghi là ký hiệu điều khiển."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@000031a0",
       "file_offset": 12704,
       "source": "What should I do?",
       "source_sha256": "00eeea79a031c9a27a035249640921458205679b2fc049169dbe946541fa317c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi phải làm sao đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@000031c8",
       "file_offset": 12744,
       "source": "Who brought me here?",
       "source_sha256": "8cd720212f87c7dc6f17d5adec2708ebf34050867af4532c0d147949c480e9fa",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ai đã đưa tôi tới đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     },
     {
       "id": "cmc/en/LCmc002_en.bi5_@000033cc",
       "file_offset": 13260,
       "source": "Where am I?",
       "source_sha256": "4575d199b2825396115b28a8dbfc4c15e4c01cedd69a91be829f6515a18798b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây là đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC chưa xác minh speaker, tiền tố và thứ tự câu; chưa có parser/repacker, chỉ là bản dịch nháp."
     }
   ]
 }

@@ -2,20 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục khoảng 200 mục `todo` theo thứ tự trong mỗi lượt (hoặc hết phần menu nếu còn ít hơn),
-   bắt đầu từ `lang_en.bi5_@00009bd3`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
-   118 cặp menu mẫu cũng ở menu_vi.json.
-   Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
-   phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
-2. catalogs/cmc/LCmc000_en.bi5_.json rồi LCmc002_en.bi5_.json: cảnh có câu tìm
-   mẹ. Rà candidate và tiền tố trước; chưa suy người nói.
-3. catalogs/talk/tk100_en.bin_.json: câu tương tác/hội thoại, xem các mục lân cận.
-4. Tiếp tục catalog còn lại theo index.json. Tên/số tệp chưa được xác minh là
-   thứ tự chương truyện. Các đường dẫn catalog đều dưới translations/.
+1. `translations/catalogs/talk/tk100_en.bin_.json`: tiếp tục từ `talk/en/tk100_en.bin_@00008818` (`. We won't attack you.`), còn 168 `todo` trong tệp. Nhiều candidate là mảnh câu thiếu speaker/đầu câu: tiếp tục dịch nháp có ghi chú, nghiên cứu parser/repacker trước khi duyệt.
+2. `translations/catalogs/cmc/LCmc000_en.bi5_.json` và `LCmc002_en.bi5_.json`: đã dịch 22 candidate; cần xác minh ký hiệu điều khiển và người nói trước QA.
+3. Menu `translations/catalogs/menu/lang_en.bi5_.json`: đã đủ 1.016/1.016 mục `draft`; không dịch lại trừ khi có lỗi cụ thể. Cần QA font/glyph/tràn khung trong RPCS3 local.
+4. Các catalog talk/cmc khác theo `translations/index.json`; ID tệp không đồng nghĩa thứ tự chương.
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 984 mục `draft` (134 mẫu V3 + 850 mục qua 11 lượt), còn 32 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu đã đủ 1.016/1.016 mục `draft` (134 mẫu V3 + 882 mục dịch qua 12 lượt); không còn menu `todo`. CMC: 22 mục `draft`; talk tk100: 146 mục `draft`, đều chưa review/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -135,3 +129,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: chỉ đổi vi/status/notes của đúng 200 mục; bất biến id/source/sha256/offset/source_review/order; NFC, newline, mã đặc biệt %s, △○×□, ™/® và khoảng trắng đầu/fullwidth; không có source trùng dịch xung đột. Không thay font V3 hoặc ROM/binary/payload.
 - Chưa test trong RPCS3; các mục vẫn draft. Chạy validator/unittest Windows và Ubuntu qua GitHub Actions sau commit.
 - **Tiếp theo:** `lang_en.bi5_@00009bd3` (`Play current Dungeon?`), còn đúng 32 mục menu; hoàn tất menu, rồi bắt đầu kiểm tra CMC/talk như hàng đợi.
+
+## Lượt 012 — 10/10/2026 (200 mục mới: menu + CMC/talk)
+
+- **Menu:** 32 mục cuối (`lang_en.bi5_@00009bd3` → `lang_en.bi5_@00009f3d`) chuyển `todo→draft`; **1.016/1.016 menu hoàn tất ở mức nháp**. Sửa một bản dịch cũ ở `@0000943b` (fragment `corridor item.`) thành trung tính `hành lang.` do source lặp trong ngữ cảnh khác.
+- **CMC:** 11 câu `LCmc000` + 11 câu `LCmc002` được dịch nháp; giữ tiền tố `$`/`(` và newline, không tự gán người nói.
+- **Talk:** 146 candidate đầu trong `tk100_en.bin_` (`talk/en/tk100_en.bin_@00001158` → `talk/en/tk100_en.bin_@00008727`) được dịch nháp; nhiều câu chỉ là mảnh ASCII NUL, chưa thể xác minh speaker/trật tự nên ghi notes ở từng mục.
+- Tổng 200 mục `todo→draft` (32+22+146), cộng 1 chỉnh sửa bản dịch cũ có lý do. Kiểm tra ID/source/sha/offset/source_review/order bất biến; Unicode NFC, số newline, ký hiệu đặc biệt và bản dịch nguồn trùng. Font V3 không đổi, không commit ROM/ISO/payload.
+- **Chưa kiểm thử game:** menu cần kiểm tra bố cục và đủ glyph; CMC/talk hiện không có parser/repacker và không thể trực tiếp tích hợp vào game. Sau push CI Windows/Ubuntu chạy validator và unittest.
+- **Tiếp theo:** `talk/en/tk100_en.bin_@00008818` (`. We won't attack you.`), sau đó làm các ứng viên hội thoại tiếp theo và nghiên cứu ghép fragment.
