@@ -11,890 +11,890 @@
       "file_offset": 4440,
       "source": "To Netherworld",
       "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@000011b8",
       "file_offset": 4536,
       "source": "Use item",
       "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dùng vật phẩm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001214",
       "file_offset": 4628,
       "source": "Memo pad",
       "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sổ ghi chú",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@000014d4",
       "file_offset": 5332,
       "source": "Ellen's hut",
       "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Túp lều của Ellen",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001530",
       "file_offset": 5424,
       "source": "Keats' base",
       "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
-      "vi": "",
-      "status": "todo",
+      "vi": "Căn cứ của Keats",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000158c",
       "file_offset": 5516,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@000015ec",
       "file_offset": 5612,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001650",
       "file_offset": 5712,
       "source": "Pub owner's home",
       "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà chủ quán rượu",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@000016b4",
       "file_offset": 5812,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001714",
       "file_offset": 5908,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001777",
       "file_offset": 6007,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000017e4",
       "file_offset": 6116,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001844",
       "file_offset": 6212,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001924",
       "file_offset": 6436,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001984",
       "file_offset": 6532,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@000019e0",
       "file_offset": 6624,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001a44",
       "file_offset": 6724,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001aa8",
       "file_offset": 6824,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001b08",
       "file_offset": 6920,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001c00",
       "file_offset": 7168,
       "source": "\nI could hear what I wanted.",
       "source_sha256": "6ebb0063dba4b921390708f2730c2b5f060ddd5c574478d73efbc07f8b1aef4a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi nghe được điều mình muốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. 'what I wanted' chưa rõ muốn nghe ai/cái gì; giữ nghĩa chung."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001c84",
       "file_offset": 7300,
       "source": "\nknows anything, I'm out of luck.",
       "source_sha256": "033a6d4a28f5c794f6abeee003e9e9926b6c49a53596df57e6e6208c0f9035f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnếu chẳng ai biết gì, tôi đành bó tay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Câu bị cắt đầu câu, chủ thể biết chuyện không xác định."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001d4f",
       "file_offset": 7503,
       "source": "(Was someone here while I was out?",
       "source_sha256": "feab79dff0a9e48a128e7dde8a494c8caec9978369140b3a4c6b98a1e5fe0026",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Có ai đến đây lúc tôi đi vắng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Giữ tiền tố nguồn nghi control marker."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001e1c",
       "file_offset": 7708,
       "source": "What's this!?!",
       "source_sha256": "5a67a2c95aecb1ef5ccd56be0f9fa9eb3fefced66bec1087109316985051a37a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái gì thế này!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001f66",
       "file_offset": 8038,
       "source": "\nWAITING FOR YOU. - HARRIET",
       "source_sha256": "a7d605fbec6fb0911601d4036512d1675165f3f947dbed0bc3a9fbd6adfd6a8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐANG ĐỢI BẠN. - HARRIET",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Nội dung ghi chú với chữ hoa, giữ tên người viết HARRIET; không tự thêm lời nhắn."
     },
     {
       "id": "talk/en/tk104_en.bin_@00001ff2",
       "file_offset": 8178,
       "source": "\ndecided to talk, eh?",
       "source_sha256": "4add009e4dbab89310dcc3a1d031c38a4f8bb43ca0568387b3549a8b42e93300",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuối cùng cũng chịu nói chuyện rồi hả?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000020cf",
       "file_offset": 8399,
       "source": "\nand the scholar does too.",
       "source_sha256": "8ac018817b60ef6fb4ea9223d1c7e512fbc7946e6e94dc4612feaef3796fd4a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà học giả ấy cũng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Scholar chưa chắc là Keats, không tự gán tên."
     },
     {
       "id": "talk/en/tk104_en.bin_@000021b5",
       "file_offset": 8629,
       "source": "\nThis thing looks really old.",
       "source_sha256": "19c00bdd547d95e956e9fd90e3de101e7fdc4750297d815212d2892f0dadd163",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThứ này trông cổ lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000248c",
       "file_offset": 9356,
       "source": "\nto death for your boss...",
       "source_sha256": "2f9d2e55722268e59e241a9526f8bb7184352a7d002911df6adcef176b2eeb3c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến chết vì ông chủ của bạn...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. 'to death for your boss' là mảnh câu mơ hồ, chưa rõ ai chết hay ai là cấp trên."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000250c",
       "file_offset": 9484,
       "source": "\nof brass.",
       "source_sha256": "7e990fd3177b17baac4ac5807d1e4304632dce2d44ff616495f7743807e8bca9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbằng đồng thau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Brass là hợp kim đồng thau, không phải đồng nguyên chất."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000259c",
       "file_offset": 9628,
       "source": "\nit isn't a fake?",
       "source_sha256": "9e7b028740f2d24c5bf304ad57508c7347b5cb86fd2451dd8209cabd73173904",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc không phải đồ giả chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000026d1",
       "file_offset": 9937,
       "source": "\nto time.",
       "source_sha256": "3cf5dfa7e14db952b8bbb25c6017fea8feb00651bc0ba40d74d619a922208657",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthỉnh thoảng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002720",
       "file_offset": 10016,
       "source": "Anachronisms galore.",
       "source_sha256": "c4612764e03b4f11ce33898c2477dbab390a063be4f58dd26ef9fd237a7dcb00",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lắm thứ lạc thời thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Anachronisms chỉ sự sai lệch niên đại, dịch theo giọng nhận xét; cần đối chiếu vật phẩm."
     },
     {
       "id": "talk/en/tk104_en.bin_@000027cc",
       "file_offset": 10188,
       "source": "\ndo next?",
       "source_sha256": "796dfd50a01427fbb4c7abcc990e01a7319bcd5e23da4f20ab9e8e635db73759",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm gì tiếp đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000283b",
       "file_offset": 10299,
       "source": "\nas to how to use it...",
       "source_sha256": "6bb4c4903ddddbe140289887b4fe53082a9d2ca15e9e6af566dc8eee9d8f4a5e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề cách sử dụng nó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000293d",
       "file_offset": 10557,
       "source": " memento.",
       "source_sha256": "f6c5d5930899503035af5d001df5904cf6e6ba2589e845aeda8a4478e603db77",
-      "vi": "",
-      "status": "todo",
+      "vi": " kỷ vật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Memento dịch kỷ vật theo glossary/ngữ cảnh cánh cửa, không thêm mục đích sử dụng."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002a12",
       "file_offset": 10770,
       "source": "* Explore a bit more",
       "source_sha256": "1e1471ee8de9831413b9d68d77d5080538f67fe16e4f463446f16f478671b77a",
-      "vi": "",
-      "status": "todo",
+      "vi": "* Tìm hiểu thêm chút nữa",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Giữ tiền tố nguồn nghi control marker."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002af0",
       "file_offset": 10992,
       "source": "What is this place?",
       "source_sha256": "4f4ea439797e3337205395d215bbbb4bba99d9367d8a4591a53f4963b70b45f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây là nơi nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002bf7",
       "file_offset": 11255,
       "source": "\npeople's thoughts on death.",
       "source_sha256": "4193d83f3fa960ddf6eb9427829076d09c0c8d0ba149121f0c2d0568bf32ca8c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy nghĩ của con người về cái chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002c9d",
       "file_offset": 11421,
       "source": "\nmodern people.",
       "source_sha256": "d4ae51a7a6edf83939669d4befc47c6a05406709cc8f0037535cafe5521e6b5a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười thời nay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002d4b",
       "file_offset": 11595,
       "source": "\nWhat happens after death?",
       "source_sha256": "b62e2a6f2e9771fc88aa5424824df005419900c0100f8c668f976d0827ba59c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSau khi chết sẽ ra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002dc7",
       "file_offset": 11719,
       "source": "\nliving that cannot be answered.",
       "source_sha256": "8bd267a0b404304721de4f5a1dcce332ae8f3d7a84510b1745658c5c1b3128b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười sống không thể trả lời.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002e58",
       "file_offset": 11864,
       "source": "\nborn from such questions.",
       "source_sha256": "16bc74fdd01fdf5135b132acb3649f0282c07962c9a0f41458a8241ee66d97b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược sinh ra từ những câu hỏi ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002ed6",
       "file_offset": 11990,
       "source": "\nhome base.",
       "source_sha256": "4acf194e4226c74fb844de108fe3878cd59b7dc30d9384a15ee405c9819bfcb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncăn cứ chính.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Home base có thể là nơi trú ẩn/điểm tập kết, cần xem toàn câu."
     },
     {
       "id": "talk/en/tk104_en.bin_@00002f44",
       "file_offset": 12100,
       "source": "\nthan you usually do.",
       "source_sha256": "e7ed8488b03dd2d6f626ed9799e00f6002cda091eaa66e659d0fd30e9c042b35",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn bình thường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003164",
       "file_offset": 12644,
       "source": "\nrooms to call them forth.",
       "source_sha256": "888c287c4232570cc20f11246ad4fbcb1e2d1ef2ecd8668c48083cae9e71793d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững căn phòng để triệu gọi họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000032f7",
       "file_offset": 13047,
       "source": "\nwhile I have the chance.",
       "source_sha256": "31e126d833aa2a234e8b4eaad06547bb17e594341559f805e29bb608ca14e786",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi tôi còn cơ hội.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000348d",
       "file_offset": 13453,
       "source": "\nstanding next to him.",
       "source_sha256": "2b2b8af7b8909e0346f3f1902e2c24bcebca25fc70643196c54a43c3614f81ed",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđứng bên cạnh anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. 'him' chưa rõ là ai, không tự gán thân phận."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000352f",
       "file_offset": 13615,
       "source": "\nyear to live.",
       "source_sha256": "508940d17889cf843db06e621036b9319074ead155b65d6ab9f92e6e3cc89330",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột năm để sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Fragment 'year to live' thiếu con số/định ngữ trước; 'một năm' là tạm, rà lại khi có parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000035a0",
       "file_offset": 13728,
       "source": "\nas to die that suddenly!",
       "source_sha256": "6d04515c95864426f1fe74828c8094cd0c5d0945706e66469761074814795dd3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể rồi chết đột ngột như thế!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Nguồn chỉ là vế cuối về cái chết đột ngột, chưa rõ ai qua đời."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003625",
       "file_offset": 13861,
       "source": "\nthat photo you took?",
       "source_sha256": "a8233e277375e691a161c6172342faeecc59f4d4dc4d040f9468c9ac3ebb2587",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbức ảnh bạn đã chụp sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000036c0",
       "file_offset": 14016,
       "source": "\nfor you, since you'd been there.",
       "source_sha256": "0de3fd7e7010d5bae70907eaf34842dd5f86f67e10261ea06363ca1781f2009f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn, vì bạn đã có mặt ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000037b3",
       "file_offset": 14259,
       "source": "\ncovered in blood.",
       "source_sha256": "538a265ce3c4a8a08674d46a4a32b23a36f001c850c5767a61ac7f885fc4a440",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndính đầy máu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Nguồn có 'covered in blood', không tự xác định ai/cái gì dính máu."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000382c",
       "file_offset": 14380,
       "source": "\nThe one who can see Faerys.",
       "source_sha256": "8132a8b6cf7568114a90df6231423f92881acbef9a4f963d606f08a8a2a8e92f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNgười có thể nhìn thấy các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000388f",
       "file_offset": 14479,
       "source": "(You should've photographed that!",
       "source_sha256": "feef47b763a3ddeb234b767c381677d23fad5a202b31230a4c04511923169072",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đáng lẽ bạn phải chụp lại cảnh đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Giữ tiền tố nguồn nghi control marker."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003915",
       "file_offset": 14613,
       "source": "\nbare to watch any longer.",
       "source_sha256": "0401ecda9aebcec973fcca592fca9462197c52b567d5e419f620e477df8ca3cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thể nhìn tiếp được nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Nguồn 'bare to watch' có thể là typo của 'bear to watch'; tạm dịch không thể nhìn tiếp, rà bản gốc."
     },
     {
       "id": "talk/en/tk104_en.bin_@000039b3",
       "file_offset": 14771,
       "source": ", lying dead...",
       "source_sha256": "88309e5b17c97ef9ef40f8a2b9e3184246bcda3cafbdf4a17de984625b14d0ab",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nằm chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003a47",
       "file_offset": 14919,
       "source": " is saved.",
       "source_sha256": "a8f6fd282fa5c049dd3c725e021e146e5c73ad4a7485bc3e174508b4c518461e",
-      "vi": "",
-      "status": "todo",
+      "vi": " được cứu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. 'is saved' không rõ người hoặc vật được cứu."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003ab1",
       "file_offset": 15025,
       "source": "\nhappened there...",
       "source_sha256": "f2de9ea5ccb42c5050d2870827f7bef1203143bb07f9d668b9b59a6ea59a412f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xảy ra ở đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003b4c",
       "file_offset": 15180,
       "source": "\nhad their protection.",
       "source_sha256": "8b0b42f37de117d2e7ba5e3f1d28d61d0ffbd6493dfdd57fb476abc322ff9691",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược họ che chở.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. 'had their protection' chưa biết 'their' là những ai."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003be2",
       "file_offset": 15330,
       "source": "\nworld, at least.",
       "source_sha256": "c0d4fc8d6c908a82e9d92d9dbc4a244b04ce739b980846f16b3425e37df1a1f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthế giới, chí ít là vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Đoạn chỉ có 'world, at least', thiếu vế chính."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003c8d",
       "file_offset": 15501,
       "source": " stopped me.",
       "source_sha256": "eec76c861d524d5f5745472aac869a8caff6141c3565a42baebc00fd69a11b14",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã ngăn tôi lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003cfc",
       "file_offset": 15612,
       "source": "\nphoto was ripped?",
       "source_sha256": "2af8dab1c2bb573cc8f0a9fc3f5ed4e23855eedff87a15c7e51a8cdee1053d87",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbức ảnh đã bị xé sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003e18",
       "file_offset": 15896,
       "source": " who was killed.",
       "source_sha256": "35b6ae5fe55d702258d6d75e8e37e887b0af5b25bc4213a13238869d208272de",
-      "vi": "",
-      "status": "todo",
+      "vi": " người đã bị sát hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003e90",
       "file_offset": 16016,
       "source": "\nto happen...",
       "source_sha256": "2b0136ba981b41a0bd91072efab9497d4c25c8c98e0f0b9392d1e19052ff598c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. To happen là mảnh không đủ nghĩa, tránh thêm tình tiết."
     },
     {
       "id": "talk/en/tk104_en.bin_@00003f74",
       "file_offset": 16244,
       "source": "\ngive up on acting.",
       "source_sha256": "97e8bf51bbb31b13a2d8413570337e0a920a99ef58825cc31fc7712d05a66e6a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ bỏ diễn xuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Acting nhiều khả năng là nghề diễn xuất, nhưng có thể nghĩa hành động/giả vờ, cần xem cảnh."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004008",
       "file_offset": 16392,
       "source": "\ncomfort me.",
       "source_sha256": "046000dcd2b368bc9518b1d793506f3119e05fbdd8a3df863aab3500e182b826",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nan ủi tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004078",
       "file_offset": 16504,
       "source": "\nlistened to a fortune teller...",
       "source_sha256": "4b5b26406a892edcd80d981cae5bdd83eafb5670b80a15e7daa40b21fee96264",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã nghe lời thầy bói...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Fortune teller chưa rõ là thầy bói nữ hay nam; 'thầy bói' dùng khái quát."
     },
     {
       "id": "talk/en/tk104_en.bin_@000040fe",
       "file_offset": 16638,
       "source": "\nas I'd heard Faerys exist here.",
       "source_sha256": "208a9affa87fbb234a45094960d30e8db0d322929eb844c4366a923911debc99",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì tôi nghe nói ở đây có các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000041a9",
       "file_offset": 16809,
       "source": "\nexists in Doolin...",
       "source_sha256": "6a2b1e460ff80bd429a6e6455864e9ac6f6886d4580b8da9a799d19795cf9c39",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntồn tại ở Doolin...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004248",
       "file_offset": 16968,
       "source": "\nwho holds the key to all this.",
       "source_sha256": "568779b3484c63eb5f7ae2343eeea70fba67561c756bac755898c4bff7d272f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười nắm giữ chìa khóa cho mọi chuyện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser. Holds the key có thể ẩn dụ nắm đầu mối; chưa suy là chiếc chìa khóa vật lý."
     },
     {
       "id": "talk/en/tk104_en.bin_@000042ca",
       "file_offset": 17098,
       "source": "\ndead for a long time...",
       "source_sha256": "017ec225e75b3062e272c5c93ad02f80b10bc4d8d0c90e473295c476567b67b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã chết từ lâu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004328",
       "file_offset": 17192,
       "source": "...but she wasn't.",
       "source_sha256": "ed0289b0697c4fcd8839ab553bfa22e3cb0db8ff670023767a5d75119c2b1d69",
-      "vi": "",
-      "status": "todo",
+      "vi": "...nhưng cô ấy thì không.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000439d",
       "file_offset": 17309,
       "source": "\nProtect her.",
       "source_sha256": "167f29a82ac60afb732bc5d9917332654cc2ea32afdbb676e52d6e90dd24617f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHãy bảo vệ cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004470",
       "file_offset": 17520,
       "source": "Yes, you do.",
       "source_sha256": "645aa65160c59fc0a9bdb6a8e3071ae802d7196fc1ac371c0d74ac7f6667cf75",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có, bạn có mà.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. 'Yes, you do' là lời phản hồi thiếu câu hỏi trước; ngôi xưng tạm, cần QA."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000454c",
       "file_offset": 17740,
       "source": "but I need your help...",
       "source_sha256": "b9ecff8fc750806b043fe6e76813a8b20b553a30500cc5ff368889cc28c06bc6",
-      "vi": "",
-      "status": "todo",
+      "vi": "nhưng tôi cần bạn giúp...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000464a",
       "file_offset": 17994,
       "source": "\neverything or not.",
       "source_sha256": "af3e60239451330f3a5e308c77e79f17ef33e45da5a7a3bca68db4149f98bff6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmọi chuyện hay không.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp mảnh hội thoại chưa có speaker và đoạn trước/sau; không suy nhân vật hoặc quan hệ. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000047d9",
       "file_offset": 18393,
       "source": "\nstanding next to him.",
       "source_sha256": "2b2b8af7b8909e0346f3f1902e2c24bcebca25fc70643196c54a43c3614f81ed",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđứng bên cạnh anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@0000487b",
       "file_offset": 18555,
       "source": "\nyear to live.",
       "source_sha256": "508940d17889cf843db06e621036b9319074ead155b65d6ab9f92e6e3cc89330",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột năm để sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@000048ec",
       "file_offset": 18668,
       "source": "\nas to die that suddenly!",
       "source_sha256": "6d04515c95864426f1fe74828c8094cd0c5d0945706e66469761074814795dd3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể rồi chết đột ngột như thế!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004971",
       "file_offset": 18801,
       "source": "\nthat photo you took?",
       "source_sha256": "a8233e277375e691a161c6172342faeecc59f4d4dc4d040f9468c9ac3ebb2587",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbức ảnh bạn đã chụp sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004a0c",
       "file_offset": 18956,
       "source": "\nfor you, since you'd been there.",
       "source_sha256": "0de3fd7e7010d5bae70907eaf34842dd5f86f67e10261ea06363ca1781f2009f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho bạn, vì bạn đã có mặt ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004aff",
       "file_offset": 19199,
       "source": "\ncovered in blood.",
       "source_sha256": "538a265ce3c4a8a08674d46a4a32b23a36f001c850c5767a61ac7f885fc4a440",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndính đầy máu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004b78",
       "file_offset": 19320,
       "source": "\nThe one who can see Faerys.",
       "source_sha256": "8132a8b6cf7568114a90df6231423f92881acbef9a4f963d606f08a8a2a8e92f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNgười có thể nhìn thấy các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004bdb",
       "file_offset": 19419,
       "source": "(You should've photographed that!",
       "source_sha256": "feef47b763a3ddeb234b767c381677d23fad5a202b31230a4c04511923169072",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đáng lẽ bạn phải chụp lại cảnh đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Giữ tiền tố nguồn nghi control marker."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004c61",
       "file_offset": 19553,
       "source": "\nbare to watch any longer.",
       "source_sha256": "0401ecda9aebcec973fcca592fca9462197c52b567d5e419f620e477df8ca3cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thể nhìn tiếp được nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004cff",
       "file_offset": 19711,
       "source": ", lying dead...",
       "source_sha256": "88309e5b17c97ef9ef40f8a2b9e3184246bcda3cafbdf4a17de984625b14d0ab",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nằm chết...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004d93",
       "file_offset": 19859,
       "source": " is saved.",
       "source_sha256": "a8f6fd282fa5c049dd3c725e021e146e5c73ad4a7485bc3e174508b4c518461e",
-      "vi": "",
-      "status": "todo",
+      "vi": " được cứu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004dfd",
       "file_offset": 19965,
       "source": "\nhappened there...",
       "source_sha256": "f2de9ea5ccb42c5050d2870827f7bef1203143bb07f9d668b9b59a6ea59a412f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xảy ra ở đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004e98",
       "file_offset": 20120,
       "source": "\nhad their protection.",
       "source_sha256": "8b0b42f37de117d2e7ba5e3f1d28d61d0ffbd6493dfdd57fb476abc322ff9691",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđược họ che chở.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Giữ nguyên bản dịch source trùng để thống nhất xưng hô/thuật ngữ; vẫn chỉ là candidate. Nguồn khuyết đầu hoặc giữa câu, cần ráp lời thoại bằng parser."
     },
     {
       "id": "talk/en/tk104_en.bin_@00004f2e",
