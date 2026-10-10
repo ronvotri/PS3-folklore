@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk100_en.bin_.json`: tiếp tục từ `talk/en/tk100_en.bin_@00008818` (`. We won't attack you.`), còn 168 `todo` trong tệp. Nhiều candidate là mảnh câu thiếu speaker/đầu câu: tiếp tục dịch nháp có ghi chú, nghiên cứu parser/repacker trước khi duyệt.
-2. `translations/catalogs/cmc/LCmc000_en.bi5_.json` và `LCmc002_en.bi5_.json`: đã dịch 22 candidate; cần xác minh ký hiệu điều khiển và người nói trước QA.
-3. Menu `translations/catalogs/menu/lang_en.bi5_.json`: đã đủ 1.016/1.016 mục `draft`; không dịch lại trừ khi có lỗi cụ thể. Cần QA font/glyph/tràn khung trong RPCS3 local.
-4. Các catalog talk/cmc khác theo `translations/index.json`; ID tệp không đồng nghĩa thứ tự chương.
+1. `translations/catalogs/talk/tk101_en.bin_.json`: tiếp tục từ `talk/en/tk101_en.bin_@000016b4` (`Harriet's home`), còn 439 ứng viên `todo` trong tệp. Rà các mảnh câu trước khi chuyển `draft` và không gán speaker từ thứ tự offset.
+2. `translations/catalogs/talk/tk100_en.bin_.json`: đã đủ 314/314 `draft`; `LCmc000`, `LCmc002`, `LCmc004` có 46/46 `draft`. Các ứng viên cần được parser xác minh trước khi nâng `source_review`.
+3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
+4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu đã đủ 1.016/1.016 mục `draft` (134 mẫu V3 + 882 mục dịch qua 12 lượt); không còn menu `todo`. CMC: 22 mục `draft`; talk tk100: 146 mục `draft`, đều chưa review/test.
+Menu đã đủ 1.016/1.016 `draft`; CMC 46 `draft` (LCmc000/002/004); tk100 314/314 `draft`; tk101 8/447 `draft`. Còn 10.502 mục `todo` trên 158 catalog. Tất cả hội thoại mới chỉ `draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -138,3 +138,13 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Tổng 200 mục `todo→draft` (32+22+146), cộng 1 chỉnh sửa bản dịch cũ có lý do. Kiểm tra ID/source/sha/offset/source_review/order bất biến; Unicode NFC, số newline, ký hiệu đặc biệt và bản dịch nguồn trùng. Font V3 không đổi, không commit ROM/ISO/payload.
 - **Chưa kiểm thử game:** menu cần kiểm tra bố cục và đủ glyph; CMC/talk hiện không có parser/repacker và không thể trực tiếp tích hợp vào game. Sau push CI Windows/Ubuntu chạy validator và unittest.
 - **Tiếp theo:** `talk/en/tk100_en.bin_@00008818` (`. We won't attack you.`), sau đó làm các ứng viên hội thoại tiếp theo và nghiên cứu ghép fragment.
+
+## Lượt 013 — 10/10/2026 (200 ứng viên talk/CMC)
+
+- 168 mục `todo → draft` còn lại trong `translations/catalogs/talk/tk100_en.bin_.json` (`talk/en/tk100_en.bin_@00008818` → `@000106cf`): **314/314 tk100 đã có bản dịch nháp**. Có ghi chú theo từng ID về những mảnh lời thoại bị cắt, ký hiệu chưa rõ và các tên riêng cần xác minh.
+- 24 mục CMC của `LCmc004_en.bi5_.json` (`@00003c70` → `@000040cc`): bản dịch tự nhiên hơn, giữ ký hiệu đầu `(`, `$`, `0`, `4`, `8`, dấu phẩy và ngắt dòng. Halflive/Faery giữ danh xưng.
+- 8 nhãn giao diện đầu tiên của `tk101_en.bin_` (`@00001158` → `@00001650`) dùng bản dịch thống nhất từ `tk100`; tiếp tục ở `@000016b4`.
+- **Tổng 200 mục mới** (168 + 24 + 8), toàn bộ dự án còn **10.502 `todo`**. QA: ID, source, hash, file_offset, source_review, order bất biến; chỉ vi/status/notes, Unicode NFC, số ngắt dòng, placeholder/tiền tố không mất; 0 source trùng có bản dịch mâu thuẫn trong tk100, tk101 hoặc giữa hai tệp.
+- Phân tích scanner `tools/catalog.py`: `candidate_runs` lấy ASCII dài ≥4 kết thúc NUL, không xác định bảng speaker hay đầy đủ câu; trong 314 ứng viên tk100 có 217 source bắt đầu bằng newline và 23 source bắt đầu bằng khoảng trắng. Xem `docs/DIALOGUE_CANDIDATE_AUDIT.md`. **Không** coi bản nháp là văn bản đã sẵn sàng repack.
+- Font Merienda V3, binary/ROM/ISO không đổi; chưa kiểm thử RPCS3. Sau commit chạy GitHub Actions trên Windows/Ubuntu (validator + unittest).
+- **Tiếp theo:** `talk/en/tk101_en.bin_@000016b4` và nghiên cứu parser dựa trên byte dữ liệu local trước khi tạo repacker.
