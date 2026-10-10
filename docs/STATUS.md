@@ -220,3 +220,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA chỉ sửa vi/status/notes; ID, English, source hash, offset, source_review, thứ tự, Unicode NFC, newline, control markers và bản Việt của cùng nguồn đều nhất quán. Mọi câu vẫn là ASCII NUL candidate, chưa xác minh speaker; ghi notes chỗ cần ráp cảnh.
 - Chưa có talk/cmc parser/repacker hoặc kiểm chứng RPCS3; không đụng Merienda V3, ISO/ROM/binary, không đánh dấu reviewed/tested.
 - Chuyển hàng đợi sang `talk/en/tk201_en.bin_@00001158`; CI validator/unittest Windows/Linux chạy sau push.
+
+## Lượt 024a — 11/10/2026 (50 mục đầu tk201)
+
+- `tk201` bắt đầu: 50/496 bản nháp (19 trùng nguồn đã dịch, 31 mới), còn 446 todo. Toàn repo **4.665 draft / 11.886**, còn **7.221 todo**.
+- QA metadata nguồn bất biến, NFC, newline, prefix/placeholder và bản dịch nhất quán; 31 mảnh thoại mới vẫn cần đối chiếu speaker/quan hệ sau khi có parser, đặc biệt `brother` có khả năng chỉ anh hoặc em trai. Chỉ thay vi/status/notes.
+- Chưa sửa Merienda V3 hoặc đóng gói talk/cmc, chưa thử RPCS3. Sau push CI Windows/Linux validator + unittest.
+- Lượt tiếp bắt đầu `talk/en/tk201_en.bin_@00003514`.

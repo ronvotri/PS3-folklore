@@ -260,3 +260,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA cấu trúc trước commit: chỉ `vi/status/notes` thay đổi trong 180 mục; ID, source, SHA-256, offset, source_review, thứ tự giữ nguyên; NFC/newline/placeholder/tiền tố không thất lạc; 0 xung đột với bản Việt của nguồn trùng tk100–105. Chưa có parser/repacker dialogue hay thử RPCS3; giữ `source_review=candidate`, `status=draft` và Merienda V3 không đổi.
 - Tổng **4.615/11.886 draft**, còn **7.271 todo** trong dữ liệu trích xuất; không phải tỷ lệ tiếng Việt đã tích hợp trong game.
 - **Tiếp theo:** `talk/en/tk201_en.bin_@00001158` (`To Netherworld`), tệp tk201 có 496 mục todo. GitHub Actions chạy validator/unittest sau commit.
+
+## Lượt 024a — 11/10/2026 (50 mục đầu tk201, commit an toàn)
+
+- Sau khi hoàn tất `tk200` và xác nhận CI lượt 023b **PASS**, bắt đầu `translations/catalogs/talk/tk201_en.bin_.json`.
+- Dịch **50 mục `todo→draft`** liên tiếp từ `talk/en/tk201_en.bin_@00001158` đến `talk/en/tk201_en.bin_@00003378`: **19** nhãn nguồn trùng tái sử dụng đúng bản đã thống nhất, **31** mảnh thoại mới dịch nháp. **tk201 hiện 50/496 draft, còn 446 todo**.
+- Nội dung: 19 nhãn cổng/địa điểm giữ nguyên tên Doolin, Ellen, Keats, Faery, Warcadia, Cõi âm; thoại về mẹ, bạo hành gia đình, vách đá, chuyện án mạng, bác sĩ và lễ vật. Giữ cách kể u tối, không tự suy speaker từ offset. `my brother` chưa biết anh/em: bản dịch tạm đã ghi notes để rà lại, không khóa xưng hô.
+- QA nội bộ: đúng 50 mục đầu, chỉ sửa vi/status/notes; ID/source/hash/offset/source_review/order bất biến, NFC/newline/dấu đầu/placeholder giữ nguyên; các nguồn trùng không mâu thuẫn. Chưa có parser/repacker và chưa test RPCS3; không đụng Merienda V3/ROM/binary.
+- Toàn bộ 158 catalog: **4.665/11.886 draft**, còn **7.221 todo** (chỉ phản ánh bản nháp của dữ liệu trích).
+- **Tiếp:** `talk/en/tk201_en.bin_@00003514` (`to that person while alive.`), tiếp dịch nháp theo đoạn và QA xưng hô, chạy GitHub Actions validator/unittest sau commit.

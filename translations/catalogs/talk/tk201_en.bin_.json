@@ -11,500 +11,500 @@
       "file_offset": 4440,
       "source": "To Netherworld",
       "source_sha256": "31047e4dfde7096822b81e4558414b170c52476a662002e7d325e7d954e9063f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@000011b8",
       "file_offset": 4536,
       "source": "Use item",
       "source_sha256": "1e14a7f3be8529c6c5278a143ede5899fbd7b36ebff711278415fbcb2329d69c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dùng vật phẩm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001214",
       "file_offset": 4628,
       "source": "Memo pad",
       "source_sha256": "e8cabc1263addcb4f1c6ceaa4ad71ef3586f3100a4929add7b424a22687024b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sổ ghi chú",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@000014d4",
       "file_offset": 5332,
       "source": "Ellen's hut",
       "source_sha256": "b804297570bb6ac12e84c75c57235a5d536fcbfbc67187b1e8864ad2ae795bb1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Túp lều của Ellen",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001530",
       "file_offset": 5424,
       "source": "Keats' base",
       "source_sha256": "650ce5dc059c33c133678b47b4afc5b1f44422ca2bcd451cad13c07b0841e071",
-      "vi": "",
-      "status": "todo",
+      "vi": "Căn cứ của Keats",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000158c",
       "file_offset": 5516,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@000015ec",
       "file_offset": 5612,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001650",
       "file_offset": 5712,
       "source": "Pub owner's home",
       "source_sha256": "13baec7700e17037c120847b3e608ea08c0c1a0d0fbde8c08e2474c2b5f03865",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà chủ quán rượu",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@000016b4",
       "file_offset": 5812,
       "source": "Harriet's home",
       "source_sha256": "c947e22870bb0f882a499bd0d2dcda343b9841eb9f25949f48acb7b1858e360e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Harriet",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001714",
       "file_offset": 5908,
       "source": "Dr. Lester's home",
       "source_sha256": "24f40081304e9b20a0cfc51275cc9c02ca3106f9cc4e977f1ad968154cf7709b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà bác sĩ Lester",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001777",
       "file_offset": 6007,
       "source": " Lighthouse Keeper's home",
       "source_sha256": "582f89c9cd85fa2829599c4386f2037ab4958f0652ce0e41ad5bd86f29979d82",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhà người gác hải đăng",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@000017e4",
       "file_offset": 6116,
       "source": "Suzette's home",
       "source_sha256": "0b5ee3dc5ed940d63b30a836bfa71c1a77022d1d0b361d595f426ac7702a6682",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà Suzette",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001844",
       "file_offset": 6212,
       "source": "O'Connell's home",
       "source_sha256": "b2410a562b6b474e9ebbbca0c4ebbb2f0eb55e6ec94c8fddc5e0e40f81609e8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhà O'Connell",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001924",
       "file_offset": 6436,
       "source": "To Faery Realm",
       "source_sha256": "521d1c5267b31396abe450cab13242748891a4663e2aa94f48db7ff107c92274",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Faery",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001984",
       "file_offset": 6532,
       "source": "To Warcadia",
       "source_sha256": "f424ff47b0309a3a0c129855b19bed7ef073ed62a817f88dfe5e9e0ce3401790",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Warcadia",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@000019e0",
       "file_offset": 6624,
       "source": "To Undersea City",
       "source_sha256": "718923e8c81c276b63948d9d06997bc2e3a41054906c41056246393d8c3b095f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Thành phố đáy biển",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001a44",
       "file_offset": 6724,
       "source": "To Endless Corridor",
       "source_sha256": "8023b694b0816038189f8c5b69a21e2612a8a8366cd11bb6ba5a6c5af28e6379",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Hành lang Vô tận",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001aa8",
       "file_offset": 6824,
       "source": "To Hellrealm",
       "source_sha256": "360c8e29d1cdf2b0c76be219f80af1f2cdbf5a9eab75662f638bc2044b3bda65",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Cõi Địa Ngục",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001b08",
       "file_offset": 6920,
       "source": "To Netherworld Core",
       "source_sha256": "5f9144dbe0f99c3bcee4957392c81bd666981ea97897c4dbf076e588e9661336",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến Lõi Cõi âm",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nhập nguyên bản Việt hóa nguồn trùng đã được soát ở catalog talk trước; chưa xác minh speaker/fragment."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001c19",
       "file_offset": 7193,
       "source": "\nthe cliff?",
       "source_sha256": "dc14151cd611850486383a15cb4eb7d8d39283329318b469e2309aa44779f7f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvách đá sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001d19",
       "file_offset": 7449,
       "source": "\nthis village...",
       "source_sha256": "4ebd651ef63f8a9ccfd84acabe95ef315ba48884911e2bac6235a093604a39cb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001e1d",
       "file_offset": 7709,
       "source": "\ncliff. She's in this village.",
       "source_sha256": "c4e6666c23a90a16eafa77996498aca05b5385e70f0f514d96960e9531a2aa43",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvách đá. Cô ấy đang ở ngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001e9a",
       "file_offset": 7834,
       "source": "\nlike to ask her some questions.",
       "source_sha256": "b83a2427bfcfacb95bea3367092b44f50aeab80d5131fdd272d8e2fa650edf59",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn hỏi cô ấy vài điều.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00001f78",
       "file_offset": 8056,
       "source": "My mother...",
       "source_sha256": "9f982545e7fc9360cee9eac63b18c21cdb4c16e2093158ad93f8c5fe2d81baa8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mẹ tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@000020c2",
       "file_offset": 8386,
       "source": "\nsaying I'd get killed.",
       "source_sha256": "5b0bd8b8606316207277429db754d0c28f87ec3e102055db2239003a7d448e6e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói rằng tôi sẽ bị giết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000213c",
       "file_offset": 8508,
       "source": "\nthe house for months...",
       "source_sha256": "0a874040d26ddd9e4989377aaeb077afd09a4dc44234324baa12abd47472cd4e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi nhà suốt nhiều tháng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@000021cc",
       "file_offset": 8652,
       "source": "\nwasn't him...",
       "source_sha256": "289157a85947a09e906438a216e8ec3e188dbcee5e026a16eba19a8e645aa377",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông phải người ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002239",
       "file_offset": 8761,
       "source": "\nkilled him, and beat me.",
       "source_sha256": "af1f0703d6da87f7b4ef2923f410d51867e3a0c12029b7afc4760fb64dfa155a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã giết người ấy rồi đánh tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002298",
       "file_offset": 8856,
       "source": "What made her that way?",
       "source_sha256": "51f307a5dab4761c0207a62685bff3e8898c223f666d6218a5bd7c2904439fce",
-      "vi": "",
-      "status": "todo",
+      "vi": "Điều gì khiến cô ấy thành ra như thế?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000023e4",
       "file_offset": 9188,
       "source": "\nvillage. What do you think?",
       "source_sha256": "d2dd8c6f04d019647abf3745a7b772a796d091f9c523c5a997d0eb5f54f5c40e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng. Nghĩ sao về chuyện này?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002474",
       "file_offset": 9332,
       "source": "\nmust have been in shock...",
       "source_sha256": "bd5e1fe9e3f6b711386dc1f4a852aaaa46ed43b7b8eaf4c5adba8fa79d1e432f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhẳn đã bị sốc lắm...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@000024f0",
       "file_offset": 9456,
       "source": "\neven having a funeral...",
       "source_sha256": "b2326b22c02c45334aa55c21142e898d7d9d23cd7a7ec2cb94756407473daef4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthậm chí còn tổ chức tang lễ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002581",
       "file_offset": 9601,
       "source": "\npeople would think...",
       "source_sha256": "8d8792d75d7e54ec8e81363064d575363bb604d856e3f25027fb759c5f073afa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmọi người sẽ nghĩ rằng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002609",
       "file_offset": 9737,
       "source": "\nthe cliff, and then ran away.",
       "source_sha256": "c9f18aa5e3db7425e58159f603e67f4d368b826330acd2aaa324c7f92a3aeb54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvách đá, rồi bỏ chạy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@000026a9",
       "file_offset": 9897,
       "source": "\nfrom this house, too.",
       "source_sha256": "8a83e7dc596478a0a8cec2324c385b48f9f7862afe3aa3352df654fe1b3bd3b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhỏi ngôi nhà này nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002717",
       "file_offset": 10007,
       "source": " Why would she kill him?!",
       "source_sha256": "fd6a32400c3057b24912427a131427c78e035c593ffbf3e3e5c87174f97942d1",
-      "vi": "",
-      "status": "todo",
+      "vi": " Sao cô ấy lại giết anh ta chứ?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002795",
       "file_offset": 10133,
       "source": "\nwas abusing my brother...",
       "source_sha256": "0849bda5a5bdf726aca0a7f5fd17ff9b797fbba113fba511f6a2044a9f5f4437",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã hành hạ anh trai tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh. Brother chưa rõ anh hay em trai; hiện dùng tạm 'anh trai' và cần sửa sau khi xác minh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000027f3",
       "file_offset": 10227,
       "source": " That fits, don't you think?",
       "source_sha256": "cc0135183b31910c1d7381b02166eb139c885d25ddff6f3bab2d39153ddfb026",
-      "vi": "",
-      "status": "todo",
+      "vi": " Có lý đấy chứ, phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002907",
       "file_offset": 10503,
       "source": " know the answers.",
       "source_sha256": "82528fc946b619be3d7eaabcd29e1566792b8f9041003f9146f1ed4227741b61",
-      "vi": "",
-      "status": "todo",
+      "vi": " biết câu trả lời.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002979",
       "file_offset": 10617,
       "source": "\nof your own parents...?",
       "source_sha256": "c9f7f5146e76722bc87f1cb94bfe6b8a5d307d4bcdf9163e691880f1358bf845",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề chính cha mẹ mình sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@000029f7",
       "file_offset": 10743,
       "source": "\nmother like mine.",
       "source_sha256": "7a58df2a80ce622069f303046d6b442880a00fd798fcd6015c6549c767a6b098",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười mẹ như mẹ tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002a81",
       "file_offset": 10881,
       "source": "\nhave had to my family...?",
       "source_sha256": "a6886906e69ae55f77414a0d2416f72dd26538e0d4d88cde23a5abd26a30f528",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xảy đến với gia đình tôi...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002b6c",
       "file_offset": 11116,
       "source": "Hmph. A detective, eh?",
       "source_sha256": "ef9800de60b339c333608ee1d067abe24bb4821b00a5bb52d3452822c1adcaa6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hừm. Thám tử cơ à?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002c73",
       "file_offset": 11379,
       "source": "\nmediums or something?",
       "source_sha256": "a4274f7681e7cdbcfdd78c03d88526e82499767afae4dbbafc70c3def239de17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười gọi hồn hay gì đó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00002dc3",
       "file_offset": 11715,
       "source": "\nit when he died.",
       "source_sha256": "8f17955d7599b599149001a245ef9cbc3c14c9519cc157617cd5b22fa21c540a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnó khi người ấy chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003044",
       "file_offset": 12356,
       "source": " at the",
       "source_sha256": "2d6d2873b08e2c5f709ade243893e42d2ad25df8317d41c958b79407db71a312",
-      "vi": "",
-      "status": "todo",
+      "vi": " ở",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt. Cần đối chiếu đại từ/quan hệ hoặc ngữ cảnh vì câu bị cắt mảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000031bc",
       "file_offset": 12732,
       "source": "\ntill nightfall.",
       "source_sha256": "4bf746af917573b10d85480b74348d33d9143ee16692fc305a02d9249d881ceb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho đến khi trời tối.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@000032c6",
       "file_offset": 12998,
       "source": " again!",
       "source_sha256": "07a19c59a82bb98aabccf19415d7335dafb194a6932099156ce2171a6f182240",
-      "vi": "",
-      "status": "todo",
+      "vi": " lần nữa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003313",
       "file_offset": 13075,
       "source": "$Just make an offering of it.",
       "source_sha256": "e353138dba26584f7a2174e8ae4e3eb5147fb8ca8326752203101a5d8c9fe124",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chỉ cần dâng nó làm lễ vật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003378",
       "file_offset": 13176,
       "source": "What will happen then?",
       "source_sha256": "e460827d55ac1b7d96d8ec8f82308081c37e0857673ad605f625888282838b06",
-      "vi": "",
-      "status": "todo",
+      "vi": "Rồi chuyện gì sẽ xảy ra?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL chưa có parser, chỉ dịch nghĩa nguồn xác nhận được; phải ráp cảnh và xác minh người nói trước khi duyệt."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003514",
