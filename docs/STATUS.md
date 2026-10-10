@@ -227,3 +227,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA metadata nguồn bất biến, NFC, newline, prefix/placeholder và bản dịch nhất quán; 31 mảnh thoại mới vẫn cần đối chiếu speaker/quan hệ sau khi có parser, đặc biệt `brother` có khả năng chỉ anh hoặc em trai. Chỉ thay vi/status/notes.
 - Chưa sửa Merienda V3 hoặc đóng gói talk/cmc, chưa thử RPCS3. Sau push CI Windows/Linux validator + unittest.
 - Lượt tiếp bắt đầu `talk/en/tk201_en.bin_@00003514`.
+
+## Lượt 024b — 11/10/2026 (100 mục tk201)
+
+- `tk201`: 100 mục liên tiếp **todo→draft** từ `talk/en/tk201_en.bin_@00003514` đến `talk/en/tk201_en.bin_@000087d1`; 2 bản trùng nguồn tái sử dụng, 98 lượt dịch nháp mới (có các mảnh lặp). Tệp đạt **150/496 draft**, còn **346 todo**. Toàn bộ 158 catalog: **4.765/11.886 draft**, **7.121 todo**.
+- Các đoạn gồm cô nhi viện, ký ức từ nhỏ, hải đăng, Faery, thư từ/án mạng, mẹ và cha, người chết, câu chuyện bị bạo hành. Đa số source là fragment ASCII NUL nên không tự suy người nói hoặc quan hệ nhân vật. Đánh notes nơi đại từ hoặc nghĩa cần ráp cảnh.
+- QA: chỉ vi/status/notes thay đổi, 100 ID theo đúng checkpoint; bảo toàn id/source/offset/hash/source_review/thứ tự, Unicode NFC, newline, ký hiệu đầu và placeholder; 0 xung đột khi câu nguồn trùng. Chưa có parser/repacker talk/cmc, chưa thử RPCS3, giữ Merienda V3/ROM/payload nguyên.
+- **Tiếp theo:** `talk/en/tk201_en.bin_@0000884d` (`every thing we see in our dreams?`). GitHub Actions validator/unittest được kích hoạt qua commit.

@@ -269,3 +269,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA nội bộ: đúng 50 mục đầu, chỉ sửa vi/status/notes; ID/source/hash/offset/source_review/order bất biến, NFC/newline/dấu đầu/placeholder giữ nguyên; các nguồn trùng không mâu thuẫn. Chưa có parser/repacker và chưa test RPCS3; không đụng Merienda V3/ROM/binary.
 - Toàn bộ 158 catalog: **4.665/11.886 draft**, còn **7.221 todo** (chỉ phản ánh bản nháp của dữ liệu trích).
 - **Tiếp:** `talk/en/tk201_en.bin_@00003514` (`to that person while alive.`), tiếp dịch nháp theo đoạn và QA xưng hô, chạy GitHub Actions validator/unittest sau commit.
+
+## Lượt 024b — 11/10/2026 (100 mục tk201)
+
+- `tk201`: 100 mục liên tiếp **todo→draft** từ `talk/en/tk201_en.bin_@00003514` đến `talk/en/tk201_en.bin_@000087d1`; 2 bản trùng nguồn tái sử dụng, 98 lượt dịch nháp mới (có các mảnh lặp). Tệp đạt **150/496 draft**, còn **346 todo**. Toàn bộ 158 catalog: **4.765/11.886 draft**, **7.121 todo**.
+- Các đoạn gồm cô nhi viện, ký ức từ nhỏ, hải đăng, Faery, thư từ/án mạng, mẹ và cha, người chết, câu chuyện bị bạo hành. Đa số source là fragment ASCII NUL nên không tự suy người nói hoặc quan hệ nhân vật. Đánh notes nơi đại từ hoặc nghĩa cần ráp cảnh.
+- QA: chỉ vi/status/notes thay đổi, 100 ID theo đúng checkpoint; bảo toàn id/source/offset/hash/source_review/thứ tự, Unicode NFC, newline, ký hiệu đầu và placeholder; 0 xung đột khi câu nguồn trùng. Chưa có parser/repacker talk/cmc, chưa thử RPCS3, giữ Merienda V3/ROM/payload nguyên.
+- **Tiếp theo:** `talk/en/tk201_en.bin_@0000884d` (`every thing we see in our dreams?`). GitHub Actions validator/unittest được kích hoạt qua commit.

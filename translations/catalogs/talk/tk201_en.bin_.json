@@ -511,1000 +511,1000 @@
       "file_offset": 13588,
       "source": "\nto that person while alive.",
       "source_sha256": "497467614d0c5aaab93f42502e9f4a9949ed41d515fead7cf0da83482db021e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới người đó khi còn sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000035db",
       "file_offset": 13787,
       "source": "(The voice said TO THE LIGHTHOUSE.",
       "source_sha256": "c00e869ed44cc8175b3d71081c204393ef4dd0405888e0fed335d93eb6670523",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Giọng nói bảo ĐẾN NGỌN HẢI ĐĂNG.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003662",
       "file_offset": 13922,
       "source": "\nto see it for myself...",
       "source_sha256": "57946dd41aadcf7229fffff6f87b2d7e4ec8cf3c9e08b2b9e7192010b29c995d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể tận mắt xem thử...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000375f",
       "file_offset": 14175,
       "source": " again!",
       "source_sha256": "07a19c59a82bb98aabccf19415d7335dafb194a6932099156ce2171a6f182240",
-      "vi": "",
-      "status": "todo",
+      "vi": " lần nữa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000037ec",
       "file_offset": 14316,
       "source": " yourself!",
       "source_sha256": "b4f23178b43d47bfed1b7864178cf0bdae9f758b9fb9563300b243e6d9d1f440",
-      "vi": "",
-      "status": "todo",
+      "vi": " tự mình đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003b02",
       "file_offset": 15106,
       "source": "\nlike that...",
       "source_sha256": "e43b2687e3ef1632db9f4c6be961e2cebd5fa5a32753a2769d6d61d5db291335",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thế...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003b9e",
       "file_offset": 15262,
       "source": "\nto get some advice.",
       "source_sha256": "7f1ab7891f20be893fea77ffbc7d4c3edc161ae98bcb3efe97c134e5a7b4e6f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể xin lời khuyên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003c0b",
       "file_offset": 15371,
       "source": " Is he someone important?",
       "source_sha256": "b8f20bc962e9b08eddaf7e535d1c3b1f3f3ae084dca9dc618d23bfa67819150e",
-      "vi": "",
-      "status": "todo",
+      "vi": " Người đó có quan trọng lắm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003d27",
       "file_offset": 15655,
       "source": "\nyou a really warm welcome!",
       "source_sha256": "2e7a4759a8fe2d928316e2975d88aadaf5422b3537209a4eece1c08830832f91",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchào đón bạn thật nồng nhiệt!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003dd1",
       "file_offset": 15825,
       "source": "\nyou should take this.",
       "source_sha256": "529b29ed90e9d0cff3dab0306d31b74d20eb74d77701dfe60eb00450aa6c6572",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn nên nhận lấy thứ này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00003fa7",
       "file_offset": 16295,
       "source": "\nyou a really warm welcome!",
       "source_sha256": "2e7a4759a8fe2d928316e2975d88aadaf5422b3537209a4eece1c08830832f91",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchào đón bạn thật nồng nhiệt!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000040b5",
       "file_offset": 16565,
       "source": "\nsupposed to be here, you know.",
       "source_sha256": "ff3bcb0028cd1211baaa9bcd019acbfb313d6f322a6f1e0a8a67e2df8932d8b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđáng lẽ phải ở đây, biết không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000411b",
       "file_offset": 16667,
       "source": "$Who are you? Are you... dead?",
       "source_sha256": "5b1f2f3313d9646948dd9ec25c46a3ff1a1b3db990215e5410e4e3c4a94998ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn là ai? Bạn... đã chết rồi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000041e3",
       "file_offset": 16867,
       "source": "\nknow something about my past.",
       "source_sha256": "903c585c555bd94d89499ffb9c2ea03d614e8570922cde0a2906b147d85b9f68",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiết điều gì đó về quá khứ của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000425b",
       "file_offset": 16987,
       "source": "$What would you like to know?",
       "source_sha256": "56864f6ee27a40d471a7cb818ec6e6e8dd9428bd3709a07300a6fda70749e7c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn muốn biết điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái sử dụng bản dịch nguồn trùng ở các catalog trước; chưa xác minh ranh giới hội thoại/speaker."
     },
     {
       "id": "talk/en/tk201_en.bin_@000042da",
       "file_offset": 17114,
       "source": "\nfrom before the age of five.",
       "source_sha256": "7e38da2cb280d683b14f2cffdbc8bd71553c430c2ba672a07da76bad211bdd92",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ trước khi tôi lên năm tuổi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000435a",
       "file_offset": 17242,
       "source": "\nI was living in the orphanage.",
       "source_sha256": "4bfea4b026f8c6b515f275588250343590f2fe53aa99c007f9837cd15bc3b121",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi sống ở cô nhi viện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000043db",
       "file_offset": 17371,
       "source": "\nremember?",
       "source_sha256": "11ffe120e5138b239878af5e6c1cb7353808322743edcb0442b65dd8271d11c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncòn nhớ không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004440",
       "file_offset": 17472,
       "source": "I don't know...",
       "source_sha256": "6fed536b88296975936fca87372ea734f1022cb1eda2331257803af112eabaf8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi không biết nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000044d0",
       "file_offset": 17616,
       "source": "\nin an accident or something.",
       "source_sha256": "08c9138e481ffa78e4fb3eb35b38d06ff217f9fcc3d22ebd3a2531bc37ec3ee0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong một vụ tai nạn hay gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000454e",
       "file_offset": 17742,
       "source": "\nhave happened to you.",
       "source_sha256": "8973575510a1159452ef44990542d85a77f3a56666d5ba59386a6d8b1628c59e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xảy ra với bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004648",
       "file_offset": 17992,
       "source": "So that they can go on.",
       "source_sha256": "a84a9de456946ea8ed3316c86735d257d6def05ea5f66f8f06758beb9f04b848",
-      "vi": "",
-      "status": "todo",
+      "vi": "Để họ có thể tiếp tục.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000046d6",
       "file_offset": 18134,
       "source": "\nI still want to go.",
       "source_sha256": "5647aed97ad0866ca13d9d43e9b60b85adab3abda0a35b2f2e756fd7e8489415",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi vẫn muốn đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000474f",
       "file_offset": 18255,
       "source": "\nwon't be able to cope with it.",
       "source_sha256": "44c46e36ac6984af05be76f7e39361066a45f8252d0615fa7752e1be8e0ccd8f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ không chịu đựng nổi chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000047b3",
       "file_offset": 18355,
       "source": "$Do you know me? Who are you?",
       "source_sha256": "dd05451fd5baf6c155be6f8014c539c46cc13eb7373ff266e91c8515189d0c25",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn biết tôi sao? Bạn là ai?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004946",
       "file_offset": 18758,
       "source": " first, okay?",
       "source_sha256": "e1dcff044c5cf586e2f38ff5ffeca8b95338a8df287813acea723371c28ca843",
-      "vi": "",
-      "status": "todo",
+      "vi": " trước đã, được chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000049b6",
       "file_offset": 18870,
       "source": "\nin trouble.",
       "source_sha256": "5b5652fbd1e8fedbe49575389fb5d2956b023595082659b181160b0a22cf8bad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngặp rắc rối.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004acc",
       "file_offset": 19148,
       "source": "\namongst the Faerys.",
       "source_sha256": "c4cc4a1d71941a398370cb100c2cf9e56c5ae1b8e7925c54cfa16611d876e119",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiữa các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004bd0",
       "file_offset": 19408,
       "source": "What!?!",
       "source_sha256": "f72a46fe7acfd65f4e836fb981f431e7413fe22bd8cbf8613d7842623dbb5582",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái gì cơ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004c5a",
       "file_offset": 19546,
       "source": "\nbefore anything strange happens!",
       "source_sha256": "cf7f419d1809721d08c314fedd22a518a45588972b2e78f122923c086963adf9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrước khi có chuyện kỳ lạ xảy ra!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00004f84",
       "file_offset": 20356,
       "source": "Yes, that's right.",
       "source_sha256": "b843a315fac423a27332436f74a3f9d7be2982de1381a2fa27ebb00ab4c83166",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ừ, đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005063",
       "file_offset": 20579,
       "source": "...? I don't recall...",
       "source_sha256": "33a12580cd3d0b9c73837cb0313955bfad1c5aaf498b058a700409607544d4bc",
-      "vi": "",
-      "status": "todo",
+      "vi": "...? Tôi không nhớ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000050eb",
       "file_offset": 20715,
       "source": "\ncome to the village.",
       "source_sha256": "3539726bba7550e2c7c89ab6652dda3cc3aafc20d976008b58324e5aab6e9efd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000517a",
       "file_offset": 20858,
       "source": "\nin the past!",
       "source_sha256": "91b3c3a4ba5500f08fb198ad74b9ee829b40953aaf4c2eb2dd8318462f57dc1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong quá khứ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000051ec",
       "file_offset": 20972,
       "source": "\na short time, 17 years ago.",
       "source_sha256": "7599c043b8a6df4759b74c9d00c83993e2a176f49e14f37d0e42b3a0186f332b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột thời gian ngắn, cách đây 17 năm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000052a8",
       "file_offset": 21160,
       "source": ", and one other...",
       "source_sha256": "76a26695e0a13e428489ad3c49e0b03c7bff23409855c42743281abfa2af56ee",
-      "vi": "",
-      "status": "todo",
+      "vi": ", và một người nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000533c",
       "file_offset": 21308,
       "source": "\nbumped into...?",
       "source_sha256": "1851b029bf442381372769cf29b2bf8f4eb8c6885ee03fc7825952b731af8065",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã tình cờ gặp...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000544d",
       "file_offset": 21581,
       "source": "\nforget! He was murdered!",
       "source_sha256": "591f6cabd155246bc42149718644a8858c4aba934193ed8afaad913a77124384",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquên! Người đó đã bị sát hại!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000054c0",
       "file_offset": 21696,
       "source": "What happened to him?!",
       "source_sha256": "9e655066f841085ff2be0480d350bd540f4a81eda9d1faa3e00ffe00b183abb4",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chuyện gì đã xảy ra với người đó?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000568b",
       "file_offset": 22155,
       "source": "\ntell you everything...",
       "source_sha256": "b671a82ed865dd71ec2f039d1f6b45dfc3ceb664a5e59d3ad5f77ace671c82a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkể cho bạn nghe mọi chuyện...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005733",
       "file_offset": 22323,
       "source": " gets my letter...",
       "source_sha256": "bee6ee415a9692b6f6f6bb899d14f3217402560f6b2e9c96864fc14acfeec6c6",
-      "vi": "",
-      "status": "todo",
+      "vi": " nhận được thư của tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000057aa",
       "file_offset": 22442,
       "source": "\nwanted to say...",
       "source_sha256": "42c7c3de4b8cd9c4e533550fadd8309d5db2d4fe9977fe899e2614771606375f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn nói rằng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000582f",
       "file_offset": 22575,
       "source": "\nchurch...!?!",
       "source_sha256": "5f69e768c877c2def5a287c0a89091efcf333511ce4ff980c9fd31598c1b11fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhà thờ...!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000058fb",
       "file_offset": 22779,
       "source": "$I still need to talk to him...",
       "source_sha256": "acb34943575779a1a01c56b33ca556c58142bf83ee30724ec0f8e719bb87289e",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi vẫn cần nói chuyện với người đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005a81",
       "file_offset": 23169,
       "source": "\nyou know?",
       "source_sha256": "c1a6d6ddbfd894e7bb50f0a52268fe61526c4cabb27dc9a20fbee8c710559a12",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn biết chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005b36",
       "file_offset": 23350,
       "source": " or anything.",
       "source_sha256": "4e53d58878f0ca6fcc88d436d339e0d4ab5bef72d4c2bba3237128ddb530c773",
-      "vi": "",
-      "status": "todo",
+      "vi": " hay gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005ba3",
       "file_offset": 23459,
       "source": "\nmake you, YOU, aren't they?",
       "source_sha256": "90b2a185a958a7eaa0c4e36f43edc33c2b6c97f6ba240694d8a1d3f2085f88c1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhiến bạn trở thành chính BẠN, phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005c3f",
       "file_offset": 23615,
       "source": "\nsee?",
       "source_sha256": "b5efb4b0d49cef5c7444c7a8eee603513c949964e26501a1f307a95c299ec673",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthấy chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005ce3",
       "file_offset": 23779,
       "source": "\ntalk to all kinds of dead people!",
       "source_sha256": "e328b3d76d59e47f62c927049db6230bf202bf229b1d93316908b6e292d0d63b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói chuyện với đủ loại người đã khuất!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005e28",
       "file_offset": 24104,
       "source": "\nquite near the human world.",
       "source_sha256": "77015e6d9369f387a9dae45a39130939727269c5df80e64d199b333584e0d409",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhá gần thế giới con người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005eab",
       "file_offset": 24235,
       "source": "\nif you want to go deeper.",
       "source_sha256": "006cf4028eec9d06a3c115c6fd928b3f75e1779a5058be188f01a4303d84b327",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnếu muốn đi sâu hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005f0b",
       "file_offset": 24331,
       "source": " Do you think I can do it?",
       "source_sha256": "e3b24ec5ebbe8d8de994edff64fe895f1015dd153a95596885b67b6c9e1f2e68",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn nghĩ tôi làm được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00005ffc",
       "file_offset": 24572,
       "source": "Easy, eh? Uwee hee hee!",
       "source_sha256": "cd7b0e3e2f94973a3400aaf360fc502b0bd343f086c4f7a7545fe5f547544756",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dễ quá nhỉ? Ui hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006072",
       "file_offset": 24690,
       "source": "\nvillage for now, though.",
       "source_sha256": "4f8ccbe8c297347d4ed87f14ec12b25112fc007245c95856d11d1c3d186bd383",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở lại làng một thời gian đã.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006277",
       "file_offset": 25207,
       "source": "\ntell her about her father...",
       "source_sha256": "378cda61c138939018ffe253dceaa2b0bc90779c3f8de3a642e7c74dbc4e2793",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkể cho cô ấy nghe về cha mình...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000063d1",
       "file_offset": 25553,
       "source": "\nme when I go to the beach.",
       "source_sha256": "b475d4a578624fdbbfa60f5c283c06281850b11bf08da311b618093dc7f82840",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncùng tôi khi tôi ra bãi biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000064ab",
       "file_offset": 25771,
       "source": " Did you find out anything?",
       "source_sha256": "f113ae67bcf23d540ce7c50e01cd9f42cb68fce45a303e5fdfcaa7d5b11a8aa2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn có tìm ra được gì không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000653f",
       "file_offset": 25919,
       "source": "\nyou up until he died.",
       "source_sha256": "e402103d4a75091382123079ba44b0154ba22e54cdcb624c71d46af612b6d0cc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn cho đến khi người đó qua đời.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000065eb",
       "file_offset": 26091,
       "source": "\nproof!?!",
       "source_sha256": "90c5d0b5e9a0e53e04829925a23797e18b994d41a7451d320bd1bc0604af2af3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbằng chứng sao!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006699",
       "file_offset": 26265,
       "source": "\nleft something there...",
       "source_sha256": "4a270e5ca17538b73ad68bd50b90577ad9befa894512703457e4fa4f124b0f00",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã để lại thứ gì đó ở đấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006729",
       "file_offset": 26409,
       "source": "\nthat going to do?",
       "source_sha256": "40baf6008d9877b1c26b776529335eefd988f4dcacaaf3921c3ceaf31a619726",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm thế thì có ích gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000067ae",
       "file_offset": 26542,
       "source": "\nmyself then.",
       "source_sha256": "deee248f673cc6f6593777ceda7d3edb6b80f55ec587b15d48ad87aadaad3dfa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntự mình vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006882",
       "file_offset": 26754,
       "source": "\nbe there on the beach...?",
       "source_sha256": "a79cb21e33319e27da8f0d11d6ca718e2da47f392b2891eb152a45bed87bbc35",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở ngoài bãi biển đó sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006973",
       "file_offset": 26995,
       "source": "\nemotional as this...",
       "source_sha256": "96d2baf4999899d6c9d6820354948bc7869f0598a8e1552558b1d36d7c288bbb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxúc động đến thế này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000069d0",
       "file_offset": 27088,
       "source": "Are you okay...?",
       "source_sha256": "61ed3ffc3fbe2a33fbf50ce0aca8cc9d8d7a68dd18a07139ad5cdc1c18985259",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn vẫn ổn chứ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006a7a",
       "file_offset": 27258,
       "source": "\nthe past, too.",
       "source_sha256": "8fd9fff1c31bd1ed71eca5896bf6b31b005a7e7969b2198f01508b610ccb0fef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncả chuyện quá khứ nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006b0f",
       "file_offset": 27407,
       "source": "\nfather died.",
       "source_sha256": "55e753fdf4c3a32537a33f147571017af4fdb524c5afa5e36d664dcb31f2f117",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncha đã mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006b8b",
       "file_offset": 27531,
       "source": "\nraised me as a boy.",
       "source_sha256": "5cf62d10c13c30f412774b299096833e806a6d311fc22874ac2d231b6849f89c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnuôi dạy tôi như một đứa con trai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006c1a",
       "file_offset": 27674,
       "source": "\nrealised, eventually...",
       "source_sha256": "3e783ba9534de04131856b33d680eb82c5745ca0a63f5a959cb288d6e82bb0ed",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrồi cuối cùng cũng nhận ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006c97",
       "file_offset": 27799,
       "source": "\nshe began to abuse me.",
       "source_sha256": "a7b4f5938e6a2dd0e3c27ab955d74470c74eda11d63c7bb71e5c9167b1a5bd6c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbà ấy bắt đầu ngược đãi tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006d43",
       "file_offset": 27971,
       "source": "\nwhere all the hate came from.",
       "source_sha256": "e03112c62b5c796d2a759f919719ba4cedaadb114c6d65acbf09db96e2312d2a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnguồn cơn của tất cả lòng căm hận ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006dd5",
       "file_offset": 28117,
       "source": "\nthink anymore...",
       "source_sha256": "73d56fac0265317a3746150982654d00aad2f989fd0f2d0d648674caef85fbf8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thể nghĩ ngợi gì nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006e52",
       "file_offset": 28242,
       "source": "\nsharing all of this with me.",
       "source_sha256": "f6221b317d744915650a7d885e90254b21c74bfecdcd84705ce97cb68db212af",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã chia sẻ tất cả những chuyện ấy với tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006f5f",
       "file_offset": 28511,
       "source": "\nhear the voice of the dead!",
       "source_sha256": "588443c5c6143db67f5739ea5ac8d936a5ddf118868eefe4c1cd709a50161af0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnghe thấy tiếng nói của người chết!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00006fec",
       "file_offset": 28652,
       "source": "\nthe middle.",
       "source_sha256": "03c6c59b1a76e027dc88492768bcdbd21e610f82aa82fe19e56fb592262fa682",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở giữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000708d",
       "file_offset": 28813,
       "source": "\nsignificance to the dead person.",
       "source_sha256": "f7132f325a0de66277e03601415e7ed79f506f61962152576d52738b40a4543e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó ý nghĩa với người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000071b0",
       "file_offset": 29104,
       "source": " soon!",
       "source_sha256": "38fa88f1b5d59c116c4935fed94af37b3aea15514f8ec9abce92574f08e2ff1b",
-      "vi": "",
-      "status": "todo",
+      "vi": " sớm thôi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007272",
       "file_offset": 29298,
       "source": ", okay?",
       "source_sha256": "c4504679db1aa3afe97d89082fd4820fb8b632b679d42ffe5983271e8d51af99",
-      "vi": "",
-      "status": "todo",
+      "vi": ", được chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007378",
       "file_offset": 29560,
       "source": "\nIt is filled with memories.",
       "source_sha256": "fa2793b91a14a946ee77500e7f2069b0836537936801dca6761da9517aa673ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNó chứa đầy những ký ức.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007426",
       "file_offset": 29734,
       "source": "\nperson you seek.",
       "source_sha256": "031431d57cf540ed877c4f25f0e1eb6a22b82333b22f06b11105a3185061bd8c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười mà bạn đang tìm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007571",
       "file_offset": 30065,
       "source": " is still safe.",
       "source_sha256": "741c42d2927efedbf41eea0c3bc95b8f0a40f67d976b621680a8572855831447",
-      "vi": "",
-      "status": "todo",
+      "vi": " vẫn an toàn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000075c7",
       "file_offset": 30151,
       "source": " What can I do to help...?",
       "source_sha256": "8ec46ebd635d8211b14bebdb0969fa3dd2974894cd255a8f01153ff2c967c03d",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi có thể giúp gì đây...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007729",
       "file_offset": 30505,
       "source": "\nwith them.",
       "source_sha256": "654fe38843055c1c4c71e3ec04d316b97d3f88e8750e83d4af4098c58871a778",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000779b",
       "file_offset": 30619,
       "source": "\nout about your mother, as well.",
       "source_sha256": "0f5e1755be283f0c378105e6773f2a6b2886ac3b557bf7b4a9b1df4512f1e1f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiết thêm cả chuyện về mẹ bạn nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@000078cf",
       "file_offset": 30927,
       "source": "$I'll do whatever I can to help.",
       "source_sha256": "86510d605a61fd4a51ae49308a008ca0d026aed9f63c57013fb8e71921257a3d",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi sẽ cố hết sức để giúp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007a22",
       "file_offset": 31266,
       "source": ", too.",
       "source_sha256": "f508486617fe140395fb5bdd0078c1fb165dcb08197f61889bb61f1e71225181",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái sử dụng bản dịch nguồn trùng ở các catalog trước; chưa xác minh ranh giới hội thoại/speaker."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007ab5",
       "file_offset": 31413,
       "source": "\nwith them.",
       "source_sha256": "654fe38843055c1c4c71e3ec04d316b97d3f88e8750e83d4af4098c58871a778",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvới họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007c0a",
       "file_offset": 31754,
       "source": "\nand examine its memories?",
       "source_sha256": "63f04847202e81a840993b1df808e6d9c093564a093339c33825930ab1df86c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà xem lại những ký ức của nó sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007c8a",
       "file_offset": 31882,
       "source": "\nwas wearing glasses.",
       "source_sha256": "d192d658d27d29dd79db91258168ac2c24255e68d0b03e0b124b474343ef30fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã đeo kính.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007ce4",
       "file_offset": 31972,
       "source": "Glasses!?!",
       "source_sha256": "0201be94451758363f3a789f12281862abac1f4ff194de8c76d9d36264fd3794",
-      "vi": "",
-      "status": "todo",
+      "vi": "Kính ư!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007d33",
       "file_offset": 32051,
       "source": " I hope this isn't bad...",
       "source_sha256": "9ae5e7564bafe0a32268a8710d8bec1b41c884a9940bcca07273fe66c1e28813",
-      "vi": "",
-      "status": "todo",
+      "vi": " Mong là không có chuyện gì xấu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007e6a",
       "file_offset": 32362,
       "source": " has such faith in you.",
       "source_sha256": "0efca2bbc383c7b038286cf5f5dc726a0bbbe3761e46f29bed908685ccef6d7c",
-      "vi": "",
-      "status": "todo",
+      "vi": " rất tin tưởng bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00007f17",
       "file_offset": 32535,
       "source": ", as you will see.",
       "source_sha256": "5ce2c7746e0c1d31f6991b3fec7f3ea0eb50542770c2275922e8a042ed7e075d",
-      "vi": "",
-      "status": "todo",
+      "vi": ", rồi bạn sẽ thấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000080b0",
       "file_offset": 32944,
       "source": "\nforward to you coming, you know!",
       "source_sha256": "d50dcce2dc408be28bf1d7b1bf54215eb7c02d5fd17e20a9ff2d624b2ae0885b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang mong bạn tới lắm đấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00008118",
       "file_offset": 33048,
       "source": "He has? Why...?",
       "source_sha256": "8782c768fef5e30e23d34c168124b55a4c4fe580ae18e9dc5d9b5c7394ef062c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật sao? Sao lại...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc. Cần rà ngôi xưng và câu liền kề khi xác minh cảnh."
     },
     {
       "id": "talk/en/tk201_en.bin_@00008362",
       "file_offset": 33634,
       "source": " is up ahead.",
       "source_sha256": "2b1b0584fbb08fea9133c01b1047743d7b2b55305158e90508d4ae4be1ad091f",
-      "vi": "",
-      "status": "todo",
+      "vi": " đang ở phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000083f0",
       "file_offset": 33776,
       "source": "\nto defeat it!",
       "source_sha256": "ddb200863c0505cff6470e0fc66742cb983e97c90462785711b935e4e7f7f5a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể đánh bại nó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00008569",
       "file_offset": 34153,
       "source": "\nand you can speak to the dead!",
       "source_sha256": "9f4716139e577a3f851d38b64473d4a6fa3c42f6a22a0c275d084d18dad8384d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà bạn có thể trò chuyện với người chết!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@00008605",
       "file_offset": 34309,
       "source": "\nyou'll be there in a flash!",
       "source_sha256": "b3bab159071b519c53c1b651a39187cd5233fc8924299c4505fc4e4bb84afd92",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sẽ tới nơi trong chớp mắt!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@000087d1",
       "file_offset": 34769,
       "source": "\nload of weird creatures.",
       "source_sha256": "795f16f92a717c2102c1c005cbbe0fba79b7ca70c13cd7a1b69586b38515113e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncả đống sinh vật kỳ quái.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL, chưa có parser đầy đủ; chỉ dịch phần nghĩa biết chắc."
     },
     {
       "id": "talk/en/tk201_en.bin_@0000884d",
