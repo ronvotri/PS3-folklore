@@ -3,7 +3,7 @@
 ## Bắt đầu ngay
 
 1. translations/catalogs/menu/lang_en.bi5_.json: tiếp tục 40-80 mục `todo` theo thứ tự,
-   bắt đầu từ `lang_en.bi5_@000053ab`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
+   bắt đầu từ `lang_en.bi5_@00005982`. Các mục đã xử lý giữ `draft` cho đến khi được rà/test.
    118 cặp menu mẫu cũng ở menu_vi.json.
    Catalog là nơi ghi tiến độ từ đây. Khi xuất map source → vi để build,
    phát hiện bản dịch khác nhau cho cùng nguồn; không ghi đè âm thầm.
@@ -15,7 +15,7 @@
 
 ## Mốc bàn giao
 
-Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 334 mục `draft` (134 mẫu V3 + 200 mục qua 4 lượt), còn 682 mục `todo`.
+Chưa bắt đầu dịch catalog hội thoại. Menu hiện có 384 mục `draft` (134 mẫu V3 + 250 mục qua 5 lượt), còn 632 mục `todo`.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -67,3 +67,13 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA trên dữ liệu: 50 ID đúng checkpoint; chỉ chỉnh `vi/status/notes`, giữ nguyên thứ tự/source/hash/offset/`source_review`; NFC, số ngắt dòng và control token; không có xung đột bản dịch cho cùng source. GitHub Actions chạy `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` trên Windows/Linux sau khi push.
 - Không đụng font Merienda V3, ROM/ISO hay payload; 50 mục mới là `draft`, chưa được thử trực tiếp trong RPCS3.
 - **Tiếp theo:** `lang_en.bi5_@000053ab` — `Endless Corridor picture book, pg. 5`, dịch 50 mục `todo` kế tiếp.
+
+## Lượt menu 005 — 10/10/2026
+
+- Tệp `translations/catalogs/menu/lang_en.bi5_.json`: dịch đúng 50 mục `todo` kế tiếp → `draft`, từ `lang_en.bi5_@000053ab` đến `lang_en.bi5_@00005956`.
+- Gồm 26 nhãn trang sách tranh (Endless Corridor, Hellrealm, Corrupt Village, Netherworld Core), 13 tên sách, 7 áo choàng và 4 vật phẩm cốt truyện liên quan Ellen/Suzette/Renaldo/Regine/Herve.
+- Thuật ngữ nhất quán với lượt trước: Endless Corridor → Hành lang Vô tận; Hellrealm → Cõi Địa Ngục; Netherworld Core → Lõi Cõi âm; các sách cùng nguồn dùng bản dịch trùng khớp. Corrupt Village → Làng Tha hóa là tên **tạm** cần xác minh trong game.
+- `Endless Corridor picture book ` có khoảng trắng cuối bất thường trong nguồn: không sửa nguồn; lược trong bản dịch, ghi chú tại entry. Không được tự gộp/ghi đè các nguồn khi build.
+- QA cấu trúc trước commit: 50 ID và thứ tự `todo` đúng checkpoint, chỉ thay `vi/status/notes`, giữ source/hash/offset/source_review; NFC, số ngắt dòng, placeholder/control token; 0 source trùng có bản dịch xung đột.
+- Không can thiệp font Merienda V3, ROM/ISO, payload; các mục mới vẫn `draft`, chưa test trong RPCS3. CI GitHub Actions chạy validator + unittest cho Windows/Ubuntu sau khi push.
+- **Tiếp theo:** `lang_en.bi5_@00005982` — `Left side of a photo / that was torn in half`, rồi 49 mục `todo` kế tiếp.

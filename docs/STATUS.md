@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 334 mục menu `draft` (134 mục mẫu + 200 mục từ 4 lượt ngày 10/10/2026); còn 11.552 `todo` toàn bộ catalog (trong đó 682 menu).
+viên hội thoại/tương tác/cảnh. Có 384 mục menu `draft` (134 mục mẫu + 250 mục từ 5 lượt ngày 10/10/2026); còn 11.502 `todo` toàn bộ catalog (trong đó 632 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -71,3 +71,12 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Kiểm tra cấu trúc trước commit: giữ nguyên source/metadata/offset/source_review/order, chỉ đổi vi/status/notes; bảo toàn NFC, newline, control token; không có xung đột chuỗi nguồn trùng.
 - Bản dịch chỉ ở mức catalog, chưa dựng patch hoặc thử trong RPCS3; font V3 vẫn nguyên vẹn. GitHub Actions tự chạy validator + unittest Windows/Linux sau push.
 - Checkpoint tiếp theo: `lang_en.bi5_@000053ab`.
+
+## Lượt menu 005 — 10/10/2026
+
+- Chuyển 50 mục `todo` sang `draft` trong `translations/catalogs/menu/lang_en.bi5_.json`, từ `lang_en.bi5_@000053ab` đến `lang_en.bi5_@00005956`. Hiện menu `384` mục draft, `632` mục todo; toàn 158 catalog còn 11.502 todo.
+- Dịch 26 trang sách tranh, 13 tên sách tranh, 7 áo choàng, 4 vật phẩm truyện; giữ nguyên tên người và tên riêng đã thống nhất.
+- Corrupt Village và một số tên áo choàng còn cần đối chiếu trong game, đánh dấu notes. Bỏ khoảng trắng thừa ở bản dịch một nhãn nhưng không động vào nguồn tiếng Anh.
+- QA trước commit: chỉ sửa trường vi/status/notes cho 50 entry, bất biến ID/source/hash/offset/metadata/thứ tự; đảm bảo Unicode NFC, bảo toàn newline và control tokens, không xung đột source lặp.
+- Font Merienda V3 được giữ nguyên; chưa triển khai patch, chưa kiểm thử bố cục trong RPCS3. GitHub Actions chạy validator và unittest Windows/Linux sau commit.
+- Lượt tiếp theo bắt đầu ở `lang_en.bi5_@00005982`.
