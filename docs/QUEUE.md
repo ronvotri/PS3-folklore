@@ -331,3 +331,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA trước commit: chỉ `vi/status/notes` được sửa ở 100 ID; source/hash/offset/source_review/order bất biến, Unicode NFC, newline, prefix và placeholders giữ nguyên; 0 source trùng mâu thuẫn. Chưa có parser/repacker talk/cmc hay thử hiển thị RPCS3; giữ Merienda V3/ROM/binary nguyên.
 - Toàn bộ 158 catalog **5.729/11.886 draft**, còn **6.157 todo**. Đây là độ phủ nháp dữ liệu trích, không phải tỉ lệ playable.
 - **Tiếp:** `talk/en/tk203_en.bin_@00005f9e` (`correct that aberration.`). CI Windows/Linux chạy validate + unittest sau commit.
+
+## Lượt 026b — 11/10/2026 (100 mục tiếp theo tk203)
+
+- Dịch 100 mục từ `talk/en/tk203_en.bin_@00005f9e` đến `talk/en/tk203_en.bin_@0000cb79`: 3 bản trùng nguồn catalog trước, 8 mảnh lặp nội bộ, 89 chuỗi tiếng Anh mới. `tk203` đạt **200/663 draft**, còn 463 todo.
+- Chủ đề: Herve/Đầm lầy, phong ấn ngọn hải đăng, ký ức và linh hồn, hiện tượng Oblivion, các báo cáo nhân chứng và bí ẩn 17 năm ở Doolin. Các cụm như Eternal Suffering và cách gọi thế giới bên kia vẫn là nháp, cần kiểm tra scene/speaker khi có parser.
+- QA: chỉ vi/status/notes tại 100 ID; bất biến ID, nguồn, source_sha256, file_offset, source_review, order, mã mở đầu/newline/placeholder/NFC. 0 xung đột nguồn trùng; không thay Merienda V3/ROM/binary. Talk/cmc chưa có parser/repacker hoặc test RPCS3.
+- Tổng 158 catalog **5.829/11.886 draft**, còn **6.057 todo**. Không phải độ phủ bản patch chơi được.
+- **Tiếp theo:** `talk/en/tk203_en.bin_@0000cccf` (`And for what reason?`). CI validator/unittest sau commit.
