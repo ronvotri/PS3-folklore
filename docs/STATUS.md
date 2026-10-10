@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 134 mục draft từ menu mẫu; 11.752 todo.
-Chưa bắt đầu dịch hội thoại. Xem QUEUE.md và TRANSLATION.md.
+viên hội thoại/tương tác/cảnh. Có 184 mục menu `draft` (134 mục mẫu + 50 mục mới ngày 10/10/2026); còn 11.702 `todo` toàn bộ catalog (trong đó 832 menu).
+Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -41,3 +41,10 @@ Các gói payload chỉ lưu trên máy: Folklore-menu-thu, Folklore-menu-co-dau
 Folklore-font-spacing-v2, Folklore-font-encoding-v3 trong outputs/ của phiên local.
 Đóng RPCS3. Khôi phục ngược thứ tự V3 → V2 → demo có dấu nếu cần quay về font
 ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên GitHub.
+
+## Lượt menu 001 — 10/10/2026
+
+- Đã dịch tiếp đúng 50 mục `todo` theo thứ tự catalog menu, giữ nguyên metadata/nguồn/offset và số ngắt dòng mỗi nguồn.
+- 50 mục chuyển sang `draft`, chưa chuyển `reviewed` hay `tested`; chỉ xác minh cấu trúc dữ liệu, chưa thử hiển thị/chạy game. Bản font Merienda V3 được giữ nguyên.
+- Tên kỹ năng/cõi `Siêu hóa`, `Cõi Faery`, `Cõi Địa Ngục` đang là thuật ngữ tạm; xem ghi chú trong từng entry và QUEUE.md.
+- Kiểm tra trước ghi GitHub: đối chiếu ID và metadata, NFC, newline, placeholder. CI push sẽ chạy validator và 12 unittest trên Windows/Linux; xác nhận ở Actions của commit.
