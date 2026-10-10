@@ -13,7 +13,7 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 434 mục menu `draft` (134 mục mẫu + 300 mục từ 6 lượt ngày 10/10/2026); còn 11.452 `todo` toàn bộ catalog (trong đó 582 menu).
+viên hội thoại/tương tác/cảnh. Có 484 mục menu `draft` (134 mục mẫu + 350 mục từ 7 lượt ngày 10/10/2026); còn 11.402 `todo` toàn bộ catalog (trong đó 532 menu).
 Chưa bắt đầu dịch hội thoại. Lượt menu 001 đã thêm 50 bản dịch dạng `draft` từ `@0000311b` đến `@00004124`; xem QUEUE.md và TRANSLATION.md.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
@@ -87,3 +87,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nhóm: mô tả vật phẩm, tác dụng áo choàng Sidhe, sách tranh Folk, nút kết thúc/lưu game. Giữ nguyên `[Link item]`, MC, tên nhân vật và tên cõi; tên chưa rõ có notes.
 - Trước commit đã rà 50 ID, metadata bất biến, NFC, số dòng, token bảo vệ, nguồn lặp không xung đột; chỉ vi/status/notes được đổi. Font Merienda V3 không thay đổi.
 - Chưa thử game hoặc bản build; GitHub Actions chạy validator + unittest Windows/Ubuntu. Lượt 007 tại `lang_en.bi5_@00006243`.
+
+## Lượt menu 007 — 10/10/2026
+
+- Đã hoàn tất thêm 50 bản dịch menu `draft` (`lang_en.bi5_@00006243` → `lang_en.bi5_@0000657d`): tổng `484`/1.016 draft, còn `532` todo menu; 11.402 todo toàn bộ catalog.
+- Dịch nhóm thoát/lưu/tải, tiêu đề chủ đề cốt truyện, chọn nhân vật/cõi và thuộc tính/nhãn lưu dữ liệu. Các tên vùng giữ nhất quán với lượt trước; Corrupt Village/Làng Tha hóa và một số tiêu đề còn tạm.
+- Soát 50 mục đúng thứ tự todo; chỉ vi/status/notes đổi, metadata, hash, offset, nguồn nguyên trạng; NFC, số xuống dòng, token đặc biệt và bản dịch nguồn trùng được kiểm tra. Font V3 giữ nguyên.
+- Chưa có kiểm tra hiển thị/bố cục trong RPCS3. GitHub Actions thực hiện validator/unittest Windows/Linux; lượt 008 bắt đầu `lang_en.bi5_@00006583`.
