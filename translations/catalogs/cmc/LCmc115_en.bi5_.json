@@ -11,120 +11,120 @@
       "file_offset": 12928,
       "source": "That's right.",
       "source_sha256": "644e298d89f966a7dfe74254b405f2a711c668fbd45fcfdaf0939bca56f25a11",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@00003293",
       "file_offset": 12947,
       "source": "LIt's called a Mnemosyne,\na Folk that feeds on the\nmemories of the dead.",
       "source_sha256": "190a2414bebf84dc74f7d3d16f6252b64fb7ada4e25cb4532665bf4f4fa65ebe",
-      "vi": "",
-      "status": "todo",
+      "vi": "LNó được gọi là Mnemosyne,\nmột Folk ăn ký ức\ncủa người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@000033a7",
       "file_offset": 13223,
       "source": "4Wretched little rats,\nbut should come in handy.",
       "source_sha256": "a3bf2c758ec322b5e2233ab38cd864b2849a738620d723ba58d1069faf4a57c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Lũ chuột nhắt đáng ghét,\nnhưng cũng hữu ích đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@000033db",
       "file_offset": 13275,
       "source": "0Who else can show you\nsecrets of the dead?",
       "source_sha256": "7fea038e2ac9e0a6a986d313c8b5428ccd253dd1307b509dc7a28657ef960f3a",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Còn ai có thể cho anh thấy\nbí mật của người chết?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@0000340c",
       "file_offset": 13324,
       "source": "What the...?",
       "source_sha256": "8466db0ed4f98569d9899f869d40b3c16825e90a99e8ee8ce01329e436e6b235",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái quái...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@00003420",
       "file_offset": 13344,
       "source": "Herve...!",
       "source_sha256": "fae581d23aaab468660665042ed4043ccf80e48431d8b80d74ec374f4f9d481d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Herve...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@00003430",
       "file_offset": 13360,
       "source": "Hmm?!?",
       "source_sha256": "235964ab70ac975f1b1621b901ac05308207ce52842078c875a42905ebd1ef39",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hử?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@00003444",
       "file_offset": 13380,
       "source": "Impossible!",
       "source_sha256": "2d88d52e6416a7538f35a289af96a0abadbc164796601a08b6dce11812231b89",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không thể nào!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@00003454",
       "file_offset": 13396,
       "source": "Renaldo, too?!?",
       "source_sha256": "c59df81e3af3696782cb6dca37ca2c5963e8b54fd0aef506976052d9aaceb545",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cả Renaldo nữa sao?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@00003468",
       "file_offset": 13416,
       "source": "Little witch!",
       "source_sha256": "2980ad79c446f27daef6919c9bbfd8a9bfe7c76b9ac7f13466b4ade409a5dc31",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đồ phù thủy nhỏ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@0000348c",
       "file_offset": 13452,
       "source": "Revenge is near.",
       "source_sha256": "60d743258c4a2475866f72be2fa307c8155975e2ee295669ecab65b7229a68d9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ngày báo thù sắp đến.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc115_en.bi5_@000034a3",
       "file_offset": 13475,
       "source": " This is her true\nform, eh?",
       "source_sha256": "f1fe3420e99a3d2a055225a36fa12ba9479c8ec1722ed6bf88bded0c802559e2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Đây là hình dạng\nthật của cô ta sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
