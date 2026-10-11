@@ -11,20 +11,20 @@
       "file_offset": 9176,
       "source": "Keats...\nHelp me...",
       "source_sha256": "915c4cefe4ecade3aea596a964c2338e386eeca68a689f88b6d5df9e494d8f40",
-      "vi": "",
-      "status": "todo",
+      "vi": "Keats...\nCứu tôi với...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc160_en.bi5_@000023f0",
       "file_offset": 9200,
       "source": "I saw...\nthe video...",
       "source_sha256": "57d4c2a0850e6e95d0b82af00fdc1524deeb00df9637ec40a397898e2e728f59",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi đã xem...\nđoạn phim...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
