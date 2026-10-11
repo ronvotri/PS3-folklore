@@ -3611,10 +3611,10 @@
       "file_offset": 72631,
       "source": "(I haven't seen all the memories.",
       "source_sha256": "8b5f5224ccb237803e70823768e13b8cc01745c468549d0466aa23e37b287e22",
-      "vi": "((Tôi vẫn chưa xem hết những ký ức.",
+      "vi": "(Tôi vẫn chưa xem hết những ký ức.",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata. QA sửa thừa một dấu ngoặc mở, đồng nhất nguồn trùng tk600."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011e6e",
