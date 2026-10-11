@@ -11,160 +11,160 @@
       "file_offset": 14312,
       "source": "It's true",
       "source_sha256": "71ceb4178790a23159de8a31a09232f83fca41cefc5b758b229963fe8c756cd5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003800",
       "file_offset": 14336,
       "source": "I cannot die",
       "source_sha256": "13f6cb33559948f4a389203a04b17dde724f9c2e548dffd0013ea5bd848d73d3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi không thể chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003813",
       "file_offset": 14355,
       "source": " Suzette has yet\nto be born.",
       "source_sha256": "9a5c452600b962cb7131f0f53dd4f1e33111a888ec9583fa089008deead6ef83",
-      "vi": "",
-      "status": "todo",
+      "vi": " Suzette còn\nchưa ra đời.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003833",
       "file_offset": 14387,
       "source": "$I must... leave... \na message.",
       "source_sha256": "6a8b3236f86bc7f55355ecf29c190f84a9dbcc6630c3298b6385a2a9b603b87c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi phải... để lại...\nmột lời nhắn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003858",
       "file_offset": 14424,
       "source": "What did you do?!?",
       "source_sha256": "e28e7d48e5e0edb03b733b93928157eae713c011ae20e8357b67f3b04d560f29",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô đã làm gì?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003870",
       "file_offset": 14448,
       "source": "What did you do...",
       "source_sha256": "bc2d36445b560bd59e2054dfa75033876e48cb38f6d341e4e710875549793240",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô đã làm gì...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003888",
       "file_offset": 14472,
       "source": "to Herve!",
       "source_sha256": "05ae0ecf54504603b9cea0df8cbc9c6a51522b8394c98e0819ee7bb3c06a498d",
-      "vi": "",
-      "status": "todo",
+      "vi": "với Herve!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000038a8",
       "file_offset": 14504,
       "source": "Bring him back!",
       "source_sha256": "eaff4dcb2ca476021cfe7f02d48971a993b86f42820d2013768f124fe95bfe3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trả anh ấy lại đây!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000038bc",
       "file_offset": 14524,
       "source": "Bring him back, now!",
       "source_sha256": "0f6ad649027ce5453061950cd8f34e850b0bc13f3338c4ef4616edf3f4980bae",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trả anh ấy lại ngay!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000038e0",
       "file_offset": 14560,
       "source": "Aieeee!",
       "source_sha256": "1ce362bddc5dd9a958ad7f411af11df6a5085e33ecf0e91ef361da16f71c137a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Á á á!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000038ec",
       "file_offset": 14572,
       "source": "Aieeeek!",
       "source_sha256": "8e2e2592cb4a24d97fe0ac6545e468d072f6f1b84525fb03d19bd0a6c1793993",
-      "vi": "",
-      "status": "todo",
+      "vi": "Á á á!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000038fc",
       "file_offset": 14588,
       "source": "A message in a\nbottle.",
       "source_sha256": "7034dd576d081ff72049b635e308d3e853d3d53d7cde544f2d9f2ff752ac2991",
-      "vi": "",
-      "status": "todo",
+      "vi": "Một lời nhắn trong\nchai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003937",
       "file_offset": 14647,
       "source": "<17 years, and it was\nnever delivered.\nThen perhaps...",
       "source_sha256": "b36663085824d2c1287274a25105b7f2f597dc1f400365ccc8ae117135a32be4",
-      "vi": "",
-      "status": "todo",
+      "vi": "<17 năm rồi, mà nó\nvẫn chưa được gửi đi.\nVậy có lẽ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000039ad",
       "file_offset": 14765,
       "source": ",\nto keep it dry.",
       "source_sha256": "06c43bc7898e815147da4750be2bd56c7f76467c768825490642d8e0b10138ec",
-      "vi": "",
-      "status": "todo",
+      "vi": ",\nđể khỏi bị ướt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@000039d6",
       "file_offset": 14806,
       "source": "!\nImpossible!",
       "source_sha256": "e0ae28a0eceb2969518c6a7e3772648b6a96c133011c0e17243f1ebfec26870b",
-      "vi": "",
-      "status": "todo",
+      "vi": "!\nKhông thể nào!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc021_en.bi5_@00003b30",
       "file_offset": 15152,
       "source": "What did you say?!?",
       "source_sha256": "6130f04bb7ef2cbe3ffe386f6a5b9ef4a0be89f01fcd9565999b87096baed952",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn vừa nói gì?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     }
   ]
 }

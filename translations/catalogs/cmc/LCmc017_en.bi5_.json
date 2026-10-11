@@ -11,30 +11,30 @@
       "file_offset": 11303,
       "source": ",I want to take him\nto the lighthouse...",
       "source_sha256": "ec4ffa1a1024e61ba2de70742e7423bba6a016939b6a036f64a2fbc792708dab",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Tôi muốn đưa ông ấy\nđến ngọn hải đăng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc017_en.bi5_@00002c53",
       "file_offset": 11347,
       "source": "(It's my dear son's\nfinal wish...",
       "source_sha256": "10d6c2c6283dd9d2d9800decba4cc73d03150cd09ed2cb58aa3c37c3a1806075",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đó là nguyện vọng cuối\ncủa con trai yêu dấu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     },
     {
       "id": "cmc/en/LCmc017_en.bi5_@00002c7c",
       "file_offset": 11388,
       "source": "...the lighthouse?",
       "source_sha256": "e7f270a173a13e2e45710968caf68362c1ec770c61535a139075a44c4b855b5c",
-      "vi": "",
-      "status": "todo",
+      "vi": "...ngọn hải đăng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC từ nguồn ASCII-NUL. Giữ số dòng và tiền tố; chưa có parser command, chưa xác minh speaker hay thử bản dịch trong RPCS3."
     }
   ]
 }
