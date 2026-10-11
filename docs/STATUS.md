@@ -492,3 +492,14 @@ Câu nói lắp/fragment hoặc tên Folk vẫn cần QA theo bối cảnh; **kh
 trạng thái reviewed/tested** và không tuyên bố đã vá vào game. File CMC đầu
 tiên còn trống được kiểm tra là `cmc/en/LCmc005_en.bi5_` (16 mục).
 Chưa có kiểm thử binary thật, command parser hay bản vá hội thoại playable.
+
+## Lượt 040 — 11/10/2026: CMC đoạn đầu, 253 bản dịch nháp
+
+Hoàn thành **253/253** mục trên 16 catalog CMC từ `LCmc005` đến
+`LCmc029` (không liên tục; chỉ các file theo queue). QA bất biến các trường
+nguồn/ID/SHA/offset/source_review; giữ nguyên cấu trúc xuống dòng và ký hiệu
+đầu chuỗi có thể là mã nhị phân, Unicode NFC. Không đoán speaker từ catalog.
+Tổng dự án **10.390/11.886 draft**, còn **1.496 todo**; số lượng không phản
+ánh mức hoàn thành patch có thể chơi. Merienda V3 và tệp game không đổi.
+Chưa có mẫu binary gốc để chứng minh parser command, con trỏ, repacker hoặc
+chạy trong RPCS3. CMC tiếp theo: `LCmc030_en.bi5_@00002a98`.

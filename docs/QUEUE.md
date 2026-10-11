@@ -527,3 +527,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Rà bất biến ID/offset/source/source_sha256/source_review, NFC, tiền tố (`$ / ( / space / newline`), số xuống dòng, câu lặp. Có mảnh có dấu hiệu nói lắp, tiền tố chưa rõ (`ON. Hmm...`) nên chỉ để draft và ghi notes; KHÔNG tự suy người nói hoặc thay cấu trúc.
 - Tổng catalog đạt **10.137/11.886 bản dịch nháp**, còn **1.749 todo** (chỉ số chuẩn bị dữ liệu, **chưa phải patch playable**). Không sửa font Merienda V3, game binary/ISO hoặc bản vá local.
 - **Tiếp theo nhánh dịch:** `cmc/en/LCmc005_en.bi5_@00004377` (16 todo); sau đó `LCmc007` 15 todo, `LCmc008` 17 todo và các CMC còn lại. **Ưu tiên kỹ thuật:** chưa có kiểm chứng `etc.bin_`/`etc.fht_` thật, cần probe + roundtrip parser message + safe repacker trước khi đưa thoại vào RPCS3.
+
+## Lượt 040 — 11/10/2026 (16 file CMC, 253 ứng viên thoại)
+
+- Từ checkpoint 039 `tk700` đã đủ bản nháp, chuyển sang CMC. **253 mục todo→draft** trên 16 tệp: `LCmc005` (16), `007` (15), `008` (17), `012` (8), `013` (20), `014` (20), `016` (20), `017` (3), `018` (19), `019` (21), `020` (18), `021` (16), `023` (29), `027` (11), `028` (2), `029` (18).
+- Làm theo ba commit độc lập (96+97+60). Nội dung chủ yếu Ellen tìm mẹ, Samhain, Áo choàng, ký ức người đã khuất, tháp/hải đăng, cùng điều tra Regine–Renaldo–Ryan–Herve–Suzette. Không định danh người nói từ thứ tự offset. Những nguồn quét có tiền tố `0/4/8/D/H/@/</$/(/,` giữ nguyên byte ký hiệu; bảo toàn số ngắt dòng, SHA gốc/ID/offset/source_review và NFC bản Việt. `Id`, `Folk`, `Folklore`, `Samhain`, `CERNUNNOS` giữ như tên/thuật ngữ.
+- Tất cả mới chỉ đạt **draft** và ghi cảnh báo trong notes: chưa xác minh opcode/speaker, chưa roundtrip hội thoại trên binary gốc, chưa thử RPCS3. Không sửa Merienda V3, etc.bin_, etc.fht_, ROM/ISO hoặc patch.
+- **Tổng 10.390/11.886 bản nháp; còn 1.496 todo**. Đây không phải 87,4% bản Việt hóa chạy được. Đợt tiếp theo của nhánh dịch là `cmc/en/LCmc030_en.bi5_@00002a98` (14 todo), kế tiếp `LCmc031` (14), `LCmc032` (9), `LCmc033` (11)... 
+- **Ưu tiên kỹ thuật thực sự:** chạy `tools/dialogue_probe.py` trên bản sao dữ liệu gốc tại máy, xuất `tools/dialogue_summary.py`, xác lập message/pointer/opcode và byte-perfect roundtrip trước khi có write-capable repacker và patch playable.
