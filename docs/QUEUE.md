@@ -496,3 +496,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Rà bất biến 110 ID/source/SHA-256/offset/source_review/thứ tự; chỉ sửa `vi/status/notes`, giữ tiền tố, số ngắt dòng, NFC và bản Việt trùng nguồn. **Chưa thử game** hoặc xác nhận parser/repacker; Merienda V3 và binary/payload giữ nguyên.
 - Tổng bản nháp **9.461/11.886**, còn **2.425 todo**; đây không phải phần trăm game đã Việt hóa chạy được.
 - **Tiếp theo (dịch):** `talk/en/tk600_en.bin_@0000699d` (`\nyou for your trouble.`), tiếp tục đối chiếu nguồn trùng và xử lý các mảnh mới theo QA. **Ưu tiên kỹ thuật chính:** chạy probe trên archive gốc, xác định command/pointer, rồi lossless message roundtrip trước khi thử patch.
+
+## Lượt 036 — 11/10/2026 (báo cáo cấu trúc không chứa văn bản nguồn)
+
+- Thêm `tools/dialogue_summary.py` và 4 synthetic unittest; biến báo cáo probe local thành tóm tắt số học cấu trúc, chỉ dùng danh sách trường cho phép, bỏ tiếng Anh, các ô hex/ASCII quanh chuỗi, tên section và mọi payload.
+- Giữ các mẫu vị trí tham chiếu u32 ở dạng **dấu vết byte**, chưa coi là pointer thật; chỉ chấp nhận đầu vào read-only đúng `BCUS98147` và đường dẫn output trong `local-data/` hoặc `dist/`.
+- Cung cấp thao tác local trong `docs/DIALOGUE_BINARY_PROBE.md` để sau này có thể rà cấu trúc mà không cần đưa ROM/ISO lên cloud. Không can thiệp game, font V3 hoặc catalog trong lượt kỹ thuật này.
+- **Tiếp theo:** chạy probe thực trên bản gốc và đọc JSON tóm tắt; sau khi có đủ chứng cứ mới thiết kế parser lệnh thoại, lossless roundtrip cấp message và repacker an toàn. Mốc bản dịch vẫn 9.461/11.886 draft, 2.425 todo.

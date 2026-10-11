@@ -454,3 +454,11 @@ NFC và metadata bất biến. Các mảnh ASCII-NUL chưa có speaker/scene xá
 không đánh dấu reviewed/tested. Tổng catalog hiện **9.461/11.886 draft**,
 **2.425 todo**. Chưa có patch hội thoại playable, font Merienda V3/binary
 gốc không đổi. Parser/repacker vẫn là ưu tiên chính sau khi có báo cáo local.
+
+## Lượt 036 — 11/10/2026: handoff thống kê cấu trúc
+
+Thêm `tools/dialogue_summary.py` để người dùng tự xuất JSON metadata không
+chứa nguyên văn câu thoại, các cửa sổ byte, hay dữ liệu binary game. Công cụ
+chỉ giữ offset/ranh giới và mẫu u32, chưa xác nhận là pointer. Kiểm thử chỉ
+bằng synthetic fixtures; **chưa chạy local trên game gốc**, chưa có message
+parser hoặc repacker. Tổng bản nháp 9.461/11.886, còn 2.425 todo.

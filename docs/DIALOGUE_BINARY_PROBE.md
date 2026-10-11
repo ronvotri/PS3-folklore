@@ -113,3 +113,23 @@ command, trailer; thử sửa độ dài section/padding và count thì phải t
 Chưa có binary gốc trong cloud nên chưa chứng minh roundtrip với game thật;
 không có tính năng lưu/bơm phần tiếng Việt vào CMC. Mốc LOSSLESS ở cấp
 **message command stream** vẫn chưa đạt, chưa được phép viết repacker.
+
+## Lượt 036 — tóm tắt cấu trúc đã loại bỏ nội dung (11/10/2026)
+
+Có công cụ độc lập `tools/dialogue_summary.py`, **chỉ đọc** báo cáo local do
+`dialogue_probe.py` tạo ra và xuất ra một tệp JSON nhỏ hơn chỉ chứa số liệu
+cấu trúc: vị trí section/ứng viên, số lần nhìn thấy mẫu u32, endian và vị trí
+khớp. Không sao chép `source`, byte-window `*_hex`, ASCII preview, tên section
+hay payload gốc. Mẫu u32 vẫn là **byte pattern**, KHÔNG phải con trỏ đã xác minh.
+
+Trên máy có bản gốc, chạy trong thư mục repo (file game **chỉ nằm local**):
+
+    python tools/dialogue_probe.py --bin-dir "D:\\DUONG-DAN\\DEN-THU-MUC-BIN" --files talk/en/tk100_en.bin_ talk/en/tk101_en.bin_ cmc/en/LCmc000_en.bi5_ --max-samples 40
+    python tools/dialogue_summary.py --in local-data/dialogue-probe.json --out local-data/dialogue-structure-summary.json
+
+Tệp `local-data/dialogue-structure-summary.json` có thể được kiểm tra thủ
+công rồi chia sẻ **nếu người dùng đồng ý** để phân tích cấu trúc, thay cho việc
+đưa ROM/ISO hoặc tệp nhị phân gốc. Đừng đẩy cả hai báo cáo lên GitHub.
+Khi dùng `--verify-only`, summary vẫn có thống kê section và số lượng nguồn,
+nhưng không có mẫu u32. Muốn có bằng chứng pointer cần bỏ `--verify-only`
+trong bước probe đầu tiên và đối chiếu nhiều file thật. Chưa có kết quả local.
