@@ -11,100 +11,100 @@
       "file_offset": 10471,
       "source": "0You have helped me,\nI'd like to repay you.",
       "source_sha256": "6a0994f3074ab25fa4fba32212612064112551fac29c62e30247a136e2d110cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Bạn đã giúp tôi,\ntôi muốn đền đáp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@00002927",
       "file_offset": 10535,
       "source": "8I think it's fair to say\nthat you are disturbed.",
       "source_sha256": "a79729810e6ea8124a48cf166406e06b5518842a097ae4825f197d9667d674ee",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Tôi nghĩ có thể nói\nrằng bạn đang bất an.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@0000295f",
       "file_offset": 10591,
       "source": "4You do realize what this\nall means, don't you?",
       "source_sha256": "0c252481b4257db4b064372da3d93752d8f6b9e5ba4acee808352dea0fb5ab65",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Bạn hiểu tất cả\nchuyện này nghĩa là gì chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@00002993",
       "file_offset": 10643,
       "source": "0These trips to the\nNetherworld, and such...",
       "source_sha256": "117db0e8af088f10011040c4e9c91929850e3061666ee2439344ec9ebcfcd43c",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Những chuyến đi tới\nCõi âm và mọi chuyện ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@000029db",
       "file_offset": 10715,
       "source": "$Wait!\nDon't say another word!",
       "source_sha256": "016bb30aa2054ac9218621a3ce2d1ad6f804b7d26cb08528dfae9a42eb61b8f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Khoan đã!\nĐừng nói thêm gì nữa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@000029ff",
       "file_offset": 10751,
       "source": "0Sometimes I don't\nknow what's happening...",
       "source_sha256": "df096f6c622c6e371cf5aac2b54d903a42d24841499658a73a7e567544ef7b4f",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Đôi khi tôi chẳng\nhiểu chuyện gì đang xảy ra...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@00002a2f",
       "file_offset": 10799,
       "source": "$You once lived in\nthis village.",
       "source_sha256": "2bdf9cb607e8daa9ee0c72b7fdd674c26e1a89245c23d8368e0f941a9c7bbf45",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bạn từng sống ở\nngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@00002a53",
       "file_offset": 10835,
       "source": "0That's why you\nhave memories of\nthe dead.",
       "source_sha256": "913312cd10d33ef0948dc9949988877625d51a821320a038984f336570d415c1",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Vì thế bạn mới\ncó ký ức của\nnhững người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@00002a8b",
       "file_offset": 10891,
       "source": ",There is something\nI would like to try.",
       "source_sha256": "c1803045b7d5e9796b7284b31b6c2dca9c9e066eeba49ee4f3922fd93955a7a5",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Có một việc\ntôi muốn thử.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     },
     {
       "id": "cmc/en/LCmc063_en.bi5_@00002ab7",
       "file_offset": 10935,
       "source": "4It should shed light\nupon your lost\nmemories.",
       "source_sha256": "1a8583f51eb9a9d69d1afe9fefe49b96bf1ad01efcc847a9e5a0a02b165e0f1f",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Việc đó có thể giúp\nsoi sáng những\nký ức đã mất của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên; chưa xác minh speaker/metadata và runtime."
     }
   ]
 }
