@@ -11,30 +11,30 @@
       "file_offset": 11071,
       "source": "$Why did you kill\nthe villagers?",
       "source_sha256": "6a8d880e78911e4abdde59d27be9b414dab2cc5bd0a2c0a82641e456573c0555",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tại sao ngươi giết\ndân làng?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc168_en.bi5_@00002c50",
       "file_offset": 11344,
       "source": "You're the Hag?",
       "source_sha256": "9121b68d73c579ae3c0e6ce9953e7eccefbace340f0670816ba6b5a06991ceee",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ngươi là mụ Phù thủy già sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc168_en.bi5_@00002c63",
       "file_offset": 11363,
       "source": "(We finally meet.\nIs Ellen in there?",
       "source_sha256": "60afef8e6885430d21dc1f54693ad359b28cf725747a8c9bc650c3f92e497e88",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Cuối cùng cũng gặp nhau.\nEllen có ở trong đó không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
