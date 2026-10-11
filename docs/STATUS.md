@@ -369,3 +369,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA: chỉ vi/status/notes của đúng 100 ID; source/sha256/offset/source_review/order không thay, NFC, newline, prefix, placeholder và nguồn lặp nhất quán. Mọi entry vẫn candidate/draft; chưa có parser/repacker talk/cmc hay QA RPCS3; Merienda V3/ROM/binary không đổi.
 - Tổng 158 catalog: **7.315/11.886 draft**, còn **4.571 todo** (độ phủ ứng viên, chưa phải patch playable).
 - **Tiếp:** `talk/en/tk205_en.bin_@0000d7d9` (`no matter how hard they're hit...`). CI GitHub Actions validator/unittest sau commit.
+
+## Lượt 028c — 11/10/2026 (hoàn tất 453 mục cuối tk205)
+
+- Từ `talk/en/tk205_en.bin_@0000d7d9` đến `talk/en/tk205_en.bin_@00026cc3` xử lý **453 todo→draft** theo chín nhóm QA: **413** nguồn trùng nguyên bản đã dịch ở các catalog trước và **40** mảnh nguồn mới dịch nháp. **tk205 hoàn tất 653/653 draft**, 0 todo.
+- Nội dung bổ sung: hướng dẫn quái Folk/địa điểm, Cõi Địa Ngục, tội lỗi, phán xét, thang máy, y phục, những câu đùa/faery và các hội thoại tái sử dụng từ những vùng trước. Giữ nguồn trùng giống hệt; không tự gán speaker. Những từ `clerical duties` và ngữ cảnh phòng xử án có notes cần xác minh, giữ bản dịch nguồn trùng từ catalog trước thay vì tự chỉnh lệch.
+- QA dữ liệu: chỉ `vi/status/notes` sửa ở 453 ID; source/SHA-256/offset/source_review/order bất biến, Unicode NFC, số newline, dấu đầu, placeholder, 0 xung đột giữa nguồn trùng; các mục đều `candidate/draft`, không đánh dấu reviewed/tested.
+- Tổng **7.768/11.886 draft, còn 4.118 todo** trên 158 catalog nguồn trích, không phải phần trăm bản vá playable. Chưa parser/repacker talk/cmc, chưa test RPCS3; Merienda V3, ROM/ISO, binary không thay đổi.
+- `tk206` và `tk207` đã hoàn tất sẵn; **tiếp theo:** `talk/en/tk306_en.bin_@00001158` của `tk306` (244 todo). CI GitHub Actions sẽ chạy validator/unittest sau khi push.
