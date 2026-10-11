@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk500_en.bin_.json`: bắt đầu tại `talk/en/tk500_en.bin_@00001158` (`To Netherworld`); tệp có **528 todo**, chưa có draft. Tái dùng nguồn trùng, dịch source mới theo cảnh, QA và commit theo nhóm vừa sức. `tk307` đã xong 811/811.
+1. `translations/catalogs/talk/tk600_en.bin_.json`: bắt đầu tại `talk/en/tk600_en.bin_@00001158` (`To Netherworld`); **544 todo, 0 draft**. `tk500` đã hoàn tất 528/528 draft. Dịch source mới theo cảnh, tái dùng nguồn trùng, QA/commit từng nhóm an toàn.
 2. Các tệp `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đã đủ **3.273/3.273 mục draft** cộng lại; ba CMC `LCmc000`, `LCmc002`, `LCmc004` có 46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu **1.016/1.016 draft**; CMC 46 draft; các talk `tk000`, `tk011`, `tk100`–`tk107`, `tk200`–`tk207`, `tk306`, `tk307` đã hoàn tất nháp. Tổng toàn repo **8.823/11.886 draft**, còn **3.063 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu **1.016/1.016 draft**; CMC 46 draft; các talk `tk000`, `tk011`, `tk100`–`tk107`, `tk200`–`tk207`, `tk306`, `tk307`, `tk500` đã hoàn tất nháp. Tổng toàn repo **9.351/11.886 draft**, còn **2.535 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -459,3 +459,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA từng commit: chỉ `vi/status/notes` được đổi, English, ID, SHA nguồn, offset, source_review, thứ tự bất biến; NFC/newline/tiền tố/placeholder và nguồn trùng không xung đột. Không thay font Merienda V3, payload, ROM, ISO hoặc metadata nhị phân; không đánh dấu reviewed/tested.
 - Tổng 158 catalog **8.823/11.886 draft**, còn **3.063 todo** (chỉ là độ phủ nháp nguồn trích, chưa phản ánh patch playable). Parser/repacker talk/cmc và kiểm tra trên RPCS3 vẫn còn thiếu.
 - **Tiếp theo:** `talk/en/tk500_en.bin_@00001158`, có 528 todo; `tk600` có 544 todo và `tk700` 242 todo. Các tệp CMC chưa hoàn thành còn lại vẫn cần rà sau nhóm talk. Không suy CI PASS nếu chưa có kết quả xác minh trên GitHub Actions.
+
+## Lượt 031 — 11/10/2026 (hoàn tất 528 mục tk500)
+
+- Tiếp đúng `tk500` từ `talk/en/tk500_en.bin_@00001158` (`To Netherworld`) đến `talk/en/tk500_en.bin_@0001a237` (`I have no business this way.`). Chuyển **528 todo→draft** qua 6 commit riêng (100 + 100 + 100 + 100 + 100 + 28); **tk500 528/528 draft, 0 todo**. Tái dùng **29** nguồn đã dịch, **5** mục lặp nội bộ và dịch **494** nguồn mới.
+- Ngữ cảnh: người cha và cậu bé, tạp chí UNKNOWN REALMS, quán rượu Doolin, linh hồn/hội thoại nhiệm vụ, sự biến mất của trẻ em, tình cảm Faery, truyền thuyết chiến binh cổ, Ellen, và phân đoạn truyện cổ trong cuốn sách của cậu bé (châm biếm mô-típ Chén Thánh). Giữ tên riêng như Frizzie, Ethersword, Oblivion và mã ngoặc vuông `[Truffid]`, `[Rannunculus]`. Các fragment chưa rõ chủ thể/vai nói có notes để rà sau.
+- QA từng batch: chỉ sửa `vi/status/notes` của ứng viên mới, thêm **2 chỉnh sửa từ vựng** tại mục 61 và 473; ID/source/SHA/offset/source_review/thứ tự bất biến; Unicode NFC, newline, prefix `$`, `(`, space và các placeholder được soát, không có nguồn trùng mâu thuẫn trong tk500. Đây là QA cấu trúc trên dữ liệu GitHub, **chưa chạy xác minh được** `python tools/catalog.py validate` và unittest Windows/Linux trong môi trường hiện tại; cần đối chiếu CI.
+- Tổng **9.351/11.886 draft, còn 2.535 todo** của ứng viên đã trích, không phải tỷ lệ bản vá có thể chơi được. Chưa có parser/repacker talk/cmc hay kiểm tra RPCS3; giữ font Merienda V3, game binary, ROM/ISO và payload nguyên vẹn.
+- **Tiếp theo:** `talk/en/tk600_en.bin_@00001158` (544 todo); sau tk600 đến `tk700` (242 todo), rồi các CMC còn lại. Không cần user cung cấp ROM để dịch dữ liệu catalog.
