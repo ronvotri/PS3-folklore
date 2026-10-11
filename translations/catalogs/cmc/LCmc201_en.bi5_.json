@@ -11,100 +11,100 @@
       "file_offset": 11175,
       "source": "$I must escape\n...I need to hide",
       "source_sha256": "8739b811b385694bbdadc7bccd9b266e810a551cf766dd738fbba8e5002cc493",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Mình phải trốn thoát\n...Phải tìm chỗ nấp",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002bcc",
       "file_offset": 11212,
       "source": "But where...",
       "source_sha256": "1b5a01c091b3ec9a0de2ff58c880c4fbbe0bd9c04dd2e2cbeb92adf4b68162c9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng ở đâu đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002beb",
       "file_offset": 11243,
       "source": " Please...\nWhat's happening?",
       "source_sha256": "0008e274ce3b85de4af8f84663943a1f714db0bdf464ec0cb76d5d1dcbd56801",
-      "vi": "",
-      "status": "todo",
+      "vi": " Làm ơn...\nCó chuyện gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002c0b",
       "file_offset": 11275,
       "source": "<Don't be frightened\nYou'll be safe here\nJust stay there",
       "source_sha256": "0e50ed453716756989bc76fffc7773e46f437110bf47792c2cd6c85b86bb280a",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Đừng sợ\nỞ đây con sẽ an toàn\nCứ ở yên đó",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002c47",
       "file_offset": 11335,
       "source": ",Mother will be back\nbefore you know it",
       "source_sha256": "1c6e5e90eafad04f5e7bbe61c1c62b61d705399bc2b803ccaefd31cc4eeb1a20",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Mẹ sẽ quay lại\nngay thôi",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002c7c",
       "file_offset": 11388,
       "source": "Wait!",
       "source_sha256": "34621f0d50c83c4de241348b5c775b75e0ba31c149df2d2b6ac0decc370fccfb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khoan đã!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002c88",
       "file_offset": 11400,
       "source": "I'm scared!\nHelp me!",
       "source_sha256": "fc87be1523906ebaf8488d40c4447aed316cc7529848a75cfa4b748d0c67217b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Con sợ lắm!\nCứu con với!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002ca3",
       "file_offset": 11427,
       "source": "$I...I don't want\nto stay here!",
       "source_sha256": "cc6461d86ba89e82c767665fc5944125a71a7ef241aec9a02de13774ce9d360c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Con... con không muốn\nở lại đây!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002ccf",
       "file_offset": 11471,
       "source": " Why is everyone\nso angry?",
       "source_sha256": "5c9f1936486210f1e66cece0f86c494ffef0d09fa0605bc2c7e64b517ac743fc",
-      "vi": "",
-      "status": "todo",
+      "vi": " Sao mọi người\nlại giận dữ thế?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc201_en.bi5_@00002cf0",
       "file_offset": 11504,
       "source": "Please!\nMother!",
       "source_sha256": "53323a0c637545098cb902c88eab824f52055cd91a1870ca8d3db1fab754b09e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Làm ơn!\nMẹ ơi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
