@@ -11,80 +11,80 @@
       "file_offset": 10840,
       "source": "Hmm?",
       "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hửm?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002a6c",
       "file_offset": 10860,
       "source": "Nothing there.",
       "source_sha256": "fa8185284718e9bde01cbab2c131f8e83a586d160d89418c80974ddc2a0dec75",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chẳng có gì cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002a7f",
       "file_offset": 10879,
       "source": "0our Hero fidgeted at\nbumps in the night.",
       "source_sha256": "33209a082e60033080b427520dcb61af9e6b215fd6b7e44d56327c0e02cd3a99",
-      "vi": "",
-      "status": "todo",
+      "vi": "0người hùng của ta giật mình\nvì tiếng động trong đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002aaf",
       "file_offset": 10927,
       "source": ",I'm like a child.\nScared of the dark!",
       "source_sha256": "486730e3f76806e1628340ef8b519f096196c92e4997365d13b109c09f394723",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Mình như trẻ con vậy.\nSợ cả bóng tối!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002ae7",
       "file_offset": 10983,
       "source": "0Next thing you know,\nI'll be seeing ghosts.",
       "source_sha256": "ccfa4a69db175834ff0ba5fc9b598aea9a24c55bdd7eb952e4f64e60a9a8a11e",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Cứ đà này,\nmình sẽ thấy cả ma mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002b18",
       "file_offset": 11032,
       "source": "Oh, wow.",
       "source_sha256": "6c7af00ac1e265e2ecc07b63f9eb31c5fa801f49443d40ddbe229f158ad63172",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ồ, ghê thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002b28",
       "file_offset": 11048,
       "source": "Spooked by shadows,",
       "source_sha256": "df858985be95feca3db3fdc02deea21aea6b8f80a61ae7be184ca3c5aca6fb73",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sợ cả bóng mình,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc118_en.bi5_@00002b3f",
       "file_offset": 11071,
       "source": "DWhat I should be\nseeing is a doctor...\nI could be going mad.",
       "source_sha256": "7f2bde2e0306f519973abb6f1febc9817cbeb22cac07a38f55110e511134b42d",
-      "vi": "",
-      "status": "todo",
+      "vi": "DĐúng ra mình nên\nđi khám bác sĩ...\nCó khi mình điên rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
