@@ -13,6 +13,20 @@ Human translations remain Vietnamese NFC. Do not replace the font, remove
 aliases, or return to direct three-byte encoding for these characters.
 This is a small menu test, not a full-game or full-alphabet verification.
 
+## Current priority (confirmed 2026-10-11)
+
+User prioritizes a **playable Vietnamese game over raw draft coverage**. For the
+next continuation, start with `docs/DIALOGUE_BINARY_PROBE.md` and the
+`tools/dialogue_probe.py` read-only forensic path for talk/CMC. Validate
+original binary/sections/pointer hypotheses on local backups, then prove a
+lossless parse→serialize roundtrip BEFORE implementing a write-capable repacker.
+Do not treat `draft` count as game-completion percentage. Keep translation
+work as a secondary track, and NEVER overwrite original dialogue offsets with
+UTF-8 variable-length strings. There are no original game binaries in the
+GitHub repo, so the forensic probe has only synthetic test coverage so far.
+Do not mark dialogue `reviewed`/`tested` from heuristic string order/speaker.
+Preserve confirmed Merienda V3 assets and all local patches.
+
 ## Default translation work
 
 When asked to continue translating, work immediately on the existing catalogs.
