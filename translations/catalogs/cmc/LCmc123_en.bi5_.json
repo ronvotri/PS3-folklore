@@ -11,20 +11,20 @@
       "file_offset": 9271,
       "source": "$Harriet...\nBehind the church...",
       "source_sha256": "855c2b4e00400f96f099613165a89f678ae187ad33db4be95a700f6d0e5facfc",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Harriet...\nPhía sau nhà thờ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc123_en.bi5_@0000245b",
       "file_offset": 9307,
       "source": ",There's something\nI want to show her...",
       "source_sha256": "fc9ed0bc788524b8b28a2a42f5f58d19b7ad89ed6760dbb84b4bd6be7be48a77",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Có một thứ\ntôi muốn cho cô ấy xem...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
