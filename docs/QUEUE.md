@@ -419,3 +419,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA dữ liệu: chỉ `vi/status/notes` sửa ở 453 ID; source/SHA-256/offset/source_review/order bất biến, Unicode NFC, số newline, dấu đầu, placeholder, 0 xung đột giữa nguồn trùng; các mục đều `candidate/draft`, không đánh dấu reviewed/tested.
 - Tổng **7.768/11.886 draft, còn 4.118 todo** trên 158 catalog nguồn trích, không phải phần trăm bản vá playable. Chưa parser/repacker talk/cmc, chưa test RPCS3; Merienda V3, ROM/ISO, binary không thay đổi.
 - `tk206` và `tk207` đã hoàn tất sẵn; **tiếp theo:** `talk/en/tk306_en.bin_@00001158` của `tk306` (244 todo). CI GitHub Actions sẽ chạy validator/unittest sau khi push.
+
+## Lượt 029 — 11/10/2026 (hoàn tất 244 mục tk306)
+
+- Tiếp đúng checkpoint sau tk205: `tk206` và `tk207` đều đã được dịch nháp trước đó, nên làm `tk306`. Dịch **244 todo→draft**, từ `talk/en/tk306_en.bin_@00001158` đến `talk/en/tk306_en.bin_@0000c45f`: **184** mục nguồn trùng khớp với bản dịch tk204–205/các lượt trước, **60** lượt mảnh mới (có các lần lặp cùng nguồn) được soạn nháp.
+- Mạch: Doolin thời quá khứ, người bạn vẽ tranh, ký ức tuổi nhỏ, người thân và nhà thờ, thương tích/vách đá, nỗi sợ và hướng dẫn chiến đấu. Không tự xác định speaker từ offset; những mảnh mơ hồ ghi notes.
+- QA theo nhóm: chỉ `vi/status/notes` của 244 ID được sửa; id, source/source_sha256, offset, source_review, thứ tự giữ nguyên; NFC, newline, mã đầu/placeholder, 0 xung đột khi bản nguồn lặp. Tệp `tk306` **244/244 draft**. Chưa parser/repacker talk/cmc, chưa test RPCS3 hoặc sửa font Merienda V3/ROM/ISO/binary.
+- Toàn repo **8.012/11.886 draft**, còn **3.874 todo**; chỉ phản ánh độ phủ nháp nguồn trích, không phải tỷ lệ bản vá chơi được.
+- **Tiếp theo:** `talk/en/tk307_en.bin_@00001158` (nguồn `To Netherworld`), tk307 có 811 mục; CI GitHub Actions validator/unittest sau commit.
