@@ -371,3 +371,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Nội dung: mộ đá Doolin, cái chết và ký ức, nỗi sợ, tự do ý chí và quan hệ giữa con người với Sứ giả. Tránh áp đặt đại từ vào fragment chưa xác minh; ưu tiên giọng nghiêm trang/u tối, thoại ngắn không cộc.
 - QA: đúng 100 ID theo checkpoint; chỉ vi/status/notes, giữ ID/source/source_sha256/file_offset/source_review/order, NFC, newline, tiền tố và placeholders, không xung đột bản dịch nguồn trùng. Vẫn draft/candidate chưa có parser/repacker talk/cmc hoặc QA runtime RPCS3. Không thay Merienda V3/ROM/ISO/binary.
 - Tổng 158 catalog **6.492/11.886 draft**, còn **5.394 todo** của nguồn đã trích. **Tiếp:** `talk/en/tk204_en.bin_@0000c430`. GitHub Actions Windows/Linux sẽ chạy validator/unittest sau commit.
+
+## Lượt 027c — 11/10/2026 (100 mục tk204, mạch vách đá và ký ức)
+
+- Từ `talk/en/tk204_en.bin_@0000c430` đến `talk/en/tk204_en.bin_@00011c5d`: **100 todo→draft**, gồm 4 nguồn trùng từ trước, 2 lần trùng trong batch và 94 mảnh mới. `tk204` đạt **300/823 draft**, còn 523 todo.
+- Chủ đề: cô gái mất tích, vách đá, mộ đá Doolin, bất hòa giữa ký ức/quá khứ và thực tại, tuyệt vọng, nghi vấn án mạng 17 năm trước. Các câu cắt mảnh, đại từ và chỉ dẫn cơ chế chưa rõ được ghi notes thay vì xác nhận sai.
+- QA: 100 ID đúng, chỉ sửa vi/status/notes; giữ source/ID/SHA/offset/source_review/order, Unicode NFC, newline, prefix, placeholders và source trùng nhất quán. Chưa có parser/repacker talk/cmc, chưa thử RPCS3; giữ nguyên Merienda V3/ROM/ISO/binary.
+- Tổng dự án **6.592/11.886 draft**, còn **5.294 todo**. **Tiếp theo:** `talk/en/tk204_en.bin_@00011de6`. CI Windows/Linux validator/unittest sau push.

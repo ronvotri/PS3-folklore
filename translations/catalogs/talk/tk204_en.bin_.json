@@ -2011,1000 +2011,1000 @@
       "file_offset": 50224,
       "source": "\nas happy as could be.",
       "source_sha256": "526e1641d5fd6e30e227f9471933b961cad464d83f77db5578e2d24625ee3294",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhạnh phúc không gì sánh bằng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c4aa",
       "file_offset": 50346,
       "source": "\ngood looks... no lack of friends.",
       "source_sha256": "26c60597b05188d2b4bc34c7f3531a200f64012bd158a5019d38559b93f0d912",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngoại hình ưa nhìn... bạn bè cũng chẳng thiếu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c527",
       "file_offset": 50471,
       "source": "$Why did she go away from me?",
       "source_sha256": "1b397819c03bef4b96bfd1f55472516b58eac57591c9a9c8d728eac3ae665f4f",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tại sao cô ấy lại bỏ tôi mà đi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c5e8",
       "file_offset": 50664,
       "source": "She... must be alive.",
       "source_sha256": "315dd24a11af06992011ac5f7d87fe4e75d0f9d9115bdedaa8db025557a58c52",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô ấy... chắc vẫn còn sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c74e",
       "file_offset": 51022,
       "source": "\nopen then!",
       "source_sha256": "bce5717c461c7eece9411eb13a1836fe613dbfa85d0647764140b69d4ab1ad7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvậy thì mở ra đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c87c",
       "file_offset": 51324,
       "source": "\ngive you false hopes.",
       "source_sha256": "bc1496961719cd2b678d889d2f590e431bb3c30900894c7c78413de3b23dfcea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể bạn ôm hy vọng hão huyền.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c974",
       "file_offset": 51572,
       "source": "\nin the first place!",
       "source_sha256": "62e52da5e729fc64ab3c77028f77c98a61d3dd519b466b5af6265fa4b94fce3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay từ đầu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ca2b",
       "file_offset": 51755,
       "source": "$There's nothing more to say.",
       "source_sha256": "80ff80d9b05aa84b800d2f6d8d6f8497961d6479e12988007d3617d2e4414b67",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chẳng còn gì để nói nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000cb27",
       "file_offset": 52007,
       "source": "\nform of this twisted fabrication",
       "source_sha256": "e402d031decd62764c2df6eeeacdf8007c91af88d48d8f0259d85b97c78a342b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhình dạng của thứ hư cấu méo mó này",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000cb8f",
       "file_offset": 52111,
       "source": "(I no longer have a reason to live.",
       "source_sha256": "b278f631b436a0495f98195b2764f1d347eb8b309f9e623bc1069bade99f5989",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi chẳng còn lý do gì để sống nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ce05",
       "file_offset": 52741,
       "source": "\naround in a daze.",
       "source_sha256": "762e9e7f13389cd1afb9742263cea3bc31e7807a4041b9016e8fd14b635d5cc7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlang thang như người mất hồn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ce92",
       "file_offset": 52882,
       "source": "\nDo you think he's all right?",
       "source_sha256": "93038e9a31b1a9f2c67600724724eea2d8c04bb718c00c318e27e4788283f0ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn nghĩ anh ấy có ổn không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000cf08",
       "file_offset": 53000,
       "source": "The cliff!?!",
       "source_sha256": "913949e97151c559bf15f22d5155531998866251460a40201d128724901aef74",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vách đá sao!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000cfff",
       "file_offset": 53247,
       "source": "\nprobably dead.",
       "source_sha256": "0237bf82a0ac647babcf9c1328e223ffb75f1ffff917f23b08cce00fb67f4af7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó lẽ đã chết rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d0b1",
       "file_offset": 53425,
       "source": "\nweek before and would return.",
       "source_sha256": "9d38fb92528407eddefd580bb65d6b540c9e922470acc059fe06e1f522638070",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntuần trước và sẽ quay lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d24b",
       "file_offset": 53835,
       "source": "(Why is he heading for the cliff?",
       "source_sha256": "f0f32292a013d3338127c04d926e80aace1c003de222aed202f4e0db63ebfde6",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Sao anh ấy lại đi về phía vách đá?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d2b4",
       "file_offset": 53940,
       "source": "I have to go after him!",
       "source_sha256": "3565e6bf95828d8cfce62da9478b591bdfcdfe09801ccfcae0d7d02d9d7d01be",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi phải đuổi theo anh ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d3e7",
       "file_offset": 54247,
       "source": "! Don't you dare!",
       "source_sha256": "62e17148e497939496c534ac5206efbd5b59dbc860c32b6ed4b68a872b7f2140",
-      "vi": "",
-      "status": "todo",
+      "vi": "! Đừng có làm liều!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d45a",
       "file_offset": 54362,
       "source": "\ndecisions!",
       "source_sha256": "8ca35713e46422cc3be93043671c912eb511f476ea466fe0cff888001e40f158",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững quyết định!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d507",
       "file_offset": 54535,
       "source": "(I'm so sorry. It's all my fault.",
       "source_sha256": "9f02ce59ee028fe83a9d2eb5e76b51447227ca0989a5c5e9b996729000a002cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi xin lỗi. Tất cả là lỗi của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d642",
       "file_offset": 54850,
       "source": "\nI didn't mean to worry you.",
       "source_sha256": "7dafeb24d63c939cc3ebd39fe3c7cb939fd15f6adbd24c22bce59e5ad7da7f0c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không cố ý khiến bạn lo lắng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d6e5",
       "file_offset": 55013,
       "source": "\neffort you made for me.",
       "source_sha256": "c61492d9091c1c915c4fe44418f7ac76b7f182b7b69eded9823a4b67e5304cd7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncông sức bạn đã bỏ ra vì tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d7bf",
       "file_offset": 55231,
       "source": "\nis no way around it.",
       "source_sha256": "ca5dc6a498e7ea18c1a2b699dfaf39ac267018f1f7ab85ca32a945abe6a68578",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng còn cách nào khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d84b",
       "file_offset": 55371,
       "source": "\nbring myself to accept it.",
       "source_sha256": "e0cd0f8280e60b7d7c9d21e482173e43239c6a9f14a8b8d623f48f0323cead86",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thể ép mình chấp nhận điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d927",
       "file_offset": 55591,
       "source": "\nof yore...",
       "source_sha256": "1321250b9e4aa877f8f9b510cec0856e80ecffc18a9209dac72e5a82d1c8784e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntừ thuở xa xưa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000d9d1",
       "file_offset": 55761,
       "source": " itself.",
       "source_sha256": "2a8b760b63dea218e3ba28d0cca1318cdee3b77fbe352887c9c172638b108561",
-      "vi": "",
-      "status": "todo",
+      "vi": " chính nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000dab7",
       "file_offset": 55991,
       "source": "\nTold me what I needed to hear.",
       "source_sha256": "cad9bed764df316e14d7dce81ef97174ebac2e02042dbc7fc1b3e89b190c3a26",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐã nói đúng những điều tôi cần nghe.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000db54",
       "file_offset": 56148,
       "source": "\nface the depths of my despair.",
       "source_sha256": "c5315bf7a4f2e4c3fefc8463d57f73737c8506db3e11b877c80fbc488ac59308",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđối diện với tận cùng tuyệt vọng của mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000dbd6",
       "file_offset": 56278,
       "source": "\nthe depth of my love for her.",
       "source_sha256": "0d6433386659675a95e46ed461b1c728ccf714f0671d46983e44c81b7529bc29",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntình yêu sâu đậm tôi dành cho cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000de79",
       "file_offset": 56953,
       "source": " home base.",
       "source_sha256": "96b30a34e43199a78c4344c6ec1745296bd7a56332aaf749a3a865b69839254d",
-      "vi": "",
-      "status": "todo",
+      "vi": " căn cứ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000defa",
       "file_offset": 57082,
       "source": "\nwe have come this far.",
       "source_sha256": "b3e0a6545c0bbecfd05dae3bea9420c51a5aed3bd5c734812e258d894393fee9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng ta đã đi xa đến mức này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e0b5",
       "file_offset": 57525,
       "source": "\nhide in the village.",
       "source_sha256": "c08f4d002ef671e1ad79e36e5600ffb8ce36f6cd86f93a9c3f4282cce0f0bc6a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nẩn náu trong làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e281",
       "file_offset": 57985,
       "source": "\nGo and find her.",
       "source_sha256": "e89b2d1573dcdfa46cffbc3867b2e1ded1b2ab594d9181f301284b8bd6616b26",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐi tìm cô ấy đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e386",
       "file_offset": 58246,
       "source": "\nstrength. It would destroy you.",
       "source_sha256": "c40c219a13198cf2d7731bc22e52154cb0ac6654c9b1f3e65361b21163f59c2a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh. Nó sẽ hủy diệt bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e40b",
       "file_offset": 58379,
       "source": "\nfears!",
       "source_sha256": "7fa5ab9dc2ddac09ec7b4354f300797116e0660b0d8aad99213a17a9ebfb3754",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững nỗi sợ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e499",
       "file_offset": 58521,
       "source": "\ntoo frightened to face it.",
       "source_sha256": "a34e5d3fd6584e57df81e7178570a8417556d57e0fbf8fd8d48fae2277ee636f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquá sợ hãi để đối mặt với nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e572",
       "file_offset": 58738,
       "source": " again.",
       "source_sha256": "3e14c2234e98ed37c441b6885a186df797aa38078f98ad1953eb8122addd519f",
-      "vi": "",
-      "status": "todo",
+      "vi": " một lần nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e686",
       "file_offset": 59014,
       "source": "\nwill have stopped shuddering.",
       "source_sha256": "5d0e407ef1aa00b307bf97d056f3fe230269994335f031c4fae59892483a8dfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ không còn run rẩy nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e7ac",
       "file_offset": 59308,
       "source": "\ndefensive by toppling it.",
       "source_sha256": "e72f6e786c560cf8da6890d404dd5737e8bd94592b79cf2781a933927f443421",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng thủ bằng cách đánh đổ nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e853",
       "file_offset": 59475,
       "source": "\nfind it for all this time.",
       "source_sha256": "1723103a01847089ed796e4a8cf54a169cbc573cae9a3ade84bdf9d7aec9a665",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm được nó suốt ngần ấy thời gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000e970",
       "file_offset": 59760,
       "source": " here.",
       "source_sha256": "78939e6020b2f2c43c582920a385fb63d09ee40b7e916834f29583b36c58cd40",
-      "vi": "",
-      "status": "todo",
+      "vi": " ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Sử dụng bản dịch nguồn trùng đã được ghi trong catalog trước, vẫn thiếu parser/speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ea08",
       "file_offset": 59912,
       "source": "\nthey will attempt to interfere.",
       "source_sha256": "bed9de49b93254562cbc4c7bfb8394a701dee0d86b1b5b9e2be218ab800429b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchúng sẽ tìm cách can thiệp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ea9a",
       "file_offset": 60058,
       "source": "\nrestore your memory, as well.",
       "source_sha256": "f03198b28077d234b2ef6f46c252c9a67a6097670d8d35c29d1f0c1307d54158",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhôi phục cả ký ức của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000eba8",
       "file_offset": 60328,
       "source": "\nthe Faerys.",
       "source_sha256": "b7946f7bc7c5cab5690e46c638d4a32c2e3334c2edf4512c6228fb24cc9d3ec0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncác Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ed8c",
       "file_offset": 60812,
       "source": "\nadvanced technology!",
       "source_sha256": "bdac3eea3535bc4eca4b8455e624b189880552ea10c9e7cd7f2cc11c014d6822",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncông nghệ tiên tiến!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ee9f",
       "file_offset": 61087,
       "source": "\nwhen she went inside.",
       "source_sha256": "6863efd8133446d58703236ed420c4fd1faadd6704fa602876a7551be8178c97",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi cô ấy bước vào bên trong.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ef7f",
       "file_offset": 61311,
       "source": "\nUncover the mysteries of death!",
       "source_sha256": "d2da8e8339ad431a8c453865c08bd56c3b14584957571ab80007bb08501375c7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhám phá những bí ẩn của cái chết!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f047",
       "file_offset": 61511,
       "source": " There is nothing to fear.",
       "source_sha256": "4e35ab5c47b59018654c8dcc5a9d486b826e4d92822218f2fcccaec27e30d249",
-      "vi": "",
-      "status": "todo",
+      "vi": " Không có gì phải sợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f0c4",
       "file_offset": 61636,
       "source": "\ntrue happiness.",
       "source_sha256": "ff1118c0f30edba63399c0fe30fc32c499d79c772695527fe54eafe727f6ae4c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhạnh phúc thật sự.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f2b2",
       "file_offset": 62130,
       "source": "\nhas run off... Find her...!",
       "source_sha256": "c12f69045e028f3c262dc6e9e627ccfc622aef3ed8179df21c9467275ddc7df1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã chạy mất... Đi tìm cô ấy...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f3a0",
       "file_offset": 62368,
       "source": "\nPerhaps we've done all we can?",
       "source_sha256": "4d8f48efe3da8dae2e512e7339ddaef80a205d5b7ab0dc7b3d6a20644ea85964",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCó lẽ chúng ta đã làm hết sức rồi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f4a4",
       "file_offset": 62628,
       "source": "\nprecious land of bliss early!",
       "source_sha256": "9ac9350871c906708e9fc65a1002d3c0ff153c9c5b00c6d341f73c854dc928c8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmiền đất hạnh phúc quý giá quá sớm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f5b1",
       "file_offset": 62897,
       "source": "\ntaken his own life.",
       "source_sha256": "fc95ad6544167ea4edcbe95f8ee010959ff0f9a5770155701698790444d095bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã tự kết liễu đời mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f621",
       "file_offset": 63009,
       "source": "\nthe last of them...",
       "source_sha256": "997b50d9a56f0a31228774cc293d1ff8abb24ae3482ca40b39edff1ed15c0486",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười cuối cùng trong số họ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f70e",
       "file_offset": 63246,
       "source": "\nWhere have you been?",
       "source_sha256": "43b2d5946cfa1e13fc9072fe5159f0633399b3da94882c78f6411333b311b7ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đã ở đâu vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f81a",
       "file_offset": 63514,
       "source": "\nthe village.",
       "source_sha256": "07111ef4b651b4750f3e03d6e5e8aff1e290e28937511dbb5d3c440834119901",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Sử dụng bản dịch nguồn trùng đã được ghi trong catalog trước, vẫn thiếu parser/speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f86b",
       "file_offset": 63595,
       "source": " You must not go out alone.",
       "source_sha256": "e912b5b05db0425d79c38c4b6749501ec2f83443e14832f39df40d070db08a7a",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn không được ra ngoài một mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000f923",
       "file_offset": 63779,
       "source": "\nWho in the world would do this!",
       "source_sha256": "a9ba0444b134c331ba8a8cc34f33527c34472bac66d88d8cfc9f1c6cd62e4790",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nAi lại làm chuyện này chứ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fa28",
       "file_offset": 64040,
       "source": "\n...fragments of a faded past.",
       "source_sha256": "6b69c3b37065808a474c621e38f4a02bde0a28009de93ec092aedafc4c7233a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n...những mảnh vụn của quá khứ phai mờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fb33",
       "file_offset": 64307,
       "source": " was in fact you.",
       "source_sha256": "41d78a8fd81f324fe8d259293254c10e39fe2f9296c1cfea29e992d78e1c43ec",
-      "vi": "",
-      "status": "todo",
+      "vi": " thật ra lại chính là bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fbc1",
       "file_offset": 64449,
       "source": "\nhappy... thank goodness...",
       "source_sha256": "5bfa51633644d8af42c8b1637b00db96a0c68e3dd70def841b352985dace8f1d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhạnh phúc... may quá...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fcb8",
       "file_offset": 64696,
       "source": "\nwhat I tell you?",
       "source_sha256": "59963acc26e6e00ebb3a84f29fee5d845d061d71ad22cba599df26cd85d0816b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững gì tôi nói với bạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fd30",
       "file_offset": 64816,
       "source": "\nyou say. And...",
       "source_sha256": "bd234c2b216749f8018909e25132e666d17783aa873f17a7d603dbd08f223ee4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn nói. Và...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fda5",
       "file_offset": 64933,
       "source": "\nI've said some bad things.",
       "source_sha256": "bf2252c8687fb8cb00a6e143ff557283997953172124e7a66206795f998c1900",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi đã nói những lời không hay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000fe07",
       "file_offset": 65031,
       "source": " Heavens, no... Don't worry!",
       "source_sha256": "a5b8d780f3bd1b23c0a3cf2d86c8570227a433af258fbe0b22f2e2061101fc3d",
-      "vi": "",
-      "status": "todo",
+      "vi": " Trời ơi, không... Đừng lo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ff20",
       "file_offset": 65312,
       "source": "\ndolmen!",
       "source_sha256": "9cb0cd8c788c94ce9e665f64e69baa4a88ff6bb96cc5a4cbaca688db29047225",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmộ đá!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ff8e",
       "file_offset": 65422,
       "source": "\nthe village before?",
       "source_sha256": "bd8d70deac354fd72aa20ccea876bc621252c8b905341f9f809de871a23b3060",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã từng đến làng trước đây sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010082",
       "file_offset": 65666,
       "source": "\nvillage as a girl?",
       "source_sha256": "cdaa1a38c9067bd45fc73b995405ea96ab3b8e5204caa181a88bdce2a06ac321",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng khi còn là cô bé sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@000101b3",
       "file_offset": 65971,
       "source": "\nI hope?",
       "source_sha256": "9c585f737a6cd1231db63cd1a6f3541373b938446584cd81b99a6d8a85b315a9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi hy vọng là vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010495",
       "file_offset": 66709,
       "source": "\nShe may still be alive.",
       "source_sha256": "c0151a8775298ca9349e3efc1683a9d9efd0f2a53d2d0c3d1d121d6ad092f1cb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCô ấy có lẽ vẫn còn sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000105a0",
       "file_offset": 66976,
       "source": "\nKilling her must have been easy.",
       "source_sha256": "7853c6fd4ce8282fc3ba3e4218c685b59b662918f626b782784fdd53ddb08c4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nGiết cô ấy hẳn là dễ dàng lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010642",
       "file_offset": 67138,
       "source": "\nwitnesses. And no murder weapon.",
       "source_sha256": "2947feb87abb697ddcbb596de943d5c97d4390dfda48947e005d7dde95548e05",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhân chứng. Mà cũng chẳng có hung khí.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@000106bb",
       "file_offset": 67259,
       "source": "$This doesn't tell us anything.",
       "source_sha256": "9d7aa05276cde0b8d273b6ee8980ae4beb55336b8862b3f7bb5e3ec6be37a76e",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chuyện này chẳng giúp chúng ta hiểu gì cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010774",
       "file_offset": 67444,
       "source": "\npeace enjoyed by this village?",
       "source_sha256": "b2faa0810c0da9af089570026c3e58d13073d5bd372952e1075ae241be00a819",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự bình yên mà ngôi làng vẫn có sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@000107d8",
       "file_offset": 67544,
       "source": "Something has changed.",
       "source_sha256": "d867e2537ca999547a963286e6146a14afff850d391c609affe6e936c4e128cc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đã có chuyện gì đó thay đổi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000108cb",
       "file_offset": 67787,
       "source": "\nthis village.",
       "source_sha256": "cb3a17bd217c84f7dde24f970d090dc0b96e60570824ffdf83c0e99694393c45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Sử dụng bản dịch nguồn trùng đã được ghi trong catalog trước, vẫn thiếu parser/speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010999",
       "file_offset": 67993,
       "source": " was you...?",
       "source_sha256": "b529defb1f86e6d203d5a8b17165c8112da6ca9fb6cc763d8b05c2525282f57c",
-      "vi": "",
-      "status": "todo",
+      "vi": " là bạn sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010b16",
       "file_offset": 68374,
       "source": "\nreally grown up!",
       "source_sha256": "46372e7730e912abc290d1ec8fce5dfb8cc75f8aa177e7b65a335e0f9cbb5bb7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã trưởng thành thật rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010bfb",
       "file_offset": 68603,
       "source": "\nWhere have you been?",
       "source_sha256": "43b2d5946cfa1e13fc9072fe5159f0633399b3da94882c78f6411333b311b7ac",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn đã ở đâu vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Đồng bộ bản dịch nguồn trùng trong tk204, chưa xác nhận ranh giới câu."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010d18",
       "file_offset": 68888,
       "source": "What's wrong?",
       "source_sha256": "9cbeb17283aa7ebdb8434e4922bdbf196f95b26742b4acbadd25b696e870f5e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có chuyện gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010e0a",
       "file_offset": 69130,
       "source": " was you.",
       "source_sha256": "b9a1a314d4de99ca381a8ad49a68a11935729050275e3971806d4c254617c7c1",
-      "vi": "",
-      "status": "todo",
+      "vi": " chính là bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010f21",
       "file_offset": 69409,
       "source": "\nthe events of 17 years ago?",
       "source_sha256": "c6f8590dd59e9f260dcac575aef823dfe87b87b4d5fb083c050866632bf126ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững chuyện xảy ra 17 năm trước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00010f97",
       "file_offset": 69527,
       "source": " Wait... Don't tell me...",
       "source_sha256": "cb3cdd02536489fa0c5868154d4f7cbf74bc508a159aae9cae54dbf67531003f",
-      "vi": "",
-      "status": "todo",
+      "vi": " Khoan... Đừng nói là...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000110ad",
       "file_offset": 69805,
       "source": "\nto the cliff.",
       "source_sha256": "66a352c5f80146b56dfa700697d9128b103b0b4b249dc078e7c531034c8e0dae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến vách đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Sử dụng bản dịch nguồn trùng đã được ghi trong catalog trước, vẫn thiếu parser/speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001118a",
       "file_offset": 70026,
       "source": " was you.",
       "source_sha256": "b9a1a314d4de99ca381a8ad49a68a11935729050275e3971806d4c254617c7c1",
-      "vi": "",
-      "status": "todo",
+      "vi": " chính là bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Đồng bộ bản dịch nguồn trùng trong tk204, chưa xác nhận ranh giới câu."
     },
     {
       "id": "talk/en/tk204_en.bin_@000112eb",
       "file_offset": 70379,
       "source": "\nnot here to do any research.",
       "source_sha256": "d68a943a0f6475eaa72085d437c68d155d4595195600d1c48eb129c1a0da4ea7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông đến đây để nghiên cứu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011391",
       "file_offset": 70545,
       "source": "\ndangerous territory.",
       "source_sha256": "37dc18d52fc22c79410f36bfce5b8dca2fe5a0c4ec4c81e684f9aa27c6197b3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlãnh địa nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001146f",
       "file_offset": 70767,
       "source": "\nuneasy or not.",
       "source_sha256": "7dac9772c477d48b559e221f4be9886b624e52b743061557edab7b2bd1f42401",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndù có bất an hay không.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@000114c3",
       "file_offset": 70851,
       "source": "$If my words have indeed helped",
       "source_sha256": "4bd3b0cc3908ea9dbc8edf1a7cec4c39a6921f7090d72bfc40e1d889150e784e",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Nếu lời tôi nói thực sự giúp ích",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011545",
       "file_offset": 70981,
       "source": "\nthat makes you think as you do.",
       "source_sha256": "378e817dea0de0fdb98a80cd18e01cd4956f6d5ed569e89a053d0ece87e71b69",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều gì khiến bạn nghĩ như vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000116a6",
       "file_offset": 71334,
       "source": "\nin the afterlife.",
       "source_sha256": "f912a63aa78de001a79039e6e022e555092ecb7cbfa293ccc8094d35a26860c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở thế giới bên kia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011700",
       "file_offset": 71424,
       "source": "But why!?!",
       "source_sha256": "3bf2d3f799ffe0133d83081e59332243c9b515f99482b46c436374a3296bb569",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng tại sao chứ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001179d",
       "file_offset": 71581,
       "source": "\nkiller, as well.",
       "source_sha256": "17a0191cd4eb79fa1980c08154615b72920d6e4d636e256418e0e19902c000a7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncả hung thủ nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011812",
       "file_offset": 71698,
       "source": "\nso you wouldn't know.",
       "source_sha256": "f1b2cad761c55c9f0e9eea30b4b0eff5f76d8abc359be3bedb9540e3348a13b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì thế bạn không biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000118f4",
       "file_offset": 71924,
       "source": "\nshould hear everyone out.",
       "source_sha256": "306ba433ddb6d8a038fea8cabfc20494dafea71d4ff854d46fc9a2916d5b2237",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnên nghe hết lời mọi người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011954",
       "file_offset": 72020,
       "source": "I'll do that, too.",
       "source_sha256": "2e28ec6662f14c6e0d41e9ddbb6a0a79001f06ee3dab929dffa66e9908b0c2e1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi cũng sẽ làm thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011a6b",
       "file_offset": 72299,
       "source": "$I have heard that name before.",
       "source_sha256": "ba0add289a3bc69dff0e4f0bc358185495e57139fe65791bede2eeab4126f2f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi từng nghe cái tên đó rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011ad0",
       "file_offset": 72400,
       "source": "What?",
       "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011b3a",
       "file_offset": 72506,
       "source": "\nthe name using terrible words.",
       "source_sha256": "ac842bfb018fde8e69a24dc27bfdb9d2dbcb9649928a00ce29588b1779bad226",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndùng những lời khủng khiếp để gọi cái tên ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011c5d",
       "file_offset": 72797,
       "source": "\nNot well, you see.",
       "source_sha256": "9f5a1888ee0570b97045259031bde3daa8b6baffd155c736c3da15f78675bf9e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông được khỏe, bạn biết đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Dịch nháp ứng viên ASCII NUL, còn chờ dựng cảnh và kiểm tra người nói. Cần đối chiếu ý của đoạn thiếu đầu hoặc sắc thái nhân vật trước khi duyệt."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011de6",
