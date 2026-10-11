@@ -11,80 +11,80 @@
       "file_offset": 9391,
       "source": "(Come on, you'll\nsee what I mean!",
       "source_sha256": "0347b062899582f1dca2d6d90528b57f778c87bc730636329164905f9fb179bc",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đi nào, rồi bạn\nsẽ hiểu ý tôi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@000024d7",
       "file_offset": 9431,
       "source": ",Then you should go\nto the Netherworld!",
       "source_sha256": "e629be287a537c187724b25a635ff7e6caf3d344bee59252dcb4ace3e03f4d8a",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Vậy thì bạn nên đến\nCõi âm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@00002503",
       "file_offset": 9475,
       "source": "$What took you\nso long, Ellen?",
       "source_sha256": "ffcd5d3bee0c7ced5ce0e049867e598781e3901ab6206c0bd9f61d6041afdb26",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Sao lâu thế\nmới tới, Ellen?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@00002528",
       "file_offset": 9512,
       "source": "Who?!?",
       "source_sha256": "c85ebfb38e937ad5c9096cbfb7da9cf33d63276af6390852b05f0ad16c7edfae",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ai cơ?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@00002534",
       "file_offset": 9524,
       "source": "I'm Scarecrow.",
       "source_sha256": "e025bafb9343a31da9ed40bb2f5572ac220b47794687b2a9f6a578ed23489ee6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi là Bù Nhìn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@00002550",
       "file_offset": 9552,
       "source": "Uwee hee hee",
       "source_sha256": "f5e33af96818a63d78067527c8df9f23b19646af8024496d80f3025f87725c47",
-      "vi": "",
-      "status": "todo",
+      "vi": "Uwee hí hí!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@00002563",
       "file_offset": 9571,
       "source": "(You want to see\nyour mother, hmm?",
       "source_sha256": "0fb5d7151cd81f5468a59ffea292e8784bd13580ca666c64cc71b089f1389b48",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Bạn muốn gặp\nmẹ mình, đúng không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     },
     {
       "id": "cmc/en/LCmc012_en.bi5_@000025db",
       "file_offset": 9691,
       "source": "0The entrance leads\nbeneath the\nsouth Henge.",
       "source_sha256": "c6ae208254ecee421cf8db86624761c4868270308572922131e42cdc2c8cc76b",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Lối vào dẫn xuống\nphía dưới vòng đá\nHenge phía nam.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp CMC; giữ tiền tố nhị phân nghi là mã điều khiển. Chưa xác nhận người nói/cảnh hay thử trong game."
     }
   ]
 }
