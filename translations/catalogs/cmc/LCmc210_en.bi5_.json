@@ -11,220 +11,220 @@
       "file_offset": 15864,
       "source": "Let's play!",
       "source_sha256": "1be3bab5f6b515ee15d19b6bb6a0b5795bf4dc34313da392b76875545143941a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chơi nào!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003e27",
       "file_offset": 15911,
       "source": "$Oh, no...\nWhat have we done?",
       "source_sha256": "2fb57a66b18de50e1253384a6e734eefcea3a595354304936cbae5fd9ff0ef4a",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ôi không...\nChúng ta đã làm gì thế này?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003e5c",
       "file_offset": 15964,
       "source": " must leave\nthe village!",
       "source_sha256": "ca520b622b693238912ce1daf8e7fe46030138876b92f499a1966e2860890a59",
-      "vi": "",
-      "status": "todo",
+      "vi": " phải rời khỏi\nngôi làng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003e84",
       "file_offset": 16004,
       "source": "But, I can't!",
       "source_sha256": "867aeb87904f5c85b45f455528de53899dfd1fa6f03194011c81304df321cf53",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng tôi không thể!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003e98",
       "file_offset": 16024,
       "source": "You must!\nYou must go!",
       "source_sha256": "fe51474d356e5963e40c7a178270bc69511058901393feddd2d897fe9e283432",
-      "vi": "",
-      "status": "todo",
+      "vi": "Phải đi!\nNhất định phải đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003eb4",
       "file_offset": 16052,
       "source": "But...\nWhat about you?",
       "source_sha256": "d35b387e5a372c77e59a51643f4b14e2b773a146317df2f8cf9141f73d05c77b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng...\nCòn anh thì sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003ee0",
       "file_offset": 16096,
       "source": "At all costs.",
       "source_sha256": "5a13053920bcbbe9446dbab12d6d7ea1b5aac22a522fd52c2ac1088ec56ba9b4",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bằng mọi giá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003ef4",
       "file_offset": 16116,
       "source": "You must survive.",
       "source_sha256": "8010267b177e961fe519f5fd7ff52e468cd1f424702f3fff22e911a299de1f5a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô phải sống sót.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003f24",
       "file_offset": 16164,
       "source": "Herve!",
       "source_sha256": "fdcc2215b9473c2f4bf14bc3fa39c3d7dbf89dc06027fd90654f213d275761b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Herve!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003f48",
       "file_offset": 16200,
       "source": "You!",
       "source_sha256": "b1a636abd588da57cbcb55d9812646de65ad7f09c3c5e75cc60807b172b45856",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chính cô!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003f54",
       "file_offset": 16212,
       "source": "You killed Herve!",
       "source_sha256": "bdef47d67856bdf5b22f78204b65c730bde7f2ca3b965bd1c69215bfe2852852",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô đã giết Herve!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003f6c",
       "file_offset": 16236,
       "source": "...You!",
       "source_sha256": "fbba69603934c0ff8f8463be6da74a270a635af4df9b359a74f528c03b78481b",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Là cô!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003f78",
       "file_offset": 16248,
       "source": "Give him back!",
       "source_sha256": "ee6ebbefde44c20bbf5e79bf5460e085663013b8be3386056825814627e2d875",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trả cậu ấy lại đây!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003f8c",
       "file_offset": 16268,
       "source": "Little witch!",
       "source_sha256": "2980ad79c446f27daef6919c9bbfd8a9bfe7c76b9ac7f13466b4ade409a5dc31",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đồ phù thủy nhỏ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003fa0",
       "file_offset": 16288,
       "source": "Why, you!",
       "source_sha256": "a65aa8fde108bd67d80e046bc6c57299d7ca6429a9ed602f60c6a388bdd50d58",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái đồ...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00003ff8",
       "file_offset": 16376,
       "source": "You killed him!",
       "source_sha256": "4b2ee2c05741acb490ccfb81f6a6ba4a002e613a5da221302ca40f6116a73bb6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô đã giết cậu ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@0000400c",
       "file_offset": 16396,
       "source": "Killed Herve!",
       "source_sha256": "d299ddc9c4fe612a8450767e136d1903d1358f6147726f85514d0ba2d5518d66",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giết Herve rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00004020",
       "file_offset": 16416,
       "source": "He's dead!",
       "source_sha256": "f330111a65e5a6253ab55e22cf7276db01cd32e2ea6802c336b317abbbe8d5b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cậu ấy chết rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00004030",
       "file_offset": 16432,
       "source": "I'll kill you!",
       "source_sha256": "6a97eb97bd0fda3edf335a64bceaeebbe8d06f0ae1e130b4fa75478ebd3d8559",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi sẽ giết cô!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00004044",
       "file_offset": 16452,
       "source": "You, little!",
       "source_sha256": "bb1b01263cdc4059ab075ee255cf496613f5d26edc18d4155905d6f7c860db60",
-      "vi": "",
-      "status": "todo",
+      "vi": "Con nhỏ kia!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00004058",
       "file_offset": 16472,
       "source": "I'm sorry!",
       "source_sha256": "5328f5d2356e71506621e58c4ba2c75eb0739056b71d81f72e7bf37cccc7546d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi xin lỗi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc210_en.bi5_@00004068",
       "file_offset": 16488,
       "source": "I'm sorry!",
       "source_sha256": "5328f5d2356e71506621e58c4ba2c75eb0739056b71d81f72e7bf37cccc7546d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi xin lỗi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
