@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **8.312 draft / 11.886** catalog entries, còn **3.574 todo** (10.870 mục dialogue/candidate tổng); chỉ là tiến độ bản nháp ứng viên, chưa phải bản vá chạy game.
-Đã có 46 câu CMC draft; các tệp talk tk000/tk011, tk100–tk107, tk200–tk207, tk306 hoàn tất draft; tk307 đạt 300/811 draft. Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **8.823 draft / 11.886** catalog entries, còn **3.063 todo** (10.870 mục dialogue/candidate tổng); chỉ là tiến độ bản nháp ứng viên, chưa phải bản vá chạy game.
+Đã có 46 câu CMC draft; các tệp talk tk000/tk011, tk100–tk107, tk200–tk207, tk306 hoàn tất draft; tk307 đã hoàn tất 811/811 draft. Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -405,3 +405,9 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Dịch 100 ứng viên từ `@0000a8a7` đến `@0000fbbc` thành draft, tăng tk307 lên **300/811**. Tổng repo **8.312/11.886 draft**, còn **3.574 todo**.
 - Kiểm tra bảo toàn dữ liệu nguồn và metadata, Unicode NFC, newline, leading markers, trùng nguồn. Đây vẫn chỉ là các mảnh ASCII NUL candidate; cần parser/repacker/speaker, font full coverage và thử thực tế trên RPCS3. Không thay payload/ISO/ROM/Merienda V3.
 - Tiếp mục 301 của `tk307`; xem `docs/QUEUE.md`. Validator và unittest trên Windows/Linux phải được xác minh qua CI sau push.
+
+## Lượt 030d — 11/10/2026 (hoàn tất tk307)
+
+- Đã chuyển 511 mục còn lại của `tk307` thành draft trong 5 commit, từ `@0000fc5d` đến `@0002bea7`. Tổng **8.823/11.886 draft**, **3.063 todo**; `tk307` **811/811 draft**.
+- Phân loại 511 mục: 442 dùng lại nguồn trùng có bản Việt đã xác lập, 7 bản lặp trong batch, 62 nguồn mới. Rà bất biến source/ID/hash/offset/source_review, Unicode NFC, newline, tiền tố và bản dịch giống nguồn; các trường được thay đổi chỉ `vi/status/notes`.
+- Chưa kiểm chứng runtime/đóng gói talk/cmc, cần parser, glyph/alias còn thiếu, giới hạn vùng và thử trong RPCS3; Merienda V3, payload và game binary không đổi. Không khẳng định CI PASS khi chưa đọc được kết quả workflow. Tệp tiếp theo `tk500` có 528 todo, bắt đầu `@00001158`.
