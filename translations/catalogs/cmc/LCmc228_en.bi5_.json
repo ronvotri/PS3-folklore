@@ -11,100 +11,100 @@
       "file_offset": 9783,
       "source": "(What would make\nthe world better?",
       "source_sha256": "4e995af5ead7b291be576912e807ef870dc09eeb91941a167d632b4578cab34a",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Làm sao để thế giới\ntrở nên tốt đẹp hơn?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@0000266f",
       "file_offset": 9839,
       "source": "<First Herve's\nfather, then Ryan,\nall because of me...",
       "source_sha256": "267338f34d810a054d4daa34f08cf629fa0dd76a59f8e816fbabb78750be7bc5",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Đầu tiên là cha Herve,\nrồi đến Ryan,\ntất cả đều vì tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@000026db",
       "file_offset": 9947,
       "source": "4Why must people\ngrieve? And hate\none another?",
       "source_sha256": "4f59d2c5c049b9b99ff77094cfe6c626f43ec95f9c9a5e1d880f0b526eac0b97",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Tại sao con người\nphải đau khổ? Và căm ghét\nlẫn nhau?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@00002717",
       "file_offset": 10007,
       "source": " Where did things\ngo wrong?",
       "source_sha256": "de5d67f5a993bf3c4e1833cb9a40f7add433e420b5722e7bcdbe3d8c3d0dbada",
-      "vi": "",
-      "status": "todo",
+      "vi": " Mọi chuyện bắt đầu\nsai lệch từ đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@00002737",
       "file_offset": 10039,
       "source": "$I only wanted to\nsave Herve.",
       "source_sha256": "924a9312eebe1824e34d8ceb0cbebb7bcf0ff69a489c418880d836b0f4d336b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi chỉ muốn\ncứu Herve thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@0000276c",
       "file_offset": 10092,
       "source": "Hello?\nWho's that?",
       "source_sha256": "aec5360c86e2ec675af42860a2ebce6b4e1d4c0e7a87e4b4d6d599cc537abf1d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có ai không?\nAi đấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@00002783",
       "file_offset": 10115,
       "source": " Let's play!\nI'm Scarecrow",
       "source_sha256": "4801354c0e9889796eba2ec30addcffd993ba2af742383ac3ff3f658b0a78389",
-      "vi": "",
-      "status": "todo",
+      "vi": " Chơi nào!\nTớ là Scarecrow.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@000027a4",
       "file_offset": 10148,
       "source": "Scarecrow...?",
       "source_sha256": "a2eb6ca37540cdc0eb5213af49d1d4cbbccd2aaf40f99d09aaa3f93e084854b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Scarecrow sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@000027b7",
       "file_offset": 10167,
       "source": "$Yup! We'll be\nfriends forever!",
       "source_sha256": "a3fd3f6ab1893e79218b842d850a1f9820506e7b87a3ee6f863c24532db42bd0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ừ! Chúng mình sẽ\nmãi là bạn nhé!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc228_en.bi5_@000027db",
       "file_offset": 10203,
       "source": "0Don't cry! You'll make\nme sad! Uwee hee!",
       "source_sha256": "ff061bda9f7d7a8cf64ca945d12060ba2de15b0441e9fd4b1a03618637d3a777",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Đừng khóc! Cậu sẽ làm\ntớ buồn đấy! Úi hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
