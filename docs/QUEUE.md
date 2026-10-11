@@ -385,3 +385,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Nội dung: truyền thuyết Sidhe/Faery, bài hát dân gian, ký ức 17 năm, người dân Doolin, các đoạn lời nói trong quán rượu. Không suy speaker hay mối quan hệ trong fragment; các đoạn mơ hồ ghi notes.
 - QA: chỉ vi/status/notes ở đúng 100 ID thay đổi, source/hash/offset/source_review/order bất biến; Unicode NFC, newline, ký hiệu đầu, placeholder, bản dịch cùng source nhất quán. Vẫn draft/candidate, chưa có parser/repacker hay kiểm thử RPCS3, Merienda V3/ROM/ISO/binary không thay.
 - Toàn repo **6.692/11.886 draft**, còn **5.194 todo**. **Tiếp theo:** `talk/en/tk204_en.bin_@0001813a`; validator/unittest chạy sau commit.
+
+## Lượt 027e — 11/10/2026 (hoàn tất 423 mục cuối tk204)
+
+- Từ `talk/en/tk204_en.bin_@0001813a` đến `talk/en/tk204_en.bin_@0002f8f7`, xử lý **423 todo→draft** theo 9 khối QA: **383** nguồn trùng đã có bản Việt ở tk100–203/tk204, **2** mục lặp trong lượt, **38** nguồn mới dịch nháp. **tk204 hoàn tất 823/823 draft, 0 todo**.
+- Chủ đề: hướng dẫn/điều kiện nhiệm vụ, khóa I/II, đồng hồ, các cõi, Faery, người chết, nữ tư tế và nguồn hồi ức. Cụm gốc `Achilles' heal` có khả năng sai chính tả (`heel`), tạm dùng `gót chân Achilles` và ghi notes, không tự sửa nguồn.
+- QA nội bộ: chỉ `vi/status/notes` của đúng 423 ID thay đổi; giữ nguyên English/source_sha256/file_offset/source_review/order, Unicode NFC, newline, leading prefix và placeholders; mọi nguồn trùng khớp bản Việt cũ. Không suy đoán người nói hay đánh dấu reviewed/tested.
+- Tổng 158 catalog **7.115/11.886 draft**, **4.771 todo** (chỉ là ứng viên đã trích; chưa phải phần trăm game đã playable bằng tiếng Việt).
+- Chưa có parser/repacker thoại/cmc, chưa test RPCS3; Merienda V3, ISO/ROM/binary không thay đổi. CI Windows/Linux validator+unittest chạy sau push.
+- **Tiếp theo:** `talk/en/tk205_en.bin_@00001158` (`To Netherworld`), tk205 có 653 mục; đối chiếu nguồn trùng rồi tiếp tục phần mới theo bối cảnh.
