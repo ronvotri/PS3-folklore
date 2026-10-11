@@ -438,3 +438,10 @@ Thêm kiểm tra toàn bộ catalog hội thoại với `--all-dialogue --verify
 Có thêm test tổng hợp nhưng vẫn **chưa có** chạy đối chiếu binary thật hay
 parser/serializer/repacker. Các catalog không đổi: **9.351 draft / 11.886**,
 **2.535 todo**; số liệu này không phải % Việt hóa có thể chơi.
+
+## Lượt 034 — 11/10/2026: CMC vỏ section roundtrip
+
+Đã thêm kiểm tra tái tạo từng byte lớp vỏ CMC, kể cả vùng chưa giải mã và trailer.
+Đây chỉ là **opaque container roundtrip**, không phải parser lệnh hay repacker
+hội thoại. Chưa thử trên binary thật tại E:\\Game\\Folklore và không có patch
+mới. Số mục dịch nháp giữ 9.351/11.886, còn 2.535 todo.

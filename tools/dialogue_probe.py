@@ -12,6 +12,7 @@ import collections
 import hashlib
 import json
 import struct
+from dataclasses import dataclass
 from pathlib import Path
 
 import folklore
@@ -54,6 +55,64 @@ def cmc_sections(data: bytes) -> list[dict]:
         result.append({'name': name, 'start': edges[i], 'end': edges[i + 1],
                        'is_talk': name.startswith('talk')})
     return result
+
+
+@dataclass(frozen=True)
+class OpaqueCMCContainer:
+    """Immutable section envelope; section payloads are NOT decoded messages."""
+    header: bytes
+    edges: tuple[int, ...]
+    name_table: bytes
+    padding: bytes
+    payloads: tuple[bytes, ...]
+    trailer: bytes
+
+    def serialize(self) -> bytes:
+        """Reassemble every byte and refuse size/offset changes (no editing)."""
+        count = len(self.payloads)
+        if (len(self.header) != 0x30 or not 1 <= count <= 64
+                or len(self.edges) != count + 1
+                or len(self.name_table) != 24 * count):
+            raise ValueError('Invalid opaque CMC component lengths')
+        declared, header_count = struct.unpack_from('>II', self.header)
+        if header_count != count:
+            raise ValueError('CMC section count changed')
+        name_end = 0x30 + 4 * (count + 1) + 24 * count
+        if name_end + len(self.padding) != self.edges[0]:
+            raise ValueError('CMC first section boundary changed')
+        for i, payload in enumerate(self.payloads):
+            if self.edges[i + 1] <= self.edges[i] or len(payload) != self.edges[i + 1] - self.edges[i]:
+                raise ValueError('CMC section payload length changed')
+        body = (self.header + struct.pack(f'>{count + 1}I', *self.edges)
+                + self.name_table + self.padding + b''.join(self.payloads)
+                + self.trailer)
+        if len(body) != declared:
+            raise ValueError('CMC declared size changed')
+        return body
+
+
+def parse_opaque_cmc(data: bytes) -> OpaqueCMCContainer:
+    """Parse only known CMC envelope boundaries, preserving opaque bytes."""
+    sections = cmc_sections(data)  # Fail closed on malformed header/edges.
+    count = len(sections)
+    names_at = 0x30 + 4 * (count + 1)
+    names_end = names_at + 24 * count
+    edges = struct.unpack_from(f'>{count + 1}I', data, 0x30)
+    return OpaqueCMCContainer(
+        header=data[:0x30],
+        edges=tuple(edges),
+        name_table=data[names_at:names_end],
+        padding=data[names_end:edges[0]],
+        payloads=tuple(data[s['start']:s['end']] for s in sections),
+        trailer=data[edges[-1]:],
+    )
+
+
+def check_opaque_cmc_roundtrip(data: bytes) -> None:
+    """Proof is limited to the outer section envelope, NOT talk commands."""
+    if parse_opaque_cmc(data).serialize() != data:
+        raise ValueError('CMC opaque section parse/serialize byte mismatch')
+
 
 
 def verify_candidates(data: bytes, catalog: dict) -> tuple[list[dict], dict]:
@@ -174,6 +233,9 @@ def probe_binary(data: bytes, catalog: dict, *, radius: int = 64,
     if not 0 <= radius <= MAX_RADIUS or not 1 <= max_samples <= 100:
         raise ValueError('radius must be 0..256 and max_samples 1..100')
     sections, stats = verify_candidates(data, catalog)
+    is_cmc = catalog['file'].startswith('cmc/en/')
+    if is_cmc:
+        check_opaque_cmc_roundtrip(data)
     entries = catalog['entries']
     examples = []
     for i in ([] if verify_only else sample_indices(entries, max_samples)):
@@ -201,8 +263,10 @@ def probe_binary(data: bytes, catalog: dict, *, radius: int = 64,
         'source_verification': 'all catalog ASCII+NUL bytes and file digest match original',
         'stats': stats, 'sections': sections, 'samples': examples,
         'u32_pattern_scan': not verify_only,
+        'opaque_cmc_container_roundtrip': True if is_cmc else None,
         'limitations': ('Raw u32 matches are byte-pattern candidates, not proven pointers. '
-                        'No command/speaker/control-flow parser, relocation or patch capability.'),
+                        'Opaque CMC roundtrip checks section envelopes only; '
+                        'no command/speaker/control-flow parser, relocation or patch capability.'),
     }
 
 

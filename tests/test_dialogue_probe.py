@@ -1,6 +1,7 @@
 """Synthetic fixtures: PS3 game files are NOT needed for these tests."""
 import json
 import struct
+from dataclasses import replace
 import sys
 import tempfile
 import unittest
@@ -94,6 +95,42 @@ class DialogueProbeTests(unittest.TestCase):
             probe.select_names(index, ['talk/en/tk100_en.bin_'], True)
         with self.assertRaisesRegex(ValueError, 'duplicate'):
             probe.select_names({'files': index['files'][1:] * 2}, None, True)
+
+    def test_opaque_cmc_roundtrip_preserves_header_padding_commands_and_trailer(self):
+        original, _ = cmc_fixture()
+        modified = bytearray(original)
+        modified[0x2b] = 0x8c  # unknown bytes in the header
+        modified[0x6c] = 0x53  # padding before first section
+        modified[0xc0] = 0xf0  # opaque command bytes
+        struct.pack_into('>I', modified, 0x38, 0x110)  # leave trailer
+        modified[0x11a] = 0xe1  # trailing unknown bytes
+        data = bytes(modified)
+        envelope = probe.parse_opaque_cmc(data)
+        self.assertEqual(envelope.edges, (0x80, 0xa0, 0x110))
+        self.assertEqual(len(envelope.trailer), 0x10)
+        self.assertEqual(envelope.serialize(), data)
+        probe.check_opaque_cmc_roundtrip(data)
+
+    def test_opaque_cmc_rejects_changed_section_or_padding_length(self):
+        original, _ = cmc_fixture()
+        envelope = probe.parse_opaque_cmc(original)
+        with self.assertRaisesRegex(ValueError, 'payload length changed'):
+            replace(envelope, payloads=(envelope.payloads[0] + b'!', *envelope.payloads[1:])).serialize()
+        with self.assertRaisesRegex(ValueError, 'first section boundary changed'):
+            replace(envelope, padding=envelope.padding[:-1]).serialize()
+        with self.assertRaisesRegex(ValueError, 'section count changed'):
+            replace(envelope, header=envelope.header[:4] + struct.pack('>I', 3)
+                    + envelope.header[8:]).serialize()
+
+    def test_cmc_probe_reports_only_opaque_container_roundtrip(self):
+        original, catalog = cmc_fixture()
+        report = probe.probe_binary(original, catalog, verify_only=True)
+        self.assertTrue(report['opaque_cmc_container_roundtrip'])
+        self.assertFalse(report['u32_pattern_scan'])
+        self.assertEqual(report['stats']['entries_verified'], 1)
+        raw_talk, talk_catalog = talk_fixture()
+        self.assertIsNone(probe.probe_binary(raw_talk, talk_catalog, verify_only=True)[
+            'opaque_cmc_container_roundtrip'])
 
     def test_rejects_tampered_content_without_treating_offset_as_patch_destination(self):
         original, cat = talk_fixture()

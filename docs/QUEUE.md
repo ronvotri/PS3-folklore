@@ -481,3 +481,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Bổ sung 2 unittest tổng hợp cho chế độ source-only, thứ tự chọn catalog và chặn xung đột tham số; mở rộng test chạy read-only. Không cập nhật `draft/reviewed/tested`, không sửa font Merienda V3 hay tệp game.
 - **Chưa chạy trên binary gốc**, chưa xây parser/serializer/repacker; không tuyên bố có patch playable. Tiến độ bản nháp giữ nguyên **9.351/11.886, còn 2.535 todo**.
 - **Tiếp theo:** chạy `python tools/dialogue_probe.py --bin-dir <thư_mục_bin> --all-dialogue --verify-only` tại máy có bản gốc; đọc các lỗi source/section thật rồi mới nghiên cứu pointer/opcode và roundtrip lossless. Khi chưa có binary, dịch `tk600` chỉ là nhánh công việc phụ.
+
+## Lượt 034 — 11/10/2026 (CMC opaque container roundtrip)
+
+- Bổ sung parser/serializer **chỉ cho lớp vỏ CMC**: header, bảng edges, name slots, padding, section payload giữ nguyên byte, trailer; tự kiểm tra tái tạo đúng bytes trước khi xuất báo cáo.
+- Đưa cờ `opaque_cmc_container_roundtrip` vào report khi đọc CMC; riêng talk raw là `null`. Thêm kiểm thử synthetic gồm byte chưa hiểu, độ dài section/padding sai và header count sai; không suy đoán opcode/speaker.
+- Chỉ nâng an toàn khảo sát, **không phải parser command/message hoặc repacker**, chưa có file nhị phân gốc trong cloud để xác minh. Tiến độ catalog vẫn 9.351/11.886 draft, 2.535 todo; Merienda V3 và game không thay đổi.
+- **Tiếp theo:** xác minh `--all-dialogue --verify-only` trên bản sao `etc.bin_` + `etc.fht_` tại local; phân tích chính xác command stream trong CMC và raw talk, rồi kiểm tra roundtrip đến cấp thông điệp trước khi viết patch.

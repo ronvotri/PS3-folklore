@@ -94,3 +94,22 @@ Hai tùy chọn `--files` và `--all-dialogue` không được dùng cùng nhau.
 Kết quả có giá trị **chỉ khi đã chạy trên bản game gốc tại máy local**;
 unit test tổng hợp hay CI không thay thế bước này. Không đăng báo cáo hex
 hoặc dữ liệu nhị phân lên GitHub.
+
+## Lượt 034: chứng minh roundtrip *vỏ section* CMC (11/10/2026)
+
+`tools/dialogue_probe.py` nay có `parse_opaque_cmc` và
+`OpaqueCMCContainer.serialize()`: đọc header đã xác định, bảng ranh giới
+section, các ô tên 24 byte, byte đệm, payload nguyên khối và byte đuôi.
+Trước khi ghi báo cáo CMC, công cụ phải tự tái tạo **byte-for-byte** mọi phần
+đó, không được thay kích thước/vị trí section. Trường báo cáo
+`opaque_cmc_container_roundtrip=true` chỉ nói **vỏ CMC** tái tạo không mất byte;
+**không nói rằng đã hiểu opcode/nhánh thoại/speaker, hoặc talk raw đã parse**.
+Chế độ này chạy tự động cho các file CMC trong `--all-dialogue --verify-only`.
+Tệp talk/en vẫn chỉ kiểm tra hash và chuỗi nguồn; report ghi `null` cho
+trường roundtrip CMC.
+
+Unit test dùng fixture mô phỏng cả dữ liệu chưa biết trong header, padding,
+command, trailer; thử sửa độ dài section/padding và count thì phải từ chối.
+Chưa có binary gốc trong cloud nên chưa chứng minh roundtrip với game thật;
+không có tính năng lưu/bơm phần tiếng Việt vào CMC. Mốc LOSSLESS ở cấp
+**message command stream** vẫn chưa đạt, chưa được phép viết repacker.
