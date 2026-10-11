@@ -3011,1000 +3011,1000 @@
       "file_offset": 73190,
       "source": " was you.",
       "source_sha256": "b9a1a314d4de99ca381a8ad49a68a11935729050275e3971806d4c254617c7c1",
-      "vi": "",
-      "status": "todo",
+      "vi": " chính là bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011f05",
       "file_offset": 73477,
       "source": "\nthe events of 17 years ago?",
       "source_sha256": "c6f8590dd59e9f260dcac575aef823dfe87b87b4d5fb083c050866632bf126ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững chuyện xảy ra 17 năm trước sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00011f7b",
       "file_offset": 73595,
       "source": " Wait... Don't tell me...",
       "source_sha256": "cb3cdd02536489fa0c5868154d4f7cbf74bc508a159aae9cae54dbf67531003f",
-      "vi": "",
-      "status": "todo",
+      "vi": " Khoan... Đừng nói là...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012091",
       "file_offset": 73873,
       "source": "\nto the cliff.",
       "source_sha256": "66a352c5f80146b56dfa700697d9128b103b0b4b249dc078e7c531034c8e0dae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđến vách đá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012265",
       "file_offset": 74341,
       "source": ". He looked quite distraught.",
       "source_sha256": "a36a651019e95551ec6bbc74a9af5ac9a5f3cfb904b2ed3249cd0993d292a66f",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Trông anh ấy khá tuyệt vọng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012336",
       "file_offset": 74550,
       "source": "\nthere for about a year.",
       "source_sha256": "0345857fd2676effab9740dbc8900a79170ab636b357894a7171464a4fe37de7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đó khoảng một năm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012394",
       "file_offset": 74644,
       "source": "What!?!",
       "source_sha256": "f72a46fe7acfd65f4e836fb981f431e7413fe22bd8cbf8613d7842623dbb5582",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái gì cơ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@000123ff",
       "file_offset": 74751,
       "source": "\nYou'd better be careful with him.",
       "source_sha256": "e18e7f36eaffa49871cb229fb281aef048af7c45001398c2b957a50234e61765",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTốt hơn hết nên cẩn thận với anh ta.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012604",
       "file_offset": 75268,
       "source": "\nand myself,",
       "source_sha256": "17d6e35d5192eda9ad945c87df6f56cd40655a5efa901de208bf89b4e2b9bb5b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà bản thân tôi,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000127db",
       "file_offset": 75739,
       "source": "$What was she so fixated on...?",
       "source_sha256": "499acf230a5a4cd2347fe7b5f6a9eece11e465bcc909e727a07c9367a989e168",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Điều gì khiến cô ấy cứ ám ảnh mãi thế...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000128e8",
       "file_offset": 76008,
       "source": "\nI can see the resemblance.",
       "source_sha256": "e0b2774d37fa7cedfea72d9a06c9b93335bf48ed15e71123288fa2cf6c694ef9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi thấy hai người khá giống nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012967",
       "file_offset": 76135,
       "source": "\nremember things gradually.",
       "source_sha256": "55fb48a451e65d407a57ff9ae035309a9d3f1fd29c6e96ed5080be274429df39",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ndần dần nhớ lại mọi chuyện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012aa8",
       "file_offset": 76456,
       "source": "\nbut now that I think about it,",
       "source_sha256": "cf1856d4e8f8f7b13e07eb770f1510c0631791b3ffccd15387e1f189cb59c643",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng giờ nghĩ lại,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012c00",
       "file_offset": 76800,
       "source": "\nthe imagination to envisage it.",
       "source_sha256": "a55f1d32ecef4fc7fbe588a2db909340683f2c376a2b1604b3e198ff3c9452d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhả năng tưởng tượng để hình dung ra nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012c9a",
       "file_offset": 76954,
       "source": "\nyou saw.",
       "source_sha256": "4e6d7ff3abfd08d34c1bf9840228391ee2fdf4db2db245ca0caaec0c38d391b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn đã trông thấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012d6b",
       "file_offset": 77163,
       "source": "\n...You were injured badly.",
       "source_sha256": "d5deac79cb1eb179b7bb310491db9a7b6887093d0ad6dcbaf3f579e2e5344102",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n...Bạn đã bị thương rất nặng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012dec",
       "file_offset": 77292,
       "source": "\nthat occurred in you.",
       "source_sha256": "7433f86187be1c1c0ab1e49ce91e96dabe93745bf0bb6fc415e776b565284c9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã xảy ra bên trong bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00012eab",
       "file_offset": 77483,
       "source": "\nonce, killing several villagers.",
       "source_sha256": "f8f0c14de140061f7557ee604dc5ae9634fc9543b0e67550b744e8d216f45ad8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột lần, khiến vài người dân làng thiệt mạng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013068",
       "file_offset": 77928,
       "source": "\nthe new name, then why?",
       "source_sha256": "df12044c578e315240e6a557712862934eaa00dfe58e8a43c445742e5455b63b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntên mới, vậy tại sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@000130fc",
       "file_offset": 78076,
       "source": "\nclaiming that I had died!?!",
       "source_sha256": "9026932b97134092b0d4314b097cd8a69be8c50036279ea0276e34d8bb9e76ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhăng khăng rằng tôi đã chết chứ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013181",
       "file_offset": 78209,
       "source": "\nStop worrying about this!",
       "source_sha256": "176f64e185fd29ed36b11655aa9a6e3c4f8a1a22589fdaa13e5f1efe16c6d8a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐừng bận tâm chuyện này nữa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013257",
       "file_offset": 78423,
       "source": " You have a beautiful name.",
       "source_sha256": "3c66fa33a55afbefb082d9efdbf75700654d4f74b6fa4e336bea462f9d082d41",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn có một cái tên thật đẹp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013372",
       "file_offset": 78706,
       "source": "\nof time,",
       "source_sha256": "d80395075e3b84d0328ac7cfcbf2fd87ca613ab7066ee7369544262f59b8c639",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthời gian,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000134ff",
       "file_offset": 79103,
       "source": " There is a legend that an",
       "source_sha256": "df5e1427af2f988b311ef474935d95f64288bb2e4fcae4d29075d12804b1024a",
-      "vi": "",
-      "status": "todo",
+      "vi": " Có một truyền thuyết kể rằng một",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001359e",
       "file_offset": 79262,
       "source": "\nthis village.",
       "source_sha256": "cb3a17bd217c84f7dde24f970d090dc0b96e60570824ffdf83c0e99694393c45",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi làng này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013630",
       "file_offset": 79408,
       "source": "\nimmortal Faery with eternal youth.",
       "source_sha256": "9364a303ce2caa9ddbcc9cc91b8739a8a56ef65b07175f60d6fa3bdd611a7dfb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nFaery bất tử, trẻ mãi không già.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000136d3",
       "file_offset": 79571,
       "source": "\nyoung I looked to the occult.",
       "source_sha256": "17fe2f098e9df8f99df5177415a3238f209792fa3df162acb0645215cb545b35",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhi còn trẻ tôi đã tìm đến huyền thuật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013795",
       "file_offset": 79765,
       "source": "\nbehind them, some root cause.",
       "source_sha256": "9fb66ea8a31466ddd5d16ea6f0545f61e2aaf8def0d8a68e33cd7ddd8755e367",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđằng sau chúng phải có nguyên nhân sâu xa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001383f",
       "file_offset": 79935,
       "source": " into the mess.",
       "source_sha256": "f82985f87e9a8f963778d56a5dfd2b7d3178e92f97c7498e4360b8bc0f040666",
-      "vi": "",
-      "status": "todo",
+      "vi": " vào mớ hỗn độn ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013956",
       "file_offset": 80214,
       "source": "\nsome being, behind the folklore...",
       "source_sha256": "1948cfeb0e6e3aea169ec5d7bd36b9cb62f321d241258f37c14402c304958730",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột thực thể nào đó đứng sau những chuyện dân gian...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@000139f2",
       "file_offset": 80370,
       "source": "\nthink on the level needed.",
       "source_sha256": "9c6c90fa4e909714f9204d4d5fbf650970a930a80ce263460fc75711f6576b31",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy nghĩ ở tầm mức cần thiết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013b16",
       "file_offset": 80662,
       "source": "\nsome being, behind the folklore",
       "source_sha256": "681da06a116e83ce62c650cc338cd250aae2efed97df60cceb002e7ab553bc71",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột thực thể nào đó đứng sau những chuyện dân gian",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013b9a",
       "file_offset": 80794,
       "source": "\nthink on the level needed.",
       "source_sha256": "9c6c90fa4e909714f9204d4d5fbf650970a930a80ce263460fc75711f6576b31",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy nghĩ ở tầm mức cần thiết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013c7e",
       "file_offset": 81022,
       "source": "\ncontinue...?",
       "source_sha256": "770add5429b1da754274d9e67892b6826100719181086bc6849e5687b7e74ab4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntiếp tục sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013e77",
       "file_offset": 81527,
       "source": ", of course.",
       "source_sha256": "9f2e5da28014ee03e1188b5a2ed6ca795e76a91f2e0084ad7f91fd14686a7a8e",
-      "vi": "",
-      "status": "todo",
+      "vi": ", tất nhiên rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00013f57",
       "file_offset": 81751,
       "source": "\nWhy, yes... I remember her.",
       "source_sha256": "fa8bb555e181387266f2241995aa660a407ffe166d58b0842bcce4a9a2116dca",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nÀ đúng... Tôi nhớ cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001414c",
       "file_offset": 82252,
       "source": "\nI don't want to think about it.",
       "source_sha256": "9017dbb9c323fa5d3e218a437b793f1fd820643824798cacb040728ec86323cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không muốn nghĩ đến chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001436d",
       "file_offset": 82797,
       "source": " was you?",
       "source_sha256": "7aca096a9c74f74ad17153c29ba86c967b453ba24f38324b2cf9bb3f1d204a69",
-      "vi": "",
-      "status": "todo",
+      "vi": " là bạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000144fa",
       "file_offset": 83194,
       "source": "\nreally grown up!",
       "source_sha256": "46372e7730e912abc290d1ec8fce5dfb8cc75f8aa177e7b65a335e0f9cbb5bb7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã trưởng thành thật rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@000145df",
       "file_offset": 83423,
       "source": "\nhe must be very pure of heart.",
       "source_sha256": "09726f1c2e6e59244c01972d0c9cc196d1843b7e36f25aaf026c1f021b7b3086",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhẳn anh ấy có tâm hồn rất trong sáng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014694",
       "file_offset": 83604,
       "source": "\nlooking for.",
       "source_sha256": "616ac3e5e981dee08944135bc33dbc99e4295e1a5243ec2fff90e84544ee7e0a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđang tìm kiếm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014777",
       "file_offset": 83831,
       "source": "\nhe must be very pure of heart.",
       "source_sha256": "09726f1c2e6e59244c01972d0c9cc196d1843b7e36f25aaf026c1f021b7b3086",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhẳn anh ấy có tâm hồn rất trong sáng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014857",
       "file_offset": 84055,
       "source": "\nI've never heard of such a name.",
       "source_sha256": "b7c80068306529717d620ff807a076459ee8f6db5b513774aa7e9dedd96403aa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi chưa từng nghe cái tên như vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014908",
       "file_offset": 84232,
       "source": "No, wait!",
       "source_sha256": "45f7bcedd5bec56ccb023c3cdf307fd0f50ebc2e3a9467778cecbb96286c4e49",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không, khoan đã!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014977",
       "file_offset": 84343,
       "source": "\nBut where!?!",
       "source_sha256": "005abdeebe8baf700c096b66af1b942bc457880cd67d090b619eeb9045b9a07b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng ở đâu chứ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014a01",
       "file_offset": 84481,
       "source": "\nafter a girl.",
       "source_sha256": "e7cee1e9f5d2c8d2b58ec7bd816be6a9862d61a2cd222da3c2271d4dccffda05",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntheo sau một cô gái.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014b59",
       "file_offset": 84825,
       "source": "\ngoing on, that's for sure.",
       "source_sha256": "b230cf8e5d799359357574282f86d40d4f37fa2bcf45f1b0e4083783740769a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchắc chắn đang có chuyện gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014c64",
       "file_offset": 85092,
       "source": "\nso it has nothing to do with me.",
       "source_sha256": "1b9207f0b314278dba87e5e3635148fa7887a8f4ccc0e0aa091fff77440f3cc1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvậy nên chẳng liên quan gì đến tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014e5c",
       "file_offset": 85596,
       "source": " again.",
       "source_sha256": "3e14c2234e98ed37c441b6885a186df797aa38078f98ad1953eb8122addd519f",
-      "vi": "",
-      "status": "todo",
+      "vi": " một lần nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014ec6",
       "file_offset": 85702,
       "source": "\nfeels downright creepy.",
       "source_sha256": "fa4e1c8888b126abff5d0e49049f0e74fbe1843e97effeafc7d7e0c3e4437ac0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthấy rợn người thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00014fc8",
       "file_offset": 85960,
       "source": " again.",
       "source_sha256": "3e14c2234e98ed37c441b6885a186df797aa38078f98ad1953eb8122addd519f",
-      "vi": "",
-      "status": "todo",
+      "vi": " một lần nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015127",
       "file_offset": 86311,
       "source": ", please?",
       "source_sha256": "1a0b57bddc4b6f4b1580539c34b90ce0d7c21c875f37088da768357523b0a11e",
-      "vi": "",
-      "status": "todo",
+      "vi": ", được không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000151f2",
       "file_offset": 86514,
       "source": "\nAsk at the pub about it.",
       "source_sha256": "27de5c129286a38359f6f213f8800dcfb4654c7a9ad176fb43f71fc11693c18a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nHỏi chuyện đó ở quán rượu đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000152f6",
       "file_offset": 86774,
       "source": "\nabout the Faerys.",
       "source_sha256": "a646ca1567406762ca2206185f450649bbedafd68d974da5bd40705f49a18b98",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001534f",
       "file_offset": 86863,
       "source": " Those Faerys give wishes.",
       "source_sha256": "88fce4192f9d9a0f65db5ddf5680f496c014e141b9df2b6f6a37c76be3eebc02",
-      "vi": "",
-      "status": "todo",
+      "vi": " Các Faery ấy ban điều ước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000153e5",
       "file_offset": 87013,
       "source": "\nshe wouldn't let me.",
       "source_sha256": "9da9ec69f663f3b43166fedf998f51f8fbaff40c7aeebca59cd003376f278a79",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy không cho phép tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000154ef",
       "file_offset": 87279,
       "source": "\nlet me.",
       "source_sha256": "470f9a425f9523e017e458b373f18cdde981fff6ab5182b48ef6d071f6d62675",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncho phép tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001559f",
       "file_offset": 87455,
       "source": "(I can't remember the Faery song.",
       "source_sha256": "c94e073ac4a0517a1b3333d82614627640cf84ac1879c008ed71c92c4670001f",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi không nhớ bài hát Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001561d",
       "file_offset": 87581,
       "source": "\nHow does it go...?",
       "source_sha256": "3d37c206b09e9ea71fcdc7da277499de41afbbf7adb638f105712801d75e61c5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNó hát thế nào nhỉ...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015711",
       "file_offset": 87825,
       "source": "\nall come out.",
       "source_sha256": "2de017b2723b5cc64d4912117dc4f75fc5931318e93f8ad6b16bcdb931dc1f98",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđều xuất hiện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001581f",
       "file_offset": 88095,
       "source": ", will yer.",
       "source_sha256": "00fe4ba201499f7033b2a13b2287bdb818baa0bdf4d7d5c399117ae89e631cf9",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001592c",
       "file_offset": 88364,
       "source": ", will yer",
       "source_sha256": "463877dc092fe8a84b2b8c894834d4a50ed913a5b50c32af0206f010da05dd59",
-      "vi": "",
-      "status": "todo",
+      "vi": ", nhé",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000159df",
       "file_offset": 88543,
       "source": "$That's terrible what happened.",
       "source_sha256": "5d4895d88667c4a1b3c7e7a9e2badbbf1dbeeaec57011fc3f4a440157d43f48f",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chuyện xảy ra thật kinh khủng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015a43",
       "file_offset": 88643,
       "source": "$What will... the villagers do?",
       "source_sha256": "7db4580586d680cfce56c1e622e1a516fd17bb86343d44d8ac1db97463b6e028",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Dân làng rồi sẽ... làm sao đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015b0b",
       "file_offset": 88843,
       "source": "$That's terrible what happened.",
       "source_sha256": "5d4895d88667c4a1b3c7e7a9e2badbbf1dbeeaec57011fc3f4a440157d43f48f",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chuyện xảy ra thật kinh khủng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015b6f",
       "file_offset": 88943,
       "source": "$What will... the villagers do?",
       "source_sha256": "7db4580586d680cfce56c1e622e1a516fd17bb86343d44d8ac1db97463b6e028",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Dân làng rồi sẽ... làm sao đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015d0f",
       "file_offset": 89359,
       "source": "\nancient tribe, yeah.",
       "source_sha256": "88dcaa514c63c04ab4fdb78957a69e2c2d07c4c21ef028b607581be8c21ac3ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbộ tộc cổ xưa, đúng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015f10",
       "file_offset": 89872,
       "source": "\nthe name Sidhe?",
       "source_sha256": "ea878a828a4130e6e1a2f545392277fb1a17fb93765dd21c03902b5987cb435a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncái tên Sidhe sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00015f89",
       "file_offset": 89993,
       "source": "\nTHE PEOPLE WHO LIVE UNDERGROUND...",
       "source_sha256": "2c6eda57413d7bcebdd1606d3bc3d899f687bca52457f402e2a5e00f71a3b1c1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNHỮNG NGƯỜI SỐNG DƯỚI LÒNG ĐẤT...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016014",
       "file_offset": 90132,
       "source": "\nthe meaning FAERY!",
       "source_sha256": "0f012fc065870ead357ec0a3bd6c39900430b55950e1011466b870484576688e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmang nghĩa FAERY!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@000160ef",
       "file_offset": 90351,
       "source": "\nexactly a Sidhe is.",
       "source_sha256": "7bfc3d3b50485ff141422c4f453ea7c05fb2830e1bc3913f0e6c87129a5f22d2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSidhe thực ra là gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016289",
       "file_offset": 90761,
       "source": "\nespecially gentle with children.",
       "source_sha256": "f6e57c00d71582c52370e81dd5069f5095d3c8b0db60719d08bd5379e3d443cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđặc biệt dịu dàng với trẻ em.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001632d",
       "file_offset": 90925,
       "source": "\nbelieve the story!",
       "source_sha256": "c883637883d7381c4ab6c8998cce8f8c27f659341dca4e26d5974b9c541c5058",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntin câu chuyện ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000163a1",
       "file_offset": 91041,
       "source": "\nforever unnoticed by humans!",
       "source_sha256": "eafc68d901a60a3b232af652a5de176d3b4197bd92332a99e6740c449b27a22d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmãi mãi không được con người nhận ra!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001661d",
       "file_offset": 91677,
       "source": "\nalong so well!",
       "source_sha256": "8cff7bda5227d9cae160e96931561ddf8e3c728e762c5c145df6bf164f145693",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhòa hợp với nhau như thế!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@000166f5",
       "file_offset": 91893,
       "source": "\nalong so well!",
       "source_sha256": "8cff7bda5227d9cae160e96931561ddf8e3c728e762c5c145df6bf164f145693",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhòa hợp với nhau như thế!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@000167d8",
       "file_offset": 92120,
       "source": "\ncome here much any more.",
       "source_sha256": "0c0efa71ff729f6f62846559093aacee003a8bc8b9d7e15456536f666ca3fd58",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông còn ghé đây mấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016851",
       "file_offset": 92241,
       "source": "\nwith him again as we did before.",
       "source_sha256": "b25748e63a653bbcd05074dfe3227e444350579b160b12d22c78eaaab4f1bbd3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlại chơi với người đó như trước đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016965",
       "file_offset": 92517,
       "source": "\nin this pub again...?",
       "source_sha256": "369e609b7fcdcfd443764631e20747cbd59020109ab8ea960d05abc76a1c5441",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlại ở quán rượu này sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016a4a",
       "file_offset": 92746,
       "source": "\nI wonder where she's gone...?",
       "source_sha256": "157760268b0a04b6d77609bf3cb6b31b914a6e91b1c101bb57474efc4717e888",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông biết cô ấy đi đâu rồi...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016acd",
       "file_offset": 92877,
       "source": "\nlove with someone...",
       "source_sha256": "87eb0a7f6e49d4a56c51aa0f95109105a04e02f6a587975849d0c45aaf9fe85d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nyêu ai đó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016d4a",
       "file_offset": 93514,
       "source": "\nthe devil says!",
       "source_sha256": "669e5ee3cd32e1844481990835775088f144318165a10f7888dacd034b318609",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncon quỷ nói gì!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00016ea8",
       "file_offset": 93864,
       "source": "\nLast time to party with our mate!",
       "source_sha256": "ac6a9aad02f9c461e85dcfd39870815bd3f64b177d481bac7f043a98fde46918",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nLần cuối tiệc tùng cùng người bạn của chúng ta!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017018",
       "file_offset": 94232,
       "source": "\nplay together.",
       "source_sha256": "4692d4be539a53225f8ce4721e59217ab8859d5b017ec97d1e68faa253b7f235",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchơi cùng nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017117",
       "file_offset": 94487,
       "source": "$*squeak*... That's dangerous!",
       "source_sha256": "66ba355d42ff5550b752ac8e41acf987acadd6b5908986cbd82b52b6ec884b1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$*chít chít*... Nguy hiểm lắm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@000171a0",
       "file_offset": 94624,
       "source": "\nplaymate!",
       "source_sha256": "d17829b10052b689e7260ff617f2babcf5b5b9a167a2611361b0e5254f708ae1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn chơi cùng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@000172db",
       "file_offset": 94939,
       "source": "(*squeak*... She needs a playmate!",
       "source_sha256": "dab8f01c6b9332605dbcdeeaff43509ff562caf92c80beecf4eeb8bdbbbf859d",
-      "vi": "",
-      "status": "todo",
+      "vi": "(*chít chít*... Cô ấy cần một người bạn chơi cùng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001744c",
       "file_offset": 95308,
       "source": "\nplay together.",
       "source_sha256": "4692d4be539a53225f8ce4721e59217ab8859d5b017ec97d1e68faa253b7f235",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchơi cùng nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001754b",
       "file_offset": 95563,
       "source": "$*squeak*... That's dangerous!",
       "source_sha256": "66ba355d42ff5550b752ac8e41acf987acadd6b5908986cbd82b52b6ec884b1c",
-      "vi": "",
-      "status": "todo",
+      "vi": "$*chít chít*... Nguy hiểm lắm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@000175d4",
       "file_offset": 95700,
       "source": "\nplaymate!",
       "source_sha256": "d17829b10052b689e7260ff617f2babcf5b5b9a167a2611361b0e5254f708ae1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn chơi cùng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001770f",
       "file_offset": 96015,
       "source": "(*squeak*... She needs a playmate!",
       "source_sha256": "dab8f01c6b9332605dbcdeeaff43509ff562caf92c80beecf4eeb8bdbbbf859d",
-      "vi": "",
-      "status": "todo",
+      "vi": "(*chít chít*... Cô ấy cần một người bạn chơi cùng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017814",
       "file_offset": 96276,
       "source": "\nme off...",
       "source_sha256": "b4ab96d00bbf53d3a3cd3e2dfc2270f46715163a830505ee967169b7aad45529",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđuổi tôi đi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001786b",
       "file_offset": 96363,
       "source": "$*squeak*... What should I do?",
       "source_sha256": "e8cfc8e010a62a9519ff48d56f728098930932593a651f304e658cf7acf20697",
-      "vi": "",
-      "status": "todo",
+      "vi": "$*chít chít*... Tôi phải làm sao đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001796c",
       "file_offset": 96620,
       "source": "\nme off...",
       "source_sha256": "b4ab96d00bbf53d3a3cd3e2dfc2270f46715163a830505ee967169b7aad45529",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđuổi tôi đi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái dùng nguyên bản từ nguồn trùng đã dịch, chưa xác minh speaker."
     },
     {
       "id": "talk/en/tk204_en.bin_@000179c3",
       "file_offset": 96707,
       "source": "$*squeak*... What should I do?",
       "source_sha256": "e8cfc8e010a62a9519ff48d56f728098930932593a651f304e658cf7acf20697",
-      "vi": "",
-      "status": "todo",
+      "vi": "$*chít chít*... Tôi phải làm sao đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017bd2",
       "file_offset": 97234,
       "source": " home base?",
       "source_sha256": "eb9e79e1051930dc02c616e62b58437372994ce39dd20cefbfc77b0811ed60e1",
-      "vi": "",
-      "status": "todo",
+      "vi": " căn cứ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017c23",
       "file_offset": 97315,
       "source": "$Uwee hee hee... That's right.",
       "source_sha256": "7c5a2c50af8e9ac243a3ec7b4eb376fe5e8e5f971fbfba95de8fe86176b4bfca",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ui hi hi... Đúng rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017ce7",
       "file_offset": 97511,
       "source": " opened.",
       "source_sha256": "520af7982c84638ea45a0633519e02cd0cf22b7468c6bc4033a01cf7d88df877",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã mở ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn. Cần đối chiếu tiếp ngữ cảnh hoặc đại từ khi có parser."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017d34",
       "file_offset": 97588,
       "source": "Let the battle begin!",
       "source_sha256": "568c7c89cf89f55e01f4e164ff53435ad3373aa067ebf0bf05cef4c0789dcf63",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trận chiến bắt đầu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên thoại ASCII NUL được dịch theo phần nghĩa chắc chắn."
     },
     {
       "id": "talk/en/tk204_en.bin_@00017ea4",
       "file_offset": 97956,
       "source": "Let the battle begin!",
       "source_sha256": "568c7c89cf89f55e01f4e164ff53435ad3373aa067ebf0bf05cef4c0789dcf63",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trận chiến bắt đầu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch đồng bộ với source lặp trong batch, vẫn cần QA trong game."
     },
     {
       "id": "talk/en/tk204_en.bin_@0001813a",

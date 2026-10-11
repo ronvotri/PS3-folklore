@@ -336,3 +336,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Chủ đề: cô gái mất tích, vách đá, mộ đá Doolin, bất hòa giữa ký ức/quá khứ và thực tại, tuyệt vọng, nghi vấn án mạng 17 năm trước. Các câu cắt mảnh, đại từ và chỉ dẫn cơ chế chưa rõ được ghi notes thay vì xác nhận sai.
 - QA: 100 ID đúng, chỉ sửa vi/status/notes; giữ source/ID/SHA/offset/source_review/order, Unicode NFC, newline, prefix, placeholders và source trùng nhất quán. Chưa có parser/repacker talk/cmc, chưa thử RPCS3; giữ nguyên Merienda V3/ROM/ISO/binary.
 - Tổng dự án **6.592/11.886 draft**, còn **5.294 todo**. **Tiếp theo:** `talk/en/tk204_en.bin_@00011de6`. CI Windows/Linux validator/unittest sau push.
+
+## Lượt 027d — 11/10/2026 (100 mục tk204, Sidhe và dân làng)
+
+- Từ `talk/en/tk204_en.bin_@00011de6` đến `talk/en/tk204_en.bin_@00017ea4` xử lý **100 todo→draft**: 23 source trùng đã dịch từ các catalog/batch trước, 9 lần trùng nội bộ và 68 source mới. Tệp `tk204` hiện **400/823 draft**, còn 423 todo.
+- Nội dung: truyền thuyết Sidhe/Faery, bài hát dân gian, ký ức 17 năm, người dân Doolin, các đoạn lời nói trong quán rượu. Không suy speaker hay mối quan hệ trong fragment; các đoạn mơ hồ ghi notes.
+- QA: chỉ vi/status/notes ở đúng 100 ID thay đổi, source/hash/offset/source_review/order bất biến; Unicode NFC, newline, ký hiệu đầu, placeholder, bản dịch cùng source nhất quán. Vẫn draft/candidate, chưa có parser/repacker hay kiểm thử RPCS3, Merienda V3/ROM/ISO/binary không thay.
+- Toàn repo **6.692/11.886 draft**, còn **5.194 todo**. **Tiếp theo:** `talk/en/tk204_en.bin_@0001813a`; validator/unittest chạy sau commit.
