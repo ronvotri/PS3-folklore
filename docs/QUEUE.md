@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. **ƯU TIÊN KỸ THUẬT (theo xác nhận của người dùng ngày 11/10/2026):** nghiên cứu và hoàn thiện parser/repacker talk/CMC trước khi xem % draft là tiến độ game. Đã có công cụ khảo sát nhị phân chỉ đọc `tools/dialogue_probe.py`, hướng dẫn `docs/DIALOGUE_BINARY_PROBE.md` và 6 unit test tổng hợp; **chưa chạy trên game binary gốc, chưa có parser/repacker**. Bước tiếp: kiểm chứng SHA, source/NUL, prefix và tham chiếu từ bản gốc local, xác định opcode/speaker, làm parse→serialize byte-for-byte rồi mới đề xuất dry-run repacker.
-2. **Việc dịch nháp còn lại (thứ yếu cho đến khi hiểu format):** `tk600` 544 todo, tiếp tại `talk/en/tk600_en.bin_@00001158`; sau đó `tk700` 242 todo và các CMC chưa xong. Không xưng đã hoàn thiện game khi chỉ mới có text ở catalog.
+1. **ƯU TIÊN KỸ THUẬT:** Bộ khảo sát hiện có `tools/dialogue_probe.py`, lọc metadata `tools/dialogue_summary.py`; thêm lệnh tiện dụng `tools/dialogue_diagnose.py` (tự tìm archive local và chạy cả hai) cùng 6 unit test mới, hướng dẫn `docs/DIALOGUE_LOCAL_QUICKSTART.md`. **Chưa thử binary game gốc, chưa có parser/repacker.** Cần báo cáo cấu trúc local để định danh opcode/pointer/speaker, sau đó mới parse→serialize message byte-for-byte.
+2. **Việc dịch nháp còn lại (thứ yếu đến khi hiểu format):** talk `tk600` và `tk700` đã đủ draft. Tiếp theo `cmc/en/LCmc063_en.bi5_@000028e7` rồi `LCmc064`, `LCmc065` và các CMC chưa dịch. Không coi độ phủ draft là tỷ lệ game playable.
 3. Trước khi build talk/CMC: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md` và `docs/DIALOGUE_BINARY_PROBE.md`. Chạy probe với archive nguồn **chỉ ở máy local**; báo cáo nằm trong `local-data/`, không push lên GitHub. Các mẫu u32 chỉ là giả thuyết, không cho phép ghi patch.
 4. Menu `lang_en.bi5_` đã 1.016/1.016 bản nháp; cần QA glyph/alias, độ dài và hiển thị thực tế. ID tệp và ID offset **không quyết định** thứ tự hội thoại.
 
 ## Mốc bàn giao
 
-Menu **1.016/1.016 draft**; CMC 46 draft; các talk `tk000`, `tk011`, `tk100`–`tk107`, `tk200`–`tk207`, `tk306`, `tk307`, `tk500` đã hoàn tất nháp. Tổng toàn repo **9.351/11.886 draft**, còn **2.535 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu **1.016/1.016 draft**; CMC **633 draft**; các talk `tk000`, `tk011`, `tk100`–`tk107`, `tk200`–`tk207`, `tk306`, `tk307`, `tk500`, `tk600`, `tk700` đã hoàn tất nháp. Tổng toàn repo **10.724/11.886 draft**, còn **1.162 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -543,3 +543,9 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Kiểm tra trong phiên: đúng số mục từng catalog, chỉ ghi `vi/status/notes`, không sửa `source/id/source_sha256/file_offset/source_review`; kiểm tra tiền tố, số newline, Unicode NFC và các nguồn trùng trong batch. Các mục **chỉ ở trạng thái `draft`**, chưa xác minh bối cảnh, giới tính/người nói hoặc chạy trong game.
 - **Tổng 10.724/11.886 bản nháp; còn 1.162 todo**. Tỉ lệ bản nháp KHÔNG đo mức độ playable. Font Merienda V3, binary game và patch local không thay đổi.
 - **Đầu việc dịch tiếp:** `cmc/en/LCmc063_en.bi5_@000028e7` (10 todo), rồi `LCmc064`, `LCmc065` và các catalog còn thiếu theo index. **Ưu tiên kỹ thuật:** chạy read-only dialogue_probe tại máy có `etc.bin_` / `etc.fht_`, phân tích bảng opcode/pointer từ báo cáo cấu trúc, dựng lossless message roundtrip rồi mới cân nhắc repacker an toàn.
+
+## Lượt 042 — 11/10/2026: lối vào chẩn đoán hội thoại tự động (chỉ đọc)
+
+- Thêm `tools/dialogue_diagnose.py` nhận `--game-root` để tự tìm `etc.bin_` + `etc.fht_` (tối đa 8 cấp) hoặc `--bin-dir` để trỏ chính xác. Nếu thiếu hoặc thấy nhiều kho, **từ chối đoán**. Công cụ chỉ gọi probe gốc + redacted summary, tạo `local-data/dialogue-probe.json` (riêng tư) và `local-data/dialogue-structure-summary.json` (metadata đã lọc); không upload, không sửa game/ROM/ISO/font V3.
+- Thêm 6 unit test dữ liệu tổng hợp ở `tests/test_dialogue_diagnose.py`, hướng dẫn một lệnh PowerShell tại `docs/DIALOGUE_LOCAL_QUICKSTART.md`. Kiểm tra Python unittest/GitHub Actions thực tế **chưa được xác minh trong lượt này**; không gọi đây là parser/repacker hoặc đã kiểm thử binary gốc.
+- **Chốt việc kỹ thuật tiếp theo:** cần kết quả chạy thật trên bản gốc để phân loại metadata, opcode, speaker, offset và nguồn tham chiếu (u32 byte match không đủ chứng minh pointer). Sau đó mới viết message parser/lossless roundtrip, dry-run repacker an toàn. **Nhánh dịch tiếp:** `LCmc063@000028e7`.
