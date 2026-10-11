@@ -11,130 +11,130 @@
       "file_offset": 10983,
       "source": "H17 years ago, I set off\na chain of events that\ncaused much misery.",
       "source_sha256": "a94e568af681830af26a4dbf08488bb8bcc5432a6ff93c7072f902df8a27a20f",
-      "vi": "",
-      "status": "todo",
+      "vi": "H17 năm trước, tôi đã gây ra\nmột chuỗi biến cố khiến\nbao người phải đau khổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002b30",
       "file_offset": 11056,
       "source": "And who killed him?",
       "source_sha256": "3d4da5a5e46f5e41a6da57a92e3a5bb8bc725f2fd4f340504b0174acfa1474b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy ai đã giết ông ấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002b47",
       "file_offset": 11079,
       "source": "0I am sorry for the pain\nI have caused you.",
       "source_sha256": "29d55c4ccd57a3955f2e5644512d027090e4227ec54cb236151237529182e8ae",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Tôi xin lỗi vì những đau khổ\nmà mình đã gây ra cho cô.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002b77",
       "file_offset": 11127,
       "source": "8I am certain that the\nlatest deaths are related.",
       "source_sha256": "aaf4063ff4f4eca8bc39293b59321e1df41d0806eca0b2a57dbe9befa8bb16b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Tôi chắc những cái chết\ngần đây có liên quan.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002baf",
       "file_offset": 11183,
       "source": "<I cannot bear the weight,\nand will take my own life.",
       "source_sha256": "8abe0e978bce6448c11cb0f66477f18b90add9514afca2beef022203f738c1e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Tôi không chịu nổi gánh nặng này,\nvà sẽ tự kết liễu đời mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002c03",
       "file_offset": 11267,
       "source": "4He caused the deaths\nof all those villagers?",
       "source_sha256": "09f4fe75747a365e4ad3ba4e753d69bab05c6ddbefeef1cd948706c1472fbb14",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Ông ấy khiến tất cả\ndân làng đó thiệt mạng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002c38",
       "file_offset": 11320,
       "source": "But how?",
       "source_sha256": "d03dde6a8d8ef485928d7960b85a31d533bc44d4d30aa38d9a6af931b4fa0d32",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng bằng cách nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002c47",
       "file_offset": 11335,
       "source": "0Medical mishap?\nOr something else\nentirely?",
       "source_sha256": "3feac6becdddf7c3bb660b193a977b5aad34fba22f212590cbdede26616ae9e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Sai sót y khoa?\nHay là chuyện gì\nhoàn toàn khác?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002c77",
       "file_offset": 11383,
       "source": "4Thank you,\nfor not once\nassailing my silence.",
       "source_sha256": "0e3bce83bc6a2adc5842c703609c7758caabc4a3a33b7987d1562bc3c444c329",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Cảm ơn cô,\nvì chưa từng\ntrách cứ sự im lặng của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002cb4",
       "file_offset": 11444,
       "source": "Dear Theresa,",
       "source_sha256": "211393db7efc6bd1c44fe0e86c73012e21700a4bfccd1c6896ebd06d1c828c39",
-      "vi": "",
-      "status": "todo",
+      "vi": "Theresa thân mến,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002cc7",
       "file_offset": 11463,
       "source": "0Indeed, the doctor\nreally did have a will.",
       "source_sha256": "ced2569a9461975041a7622169580e7923dfd50c9c9345d7a0dbdd6f68e5a1ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Quả thật bác sĩ\nđã để lại di chúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002cf7",
       "file_offset": 11511,
       "source": "0He considered suicide,\nbut was soon killed.",
       "source_sha256": "57a18e8edd0a5c8689f3139369da06e8fa3b487c3e3b7c972d1fdda6ca86cf00",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Ông ấy từng định tự sát,\nnhưng rồi bị sát hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc141_en.bi5_@00002d27",
       "file_offset": 11559,
       "source": " With all of my love,\nRoger.",
       "source_sha256": "46be8aee7a93ab8b837c9556606d623d80745ac82aed3c0dc1d1b5d6f104e965",
-      "vi": "",
-      "status": "todo",
+      "vi": " Với tất cả tình yêu,\nRoger.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
