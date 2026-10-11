@@ -1111,1000 +1111,1000 @@
       "file_offset": 27037,
       "source": "\nyou for your trouble.",
       "source_sha256": "5b4626830cfa72a0d5f81aaad0844edbb842fd6587f6a7a655839ea436abd676",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn vì đã vất vả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00006e19",
       "file_offset": 28185,
       "source": "\nf..first place?",
       "source_sha256": "f33ef01a23d1186a84b77b96f157e274b00e02d245a5bb22c3588662234fe650",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nng..ngay từ đầu sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00006f1f",
       "file_offset": 28447,
       "source": "\ndoctor's c..clinic.",
       "source_sha256": "68bc0eae9feaa996f7ccd0a428fed5598e5fe84fc63e3358b88d56ed568af9de",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nphòng kh..khám của bác sĩ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00006f77",
       "file_offset": 28535,
       "source": "(But apparently that was a f..fib.",
       "source_sha256": "f3c51a2d1dc12290f1edb04e4dcd3799897bd52ec3c20c899e85991476acbf9e",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Nhưng xem ra đó chỉ là lời n..nói dối.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007075",
       "file_offset": 28789,
       "source": "\naccident!",
       "source_sha256": "af93231a064ac404da9553cfc0457be9f3359e07c4c789828fe92122ae057bb5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntai nạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000070e2",
       "file_offset": 28898,
       "source": "\nand now my dreams are shattered.",
       "source_sha256": "2bd2fc5fa6abb851d52e05d8b36f56cf4ba08a468715e52f53a2cec07fc2386e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà giờ những giấc mơ của tôi tan vỡ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000071d9",
       "file_offset": 29145,
       "source": "\nyou want.",
       "source_sha256": "323a796480fb7cf52d15a929f2875e372e32bba0be408f593110b04702b57bd1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđiều bạn muốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000072bb",
       "file_offset": 29371,
       "source": "\ndo what I can to help.",
       "source_sha256": "9d7b7151c440eb8225f1d7371fa10b451a8bbf16d20e6d817810a17a26017a18",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm những gì có thể để giúp đỡ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007337",
       "file_offset": 29495,
       "source": " voice.",
       "source_sha256": "32af031ac7cde2fcc625ee9752de53cb7aa69e5123f2e7f402354b48a60dd6f0",
-      "vi": "",
-      "status": "todo",
+      "vi": " giọng nói.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007399",
       "file_offset": 29593,
       "source": "\nSay it again!",
       "source_sha256": "1d9472f895f5fcb1ba0de3d925ec086855a8304115165161477677c1b9432d70",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNói lại lần nữa đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000743a",
       "file_offset": 29754,
       "source": "\nA Faery in the village?",
       "source_sha256": "1f886c42b9d0c9548defa2806544ba20f7e874395cde83a127bf427d580e4657",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCó Faery trong làng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000753a",
       "file_offset": 30010,
       "source": " was after?",
       "source_sha256": "2206dbb887c0ff4f7677d9dec49597925cbcb0ccafe933d6125de289aa66375a",
-      "vi": "",
-      "status": "todo",
+      "vi": " đang tìm kiếm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000077dc",
       "file_offset": 30684,
       "source": "\nwould destroy everything.",
       "source_sha256": "9c17355b3bec99bc83bb57e253e707690779d53b6c739ae1a09141db7a913952",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ phá hủy tất cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007869",
       "file_offset": 30825,
       "source": "\nwhat that SOMETHING is.",
       "source_sha256": "eed6fb9d1b3a6de6c8a6e48c68edc5a6b7da24042dd7eedce1210a9bcf45b8c7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTHỨ GÌ đó rốt cuộc là gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007a8a",
       "file_offset": 31370,
       "source": "\nmay quickly fall out of favor.",
       "source_sha256": "6f683918c34d5c5c5ea489a4af5bc5febe0a5c4de32e81e7d3b7c0616d8ba4e8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể sớm thất sủng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007c6e",
       "file_offset": 31854,
       "source": "\ndon't forget that.",
       "source_sha256": "938b3c07312f3d557f8d35e81fd708a2266f2473ada363420d8ea2950d161ca9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđừng quên điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007e5c",
       "file_offset": 32348,
       "source": ". I should watch them.",
       "source_sha256": "73ca3673ef5d53e12dc2940fed535a7bd69e93dd3a796fc2c6e3b04306b92fe1",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Tôi nên để mắt đến họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00007f5c",
       "file_offset": 32604,
       "source": "\nancient lore says.",
       "source_sha256": "17349941e8ed15af3e78651e3f33edecb50490eb6d8a297d9770ccce6b1ad631",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntruyền thuyết cổ xưa kể rằng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008086",
       "file_offset": 32902,
       "source": "\nit grant my wish!",
       "source_sha256": "833e8d6fab2d40bee1ef541e33a2ff79b14fc31c98d1b871f89e534fe69e95a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnó sẽ ban điều ước của tôi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000081bb",
       "file_offset": 33211,
       "source": "\nto be an actress.",
       "source_sha256": "06a18646016a9247d864035f04a0d3b1ee0fff486eba9b1cf9c25ebf8638d008",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrở thành diễn viên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008231",
       "file_offset": 33329,
       "source": "\nlegs in an accident.",
       "source_sha256": "80a3708024ba0edd1273f81aec3a6ac8a59d46440d8d799f4ac49fc8d20982c1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđôi chân trong một vụ tai nạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000082cb",
       "file_offset": 33483,
       "source": "\ntheir sympathies.",
       "source_sha256": "5f3d75b50994d26a4ae12f05e98933d3c50722f5f4f798bfc93ccaa34a813000",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlời chia buồn của họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000083c7",
       "file_offset": 33735,
       "source": "\nthe lore of all origins.",
       "source_sha256": "064a9f1b8e49dc1888da528c1609e2109a134423d3996b2d0d0b7f44bfa2a9f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntruyền thuyết về mọi nguồn cội.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000084cc",
       "file_offset": 33996,
       "source": "What are those?",
       "source_sha256": "2bd4353c135e4b94cb49c4e7406e50e3b98b2c49a46ba27a2ea3c0ff73cfe854",
-      "vi": "",
-      "status": "todo",
+      "vi": "Những thứ kia là gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000854b",
       "file_offset": 34123,
       "source": "\nhis heart.",
       "source_sha256": "28194d67e86b65cfb1381f885956121dc30c443e362e706c021aacd591dc4b86",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrái tim anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008696",
       "file_offset": 34454,
       "source": "\nI swear.",
       "source_sha256": "843f56da78d49be511c336853e7e630af7b9e2a26a8dc87f775ca9a1b801dd49",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi thề đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008793",
       "file_offset": 34707,
       "source": "\nJust... true to herself.",
       "source_sha256": "5811c5f6e686caab20d5f4011f81acacb40baea97040365c617e038bcd29e422",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChỉ là... sống đúng với bản thân.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008856",
       "file_offset": 34902,
       "source": "\nlegend surrounding Doolin.",
       "source_sha256": "2aca5705c06bad0e44f2da85b7557a7d313466708fbf05d053bf783f4b5381dd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntruyền thuyết quanh Doolin.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000088d4",
       "file_offset": 35028,
       "source": "\nknows about meeting the dead.",
       "source_sha256": "f542290e23a2be0e7bf60919c07b8717d8ef52bf41a663356866f64af17c0f44",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbiết về chuyện gặp người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008956",
       "file_offset": 35158,
       "source": "\nhandful of people still tell.",
       "source_sha256": "7977d447c49fa7960e922ef7cf301f991ed434f04d23bc1b066cadbd257cd0ce",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvẫn còn một số ít người kể lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000089dc",
       "file_offset": 35292,
       "source": "\nall the more genuine.",
       "source_sha256": "2b8d93077ce97d2b743654d46a757b4ac2e9448adb2ea9d326c439c1e5f4f764",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncàng chân thật hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008a6d",
       "file_offset": 35437,
       "source": ". What are they?",
       "source_sha256": "54e9160a40ac28656f91a0ef6852cd48c36e1e095f3fef0f258832de2bfee8ad",
-      "vi": "",
-      "status": "todo",
+      "vi": ". Chúng là gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008b14",
       "file_offset": 35604,
       "source": "\nthose who wish for it.",
       "source_sha256": "41dc362206b2ccab40d7470067b123e452d48db19a7d22bfa9dcb47fc4d20449",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững ai mong muốn điều đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008c21",
       "file_offset": 35873,
       "source": "\nthat much. Faerys aren't real.",
       "source_sha256": "a899a3e0570b6e27ee0acf64c37e85fc353e3714930434e3b9549e8c693f49d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntới mức ấy. Faery không có thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008dc5",
       "file_offset": 36293,
       "source": "\nforever... if she only prayed.",
       "source_sha256": "a8541c79ba0d145df05ab8f1f36caf29cb1acf638b1529e1877352ba2f4ce0dc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmãi mãi... chỉ cần cô ấy cầu nguyện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008e2c",
       "file_offset": 36396,
       "source": "I see...",
       "source_sha256": "1168336fb2a0dd18bcc36308fbff6e38555ba352c5c404d03fc84f5c1fb1e800",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ra là vậy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008f0a",
       "file_offset": 36618,
       "source": "\nI'm sorry for what I did.",
       "source_sha256": "3d6903a7f15d1971b3752f0105c8ef73fca4f42b91eb47aa2f488e7bd2feda23",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi xin lỗi vì chuyện mình đã làm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008f7c",
       "file_offset": 36732,
       "source": "\nI hardly even remember.",
       "source_sha256": "3dd45165535419e7e26cb5b4e42706656aaa7bbab7099c16af9de32df6eee414",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi còn chẳng nhớ rõ nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00008ff8",
       "file_offset": 36856,
       "source": "\nyou've grown.",
       "source_sha256": "3ddc693c8cf1f6e2c48cecaeead7dd6c7fed2d770aab71a4863b121d60a8fe15",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn lớn quá rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000091e4",
       "file_offset": 37348,
       "source": "It could be.",
       "source_sha256": "03013ccd94023e3aa46a98aae1048faf3941272a0b0bdcd25b24d52734e62bcc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cũng có thể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@00009264",
       "file_offset": 37476,
       "source": "\nfind her Faery.",
       "source_sha256": "48244b331989bbb2698a282efb381312eb6a472877ff02264e49e0219b1ba369",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm Faery của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000092fc",
       "file_offset": 37628,
       "source": "\nshe'll help you.",
       "source_sha256": "b607b2278db508a1a928425b49be4de56fa27928624f02c187351b7d2d901f71",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy sẽ giúp bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00009778",
       "file_offset": 38776,
       "source": "It could be.",
       "source_sha256": "03013ccd94023e3aa46a98aae1048faf3941272a0b0bdcd25b24d52734e62bcc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cũng có thể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@000097f8",
       "file_offset": 38904,
       "source": "\nfind her Faery.",
       "source_sha256": "48244b331989bbb2698a282efb381312eb6a472877ff02264e49e0219b1ba369",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntìm Faery của cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000985c",
       "file_offset": 39004,
       "source": "\nAnd now she's passed away...",
       "source_sha256": "2bb85ca7e2e6438f2c48ed01e1383c829f6420023447bb8777da07e0c5087d05",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVà giờ cô ấy đã qua đời...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@000098e1",
       "file_offset": 39137,
       "source": "\nshe could to help you.",
       "source_sha256": "4e2129a2759043c7a3a1a8f59b4bf478b80816756ed4ec0bed6e82507bb6e5a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmọi điều cô ấy có thể để giúp bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00009d02",
       "file_offset": 40194,
       "source": " is perilous.",
       "source_sha256": "d931b4c87691984ba3247cd0244269b0bff4f130c4f04bab190e830e91bce51c",
-      "vi": "",
-      "status": "todo",
+      "vi": " rất nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00009d7e",
       "file_offset": 40318,
       "source": "\nI can't let her down.",
       "source_sha256": "4f2371892a3dc7d9546007725e0c218523d52820dba0c97ea94b0dbd018746f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không thể phụ lòng cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00009ddb",
       "file_offset": 40411,
       "source": "$All right. Be careful, then.",
       "source_sha256": "e539816d65eb2fde4e29b3964775e9747663e713b2240d6a4b5a16c2c0c660e0",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Được rồi. Vậy hãy cẩn thận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@00009fb8",
       "file_offset": 40888,
       "source": "\nheavy drinker, you know.",
       "source_sha256": "93bb61064a739e81b474b870ef38d1f0aaebcd5337b62be658609c26f0da4c2e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngười nghiện rượu nặng, bạn biết đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a053",
       "file_offset": 41043,
       "source": "\nand getting the shakes at that.",
       "source_sha256": "c03284c2050cf393f7c60bd1644208205f6c235bbe9a0d05f92c1ffa1b5ffbb2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthậm chí còn run rẩy nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a0d2",
       "file_offset": 41170,
       "source": "\nif you ask me.",
       "source_sha256": "b26412c72dd3556cdc9dab32f5b8c391e2067dda91d33c64d949835296727be7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntheo tôi thấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a1ad",
       "file_offset": 41389,
       "source": "\nall the alcohol.",
       "source_sha256": "6654d676a9c71e55d22f480908a64f032434a4b734c5f6418fdb9c9c8debac41",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntất cả chỗ rượu ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a392",
       "file_offset": 41874,
       "source": "\nwith one swig!",
       "source_sha256": "714622314617898eb164802de05e8d78e2b4eb494b930e305f354a2622816a03",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchỉ một hơi là hết!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a469",
       "file_offset": 42089,
       "source": "\nplace is falling apart.",
       "source_sha256": "fe80842bac843b7064a51b745279427ec88db66ad4c71d70d54618736248bae3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnơi này đang xuống cấp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a4e8",
       "file_offset": 42216,
       "source": "\nOblivion swallows us all.",
       "source_sha256": "225f65fe18ca2fdbbb0513bea87470d11dc6e70ff0ade3fd8f72aa0369602c29",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nOblivion nuốt chửng tất cả chúng ta.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a5d8",
       "file_offset": 42456,
       "source": "\nflaws. Springs leaks, it does.",
       "source_sha256": "a024762c4a0dc5305af67b8b691ebedd4305e4a4b454ec818a3ff370b522ed55",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđầy khiếm khuyết. Nó còn bị rò rỉ nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a690",
       "file_offset": 42640,
       "source": " secret.",
       "source_sha256": "9cacace99dcc5e785c2ff511e4a76ecc9bba3898d3ae79fd46825b576037ee86",
-      "vi": "",
-      "status": "todo",
+      "vi": " bí mật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a787",
       "file_offset": 42887,
       "source": "\nask the person inside.",
       "source_sha256": "c11ce03d70c6bcea71c46e515f87d4ae57adfc271a99bc31d4d327e3e3344354",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhỏi người bên trong xem.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a8bb",
       "file_offset": 43195,
       "source": "\nThe elixir's all gone.",
       "source_sha256": "db99e72484a12e79d458e7955b5976b8c010dc25b1c664361a96e174c288761f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThuốc tiên đã hết sạch.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a96a",
       "file_offset": 43370,
       "source": "\nelse entirely.",
       "source_sha256": "de6ee472d42fb810378b29b93f9ed8d1eb499b1fd57d099da54770b97cea7908",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà chuyện hoàn toàn khác.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000a9c0",
       "file_offset": 43456,
       "source": "What?!?",
       "source_sha256": "732d80c010f4a2ff7b76e3913d40b68c33178ecd19908006ae3475ccdf78e0c6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái gì cơ?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000aa2b",
       "file_offset": 43563,
       "source": "\na little secret.",
       "source_sha256": "088baba67db3dbf016f715077663a10614c516047f53a60a4d524a603a61208c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột bí mật nho nhỏ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000ab8b",
       "file_offset": 43915,
       "source": "\nvital mechanism.",
       "source_sha256": "9db9817d60213ca75cff221ca4aad19aaf58e4589d0b8b2f4b8e2ac6055c8a0b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncơ chế thiết yếu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000acb4",
       "file_offset": 44212,
       "source": "\nabundantly clear.",
       "source_sha256": "4e822c7070c19494ec0eb75c6bf6148e1a297e3b59d2d9ff109f1b545b2e080b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrõ rành rành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000ad70",
       "file_offset": 44400,
       "source": "I can't go this way.",
       "source_sha256": "50b9479da3fda4d1ca7f8feba1b56100cde6b81ee8f0f0a52717bc109493d1f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi không thể đi lối này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000ae61",
       "file_offset": 44641,
       "source": " been drinking from.",
       "source_sha256": "ff369082938280865566ce1630de7058537b1e664b297b990f6d666a421a8d95",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã uống từ đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000af14",
       "file_offset": 44820,
       "source": "What?",
       "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b006",
       "file_offset": 45062,
       "source": "\nalcohol?",
       "source_sha256": "80dba43522315c66c65a9e6c9bf12b6e9b18d19f3b9c4ac9c14ddb97028878ee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrượu sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b09b",
       "file_offset": 45211,
       "source": " His shakes were from fear.",
       "source_sha256": "2c1560ad4db02c5c264625a8ee449168e76f41cc4a0d2efeedc7186ea0f2b943",
-      "vi": "",
-      "status": "todo",
+      "vi": " Cơn run của ông ấy là vì sợ hãi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b0fc",
       "file_offset": 45308,
       "source": "Fear of what?",
       "source_sha256": "2e1863e8897e138ca47cc0b58d54ebd88e24b8c5dac8fa6371825497ff14ff07",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sợ điều gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b27c",
       "file_offset": 45692,
       "source": "\nthem with the same affliction,",
       "source_sha256": "59018120cac60f53e592c0aeb1f723eef70dc28174f9b2b5774c29b26f9b4574",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhọ cũng mắc chứng bệnh ấy,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b313",
       "file_offset": 45843,
       "source": "\nHe's a kind-hearted man.",
       "source_sha256": "3608b37d0060b883bb7c8d4175beb8c902f65048d9f9dd8f1c6d2ba20ef66a91",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nÔng ấy là người tốt bụng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b458",
       "file_offset": 46168,
       "source": "\na drinking problem.",
       "source_sha256": "f3aafe3d7f6a655327950422c9f1e446b2d67a22e03feb21c901cd53be000d17",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện nghiện rượu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b4e7",
       "file_offset": 46311,
       "source": ", that's what I have.",
       "source_sha256": "6fbb69d0d2a0d5ab8f5c4deac5fc76377358e001ed7b0192c6e0407ddee4cb71",
-      "vi": "",
-      "status": "todo",
+      "vi": ", đó là điều tôi có.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b564",
       "file_offset": 46436,
       "source": "\nI wasn't ready to think about.",
       "source_sha256": "75aed58732af510d40b1858ca1303c934660b1caafded3422806bd278271cb6c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi chưa sẵn sàng nghĩ đến chuyện đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b604",
       "file_offset": 46596,
       "source": "\nI realized.",
       "source_sha256": "3b2a24fd3d91b888bfd760e6afe10aee7cd66e0fec2a11c5b40ce22ef56b399c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi đã nhận ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b658",
       "file_offset": 46680,
       "source": "...What?",
       "source_sha256": "c1fb26d451ee523101749636d1151b32e8f53903156e4ef96b934beef1bc25e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b6f4",
       "file_offset": 46836,
       "source": "\ntheir lifetime.",
       "source_sha256": "f4da0e0922da0886ea32b00dd953588bb3b89fdb14b32798104a4e5fdc916ed9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuốt cuộc đời họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b7d4",
       "file_offset": 47060,
       "source": "\nthat terrible knowledge,",
       "source_sha256": "0474b8fe26c866d2f692a64714d8dc26f2d5b95b5b45abf2c4034a6c654dd3af",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự thật khủng khiếp ấy,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b86f",
       "file_offset": 47215,
       "source": "\naffairs of their daily life.",
       "source_sha256": "5a5138efdb096d26e10d1b268571b2209ab8bb717a680cf06e77eb1eb93befa5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững chuyện thường ngày của họ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b90c",
       "file_offset": 47372,
       "source": "\nme and the rest of us?",
       "source_sha256": "f75731aa5c8b704465de69a1383bb49d804b4b88d59a5be4bd640ea2e8455a7c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi và những người còn lại sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000b9cd",
       "file_offset": 47565,
       "source": "\nbefore you end up like me.",
       "source_sha256": "0acedb3aa19810341dbacd663b48d1b3859d273510dfad0dad37015c4878e6b1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrước khi bạn thành ra như tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000ba50",
       "file_offset": 47696,
       "source": "\ncan fret about ordinary things.",
       "source_sha256": "2dfac14df5f13398e770ba1e20336b7837072b282d8ace93b15b38bb61de8df0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể lo những chuyện bình thường.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000bbe4",
       "file_offset": 48100,
       "source": "\nare a great comfort to me.",
       "source_sha256": "d9d970b9c68f843c43e79cc6ad39cfc19fa048101b9da9e8db432a159442e171",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlà nguồn an ủi lớn đối với tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000bf21",
       "file_offset": 48929,
       "source": "\nhere, I'm certain of it!",
       "source_sha256": "bf01bf0ede6d70938928cfb5ca58b59833a8bb5b5b14294aa13ba7fdd30b236b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở đây, tôi chắc chắn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c035",
       "file_offset": 49205,
       "source": "\nas you are!",
       "source_sha256": "e145ae090e7827d896c9c136ee94ca46ee2f662ef1a3c9412503676fef619e86",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư bạn vậy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c12b",
       "file_offset": 49451,
       "source": "\nfate of a Messenger.",
       "source_sha256": "21d9925bed5a0fafdaa358c9614ad34f0eebf00650d492c3c2e40db35b48ef09",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsố phận của một Sứ giả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c1d7",
       "file_offset": 49623,
       "source": "\ncease to exist.",
       "source_sha256": "539da9cfa9eaf31e54e60320341094794bdd36feb8ece02ca33f6ace1bb4923f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông còn tồn tại nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c2c8",
       "file_offset": 49864,
       "source": "\nI've seen in a while.",
       "source_sha256": "4a20e32bbedaf44d46c10f05376140b7567cbbfa4c03da88311c8ae61c09a3c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã lâu rồi tôi mới thấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c342",
       "file_offset": 49986,
       "source": "\njob than most, if you ask me.",
       "source_sha256": "743e9ea8331f9966946aa90c1c452c3ac0058b04fb282aa11317237bd4bdaeed",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlàm tốt công việc hơn đa số người khác, theo tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c3c8",
       "file_offset": 50120,
       "source": "\nHer curiosity spelled her doom.",
       "source_sha256": "8594124eeaefa29defeec038cb77dff97bf69263ccc716a23e386a3b6d08c02f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSự tò mò đã đẩy cô ấy đến chỗ chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c494",
       "file_offset": 50324,
       "source": "She died here.",
       "source_sha256": "f791b428d781634ac1ffa98ef9bffe201f83ab1e61fdd7dc943c434581cc9d6c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô ấy chết ở đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL; cần xác minh người nói/cảnh và bố cục sau khi có parser."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c59e",
       "file_offset": 50590,
       "source": " deepest mysteries.",
       "source_sha256": "a85e430d75cf55a430b4ae73645792fc2238e4f4000bc2f7550b5829c7a1097b",
-      "vi": "",
-      "status": "todo",
+      "vi": " những bí ẩn sâu kín nhất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c612",
       "file_offset": 50706,
       "source": "\nown good.",
       "source_sha256": "5dae7d2438b61f68be78c301698fe11df8d9edeb138a4afc009723fb3b9a1e5c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nlợi ích của riêng mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c680",
       "file_offset": 50816,
       "source": "\nlife, somewhere up ahead.",
       "source_sha256": "1bf2f3c31e42d9e86d135ddc60ce82a364f859a3b5d6e2249904073f71075334",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự sống, ở đâu đó phía trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c80e",
       "file_offset": 51214,
       "source": "\nbut... she would not go.",
       "source_sha256": "19fa59bfd4ffd970ba206e9827441490023524ec865863e29a0f0ff47aa32855",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhưng... cô ấy không chịu đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c91d",
       "file_offset": 51485,
       "source": "\nand meet the dead.",
       "source_sha256": "13cf4056817dfeaea4858e557ecd36c8a224dc4164cff4319b6d6ec9e421108e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà gặp những người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000c9b5",
       "file_offset": 51637,
       "source": "\ndisappointing results.",
       "source_sha256": "d704c91042f8157a366052618581bc28090974ab99ebd46742dd6ada276e5480",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkết quả đáng thất vọng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000ca32",
       "file_offset": 51762,
       "source": "\nlive on in the world today.",
       "source_sha256": "2ab0bc1078fd3db6f594a860f84644924ddeb8ba86c11d758315e1f01ca7b6b2",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvẫn tồn tại trên thế giới ngày nay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII-NUL bị cắt mảnh; bản nháp chưa xác minh người nói/cảnh; không tự ghép mảnh vào game."
     },
     {
       "id": "talk/en/tk600_en.bin_@0000ccd0",
