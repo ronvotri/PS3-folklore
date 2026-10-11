@@ -482,3 +482,13 @@ ngắt dòng và ký hiệu điều khiển; không xác minh hay đoán speaker
 ASCII. Tổng **9.895/11.886 draft**, còn **1.991 todo**. Chưa có patch
 hội thoại playable; Merienda V3 và game binary không đổi. Bước dịch tiếp
 `tk700@00001158`, song song ưu tiên phân tích binary thực tại local.
+
+## Lượt 039 — 11/10/2026: hoàn tất tk700 ở mức dịch nháp
+
+Đã dịch hết **242/242** ứng viên của `talk/en/tk700_en.bin_` trong hai batch,
+đưa tổng dữ liệu trích lên **10.137/11.886 draft; 1.749 todo**. Giữ nguyên
+metadata, source, ID, offset, tiền tố, số xuống dòng và font Merienda V3.
+Câu nói lắp/fragment hoặc tên Folk vẫn cần QA theo bối cảnh; **không nâng
+trạng thái reviewed/tested** và không tuyên bố đã vá vào game. File CMC đầu
+tiên còn trống được kiểm tra là `cmc/en/LCmc005_en.bi5_` (16 mục).
+Chưa có kiểm thử binary thật, command parser hay bản vá hội thoại playable.

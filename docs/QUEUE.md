@@ -519,3 +519,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA ở tầng catalog: giữ nguyên `id/file_offset/source/source_sha256/source_review`, không sửa thứ tự, giữ tiền tố/ngắt dòng, Unicode NFC; không đụng Merienda V3, binary gốc, bản vá local, RPCS3.
 - **Tổng 9.895/11.886 mục draft**, còn **1.991 todo**. Mọi tỉ lệ chỉ mô tả bản nháp trong text catalog, KHÔNG chứng minh patch tiếng Việt chơi được; talk/CMC command parser & repacker vẫn chưa có bằng chứng từ binary gốc.
 - **Tiếp theo nhánh dịch:** `talk/en/tk700_en.bin_@00001158` (242 todo); sau đó các CMC chưa dịch và QA theo cảnh. **Ưu tiên kỹ thuật chính:** chạy probe thật trên `etc.bin_` + `etc.fht_` tại local, dùng summary đã lọc để kiểm nghiệm header/opcode/pointer, đạt roundtrip cấp thông điệp trước khi vá.
+
+## Lượt 039 — 11/10/2026 (hoàn tất toàn bộ bản nháp tk700)
+
+- Đã hoàn tất trọn `talk/en/tk700_en.bin_.json`: **242/242 todo→draft**, chia 2 commit 122 + 120, đầu `@00001158`, cuối `@0000fbb3`. 21 nguồn trùng tk100/101/204/205/307/500/600 được tái dùng trong đợt đầu, 2 nguồn trùng ngoài đợt đầu và 20 lần lặp trong batch cuối được nhất quán. (Tổng **23 lượt tái sử dụng xuyên catalog**, 20 lượt lặp nội bộ, còn 199 mục nguồn mới trước khi trừ trùng nội bộ.)
+- Nội dung gồm 19 nhãn điểm đến/giao diện, nhiệm vụ tìm đường tại Hành lang Vô tận, hoa cho người đã khuất, các trận đấu với Folk, mật ong, phần thưởng và tên sinh vật `[Tathlum]`, `[Yarthkins]`, `[Alonedite]`, `[Coropuna]`, `[Alhazred]`, `[Grindylow]`, `[Cyhyraeth]`, `[Langelaan]` giữ nguyên. `Denizen` giữ nguyên chờ xác minh là tên chủng loài hay danh từ thường.
+- Rà bất biến ID/offset/source/source_sha256/source_review, NFC, tiền tố (`$ / ( / space / newline`), số xuống dòng, câu lặp. Có mảnh có dấu hiệu nói lắp, tiền tố chưa rõ (`ON. Hmm...`) nên chỉ để draft và ghi notes; KHÔNG tự suy người nói hoặc thay cấu trúc.
+- Tổng catalog đạt **10.137/11.886 bản dịch nháp**, còn **1.749 todo** (chỉ số chuẩn bị dữ liệu, **chưa phải patch playable**). Không sửa font Merienda V3, game binary/ISO hoặc bản vá local.
+- **Tiếp theo nhánh dịch:** `cmc/en/LCmc005_en.bi5_@00004377` (16 todo); sau đó `LCmc007` 15 todo, `LCmc008` 17 todo và các CMC còn lại. **Ưu tiên kỹ thuật:** chưa có kiểm chứng `etc.bin_`/`etc.fht_` thật, cần probe + roundtrip parser message + safe repacker trước khi đưa thoại vào RPCS3.
