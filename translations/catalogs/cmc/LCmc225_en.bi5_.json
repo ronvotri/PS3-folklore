@@ -11,130 +11,130 @@
       "file_offset": 14680,
       "source": "Livane...?",
       "source_sha256": "f3db276e6d7443a93d6c81929167361318f68ea1ff728ff63f40ff2ca7df1909",
-      "vi": "",
-      "status": "todo",
+      "vi": "Livane sao...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003967",
       "file_offset": 14695,
       "source": ",We had to face each\nother eventually.",
       "source_sha256": "3613cc12f7406c7219ec5aa4cc29654da7df36839cb40be897ee98775918e33b",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Sớm muộn gì chúng ta\ncũng phải đối đầu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003993",
       "file_offset": 14739,
       "source": " What better time than now?",
       "source_sha256": "fc131fe433bdd1f386cc710f59ac5456c2997e8ab1b95450f5214b7a62607717",
-      "vi": "",
-      "status": "todo",
+      "vi": " Còn lúc nào thích hợp hơn bây giờ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@000039b3",
       "file_offset": 14771,
       "source": "$Uwee hee hee\nGet her, Ellen!",
       "source_sha256": "49978b202c79400f91b7558737a350d997694c3e406fd7209b60e156877e0166",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Úi hi hi!\nHạ cô ta đi, Ellen!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@000039e4",
       "file_offset": 14820,
       "source": "Not interested?",
       "source_sha256": "cd9ec57924fdd2a4fbaec54766ba16439eaa9c5abcace179145d14c0ca7b4c34",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không hứng thú à?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@000039f7",
       "file_offset": 14839,
       "source": "$Don't go over the top,\nladies.",
       "source_sha256": "f5be7e9dfed141db811d0c8a52b399e1d3617ab51d013c15c5a1412e2c03cec8",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đừng làm quá lên,\ncác cô.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003a1b",
       "file_offset": 14875,
       "source": "LEllen... Sometimes the\nonly route to understanding\nis through conflict.",
       "source_sha256": "8c306ae3883c08cc2a523b28a4ebeaf429e92462f6041a879410cfb5b166ed15",
-      "vi": "",
-      "status": "todo",
+      "vi": "LEllen... Đôi khi\nchỉ qua xung đột\nmới hiểu được nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003a77",
       "file_offset": 14967,
       "source": "8This isn't the first time\nwe've faced each other.",
       "source_sha256": "330c1fc07eb2ba653c4004afabadb8fe0ccabe8867ff6c58915b18915c23cf05",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Đây đâu phải lần đầu\nchúng ta đối đầu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003ab0",
       "file_offset": 15024,
       "source": "Heh...\nNo, perhaps not",
       "source_sha256": "af6a89caa7ebaf1f6cd7c9eaf1c79579a2890aa36cdc51ba28472893717f22b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hừ...\nCó lẽ không",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003adb",
       "file_offset": 15067,
       "source": ",Behold! The ancient\nrites of combat!",
       "source_sha256": "1f015f50b22cb933294da87336d160e7cd6c5d50052263686445ee2c2b9fa41e",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Hãy chứng kiến! Nghi thức\nchiến đấu từ ngàn xưa!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003b08",
       "file_offset": 15112,
       "source": "Scarecrow?!?",
       "source_sha256": "35f919a9330dba7f5f05a0a1fcfb8579e563ae11c8a2ed17e6de0c0e5ae2d721",
-      "vi": "",
-      "status": "todo",
+      "vi": "Scarecrow sao?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003b2c",
       "file_offset": 15148,
       "source": "Keats!",
       "source_sha256": "0fdfc833de37fd3310fe0efa69affaf6dc683ed73248479c4193706bf5a61d52",
-      "vi": "",
-      "status": "todo",
+      "vi": "Keats!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc225_en.bi5_@00003b38",
       "file_offset": 15160,
       "source": "Now,\nenough talk!",
       "source_sha256": "4fe746f6109bc97fa9ac9d82f5b342a7d3220b7bc5a2ee236207f9d436de3334",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giờ thì,\nkhỏi nói nhiều!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
