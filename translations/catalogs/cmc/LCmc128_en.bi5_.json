@@ -11,90 +11,90 @@
       "file_offset": 10288,
       "source": "No! Wait!",
       "source_sha256": "dbeeec4b30063cd89c4b6e9282bd838206bd9c8ace5eb073ee9e5f36a42af5ff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không! Khoan đã!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@00002847",
       "file_offset": 10311,
       "source": "0I'd tell you more,\nbut I have little time.",
       "source_sha256": "9cdc26a6524e16f614487e0ec054691600ac618babb85ad73df0b37eeb06c8ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Tôi muốn nói thêm,\nnhưng không còn nhiều thời gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@00002877",
       "file_offset": 10359,
       "source": ",On the verge of\nbecoming a Mnemosyne?",
       "source_sha256": "411f38165f23a9a283980ef337c136ce7412456e96eafe0bb0410f953450ce8a",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Sắp biến thành\nMnemosyne rồi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@000028ab",
       "file_offset": 10411,
       "source": "4Yes, but before I do,\nI'd like to ask a favor.",
       "source_sha256": "32a5a9d655d0096aa02d9f5da11dd75561ea6162baf708ebd846c24eba639070",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Đúng, nhưng trước khi đó,\ntôi muốn nhờ một việc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@000028df",
       "file_offset": 10463,
       "source": "$I've just realized\nsomething.",
       "source_sha256": "ac6118972d2e8bc2bdcaeb1914562deb639982ae5c1388a725ca8ba295863349",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi vừa nhận ra\nmột điều.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@00002950",
       "file_offset": 10576,
       "source": "What's that mean?",
       "source_sha256": "3a2d9eb41784c872fa03bd1b9c1bb7228ed4adc38505bda2216cfa43f6b53d3c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ý ông là sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@0000296e",
       "file_offset": 10606,
       "source": " Tell\nHarriet...",
       "source_sha256": "93c5ba6fc78b7450098d2c1f24e98e25a77c074a46c9562ce1b7c0a17934429b",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hãy nói với\nHarriet...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@00002983",
       "file_offset": 10627,
       "source": ",To forget the past,\nand embrace life.",
       "source_sha256": "3d114f753072747d0e5da9afee95fe862cb70bbf6012b8273d538b7b04b62240",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Hãy quên đi quá khứ,\nvà đón nhận cuộc sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc128_en.bi5_@000029b0",
       "file_offset": 10672,
       "source": "Hmm?",
       "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hửm?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
