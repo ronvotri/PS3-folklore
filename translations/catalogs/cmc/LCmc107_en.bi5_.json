@@ -11,110 +11,110 @@
       "file_offset": 10656,
       "source": "A dream?",
       "source_sha256": "abdc89cba883914c1b1e89037067f2954fc8f76d802d69c07f0be26708b909a4",
-      "vi": "",
-      "status": "todo",
+      "vi": "Một giấc mơ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@000029b0",
       "file_offset": 10672,
       "source": "Or not.",
       "source_sha256": "a6c77272eb2e00057aaed22a2b6380825fe18ebded574f9d160a5e8fea90588e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hay không phải.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002a83",
       "file_offset": 10883,
       "source": "0This is what you meant\nby a time limit, eh?",
       "source_sha256": "1712907348d4d6167e32c6079aef895597fdf69c6e1c26584274d3a440374522",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Đây là ý ông nói\nvề giới hạn thời gian à?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002ab4",
       "file_offset": 10932,
       "source": "But nothing was solved.",
       "source_sha256": "7e5ba5a61fab81a1e4d11eb2af4fe0f1ce381bfb2d5e090046bb9a598cb3fc49",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng chưa giải đáp được gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002acf",
       "file_offset": 10959,
       "source": "0Why was the woman\non the cliff murdered?",
       "source_sha256": "949e68476d41e7f7bcb4d825f7afed7ace5d3a70d2220a2e31c54691b02ddcec",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Sao người phụ nữ\nở vách đá bị sát hại?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002aff",
       "file_offset": 11007,
       "source": "$Who called me\nat the office?",
       "source_sha256": "84fe59c8d2ad969ae22881e9c25e6f2406520d8faaef97502e7a4675104abffa",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ai đã gọi cho tôi\nở tòa soạn?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002b24",
       "file_offset": 11044,
       "source": "To find the\nanswers...",
       "source_sha256": "78e4fe2b678e8582ceff901c82fdd1ee765df17ff6830f0cb7caa08cf99fab61",
-      "vi": "",
-      "status": "todo",
+      "vi": "Muốn tìm ra\nlời giải...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002b3f",
       "file_offset": 11071,
       "source": "$Meet the murdered\nwoman again.",
       "source_sha256": "fee619c0c694314a01ac705ae67547d6c6ec4a2929248a195614330fd55248b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Phải gặp lại\nngười phụ nữ bị giết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002bb8",
       "file_offset": 11192,
       "source": "Wait!",
       "source_sha256": "34621f0d50c83c4de241348b5c775b75e0ba31c149df2d2b6ac0decc370fccfb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khoan đã!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002bc4",
       "file_offset": 11204,
       "source": "I must know more!",
       "source_sha256": "a524ccb5e2f5b01ce22f2a7e1f41e0d32c31ab720d986c67671667e31ffb66f2",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi phải biết thêm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc107_en.bi5_@00002bdc",
       "file_offset": 11228,
       "source": "Damn!",
       "source_sha256": "12c31896eb20fce89388a4905bf1d33370e59a641604999dd813c510684b0a3c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chết tiệt!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
