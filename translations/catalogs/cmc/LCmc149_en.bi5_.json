@@ -11,110 +11,110 @@
       "file_offset": 10775,
       "source": "4Or, speak to someone\nwho knew young Cecilia.",
       "source_sha256": "09b3a89729783c94688987f8cacc593a242ae69b140390dbf7f7569b2d0436f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Hoặc hãy hỏi người\ntừng biết Cecilia thuở nhỏ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002a4b",
       "file_offset": 10827,
       "source": "4My life was overshadowed\nby an obscure fear,",
       "source_sha256": "77e4061000c39dd3832f7b1b484de8b486939420b935f5bcb52022630aab84e2",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Cuộc đời tôi luôn bị\nnỗi sợ mơ hồ bao phủ,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002a80",
       "file_offset": 10880,
       "source": "I must know my roots.",
       "source_sha256": "9c16c49227bc16524bbf66844e532c4f63d74608e5ff88213168962a32bd129e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi phải biết cội nguồn của mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002a9b",
       "file_offset": 10907,
       "source": ",it's only natural\nto seek the truth.",
       "source_sha256": "e140db774280230a229065246599563c2005578b7e57dae6e85673ced07490b9",
-      "vi": "",
-      "status": "todo",
+      "vi": ",muốn tìm sự thật\nlà điều tự nhiên thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002aef",
       "file_offset": 10991,
       "source": ",Your mother claimed\nthat you were dead.",
       "source_sha256": "31f1263cfd49cea23c6396ecc6dd7d75ac2035e3d4d94bae1ac9d0deb5e6f340",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Mẹ cô từng nói\nrằng cô đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002b63",
       "file_offset": 11107,
       "source": "$Keats...\nYou knew all the time?",
       "source_sha256": "81a72105357259c302dda2a357c37bafb716017b355326b8c0f6999b42a68bc4",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Keats...\nAnh đã biết từ lâu sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002b87",
       "file_offset": 11143,
       "source": "0Do I dare unmask\nthe horrors of my past?",
       "source_sha256": "49ae0c22237b06a21f7df54b631111bb46fc103b1abf0dc252da1f7ca252e3f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Liệu tôi có dám vén màn\nquá khứ kinh hoàng?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002bb7",
       "file_offset": 11191,
       "source": ",This decision is yours.\nBut I must say,",
       "source_sha256": "ede0809e53e9a6b49f295d71e5059059af47c29fb7a8e181309c56f511cde3b5",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Quyết định là ở cô.\nNhưng tôi phải nói rằng,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002be3",
       "file_offset": 11235,
       "source": "4but only now is that\nfear coming into focus.",
       "source_sha256": "e149ab12d800120375c9e8b3af02ffd8d1e9a9ff1be64503d371fd9baed0243e",
-      "vi": "",
-      "status": "todo",
+      "vi": "4nhưng mãi đến giờ\nnỗi sợ ấy mới rõ hình hài.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002c27",
       "file_offset": 11303,
       "source": "(My past...\nIt's all coming back...",
       "source_sha256": "d960c65773210d29613eefe56e26afd4d7c298b3670e2e93c9e287503fc63ffe",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Quá khứ của mình...\nTất cả đang ùa về...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc149_en.bi5_@00002c57",
       "file_offset": 11351,
       "source": " You need time.\nTo think.",
       "source_sha256": "0d6a7a36cad79da26a42185aa929370852bbf0d172a28db74a9db28e8243e6ea",
-      "vi": "",
-      "status": "todo",
+      "vi": " Cô cần thời gian.\nĐể suy nghĩ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
