@@ -503,3 +503,13 @@ Tổng dự án **10.390/11.886 draft**, còn **1.496 todo**; số lượng khô
 ánh mức hoàn thành patch có thể chơi. Merienda V3 và tệp game không đổi.
 Chưa có mẫu binary gốc để chứng minh parser command, con trỏ, repacker hoặc
 chạy trong RPCS3. CMC tiếp theo: `LCmc030_en.bi5_@00002a98`.
+
+## Lượt 041 — 11/10/2026: 334 bản nháp hội thoại CMC
+
+Hoàn thành 334 mục của 25 CMC từ `LCmc030` đến `LCmc062` (các file được
+liệt kê trong `docs/QUEUE.md`). Toàn bộ vẫn là bản nháp chưa chứng minh
+người nói, thứ tự hội thoại hay diễn biến trong cảnh; không có xác nhận
+chạy RPCS3. Bảo toàn ID, source, hash, offset, source_review, số newline và
+tiền tố ASCII-NUL; không thay Merienda V3 hoặc game binary.
+**10.724/11.886 bản nháp, còn 1.162 todo.** Chưa có parser/repacker lời
+thoại có thể chơi được. Điểm bắt đầu tiếp: `LCmc063@000028e7`.

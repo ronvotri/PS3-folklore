@@ -535,3 +535,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Tất cả mới chỉ đạt **draft** và ghi cảnh báo trong notes: chưa xác minh opcode/speaker, chưa roundtrip hội thoại trên binary gốc, chưa thử RPCS3. Không sửa Merienda V3, etc.bin_, etc.fht_, ROM/ISO hoặc patch.
 - **Tổng 10.390/11.886 bản nháp; còn 1.496 todo**. Đây không phải 87,4% bản Việt hóa chạy được. Đợt tiếp theo của nhánh dịch là `cmc/en/LCmc030_en.bi5_@00002a98` (14 todo), kế tiếp `LCmc031` (14), `LCmc032` (9), `LCmc033` (11)... 
 - **Ưu tiên kỹ thuật thực sự:** chạy `tools/dialogue_probe.py` trên bản sao dữ liệu gốc tại máy, xuất `tools/dialogue_summary.py`, xác lập message/pointer/opcode và byte-perfect roundtrip trước khi có write-capable repacker và patch playable.
+
+## Lượt 041 — 11/10/2026 (334 ứng viên CMC qua 25 file)
+
+- Hoàn thiện bản dịch nháp cho **334 ứng viên `todo→draft`** thuộc 25 catalog CMC: `LCmc030, 031, 032, 033, 034, 035, 036, 037, 039, 040, 041, 042` (164 mục); `LCmc046, 047, 048` (69 mục); `LCmc050, 051, 052, 054, 055, 056, 057, 058, 060, 062` (101 mục). Chia **3 commit** để cô lập lỗi.
+- Nội dung: Keats/Ryan, bí ẩn nhà thờ và hồ sơ bác sĩ Lester, lựa chọn của Ellen tại Cõi âm; Herve và Cecilia, lời nhắn trên băng; Lulu, ký ức và sự thật về Cecilia. Giữ tên riêng/tên địa danh, ngắt dòng nguồn và tiền tố có thể là mã điều khiển, không đoán người nói từ thứ tự chuỗi.
+- Kiểm tra trong phiên: đúng số mục từng catalog, chỉ ghi `vi/status/notes`, không sửa `source/id/source_sha256/file_offset/source_review`; kiểm tra tiền tố, số newline, Unicode NFC và các nguồn trùng trong batch. Các mục **chỉ ở trạng thái `draft`**, chưa xác minh bối cảnh, giới tính/người nói hoặc chạy trong game.
+- **Tổng 10.724/11.886 bản nháp; còn 1.162 todo**. Tỉ lệ bản nháp KHÔNG đo mức độ playable. Font Merienda V3, binary game và patch local không thay đổi.
+- **Đầu việc dịch tiếp:** `cmc/en/LCmc063_en.bi5_@000028e7` (10 todo), rồi `LCmc064`, `LCmc065` và các catalog còn thiếu theo index. **Ưu tiên kỹ thuật:** chạy read-only dialogue_probe tại máy có `etc.bin_` / `etc.fht_`, phân tích bảng opcode/pointer từ báo cáo cấu trúc, dựng lossless message roundtrip rồi mới cân nhắc repacker an toàn.
