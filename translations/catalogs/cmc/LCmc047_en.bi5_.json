@@ -11,240 +11,240 @@
       "file_offset": 14536,
       "source": "Thank goodness",
       "source_sha256": "a51e6c18ae3a030711e46c3d5ad44727cbb723fc47064bba22910d2cc6f30efe",
-      "vi": "",
-      "status": "todo",
+      "vi": "May quá!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@000038dc",
       "file_offset": 14556,
       "source": "Ellen?",
       "source_sha256": "c0bd697132019b573a663ef2585cb91aecae9c6e688913f00ffaec3be08d819a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ellen?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@000038e7",
       "file_offset": 14567,
       "source": "(Why would you\nwish to be forgotten?",
       "source_sha256": "947581bdf33373d91e7653dd98806d966502dbabe7c0eb9edf3042f81b2f88b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Sao bạn lại\nmuốn bị lãng quên?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003928",
       "file_offset": 14632,
       "source": "Herve!",
       "source_sha256": "fdcc2215b9473c2f4bf14bc3fa39c3d7dbf89dc06027fd90654f213d275761b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Herve!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003933",
       "file_offset": 14643,
       "source": "0There is someone who\nhas not forgotten you.",
       "source_sha256": "5917a8ef94aaecd7851da8215aeb84d3017d881120b9a54a833bb5d6528b5b3a",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Có một người\nvẫn chưa quên bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003964",
       "file_offset": 14692,
       "source": "What?",
       "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@0000396f",
       "file_offset": 14703,
       "source": "(But, Dr. Lester!\nCecilia is\nalive!",
       "source_sha256": "2f72911ab8fd15609f12891522b55a1bb4b3818f288fc7a2ebc20761d4e7ee55",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Nhưng, bác sĩ Lester!\nCecilia vẫn\ncòn sống mà!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003998",
       "file_offset": 14744,
       "source": "Yes, of course...",
       "source_sha256": "2b194df05061028047a83a1ca50a4b0da4c940d69db9d547aa6968a572b3e77c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vâng, tất nhiên...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@000039b0",
       "file_offset": 14768,
       "source": "There's no mistake.",
       "source_sha256": "e6bed540172076e608eb449112f6a1156c8bbf38e3f0978ac6eb4038ece4feff",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không thể nhầm được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@000039c8",
       "file_offset": 14792,
       "source": "Dr. Lester!\nBut why?",
       "source_sha256": "1d31a78ec89fb56cfb1ebeaa72df53d1eae1e8d3be30a87ccdf3f9f5d6f859ae",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bác sĩ Lester!\nNhưng tại sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@000039e3",
       "file_offset": 14819,
       "source": " Because I, too,\nhave died.",
       "source_sha256": "d59613b71178ba68175115b529bac0603cd181488b38c43ff354a67348e19177",
-      "vi": "",
-      "status": "todo",
+      "vi": " Vì chính tôi\ncũng đã chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003a03",
       "file_offset": 14851,
       "source": "4I was frightened to\nmeet you. I'm very sorry.",
       "source_sha256": "ec756621759e99cb08436e75a926d609dc2b3055c3f66d547b168aac59f482c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Tôi đã sợ phải\ngặp bạn. Xin lỗi bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003a38",
       "file_offset": 14904,
       "source": "But,\nfor what?",
       "source_sha256": "65781e9e4a3170421056c1818c4091ee40c0427b017402d8fcabeb99b24f6c85",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng,\nvì chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003a53",
       "file_offset": 14931,
       "source": " You did so much\nto help me.",
       "source_sha256": "6e49ef6e4a4ccc02d4f6617e789f575f5bde01517ac5a2ca4324add9451269d2",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn đã giúp\ntôi nhiều đến thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003a7b",
       "file_offset": 14971,
       "source": ",Herve... You didn't\nknow this, but...",
       "source_sha256": "7548ae8019cee34422387b09910c730bad337c4664a201262eaa95d78d08425f",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Herve... Bạn không\nbiết chuyện này, nhưng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003aa7",
       "file_offset": 15015,
       "source": "(I failed to save\nCecilia, as well.",
       "source_sha256": "42ccabc768ca3fbf88bee1a9108534d9b2917f248d49dc623a83696aa2542d16",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tôi cũng không cứu\nđược Cecilia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003acf",
       "file_offset": 15055,
       "source": "$Yes, I see...\nThat is a relief.",
       "source_sha256": "2089936c849aba237c8ea6426aef19d3b02846bd7beaabbde134be218f186957",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Vâng, tôi hiểu rồi...\nVậy thì yên tâm quá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003af4",
       "file_offset": 15092,
       "source": "Even after 17 years.",
       "source_sha256": "166b85a81e94934c1352abd1b2dc852824503651e876c101b7e377393dab9343",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ngay cả sau 17 năm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003b0f",
       "file_offset": 15119,
       "source": ",I am the one who\nshould be forgotten.",
       "source_sha256": "3d527c7665f09e2948439f7dad7a41a482c853602caaad0c9dc00143c5785520",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Chính tôi mới là\nngười đáng bị lãng quên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003b54",
       "file_offset": 15188,
       "source": "What?!?\nBut... how...",
       "source_sha256": "96604dd51a1fbfed691a621c2c6b9cff1b1ddadd5fc474cbfe6f9472a5a46aac",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?!?\nNhưng... sao lại...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003b97",
       "file_offset": 15255,
       "source": "0So, what she said\nwas true after all...!",
       "source_sha256": "ef48a62db21a5bccb1aa77ac52d3dd727f0fd71df0e73f42c9c03c99fbd62dcd",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Vậy ra những lời cô ấy nói\nđều là sự thật...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003bc8",
       "file_offset": 15304,
       "source": "How could\nthis be...",
       "source_sha256": "f2c7be18f654d0529bd8648674ebb18944e3f608acfe3cb3836b1cb18a76b544",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sao có thể\nnhư thế...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003bf3",
       "file_offset": 15347,
       "source": "0Well, it seems I can\nno longer stay here.",
       "source_sha256": "defb02a945989cdf6838d95f330ca1796f5d9c47ac4e36eee091d33a6aea6636",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Chà, có lẽ tôi\nkhông thể ở đây nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     },
     {
       "id": "cmc/en/LCmc047_en.bi5_@00003c23",
       "file_offset": 15395,
       "source": "0Perhaps... we will\nmeet again...one day...",
       "source_sha256": "9d8b89d20a338f5617ecd082836c2425fb8846edbd7e665ce42d5489b330247a",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Biết đâu... một ngày\nchúng ta sẽ lại gặp nhau...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa xác minh ngữ cảnh, speaker hoặc byte điều khiển; chờ QA theo cảnh và game."
     }
   ]
 }
