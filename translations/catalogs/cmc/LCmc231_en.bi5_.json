@@ -11,120 +11,120 @@
       "file_offset": 10935,
       "source": "(I've sucked up the fear\nof death.",
       "source_sha256": "156e83060126d739c0012d935aad212ef8f7b3edef0cb7cc6784f5ab985c0e99",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Ta đã hút hết\nnỗi sợ cái chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002adf",
       "file_offset": 10975,
       "source": "8Uwee hee now I just spurt\nit out across the Earth!",
       "source_sha256": "61bfc91d5749ace2b4c5a4d076f5fa99fd0c566415cc944a6b99ed4980fbcd2d",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Úi hi hi, giờ ta sẽ phun\nnó ra khắp trần gian!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002b17",
       "file_offset": 11031,
       "source": " Stop!\nThat is quite enough!",
       "source_sha256": "0d6b797145246e94217b9f512686c4df5650d70ff39d1f8bd04705c069af40e8",
-      "vi": "",
-      "status": "todo",
+      "vi": " Dừng lại!\nThế là đủ rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002b37",
       "file_offset": 11063,
       "source": "0I will teach humans\nthe horrors of\ndeath.",
       "source_sha256": "58d04d72b685a6cec20574725551b81d127fc0d9a41997be5a9b7ffb49c5fbcd",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Ta sẽ cho loài người\nbiết cái chết\nkinh hoàng thế nào.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002b67",
       "file_offset": 11111,
       "source": "8Their ignorance is what\nallows cruelty to persist!",
       "source_sha256": "0eeba212e8049db09fa2aa5af5e33777123aa7e861e350054962b73669fe341c",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Chính sự ngu muội của họ\nkhiến tàn ác vẫn tiếp diễn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002b9f",
       "file_offset": 11167,
       "source": "DFear will make the\nworld a better place...\nNo war, no murder.",
       "source_sha256": "b878bfe4d02019eae7aba34c3fc9709fc24ec4353065efb546021432b9c8a2fa",
-      "vi": "",
-      "status": "todo",
+      "vi": "DNỗi sợ sẽ khiến\nthế giới tốt đẹp hơn...\nKhông chiến tranh, không giết chóc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002be4",
       "file_offset": 11236,
       "source": "Uwee hee hee\nCecilia.",
       "source_sha256": "d93bc66504bddb4f682fc905de384a96206f05f06d7a8eee62fde0201d332e5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Úi hi hi,\nCecilia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002bff",
       "file_offset": 11263,
       "source": "(What are you doing,\nScarecrow?!?",
       "source_sha256": "09356dd2e6bffb8f92478c07d69a83e7297c63e1b7a2fb0d9b1a0a03485c23a0",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Cậu đang làm gì vậy,\nScarecrow?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002c27",
       "file_offset": 11303,
       "source": "<This is what you wanted!\nI was born\nfrom your desires!",
       "source_sha256": "bf8517125da94ab827c230bbc54c18bad94a364463acb06a1ebbff242d78ac89",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Đây chính là điều cậu muốn!\nTớ được sinh ra\ntừ ước nguyện của cậu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002c63",
       "file_offset": 11363,
       "source": "4I will not rest until\nyour wishes are granted!",
       "source_sha256": "43ef0947cc0615a3039475f2a025dde92e197e657a2ccc5c7e0fad6b8cc05a70",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Tớ sẽ không dừng lại\nđến khi điều ước thành sự thật!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002c98",
       "file_offset": 11416,
       "source": "Scarecrow!",
       "source_sha256": "ead708a5639d2e8617de2e3875c0255a245d56b66cbba63ebd9f14904fa0905d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Scarecrow!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc231_en.bi5_@00002cbb",
       "file_offset": 11451,
       "source": "0This is the moment\nI've been waiting for.",
       "source_sha256": "6fe09e181614166270d0ee88e5f735b16fc28bc01e9e365ae8eddeb714c64ba3",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Đây chính là khoảnh khắc\nta chờ đợi bấy lâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
