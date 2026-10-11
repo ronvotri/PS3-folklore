@@ -314,3 +314,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Toàn bộ 158 catalog: **6.292/11.886 draft (52,9%)**, còn **5.594 todo** trong dữ liệu trích xuất; đây không phải tỷ lệ bản vá playable.
 - **Tiếp theo:** `talk/en/tk204_en.bin_@00001158` (`To Netherworld`); tk204 có 823 mục. Dùng lại nguồn trùng và dịch source mới theo cảnh; luôn lưu/QA theo batch an toàn.
 - GitHub Actions validator và unittest Windows/Linux chạy sau khi push.
+
+## Lượt 027a — 11/10/2026 (100 mục đầu tk204)
+
+- Kiểm tra HEAD `f97ce76f11b7` và CI lượt tk203 PASS. Dịch `tk204` **100 todo→draft** từ `talk/en/tk204_en.bin_@00001158` đến `talk/en/tk204_en.bin_@00006642`: 24 nguồn trùng được tái sử dụng, 76 mảnh mới được dịch nháp, có ghi chú những câu chưa rõ người nói.
+- Nội dung: Faery, điều ước và thế giới bên kia, ý thức/tâm thức, truyền thuyết ngôi làng, vụ sát hại thứ ba và những cuộc tìm kiếm. Giữ tên riêng, thuật ngữ và sắc thái kỳ bí; không tự gán quan hệ qua các fragment.
+- QA: chỉ vi/status/notes đổi đúng 100 mục; ID, English, source hash, offset, source_review, order bất biến; NFC, newline, prefix, placeholders và duplicate source được soát. Chưa có parser/repacker thoại hoặc test RPCS3; không đụng font Merienda V3/ROM/ISO/binary.
+- Tổng repo **6.392/11.886 draft**, còn **5.494 todo** (độ phủ bản nháp của dữ liệu trích).
+- **Tiếp theo:** `talk/en/tk204_en.bin_@000066b3`; tiếp tục theo cảnh với QA/commit từng phần, CI Windows/Linux validator + unittest chạy sau push.
