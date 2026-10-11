@@ -122,6 +122,22 @@ def hits_for_u32(data: bytes, value: int, *, max_hits: int = 16) -> list[dict]:
     return results
 
 
+def select_names(index: dict | None, names: list[str] | None,
+                 all_dialogue: bool) -> tuple[str, ...]:
+    """Select catalog sources in index order; do not invent archive paths."""
+    if all_dialogue:
+        if names is not None:
+            raise ValueError('--all-dialogue and --files cannot be combined')
+        if index is None:
+            raise ValueError('Missing catalog index for all-dialogue selection')
+        selected = tuple(row['file'] for row in index['files']
+                         if row['kind'] == 'dialogue')
+        if not selected or len(selected) != len(set(selected)):
+            raise ValueError('No dialogue entries or duplicate dialogue names in index')
+        return selected
+    return tuple(names if names is not None else DEFAULT_FILES)
+
+
 def sample_indices(entries: list[dict], limit: int) -> list[int]:
     """Deterministically cover leading labels, fragments and end-of-file."""
     if not entries or limit <= 0:
@@ -154,13 +170,13 @@ def ascii_preview(data: bytes) -> str:
 
 
 def probe_binary(data: bytes, catalog: dict, *, radius: int = 64,
-                 max_samples: int = 12) -> dict:
+                 max_samples: int = 12, verify_only: bool = False) -> dict:
     if not 0 <= radius <= MAX_RADIUS or not 1 <= max_samples <= 100:
         raise ValueError('radius must be 0..256 and max_samples 1..100')
     sections, stats = verify_candidates(data, catalog)
     entries = catalog['entries']
     examples = []
-    for i in sample_indices(entries, max_samples):
+    for i in ([] if verify_only else sample_indices(entries, max_samples)):
         row = entries[i]
         start = row['file_offset']
         end = start + len(row['source'].encode('ascii')) + 1
@@ -184,13 +200,15 @@ def probe_binary(data: bytes, catalog: dict, *, radius: int = 64,
         'file': catalog['file'], 'size': len(data), 'sha256': sha256(data),
         'source_verification': 'all catalog ASCII+NUL bytes and file digest match original',
         'stats': stats, 'sections': sections, 'samples': examples,
+        'u32_pattern_scan': not verify_only,
         'limitations': ('Raw u32 matches are byte-pattern candidates, not proven pointers. '
                         'No command/speaker/control-flow parser, relocation or patch capability.'),
     }
 
 
 def run(bin_dir: Path, names: tuple[str, ...], out: Path, *,
-        radius: int = 64, max_samples: int = 12) -> dict:
+        radius: int = 64, max_samples: int = 12,
+        verify_only: bool = False) -> dict:
     allowed_roots = (ROOT / 'local-data', ROOT / 'dist')
     resolved = out.resolve()
     if not any(resolved.is_relative_to(p.resolve()) for p in allowed_roots):
@@ -222,11 +240,14 @@ def run(bin_dir: Path, names: tuple[str, ...], out: Path, *,
             catalog = folklore.read_json(ROOT / 'translations' / spec['catalog'])
             if catalog['file'] != name or catalog['file_sha256'] != spec['source_sha256']:
                 raise ValueError(f'Index/catalog mismatch for {name}')
-            report = probe_binary(data, catalog, radius=radius, max_samples=max_samples)
+            report = probe_binary(data, catalog, radius=radius, max_samples=max_samples,
+                                  verify_only=verify_only)
             report['archive_offset'] = location['offset']
             reports.append(report)
     payload = {'schema': 1, 'game_id': 'BCUS98147', 'mode': 'READ_ONLY_FORENSICS',
                'parser_validated': False, 'repacker_available': False,
+               'scan_mode': 'SOURCE_ONLY' if verify_only else 'SOURCE_AND_BYTE_PATTERNS',
+               'verified_candidate_total': sum(r['stats']['entries_verified'] for r in reports),
                'reports': reports}
     # If *any* file fails verification, no report is written.
     resolved.parent.mkdir(parents=True, exist_ok=True)
@@ -238,21 +259,33 @@ def main() -> None:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--bin-dir', required=True, type=Path,
                    help='Local folder containing original etc.bin_ and etc.fht_')
-    p.add_argument('--files', nargs='+', default=list(DEFAULT_FILES),
+    p.add_argument('--files', nargs='+', default=None,
                    help='Exact archive entries with committed catalog JSON')
+    p.add_argument('--all-dialogue', action='store_true',
+                   help='Verify every dialogue catalog in index order (read-only)')
+    p.add_argument('--verify-only', action='store_true',
+                   help='Verify source SHA, offsets, NUL and CMC bounds; skip u32 scans')
     p.add_argument('--out', type=Path, default=ROOT/'local-data/dialogue-probe.json',
                    help='Ignored report path under local-data/ or dist/')
     p.add_argument('--radius', type=int, default=64)
     p.add_argument('--max-samples', type=int, default=12)
     args = p.parse_args()
     try:
-        report = run(args.bin_dir, tuple(args.files), args.out,
-                     radius=args.radius, max_samples=args.max_samples)
+        index = folklore.read_json(ROOT / 'translations/index.json') if args.all_dialogue else None
+        names = select_names(index, args.files, args.all_dialogue)
+        report = run(args.bin_dir, names, args.out,
+                     radius=args.radius, max_samples=args.max_samples,
+                     verify_only=args.verify_only)
     except (ValueError, OSError, KeyError, UnicodeError, struct.error) as exc:
         p.exit(1, f'Probe refused: {exc}\n')
-    for item in report['reports']:
-        print(f"VERIFIED {item['file']}: {item['stats']['entries_verified']} sources, "
-              f"{len(item['samples'])} samples; raw pointer patterns NOT validated")
+    if args.all_dialogue:
+        print(f"VERIFIED {len(report['reports'])} dialogue catalogs / "
+              f"{report['verified_candidate_total']} ASCII-NUL candidates; "
+              "no message parser or patch capability")
+    else:
+        for item in report['reports']:
+            print(f"VERIFIED {item['file']}: {item['stats']['entries_verified']} sources, "
+                  f"{len(item['samples'])} samples; raw pointer patterns NOT validated")
     print(f'Read-only report: {args.out}')
 
 

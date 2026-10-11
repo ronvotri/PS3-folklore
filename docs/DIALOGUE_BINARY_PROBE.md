@@ -74,3 +74,23 @@ của ứng viên JSON.
 
 Khi tiếp tục dịch các phần còn thiếu, giữ nguyên trạng thái draft;
 không dùng phần trăm bản nháp để tuyên bố Việt hóa đã có thể chơi.
+
+## Rà đủ nguồn hội thoại — CLI bổ sung 11/10/2026
+
+Chế độ mới **chỉ đọc** kiểm tra theo thứ tự toàn bộ tệp `kind=dialogue`
+trong `translations/index.json`, đối chiếu SHA file, ID, offset ASCII-NUL,
+và section CMC được nhận diện là talk. **Không** phân tích người nói, không
+thử bản dịch trong game, không xây dựng bộ đóng gói.
+
+Chạy trên bản sao gốc khi có `etc.bin_` và `etc.fht_`:
+
+    python tools/dialogue_probe.py --bin-dir "D:\\DUONG-DAN\\DEN-THU-MUC-BIN" --all-dialogue --verify-only
+
+`--verify-only` bỏ qua dò byte-pattern u32 để rà toàn bộ dữ liệu hiệu quả hơn;
+báo cáo ghi `scan_mode=SOURCE_ONLY`, tổng số candidate đã xác minh và
+trạng thái từng tệp. Muốn điều tra xung quanh chuỗi/pattern nghi là pointer,
+dùng `--files` với 2–4 tên nguồn và bỏ `--verify-only`.
+Hai tùy chọn `--files` và `--all-dialogue` không được dùng cùng nhau.
+Kết quả có giá trị **chỉ khi đã chạy trên bản game gốc tại máy local**;
+unit test tổng hợp hay CI không thay thế bước này. Không đăng báo cáo hex
+hoặc dữ liệu nhị phân lên GitHub.

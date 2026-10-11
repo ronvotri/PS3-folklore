@@ -4,6 +4,7 @@ import struct
 import sys
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools'))
@@ -70,6 +71,30 @@ class DialogueProbeTests(unittest.TestCase):
         self.assertEqual(patterns['kind'], 'section_relative_offset')
         self.assertTrue(any(x['locations'][0]['at'] == 0x70 for x in patterns['candidates']))
 
+    def test_source_only_audit_checks_bytes_without_pointer_search(self):
+        original, cat = talk_fixture()
+        with mock.patch.object(probe, 'hits_for_u32', side_effect=AssertionError('no scans')):
+            report = probe.probe_binary(original, cat, verify_only=True)
+        self.assertEqual(report['stats']['entries_verified'], 2)
+        self.assertEqual(report['samples'], [])
+        self.assertFalse(report['u32_pattern_scan'])
+        self.assertEqual(report['sha256'], probe.sha256(original))
+
+    def test_all_dialogue_selects_index_order_and_rejects_conflict(self):
+        index = {'files': [
+            {'file': 'lang_en.bi5_', 'kind': 'menu'},
+            {'file': 'talk/en/tk100_en.bin_', 'kind': 'dialogue'},
+            {'file': 'cmc/en/LCmc000_en.bi5_', 'kind': 'dialogue'},
+        ]}
+        self.assertEqual(probe.select_names(index, None, True),
+                         ('talk/en/tk100_en.bin_', 'cmc/en/LCmc000_en.bi5_'))
+        self.assertEqual(probe.select_names(None, ['talk/en/tk100_en.bin_'], False),
+                         ('talk/en/tk100_en.bin_',))
+        with self.assertRaisesRegex(ValueError, 'cannot be combined'):
+            probe.select_names(index, ['talk/en/tk100_en.bin_'], True)
+        with self.assertRaisesRegex(ValueError, 'duplicate'):
+            probe.select_names({'files': index['files'][1:] * 2}, None, True)
+
     def test_rejects_tampered_content_without_treating_offset_as_patch_destination(self):
         original, cat = talk_fixture()
         modified = bytearray(original)
@@ -128,8 +153,11 @@ class DialogueProbeTests(unittest.TestCase):
             saved_root = probe.ROOT
             try:
                 probe.ROOT = root
-                report = probe.run(root / 'game', (cat['file'],), dest)
+                report = probe.run(root / 'game', (cat['file'],), dest,
+                                   verify_only=True)
                 self.assertEqual(report['mode'], 'READ_ONLY_FORENSICS')
+                self.assertEqual(report['scan_mode'], 'SOURCE_ONLY')
+                self.assertEqual(report['verified_candidate_total'], 2)
                 self.assertFalse(report['parser_validated'])
                 self.assertTrue(dest.exists())
                 self.assertEqual((root / 'game' / 'etc.bin_').read_bytes(), binary)

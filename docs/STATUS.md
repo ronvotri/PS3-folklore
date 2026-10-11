@@ -430,3 +430,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Thêm probe read-only cho BCUS98147, 6 unit test fixture, hướng dẫn làm ở máy local. Kết quả 6/6 test fixture qua trong môi trường thử độc lập, chưa đủ chứng minh parser thật. Không có file binary gốc trên cloud nên chưa phát hiện opcode/pointer/speaker thật.
 - Không sửa bất kỳ catalog, ROM/ISO/font/menu payload nào; vẫn 9.351 draft, 2.535 todo. Có khả năng phải biên tập lại một số fragment sau khi có cấu trúc cảnh và xác minh trực tiếp.
 - Lượt sau đi theo docs/DIALOGUE_BINARY_PROBE.md, trước hết dùng báo cáo từ 2 talk + 1 CMC để xác lập byte structure, rồi parse→serialize roundtrip byte-for-byte; dừng nếu thiếu chứng cứ.
+
+## Cập nhật công cụ read-only — 11/10/2026 (lượt 033)
+
+Thêm kiểm tra toàn bộ catalog hội thoại với `--all-dialogue --verify-only` vào
+`tools/dialogue_probe.py`, không dùng suy đoán pointer cho chế độ xác minh nguồn.
+Có thêm test tổng hợp nhưng vẫn **chưa có** chạy đối chiếu binary thật hay
+parser/serializer/repacker. Các catalog không đổi: **9.351 draft / 11.886**,
+**2.535 todo**; số liệu này không phải % Việt hóa có thể chơi.

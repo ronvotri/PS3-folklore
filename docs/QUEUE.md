@@ -474,3 +474,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Đưa `tools/dialogue_probe.py`, `tests/test_dialogue_probe.py` (6 synthetic unittest) và `docs/DIALOGUE_BINARY_PROBE.md` vào repo. QA tổng hợp chạy 6/6; **không** thay thế kiểm thử với binary gốc hay CI.
 - Công cụ **chỉ đọc**, đối chiếu hash và toàn bộ candidate tại offset, báo lỗi nếu lệch nguồn, lấy mẫu byte quanh chuỗi và dò *khả năng* u32 references; không đóng gói, vá, sửa font, cập nhật ISO hoặc tự gán speaker. Báo cáo chỉ ở `local-data/` hoặc `dist/` đã gitignore.
 - **Checkpoint tiếp:** (1) chạy probe ở local trên bản gốc 2 talk + 1 CMC; (2) so byte/offset/section; (3) xác định cấu trúc opcode/pointer; (4) parser/serializer roundtrip lossless; (5) repacker dry-run/backup/rollback rồi mới thử một vài lời thoại. Trong khi đó `tk600` vẫn còn 544 mục dịch nháp khi có thời gian.
+
+## Lượt 033 — 11/10/2026 (cổng kiểm tra nguồn talk/CMC toàn bộ)
+
+- Thêm chế độ `--all-dialogue --verify-only` vào `tools/dialogue_probe.py`: chọn toàn bộ catalog `kind=dialogue` trong index, kiểm tra SHA/source/offset/NUL/CMC section, bỏ dò u32 để rà nguồn nhanh và tách kiểm tra dữ liệu khỏi suy đoán pointer.
+- Bổ sung 2 unittest tổng hợp cho chế độ source-only, thứ tự chọn catalog và chặn xung đột tham số; mở rộng test chạy read-only. Không cập nhật `draft/reviewed/tested`, không sửa font Merienda V3 hay tệp game.
+- **Chưa chạy trên binary gốc**, chưa xây parser/serializer/repacker; không tuyên bố có patch playable. Tiến độ bản nháp giữ nguyên **9.351/11.886, còn 2.535 todo**.
+- **Tiếp theo:** chạy `python tools/dialogue_probe.py --bin-dir <thư_mục_bin> --all-dialogue --verify-only` tại máy có bản gốc; đọc các lỗi source/section thật rồi mới nghiên cứu pointer/opcode và roundtrip lossless. Khi chưa có binary, dịch `tk600` chỉ là nhánh công việc phụ.
