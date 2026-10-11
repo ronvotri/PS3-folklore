@@ -1,0 +1,152 @@
+"""Synthetic fixtures: PS3 game files are NOT needed for these tests."""
+import json
+import struct
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools'))
+import dialogue_probe as probe
+
+
+def row(name, offset, source, *, status='draft'):
+    return {'id': f'{name}@{offset:08x}', 'file_offset': offset, 'source': source,
+            'source_sha256': probe.sha256(source.encode('utf-8')),
+            'vi': 'nháp' if status == 'draft' else '', 'status': status,
+            'source_review': 'candidate', 'notes': ''}
+
+
+def talk_fixture():
+    name = 'talk/en/tk100_en.bin_'
+    data = bytearray(b'\xff' * 192)
+    data[48:48 + 13] = b'Hello there!\0'
+    data[112:112 + 15] = b'\nHello again!!\0'
+    struct.pack_into('>I', data, 8, 48)
+    struct.pack_into('<I', data, 12, 112)
+    original = bytes(data)
+    catalog = {'file': name, 'file_sha256': probe.sha256(original),
+               'entries': [row(name, 48, 'Hello there!'),
+                           row(name, 112, '\nHello again!!')]}
+    return original, catalog
+
+
+def cmc_fixture():
+    name = 'cmc/en/LCmc000_en.bi5_'
+    data = bytearray(b'\0' * 288)
+    struct.pack_into('>II', data, 0, len(data), 2)
+    struct.pack_into('>3I', data, 0x30, 0x80, 0xa0, 0x120)
+    data[0x3c:0x3c + 5] = b'talk0'
+    data[0x54:0x54 + 4] = b'anim'
+    data[0x84:0x84 + 13] = b'Hello there!\0'
+    data[0xa0:0xa0 + 13] = b'Hello there!\0'  # same text, NOT a talk section
+    struct.pack_into('>I', data, 0x70, 0x84 - 0x80)
+    original = bytes(data)
+    catalog = {'file': name, 'file_sha256': probe.sha256(original),
+               'entries': [row(name, 0x84, 'Hello there!')]}
+    return original, catalog
+
+
+class DialogueProbeTests(unittest.TestCase):
+    def test_raw_talk_verifies_every_candidate_and_pointer_patterns(self):
+        original, cat = talk_fixture()
+        report = probe.probe_binary(original, cat, radius=16, max_samples=12)
+        self.assertEqual(report['stats']['entries_verified'], 2)
+        self.assertEqual(len(report['samples']), 2)
+        self.assertEqual(report['stats']['begins_newline'], 1)
+        self.assertEqual(report['samples'][0]['file_offset'], 48)
+        hits = report['samples'][0]['u32_byte_patterns'][0]['candidates']
+        self.assertTrue(any(x['endianness'] == 'big' and
+                            x['locations'][0]['at'] == 8 for x in hits))
+        self.assertEqual(original, talk_fixture()[0])  # strictly read-only
+
+    def test_cmc_sections_limit_context_and_report_relative_patterns(self):
+        data, cat = cmc_fixture()
+        report = probe.probe_binary(data, cat, radius=64)
+        self.assertEqual([x['is_talk'] for x in report['sections']], [True, False])
+        self.assertEqual(report['samples'][0]['section'], 'talk0')
+        self.assertLessEqual(len(bytes.fromhex(report['samples'][0]['bytes_before_hex'])), 4)
+        patterns = report['samples'][0]['u32_byte_patterns'][1]
+        self.assertEqual(patterns['kind'], 'section_relative_offset')
+        self.assertTrue(any(x['locations'][0]['at'] == 0x70 for x in patterns['candidates']))
+
+    def test_rejects_tampered_content_without_treating_offset_as_patch_destination(self):
+        original, cat = talk_fixture()
+        modified = bytearray(original)
+        modified[50] ^= 1
+        with self.assertRaisesRegex(ValueError, 'SHA-256 differs'):
+            probe.probe_binary(bytes(modified), cat)
+        wrong = dict(cat)
+        wrong['file_sha256'] = probe.sha256(bytes(modified))
+        with self.assertRaisesRegex(ValueError, 'Original bytes/NUL differ'):
+            probe.probe_binary(bytes(modified), wrong)
+        broken_nul = bytearray(original)
+        broken_nul[60] = 1
+        wrong['file_sha256'] = probe.sha256(bytes(broken_nul))
+        with self.assertRaisesRegex(ValueError, 'Original bytes/NUL differ'):
+            probe.probe_binary(bytes(broken_nul), wrong)
+
+    def test_rejects_cmc_candidate_outside_named_talk_section(self):
+        original, cat = cmc_fixture()
+        cat['entries'].append(row(cat['file'], 0xa0, 'Hello there!'))
+        with self.assertRaisesRegex(ValueError, 'outside named talk section'):
+            probe.verify_candidates(original, cat)
+
+    def test_rejects_invalid_sample_size_and_malformed_cmc(self):
+        orig, cat = talk_fixture()
+        with self.assertRaises(ValueError):
+            probe.probe_binary(orig, cat, radius=9999)
+        cmc, _ = cmc_fixture()
+        malformed = bytearray(cmc)
+        struct.pack_into('>I', malformed, 0x38, 0x70)  # overlapping sections
+        with self.assertRaisesRegex(ValueError, 'section bounds'):
+            probe.cmc_sections(bytes(malformed))
+
+    def test_run_stays_local_and_writes_no_report_on_failure(self):
+        orig, cat = talk_fixture()
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / 'docs').mkdir()
+            (root / 'translations' / 'catalogs' / 'talk').mkdir(parents=True)
+            (root / 'local-data').mkdir()
+            (root / 'game').mkdir()
+            (root / 'docs' / 'baseline.json').write_text(json.dumps({
+                'game_id': 'BCUS98147', 'archive_size': 512}), encoding='utf-8')
+            (root / 'translations' / 'index.json').write_text(json.dumps({
+                'game_id': 'BCUS98147', 'files': [{
+                    'catalog': 'catalogs/talk/tk100_en.bin_.json',
+                    'file': cat['file'], 'kind': 'dialogue',
+                    'source_sha256': cat['file_sha256']}]}), encoding='utf-8')
+            (root / 'translations' / 'catalogs' / 'talk' / 'tk100_en.bin_.json').write_text(
+                json.dumps(cat), encoding='utf-8')
+            binary = bytearray(b'X' * 512)
+            binary[128:128 + len(orig)] = orig
+            (root / 'game' / 'etc.bin_').write_bytes(binary)
+            (root / 'game' / 'etc.fht_').write_bytes(
+                cat['file'].encode().ljust(32, b'\0') + struct.pack('>II', len(orig), 128))
+            dest = root / 'local-data' / 'audit.json'
+            saved_root = probe.ROOT
+            try:
+                probe.ROOT = root
+                report = probe.run(root / 'game', (cat['file'],), dest)
+                self.assertEqual(report['mode'], 'READ_ONLY_FORENSICS')
+                self.assertFalse(report['parser_validated'])
+                self.assertTrue(dest.exists())
+                self.assertEqual((root / 'game' / 'etc.bin_').read_bytes(), binary)
+                dest.unlink()
+                with self.assertRaises(ValueError):
+                    probe.run(root / 'game', (cat['file'],), root / 'unsafe.json')
+                self.assertFalse((root / 'unsafe.json').exists())
+                # Strict hash mismatch aborts before generating any file.
+                tampered = bytearray(binary)
+                tampered[180] ^= 1
+                (root / 'game' / 'etc.bin_').write_bytes(tampered)
+                with self.assertRaisesRegex(ValueError, 'SHA-256 differs'):
+                    probe.run(root / 'game', (cat['file'],), dest)
+                self.assertFalse(dest.exists())
+            finally:
+                probe.ROOT = saved_root
+
+
+if __name__ == '__main__':
+    unittest.main()
