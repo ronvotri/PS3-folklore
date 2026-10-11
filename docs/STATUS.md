@@ -28,6 +28,12 @@ Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập
   xem GitHub Actions của commit tương ứng.
 - Legacy folklore.py vẫn là ASCII: không dùng nó cài đè trực tiếp game V3.
 
+## Trọng tâm kỹ thuật mới — 11/10/2026
+
+Theo xác nhận của người dùng, **ưu tiên đọc đúng cấu trúc và đóng gói hội thoại** thay vì chỉ tăng tổng số chuỗi `draft`. Đã commit `tools/dialogue_probe.py` và 6 test giả lập tại `tests/test_dialogue_probe.py`, thêm hướng dẫn `docs/DIALOGUE_BINARY_PROBE.md`. Bộ test probe độc lập 6/6 PASS trên fixture tổng hợp; **chưa chạy trên binary gốc từ máy người dùng**, chưa xác minh GitHub Actions, chưa có parser/serializer/repacker talk/CMC. Công cụ chỉ đọc archive, so SHA và mọi nguồn ASCII-NUL với catalog, kiểm tra ranh giới CMC, lấy mẫu bytes xung quanh và mẫu tham chiếu u32 (chưa khẳng định pointer). Báo cáo local nằm ở `local-data/` hoặc `dist/` được ignore. Tuyệt đối không vá ở offset nguồn.
+
+Giữ nguyên **9.351/11.886 draft, 2.535 todo**, chưa có thay đổi dịch trong lượt này. Trước khi gọi một lời thoại là reviewed/tested phải xác minh speaker và scene, có parser lossless và in-game QA. Phân biệt rõ *đã dịch nháp* / *đã biên tập có ngữ cảnh* / *đã thử trong game* khi thông báo.
+
 ## Phần còn thiếu
 
 Parser/repacker talk/cmc chưa có. Các tiền tố candidate chưa chắc là lời thoại.
@@ -418,3 +424,9 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Nội dung người cha/con trai, tạp chí UNKNOWN REALMS, linh hồn, vụ mất tích ở Doolin, chiến binh cổ, Ethersword và giấc mơ truyện cổ Faery đã có bản nháp, nhưng speaker/fragment chưa xác minh; tạm giữ các tên riêng/ký hiệu đặc thù. Có 2 mục cũ được QA lại về từ vựng trong đợt cuối.
 - QA đối chiếu bất biến nguồn/ID/hash/offset/source_review/thứ tự, NFC/newline/prefix/placeholder/nguồn trùng trên dữ liệu qua GitHub; không sửa font V3 hoặc binary. **Chưa thực thi/xác minh** validator/unittest đầy đủ hoặc thử trong RPCS3, không coi dữ liệu nháp là patch chơi được.
 - Bàn giao `tk600` tại `talk/en/tk600_en.bin_@00001158` (544 todo), kế đó `tk700` (242 todo). Xem `docs/QUEUE.md`.
+
+## Lượt 032 — 11/10/2026 (triage định dạng và bảo đảm an toàn)
+
+- Thêm probe read-only cho BCUS98147, 6 unit test fixture, hướng dẫn làm ở máy local. Kết quả 6/6 test fixture qua trong môi trường thử độc lập, chưa đủ chứng minh parser thật. Không có file binary gốc trên cloud nên chưa phát hiện opcode/pointer/speaker thật.
+- Không sửa bất kỳ catalog, ROM/ISO/font/menu payload nào; vẫn 9.351 draft, 2.535 todo. Có khả năng phải biên tập lại một số fragment sau khi có cấu trúc cảnh và xác minh trực tiếp.
+- Lượt sau đi theo docs/DIALOGUE_BINARY_PROBE.md, trước hết dùng báo cáo từ 2 talk + 1 CMC để xác lập byte structure, rồi parse→serialize roundtrip byte-for-byte; dừng nếu thiếu chứng cứ.
