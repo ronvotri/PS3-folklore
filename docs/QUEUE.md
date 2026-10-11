@@ -394,3 +394,12 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Tổng 158 catalog **7.115/11.886 draft**, **4.771 todo** (chỉ là ứng viên đã trích; chưa phải phần trăm game đã playable bằng tiếng Việt).
 - Chưa có parser/repacker thoại/cmc, chưa test RPCS3; Merienda V3, ISO/ROM/binary không thay đổi. CI Windows/Linux validator+unittest chạy sau push.
 - **Tiếp theo:** `talk/en/tk205_en.bin_@00001158` (`To Netherworld`), tk205 có 653 mục; đối chiếu nguồn trùng rồi tiếp tục phần mới theo bối cảnh.
+
+## Lượt 028a — 11/10/2026 (100 mục đầu tk205)
+
+- Đối chiếu HEAD và checkpoint mới nhất: tk203/tk204 đã hoàn tất, CI 2619056d PASS; bắt đầu `tk205`, không lặp việc cũ.
+- Dịch 100 mục `todo→draft` từ `talk/en/tk205_en.bin_@00001158` đến `talk/en/tk205_en.bin_@000071eb`: **21** bản nguồn trùng tái sử dụng, **79** mảnh mới dịch nháp. `tk205` đạt **100/653 draft**, còn 553 todo.
+- Nội dung: Doolin 17 năm trước, ký ức tuổi thơ, Faery, lời cầu nguyện, người chỉ còn một năm để sống, băng hình, tỉnh dậy và thương tích. `Handy Video` giữ nguyên làm tên tạm vì chưa có hình; các câu cắt mảnh có notes.
+- QA đúng 100 ID, chỉ vi/status/notes thay đổi, ID/source/sha256/offset/source_review/order giữ nguyên; NFC, số newline, marker, placeholder và nguồn trùng nhất quán. Chưa có parser/repacker talk/cmc, chưa thử RPCS3; giữ Merienda V3/ROM/binary nguyên.
+- Toàn repo **7.215/11.886 draft, 4.671 todo** (độ phủ nháp ứng viên, chưa phải phần trăm patch chơi được).
+- **Tiếp theo:** `talk/en/tk205_en.bin_@000072f6` (`Things worked out for the best.`); CI validator/unittest sau commit.
