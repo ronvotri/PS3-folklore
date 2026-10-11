@@ -11,20 +11,20 @@
       "file_offset": 9143,
       "source": "PThis is where the tragedy\nbegins. But Cecilia would\nonly awaken days later.",
       "source_sha256": "8b8a354c25728595c52edc70644140328308199a541382a935ec5b2ec21bfd53",
-      "vi": "",
-      "status": "todo",
+      "vi": "PBi kịch bắt đầu từ đây.\nNhưng mãi vài ngày sau\nCecilia mới tỉnh lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc204_en.bi5_@00002417",
       "file_offset": 9239,
       "source": ",Then, Cecilia was\ntaken to the church.",
       "source_sha256": "44083f2e3d24576b83db2c457faad37258bcd7078e452f91eae16fd847241224",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Sau đó, Cecilia được\nđưa đến nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
