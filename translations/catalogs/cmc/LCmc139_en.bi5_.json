@@ -11,190 +11,190 @@
       "file_offset": 12568,
       "source": "A change of heart?",
       "source_sha256": "a2dfeb1a11cedadc69d78f22afede79ebbafd1fef93456e0af2f9bdf7b6dce42",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đổi ý rồi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@0000312f",
       "file_offset": 12591,
       "source": "(Yes. I'm not going\nto the Swamp.",
       "source_sha256": "4d801953b9ea58089b00bd8c9186a45ac47c92b17ba8b15232061ba5e465a7f5",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đúng. Tôi sẽ không\nđến Đầm lầy nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003158",
       "file_offset": 12632,
       "source": "I see.",
       "source_sha256": "420c703b11610f7b7a8e910dc406505b7bda360bb628955d4625a5a8d7c3005c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003173",
       "file_offset": 12659,
       "source": ",He was killed. There\nmust be a reason.",
       "source_sha256": "507a1b674bab6587ae4badb1d199bf0eb0435cb9d07d716ea222c09f16e63a62",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ông ấy bị sát hại.\nHẳn phải có lý do.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@0000319f",
       "file_offset": 12703,
       "source": ",I don't wish to\ninvolve her further.",
       "source_sha256": "d93a0bf9a87479d51a5f60f89d44077b9adefb066f8fca91b4c61a8a9f75c3db",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Tôi không muốn\nkéo cô ấy vào nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@000031cb",
       "file_offset": 12747,
       "source": "$Yes...And all\nfor the better.",
       "source_sha256": "708cd100d7d43fe54e0be1dfa7bf71978f945962f19f4fbf5b17b1fa1b126176",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Phải... Như thế\ncàng tốt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@000031f0",
       "file_offset": 12784,
       "source": "Why should you care?",
       "source_sha256": "823e3cd9ca0e95d84f181b3d3411380a3647c73e56de82d00b08fcc321335125",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sao anh lại quan tâm?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@0000320c",
       "file_offset": 12812,
       "source": "I sent Ellen\ninstead.",
       "source_sha256": "0c32448589b1e1986047541178cbb3f577d0461a8dda3e521e4e9303bca47462",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi đã cử Ellen\nđi thay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003234",
       "file_offset": 12852,
       "source": "Hmm?",
       "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hửm?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003247",
       "file_offset": 12871,
       "source": "0What happened\nbetween you and\nthe doctor?",
       "source_sha256": "6c648d0a4edb7fbdc265bcfdb485d8533db2cd43d0124e52d3bf564474196edc",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Chuyện gì đã xảy ra\ngiữa anh và\nbác sĩ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003288",
       "file_offset": 12936,
       "source": " I have a\nfavor to ask.",
       "source_sha256": "ec2384e407cee4875d2bc8f602de87515190a776cce379859be14f8f10d4bd8e",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi có một\nviệc muốn nhờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@000032a3",
       "file_offset": 12963,
       "source": " Dr. Lester wrote\na will.",
       "source_sha256": "fc19f9d77074e77f3f8206f8ecddb4b7f6ac32e7a6a554953208ae252dc00365",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bác sĩ Lester đã viết\nmột bản di chúc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@000032c3",
       "file_offset": 12995,
       "source": ",Make sure Mrs. Lester\ndoes not see it.",
       "source_sha256": "a37388ca4f721135ae5e7b3fa5c85c68b667b22963623427df46d17b21366079",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Đừng để bà Lester\nnhìn thấy nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003307",
       "file_offset": 13063,
       "source": "@Please, if anything\nhappens to Ellen,\nyou must help her.",
       "source_sha256": "825c4824752d8cc4e48135388267cf2e5c915c4ef613630989a01e42a364b3c7",
-      "vi": "",
-      "status": "todo",
+      "vi": "@Xin anh, nếu Ellen\nxảy ra chuyện gì,\nhãy giúp cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003358",
       "file_offset": 13144,
       "source": "Why not tell Ellen?",
       "source_sha256": "8cd8824061bab78f7e04c8c7ea5f6a95d4ea3812ce9e4b95538d6ed2768ece89",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sao không nói với Ellen?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003387",
       "file_offset": 13191,
       "source": "0I just didn't want\nthe doctor to suffer.",
       "source_sha256": "81231a68845023b0aa068ee7e4878f5fd602b9a373f1f9f2be9330a011f5cc2b",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Tôi chỉ không muốn\nbác sĩ phải đau khổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@000033bf",
       "file_offset": 13247,
       "source": " But things are\nsettled now.",
       "source_sha256": "5a595132551cc66076b3a4ff9d333a1716a32500ab20d061aa301d94c78dc58f",
-      "vi": "",
-      "status": "todo",
+      "vi": " Nhưng giờ\nmọi việc đã ổn rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@000033df",
       "file_offset": 13279,
       "source": "0Dr. Lester wasn't\nscared of my condition.",
       "source_sha256": "e0248d8714e77461b4e9aadfa5cc63ed07326cc98b14f2333389f017fff48e5b",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Bác sĩ Lester không\nsợ bệnh trạng của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc139_en.bi5_@00003432",
       "file_offset": 13362,
       "source": " Nothing more.",
       "source_sha256": "7b7a711cf333b9cffc5aa0394de7b56cd41f2050ef325a7643a00e02caa4ba59",
-      "vi": "",
-      "status": "todo",
+      "vi": " Chỉ vậy thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
