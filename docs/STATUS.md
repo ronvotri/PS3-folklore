@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **9.351 draft / 11.886** catalog entries, còn **2.535 todo** (10.870 mục dialogue/candidate tổng); chỉ là tiến độ bản nháp ứng viên, chưa phải bản vá chạy game.
-Đã có 46 câu CMC draft; các tệp talk tk000/tk011, tk100–tk107, tk200–tk207, tk306 hoàn tất draft; tk307 và tk500 đã hoàn tất (811/811 và 528/528 draft). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 633 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **10.724 draft / 11.886** catalog entries, còn **1.162 todo** (10.870 mục dialogue/candidate tổng); chỉ là tiến độ bản nháp ứng viên, chưa phải bản vá chạy game.
+Đã có 633 câu CMC draft; các tệp talk tk000/tk011, tk100–tk107, tk200–tk207, tk306, tk307, tk500, tk600 và tk700 đều hoàn tất draft. Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -513,3 +513,9 @@ chạy RPCS3. Bảo toàn ID, source, hash, offset, source_review, số newline 
 tiền tố ASCII-NUL; không thay Merienda V3 hoặc game binary.
 **10.724/11.886 bản nháp, còn 1.162 todo.** Chưa có parser/repacker lời
 thoại có thể chơi được. Điểm bắt đầu tiếp: `LCmc063@000028e7`.
+
+## Lượt 042 — 11/10/2026: chẩn đoán hội thoại một lệnh trên máy local
+
+- Repo đã có `tools/dialogue_probe.py` (thu thập byte bằng chứng, chỉ đọc) và `tools/dialogue_summary.py` (lọc bỏ văn bản và hex). Tạo thêm `tools/dialogue_diagnose.py`: tìm kho local từ `--game-root` tối đa 8 cấp, chỉ định chính xác bằng `--bin-dir` nếu nhiều bản, chạy cả hai công cụ và tạo JSON thô + tóm tắt cấu trúc trong `local-data/` (gitignored). Không ghi game hoặc tự upload file.
+- Tạo 6 test tổng hợp cho việc khám phá thư mục, xử lý nhiều kho/mất file, chuỗi gọi probe và lọc report, lựa chọn xác minh tất cả; hướng dẫn PowerShell `docs/DIALOGUE_LOCAL_QUICKSTART.md`. Chưa xác minh test run/CI trong lượt này và chưa có dữ liệu binary game gốc ở cloud.
+- Tổng phiên hiện tại theo checkpoint cuối của nhánh dịch: **10.724/11.886 draft**, **1.162 todo**. Không nâng reviewed/tested. Font Merienda V3, dữ liệu game không đổi. Chưa có parser/repacker hội thoại hay test RPCS3; cần kết quả đọc cấu trúc của bản gốc mới có thể thiết kế command parser và lossless message roundtrip.
