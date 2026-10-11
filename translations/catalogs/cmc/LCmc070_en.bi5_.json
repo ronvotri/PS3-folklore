@@ -11,150 +11,150 @@
       "file_offset": 15215,
       "source": "(That Faery Lord is a\ntricky devil.",
       "source_sha256": "2751abff6575b30790d85390716ac24596fb57e08ce341f3f07832204d39e976",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Faery Lord đó đúng là\nmột kẻ xảo quyệt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003b97",
       "file_offset": 15255,
       "source": "0He used you to bait the\nHellrealm Folklore.",
       "source_sha256": "5959e096000e3ccd240d26f0e18a4f6a66c47bf2e7e4dfd50130e2be0490289c",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Hắn dùng cô làm mồi nhử\nFolklore ở Cõi Địa Ngục.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003bc7",
       "file_offset": 15303,
       "source": "$Now, now.\nCalm down, old man.",
       "source_sha256": "c1a34a6d31787a10e6713a17ac5ce752716498b9f3156b47a989563377384c25",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Thôi nào.\nBình tĩnh đi, ông già.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003beb",
       "file_offset": 15339,
       "source": "4We just want to know\nwhat's beyond Hellrealm.",
       "source_sha256": "f5a6bf743d5ac610451fa510e4dcab5acb57c724f3b7e769561dd45ee144e8af",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Chúng tôi chỉ muốn biết\nbên kia Cõi Địa Ngục có gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003c1f",
       "file_offset": 15391,
       "source": ",I won't need a jury\nto sentence you!",
       "source_sha256": "e12607e2062fe22e38b4900eecc7e44985d065ff82491666bf04147e666294a4",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ta chẳng cần bồi thẩm đoàn\nđể kết tội các ngươi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003c4b",
       "file_offset": 15435,
       "source": "$I shall oust\nyou immediately!",
       "source_sha256": "b9aa306613e403b2b95a84dd7f5d1b197ffb9f97a945ddfa4fccdbf488731015",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ta sẽ tống cổ\nngươi ngay lập tức!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003c70",
       "file_offset": 15472,
       "source": "Guilty!",
       "source_sha256": "d70bd4544cd22bd332a61b902dc22a44ff3dcee242239411fd3f57c78f961e44",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có tội!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003c84",
       "file_offset": 15492,
       "source": "Keats!\nWhere are you?!?",
       "source_sha256": "da19fd0d3aeaf4a02a1a59ca9105494f01db914087b935c7e058e3977c349d29",
-      "vi": "",
-      "status": "todo",
+      "vi": "Keats!\nAnh ở đâu rồi?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003ca0",
       "file_offset": 15520,
       "source": "I have an objection?",
       "source_sha256": "85669bbb71fba9bd7b6a165ab9952ec089e8813892254c7c5384fa5bb04dad31",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi có ý kiến phản đối.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003cbb",
       "file_offset": 15547,
       "source": " Siding with the accused?!?",
       "source_sha256": "78d36510b9975e2c54e093b98871d055b4f44b7a89659ad53440a00fe2c12ac9",
-      "vi": "",
-      "status": "todo",
+      "vi": " Đứng về phía bị cáo sao?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003cdc",
       "file_offset": 15580,
       "source": "No, not exactly.",
       "source_sha256": "ccd643c10a09fb6b44ae2f997245d35f9825d394db9288ed3caddd4d01284599",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không hẳn vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003cfb",
       "file_offset": 15611,
       "source": "$Keats... You came\nto rescue me!",
       "source_sha256": "3a633414c089195b86dc3d0154c7e06e504b80e87806b87df49d56acf422c380",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Keats... Anh đến\ncứu tôi sao!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003d3c",
       "file_offset": 15676,
       "source": "Nonsense!",
       "source_sha256": "42c25ffd90c7714a2efbe616f9a8b46556a44cede8aa2a43876e02cbf5fd770f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhảm nhí!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003d4c",
       "file_offset": 15692,
       "source": "Fools!",
       "source_sha256": "0e8a3ecef3d909ea7771cb2621a28217257dca373300b53842c4c349765786dc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lũ ngu xuẩn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc070_en.bi5_@00003d57",
       "file_offset": 15703,
       "source": " This is contempt of court!",
       "source_sha256": "9ba44742caa13db277486e2b7916258d9054c1c4e3827805d4f0b7bfe7268cb8",
-      "vi": "",
-      "status": "todo",
+      "vi": " Đây là tội xúc phạm pháp đình!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     }
   ]
 }
