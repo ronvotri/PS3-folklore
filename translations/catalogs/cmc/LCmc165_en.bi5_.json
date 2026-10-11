@@ -11,240 +11,240 @@
       "file_offset": 18728,
       "source": "Where am I?",
       "source_sha256": "4575d199b2825396115b28a8dbfc4c15e4c01cedd69a91be829f6515a18798b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mình đang ở đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004938",
       "file_offset": 18744,
       "source": "Save me\nagain...",
       "source_sha256": "e2769858b712e11569297385decc8b9b21247b4e9372c493f71e74946c859aba",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cứu tôi\nlần nữa...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004950",
       "file_offset": 18768,
       "source": "Cecilia?!?",
       "source_sha256": "8c3df2f32a0ba93f901c148b04dcb6afe593a60713df292847e0aa8c4bd12c54",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cecilia sao?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@0000495f",
       "file_offset": 18783,
       "source": "0Mother told me\nto hide beneath\nthe Henge.",
       "source_sha256": "5eac0b6e0242b197f88164cc759aa88981ff0d608f603ba4c9134d2e4a5b6a67",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Mẹ bảo tôi\ntrốn bên dưới\nVòng đá cổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@0000498f",
       "file_offset": 18831,
       "source": "4But I can't\nstand it here...\nI'm frightened.",
       "source_sha256": "9cde9baec7fc78245379e993a7128206d2d2d55b4c381c3914b5ed27d719e6cb",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Nhưng tôi không thể\nchịu nổi nơi này...\nTôi sợ lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@000049c3",
       "file_offset": 18883,
       "source": "(Open the door.\nCome and save me...",
       "source_sha256": "6dd0ad363482c0365ffd9fad8362b943a692722c96efc5d0914780c01afea7bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Mở cửa đi.\nĐến cứu tôi với...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@000049ec",
       "file_offset": 18924,
       "source": "Beneath the Henge?!?",
       "source_sha256": "301454fce1c9d143e9fa523a4e856d24ee44e5e31cf80b2bf053e2f3965942b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bên dưới Vòng đá cổ sao?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004a08",
       "file_offset": 18952,
       "source": "Door?",
       "source_sha256": "f426a9ccd8d8013b842f7ea246392c19c5b5bc09e8936186eb0c8cb0a681bc5e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cánh cửa sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004a14",
       "file_offset": 18964,
       "source": "Veil of time descend.",
       "source_sha256": "6a6ad092258ef8944a948a9928b734a69d01a7a4f9810b2df110dd3c51b942fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Màn thời gian, hãy buông xuống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004a2f",
       "file_offset": 18991,
       "source": "8Atop the ash tree wend.\nLight of the stars portend.",
       "source_sha256": "777c1f8a744c378cb301e425dd09f3702d13bb0220b1e6f5ad81ffaf2bdeec6e",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Qua ngọn tần bì mà lên.\nÁnh sao báo trước điềm lành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004a67",
       "file_offset": 19047,
       "source": "$The feather shalt transcend.",
       "source_sha256": "43ca2d3581536c37740d0ab6c1058ad5123cfcd9945900f840bdcc751b983aa5",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Lông vũ vượt thoát trần gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004a8b",
       "file_offset": 19083,
       "source": " Come quick...\nCome quick...",
       "source_sha256": "0d400526883749d3fb052eea06c7d4f9561de0322888f0eca80d9bf5023b6336",
-      "vi": "",
-      "status": "todo",
+      "vi": " Đến mau...\nĐến mau đi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004ab4",
       "file_offset": 19124,
       "source": "Please...\nTell me...",
       "source_sha256": "0e87e1ea766a2eaafbddcba78555e4bcedfc35527dcfdc5071f3759c45f8ed1b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Làm ơn...\nHãy nói tôi nghe...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004acf",
       "file_offset": 19151,
       "source": "$Why did I\nsurvive? Because...",
       "source_sha256": "c73bef0d55ecb54df8a77fc3731004e47f6d28bed4163bfa22d01617360c49cd",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Vì sao tôi\nsống sót? Bởi vì...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004af4",
       "file_offset": 19188,
       "source": "I prayed to the Faerys?",
       "source_sha256": "07bceb9362ae5dd605b42d4805c4e7291494888b11fe9a43d89f6ea8ff29952c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi đã cầu xin các Faery sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004b0f",
       "file_offset": 19215,
       "source": "(I should have never,\never done it!",
       "source_sha256": "6ba32505dbe1bfbc807bcf666548320484acc78280caa31b7d8b2c93f30e9b38",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đáng lẽ tôi không bao giờ,\nkhông bao giờ nên làm thế!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004b50",
       "file_offset": 19280,
       "source": "...Ellen?",
       "source_sha256": "cbe94db344729c619a6390865fe5c63be0eb10345ee868f650eba35be5f769c4",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Ellen?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004b78",
       "file_offset": 19320,
       "source": "...That song...",
       "source_sha256": "b9f6c73c149ac3ba2883a90f4234d0db0cc47fe9dbd8f441abcb9396f3f7ae44",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Bài hát ấy...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004b8c",
       "file_offset": 19340,
       "source": "Stop it!",
       "source_sha256": "23a4d90975bb36f436246fe5f69e59567d4df46ae491261fd19a9a1f11d9a52a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dừng lại!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004bb7",
       "file_offset": 19383,
       "source": " What is it?\nWho's there?",
       "source_sha256": "1bca73868a8b26871866741b551438bb73da745f9f02dc431af8d32ceaae9055",
-      "vi": "",
-      "status": "todo",
+      "vi": " Gì vậy?\nAi ở đó?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004bd8",
       "file_offset": 19416,
       "source": "Can you hear me?",
       "source_sha256": "37e79c35d4fee75c4b225c6b8caa30481e72868356f37bd2f53c43aac43e9a29",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có nghe thấy tôi không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004bf0",
       "file_offset": 19440,
       "source": "...And Herve...!",
       "source_sha256": "377b049a18c9bf9fc8d827c411186b872f81a101ebc41152815ce2f4f7197d6b",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Và cả Herve...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004c08",
       "file_offset": 19464,
       "source": "Ellen!",
       "source_sha256": "2df252f69b0dfe3721217e9fc5289b0fc13368ca0151ffed6a8397efcee61a5c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ellen!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc165_en.bi5_@00004c14",
       "file_offset": 19476,
       "source": "Watch out!",
       "source_sha256": "c437e8c65551d1ffb49a9c6dbfa2263a9e5f0879defd69baf76b4124ca6c0004",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cẩn thận!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
