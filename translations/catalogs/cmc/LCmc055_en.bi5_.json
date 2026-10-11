@@ -11,140 +11,140 @@
       "file_offset": 17287,
       "source": ",This pattern...\nI've seen it before...",
       "source_sha256": "9f7846191e5a89db2360403de2b7ee6d0023b5f87de613d75bc8e61843a9cc4a",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Hoa văn này...\nTôi từng thấy nó...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@000043b3",
       "file_offset": 17331,
       "source": " Ellen,\nwhere have you been?",
       "source_sha256": "c24a7bb3113bcb2d9b675b403010be1b324c63fc8702ee1170ad3ac89a59f3ad",
-      "vi": "",
-      "status": "todo",
+      "vi": " Ellen,\nbạn đã đi đâu vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@000043e7",
       "file_offset": 17383,
       "source": "(Something terrible\nhas happened.",
       "source_sha256": "f78a4e80e279bd0576b70d57d00296064e5e975425282862ccef4ca08c9746d7",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đã có chuyện\nkhủng khiếp xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@00004410",
       "file_offset": 17424,
       "source": "Come to the church.",
       "source_sha256": "00d5626d3a8e647b1286ae1046ced12b9ea54b5a0db65da529606d983680b039",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hãy đến nhà thờ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@00004448",
       "file_offset": 17480,
       "source": "Speak of the devil.",
       "source_sha256": "a59ca664de142e897edbec5de038b2b0474893c46e549e522f821aa4599b4223",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vừa nhắc đã tới.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@000044a8",
       "file_offset": 17576,
       "source": "We missed you.",
       "source_sha256": "0888297181461c22a4fb79d5601f82ba0643ad69c23aa1e95c04554bdf865a92",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chúng tôi nhớ bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@000044bb",
       "file_offset": 17595,
       "source": "(This time, Harriet\nwas murdered.",
       "source_sha256": "b47b1732d6ab332cd2fae99d31cf3d9c6e47660aa2dfad66bf8b159e20a5e713",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Lần này, Harriet\nđã bị sát hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@000044e4",
       "file_offset": 17636,
       "source": "While you were gone.",
       "source_sha256": "ab5e6206724180655ba5ad9d070f8b488115b52a99dcba3445cd8a913dd3a535",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trong lúc bạn vắng mặt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@00004500",
       "file_offset": 17664,
       "source": "Harriet, too?!?",
       "source_sha256": "cf1b8003f8ddb820d6a6426449d89a3a0db370c0915089c90ec94fd1ef40694e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cả Harriet nữa sao?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@00004514",
       "file_offset": 17684,
       "source": "When will this stop...",
       "source_sha256": "1ab2a946657744a60ba935b3ef65aac65fd285371c4a644d2250f016a5f7e5bf",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bao giờ mới kết thúc đây...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@0000452f",
       "file_offset": 17711,
       "source": "4Through the door,\nthen the horrors follow...",
       "source_sha256": "7087dc99293b66e3e975cecedc01f3fca4fd37dbad640ed49502b33148c26494",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Đi qua cánh cửa,\nrồi tai họa kéo đến...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@00004563",
       "file_offset": 17763,
       "source": "8That's it!\nI went through that\ndoor long, long ago!",
       "source_sha256": "730f7d87b34d02a910065c4b320c21aaae3b191d78cad4a697a858d8e5a7b308",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Đúng rồi!\nTôi từng đi qua\ncánh cửa ấy từ rất lâu!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@0000459b",
       "file_offset": 17819,
       "source": ",Finally putting things\ntogether, Ellen?",
       "source_sha256": "e643e8769a4d7f90c067d62be2a09aaae67f757a03b4c6da9c83e830f7c5f659",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Cuối cùng bạn cũng\nxâu chuỗi được rồi, Ellen?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc055_en.bi5_@000045c7",
       "file_offset": 17863,
       "source": " You, Ellen,\nare Cecilia...",
       "source_sha256": "a7a936a818581d2801ed5138dadd750b38d33b0d44494508ef3575e98626ff32",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn, Ellen,\nchính là Cecilia...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     }
   ]
 }

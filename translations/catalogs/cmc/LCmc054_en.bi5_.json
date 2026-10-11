@@ -11,140 +11,140 @@
       "file_offset": 13135,
       "source": "(Well, I'll just\ntell you mine...",
       "source_sha256": "177a1c3e0a47639793d885c10fe84a775ce9460ce8ed44ea0b2296b69caec9b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Thôi, tôi sẽ\nnói số mình trước...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@00003378",
       "file_offset": 13176,
       "source": "Perhaps she seeks help?",
       "source_sha256": "09f74b8f30ef15fbb4b7f69f151e9e85268e68ba0e2383b5ad2fe39f159db765",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có lẽ cô ấy đang cần giúp?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@0000339b",
       "file_offset": 13211,
       "source": "$Uh... Maybe not\nquite yet...",
       "source_sha256": "6e96b08323868bc732e31ed18546f27b39325938853b25c155f4a3373180a8ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ờ... Có lẽ\nchưa phải lúc...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@000033bf",
       "file_offset": 13247,
       "source": "(Hey, sweetie!\nWhere've you been?",
       "source_sha256": "872c97c50f5a04b5b82b0fd11298125b5ecb903a73756f70ec6925c6f630bf75",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Này cô bé!\nBạn đi đâu mất thế?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@000033e8",
       "file_offset": 13288,
       "source": "Thanks for the tip.",
       "source_sha256": "cccbb91a49186c4ea785e29500f2818f0fb4a763e863a6a6470680276535bbc9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cảm ơn vì gợi ý nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@00003410",
       "file_offset": 13328,
       "source": "What?",
       "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@0000341c",
       "file_offset": 13340,
       "source": "Lulu?",
       "source_sha256": "1e8f4d297c5dfdd8f30db608923d3a88bb618621e5eb6c3fd944111c1d3e3022",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lulu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@00003427",
       "file_offset": 13351,
       "source": "4I think it's about time\nwe exchanged numbers?",
       "source_sha256": "33a372e0bda07d1fe169d1b87e683bf8fc7bfe652095d7c83e03b96b09fe4f74",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Có lẽ đến lúc\nchúng ta trao đổi số rồi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@0000345b",
       "file_offset": 13403,
       "source": ",Is she alive? But I\nheard her voice?",
       "source_sha256": "68fd9b3ed8706f4e48f9461399df85b7c727b43910fbcd749f6a9c8646b5e146",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Cô ấy còn sống sao?\nNhưng tôi đã nghe giọng cô ấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@000034b3",
       "file_offset": 13491,
       "source": "(Has a woman named\nLulu been here?",
       "source_sha256": "87c8bd789fde9e8f71306b34efcc2b2f667dc6c9a45764ae56713c584d77cc33",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Có người phụ nữ tên\nLulu tới đây không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@000034db",
       "file_offset": 13531,
       "source": "8Nope... I can't seem to\nfind anyone named\nLulu...",
       "source_sha256": "c117ed466920dbf6c4a09ff2fc2e41df95d59a7f0109839a4e5c37c743378ac3",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Không... Tôi không tìm\nthấy ai tên\nLulu cả...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@00003513",
       "file_offset": 13587,
       "source": ",Hey! Wait! Don't\nyou want my number?",
       "source_sha256": "89fe61b59453e9778fc5d1d4a91f2999eca428077bde4009f0eb0bd7a135fa39",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Này! Khoan đã! Bạn\nkhông muốn số tôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@00003540",
       "file_offset": 13632,
       "source": "Why here?",
       "source_sha256": "b0c4fdb8df748ac40b6e824798255db4fd28ed81b74e47d50958e8c6460432a3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sao lại ở đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc054_en.bi5_@0000355f",
       "file_offset": 13663,
       "source": "4Which means...\nMaybe she's still in\nyour world?",
       "source_sha256": "db159ec1fd15d6c7bc902e812127f7fc09b7230d459226c17f177e29047e2aa7",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Vậy nghĩa là...\nCó lẽ cô ấy vẫn còn ở\nthế giới của bạn?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     }
   ]
 }

@@ -11,150 +11,150 @@
       "file_offset": 11368,
       "source": "Mrs. Lester...",
       "source_sha256": "821dd8e3b40eb9a5b7da49d44fab587c2b6f0b06df6fc88b4cd3bfc90ecb3fe5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bà Lester...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002c7c",
       "file_offset": 11388,
       "source": "Yes?",
       "source_sha256": "b8b7cfdf4758ef90476310dd4bffc7be69cdefdf57c1b98935a2fdc474fab753",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vâng?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002c87",
       "file_offset": 11399,
       "source": "0That letter that claimed\nCecilia had died.",
       "source_sha256": "0952a2c037df8222d9f6bcd846497bae5c93fe271c8e6514cc8cd104cebbcb89",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Lá thư nói\nCecilia đã chết ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002cb8",
       "file_offset": 11448,
       "source": "It was a\nfabrication.",
       "source_sha256": "0c162226fab12e4e65fa59c65b90b6c452d8730deeef0338b917903e2500854e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đó là\nmột lời bịa đặt.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002cd3",
       "file_offset": 11475,
       "source": ",Yes, yes... I can\nsee the resemblance.",
       "source_sha256": "496a62947a7c4367ec9ef85fd1a6813fc409fe8154c7dc8675f55ec4d12aa14e",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Phải, phải... Tôi\nthấy nét giống rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002d00",
       "file_offset": 11520,
       "source": "I... I am\nCecilia.",
       "source_sha256": "c7bb21976f11221ea0968a20da80bc7d2bcdda0883fc7ea6e33dac32f4355dec",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi... tôi chính\nlà Cecilia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002d17",
       "file_offset": 11543,
       "source": ",Ellen...\nThe entire village\nadored you.",
       "source_sha256": "1f41255d18ad986695f4aa1b51b61d5c6da18c39353ad3b1b33a5c5fd41b2676",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ellen...\nCả ngôi làng\nđều yêu quý con.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002d54",
       "file_offset": 11604,
       "source": "Now I remember.",
       "source_sha256": "d415b9f6dfc8eb3fd1e8c411ad7078f66c0999ba43d8b017a803db0651b9bd95",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giờ tôi nhớ ra rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002d67",
       "file_offset": 11623,
       "source": "4I once lived in Doolin\n...My name\nwas Cecilia.",
       "source_sha256": "1a3bf3b0528cb24a582f72e9e9b32a3557def69c6bba99611f334a101705ea4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Tôi từng sống ở Doolin\n...Tên tôi\nlà Cecilia.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002d9b",
       "file_offset": 11675,
       "source": ",You were a bright-\neyed little angel.",
       "source_sha256": "885dcad57838fa1c3eeca32df94f13222c37ff2b38a337164762da8f8e3a42a1",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Con là thiên thần nhỏ\nvới đôi mắt sáng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002dc8",
       "file_offset": 11720,
       "source": "Which means...",
       "source_sha256": "b3186054e48402a6ce3ce32927b562cd6bf3f49702b12d91412d148b754ebed0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vậy nghĩa là...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002ddb",
       "file_offset": 11739,
       "source": "4This is a picture of you\nwhen you were young.",
       "source_sha256": "98962da0275df95b6dda44dfe510f11e5e505cf8c6da029085527a72cb741c61",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Đây là ảnh con\nkhi còn bé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002e0f",
       "file_offset": 11791,
       "source": "(Yes, I remember...\nThere I am...",
       "source_sha256": "ea10afbf58ca83419d6f62f1196a2bcda0e6690d4afaf38b83135098fa1867c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Đúng, tôi nhớ rồi...\nTôi đây này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002e38",
       "file_offset": 11832,
       "source": "Yes, that's me...",
       "source_sha256": "5ab7a86ff58f5e17d068fa1d7319032df9025d357bef099430e2c87e7504bd52",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vâng, chính tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     },
     {
       "id": "cmc/en/LCmc057_en.bi5_@00002e5f",
       "file_offset": 11871,
       "source": "4Just what happened\nto me that day\n17 years ago?",
       "source_sha256": "6ff960cf50bcb372e455af67ba5f1cff17216a555e491977bc3564f262df2092",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Rốt cuộc 17 năm trước\nngày hôm ấy tôi\nđã gặp chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL, chưa chứng minh speaker, lệnh điều khiển hay cách hiển thị thực tế; cần QA theo cảnh."
     }
   ]
 }
