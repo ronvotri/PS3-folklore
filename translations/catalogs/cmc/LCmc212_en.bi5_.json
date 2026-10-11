@@ -11,100 +11,100 @@
       "file_offset": 9504,
       "source": "Ahh...\nMy God...",
       "source_sha256": "7283561f600b554d3ea633790780a1f5c5a4f6079a7f518f7c68ed42116fa6d7",
-      "vi": "",
-      "status": "todo",
+      "vi": "A...\nTrời ơi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@00002538",
       "file_offset": 9528,
       "source": "Little witch!",
       "source_sha256": "2980ad79c446f27daef6919c9bbfd8a9bfe7c76b9ac7f13466b4ade409a5dc31",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đồ phù thủy nhỏ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@0000254c",
       "file_offset": 9548,
       "source": "It's her!",
       "source_sha256": "69e0ad8dfd476ce250072755702825d66cb17479503c2fde1b90243a7be123eb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chính là nó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@0000255b",
       "file_offset": 9563,
       "source": "$First Herve,\nand now Renaldo",
       "source_sha256": "e90970fd050781adf6f5d020f4b43cbe1432110978be83d5234c21e60451c7c9",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Đầu tiên là Herve,\ngiờ lại đến Renaldo",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@00002580",
       "file_offset": 9600,
       "source": "Where is she?!?",
       "source_sha256": "7f0fed48b58bab6d68e9c7587741cd298fd1308c09927eb98244f948263798fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nó đâu rồi?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@00002594",
       "file_offset": 9620,
       "source": "I'll find her.",
       "source_sha256": "7722218c8fee2a77560d4f4b04907762fe8b7a45e084c6b90c61eb5015211c04",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ta sẽ tìm nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@000025a8",
       "file_offset": 9640,
       "source": "I swear!",
       "source_sha256": "ef8d2a90e9b692c563065ddee428222c9adcc5fe214df71247cb3b0a5fae208f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ta thề đấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@000025b8",
       "file_offset": 9656,
       "source": "I'll kill her!",
       "source_sha256": "6160f8802b275812f8910dcf3698d8a21a1e2d0d00fb4ec3e61a0cbfbd5b20e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ta sẽ giết nó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@000025cc",
       "file_offset": 9676,
       "source": "Ahhh!",
       "source_sha256": "7e938fe3edfbf899c42dcedcf2cf2b4301ee100c8fe19d19b7b74dde18161b3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ááá!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc212_en.bi5_@000025d8",
       "file_offset": 9688,
       "source": "Aaaaahh!!",
       "source_sha256": "8f6ee0a3697e90c812a1ac8efee8403b88539917c23efcf0a7d1fba829e46ebc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Áááá!!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
