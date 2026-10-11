@@ -11,130 +11,130 @@
       "file_offset": 14231,
       "source": "(A voice told me to give my blood.",
       "source_sha256": "932cc0efb94c682257037ba3875ff555c85023f1a0fbe8a5955776fcf65c4c43",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Có tiếng nói bảo tôi hiến máu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@000037bf",
       "file_offset": 14271,
       "source": "0Thou were commanded to spill thine blood.",
       "source_sha256": "dec5bfd8a5e669f1a605bab8e7573214b87be573ffde821ef04e167aa1cb0cfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Ngươi được lệnh phải đổ máu mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@000037f8",
       "file_offset": 14328,
       "source": "I was just a child.",
       "source_sha256": "78978cb62a58b8ac2a2bfa5edb031ba421ce5623516aa50a0dbf93c3f2d6319f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khi đó tôi chỉ là đứa trẻ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@0000380f",
       "file_offset": 14351,
       "source": " Just what did\nI see here?",
       "source_sha256": "bbedb8b43b334a6384e71bee37e64f060dd48c0e6a23f64544d2864dcefb5db9",
-      "vi": "",
-      "status": "todo",
+      "vi": " Rốt cuộc tôi đã\nthấy gì ở đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@00003830",
       "file_offset": 14384,
       "source": "Where am I?",
       "source_sha256": "4575d199b2825396115b28a8dbfc4c15e4c01cedd69a91be829f6515a18798b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mình đang ở đâu?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@0000383f",
       "file_offset": 14399,
       "source": "(The sanctuary beneath\nthe Henge?",
       "source_sha256": "bf4287e8c1246128c35899972fa16be437326c640d7742d06c3f4cc3e7b63fed",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Thánh địa bên dưới\nVòng đá cổ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@00003868",
       "file_offset": 14440,
       "source": "You were a mere child.",
       "source_sha256": "7edab9235d93804a462bdb8fad78d562a2968e0914bd3dd5118d96ce66a6bffc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ngươi khi ấy chỉ là trẻ con.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@00003884",
       "file_offset": 14468,
       "source": "I prayed to save Herve.",
       "source_sha256": "5b63addd8038ab3cf4cb4b912d46cf4ad99944e94d50418489a841157cd2f11d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi đã cầu nguyện để cứu Herve.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@0000389f",
       "file_offset": 14495,
       "source": " You prayed for your friend.",
       "source_sha256": "3b3ba1b34f100c1adfdf1f536aa2ae7891327ab1b27ccb87a6946fcae78ebec1",
-      "vi": "",
-      "status": "todo",
+      "vi": " Ngươi đã cầu xin vì bạn mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@000038c8",
       "file_offset": 14536,
       "source": "That's it!",
       "source_sha256": "71c238d0d7db2f8038b9d52ef8125697188ffdc8c65e4b5e28d4cb0c1911af4e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@000038d8",
       "file_offset": 14552,
       "source": "It was you!",
       "source_sha256": "659d45ac7baa2509493480365967559c2c8bf50d80aae2153e7c2664c94611c5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chính là ngươi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@000038f3",
       "file_offset": 14579,
       "source": ",After 17 years,\nI have repaid the debt.",
       "source_sha256": "367c0942962078e3673e647266f6d9c74662f2f857ee52900892e3b647d31270",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Sau 17 năm,\nta đã trả xong món nợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc233_en.bi5_@0000391f",
       "file_offset": 14623,
       "source": "(I am the Faery\nwhich you sought.",
       "source_sha256": "c3b839f488c45fbfce4093dc03fbe1224802a02f401aa6725526e97d5fb8c3b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Ta chính là Faery\nmà ngươi kiếm tìm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
