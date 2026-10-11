@@ -472,3 +472,13 @@ thứ tự câu từ offset quét; chỉ QA bản dịch nháp/ngắt dòng/pref
 bảo toàn id/source/hash/offset/source_review. Font Merienda V3, dữ liệu
 game, ISO và patch local không thay đổi. Chưa thể xác nhận lời thoại hiển thị
 trong RPCS3 hay parser/repacker; lần tới tiếp `tk600@00012a71`.
+
+## Lượt 038 — 11/10/2026: hoàn tất tk600 ở mức draft
+
+Đã chuyển nốt **214 ứng viên** từ todo sang draft; `tk600` hiện
+**544/544 draft**. QA sửa một lỗi `((` thành `(` trong bản dịch trùng
+của `tk500@00011bb7`. Giữ nguyên source, ID, offset, SHA, `source_review`,
+ngắt dòng và ký hiệu điều khiển; không xác minh hay đoán speaker từ thứ tự
+ASCII. Tổng **9.895/11.886 draft**, còn **1.991 todo**. Chưa có patch
+hội thoại playable; Merienda V3 và game binary không đổi. Bước dịch tiếp
+`tk700@00001158`, song song ưu tiên phân tích binary thực tại local.

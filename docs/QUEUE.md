@@ -511,3 +511,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Mục có `source_review=candidate` vẫn chỉ `draft`; từng câu mới đều có ghi chú về nguy cơ thiếu scene/speaker. Hai nguồn lặp trong khối 120 được tái sử dụng nguyên bản dịch đã có. Không thay metadata/offset/ID/source/hash hay font V3; bảo toàn Unicode NFC, ký hiệu đầu chuỗi và số xuống dòng.
 - **Tổng 9.681/11.886 draft, còn 2.205 todo** từ dữ liệu quét, KHÔNG phải tỉ lệ bản vá game chạy được. Hội thoại chưa thể đóng gói nếu chưa xác thực binary/command/pointer và lossless roundtrip.
 - **Tiếp theo:** `talk/en/tk600_en.bin_@00012a71` (`\\nto get work.`), còn 214 ứng viên của `tk600`; sau đó `tk700`, CMC và QA theo cảnh. Ưu tiên kỹ thuật độc lập: chạy `dialogue_probe.py` thật và dùng `dialogue_summary.py` để gửi báo cáo cấu trúc đã lọc.
+
+## Lượt 038 — 11/10/2026 (hoàn tất toàn bộ bản nháp tk600)
+
+- Đã xử lý hết **214/214 todo còn lại** của `talk/en/tk600_en.bin_.json`, từ `@00012a71` đến `@0001ca1f`, chia batch 114+100 để QA; **tk600 hoàn tất 544/544 draft**. Trong lượt cũng sửa bản nháp nguồn trùng `(I haven't seen all the memories.` tại `tk500@00011bb7` từ `((Tôi...` thành `(Tôi...` (lỗi dư ngoặc mở).
+- Nội dung gồm ký ức người thân, lòng thù hận và hoàn cảnh gia đình, phần lựa chọn cuối, cùng truyện kỳ ảo trong sách (Pied Piper / Charafrius). Hai tên trong `[...]` được giữ nguyên khi chưa rõ đây là nhãn riêng hay mã. Các ứng viên chưa xác minh người nói/cảnh/tuổi vẫn là `draft`, có notes và không nhận là runtime-ready.
+- QA ở tầng catalog: giữ nguyên `id/file_offset/source/source_sha256/source_review`, không sửa thứ tự, giữ tiền tố/ngắt dòng, Unicode NFC; không đụng Merienda V3, binary gốc, bản vá local, RPCS3.
+- **Tổng 9.895/11.886 mục draft**, còn **1.991 todo**. Mọi tỉ lệ chỉ mô tả bản nháp trong text catalog, KHÔNG chứng minh patch tiếng Việt chơi được; talk/CMC command parser & repacker vẫn chưa có bằng chứng từ binary gốc.
+- **Tiếp theo nhánh dịch:** `talk/en/tk700_en.bin_@00001158` (242 todo); sau đó các CMC chưa dịch và QA theo cảnh. **Ưu tiên kỹ thuật chính:** chạy probe thật trên `etc.bin_` + `etc.fht_` tại local, dùng summary đã lọc để kiểm nghiệm header/opcode/pointer, đạt roundtrip cấp thông điệp trước khi vá.
