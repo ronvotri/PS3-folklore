@@ -361,3 +361,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA đúng 100 ID, chỉ vi/status/notes thay đổi, ID/source/sha256/offset/source_review/order giữ nguyên; NFC, số newline, marker, placeholder và nguồn trùng nhất quán. Chưa có parser/repacker talk/cmc, chưa thử RPCS3; giữ Merienda V3/ROM/binary nguyên.
 - Toàn repo **7.215/11.886 draft, 4.671 todo** (độ phủ nháp ứng viên, chưa phải phần trăm patch chơi được).
 - **Tiếp theo:** `talk/en/tk205_en.bin_@000072f6` (`Things worked out for the best.`); CI validator/unittest sau commit.
+
+## Lượt 028b — 11/10/2026 (100 ứng viên tiếp tk205)
+
+- Từ `talk/en/tk205_en.bin_@000072f6` đến `talk/en/tk205_en.bin_@0000d759` dịch tiếp **100 todo→draft**: 16 bản đã dịch ở catalog trước, 10 bản lặp trong batch, 74 mảnh nguồn mới. `tk205` đạt **200/653 draft, còn 453 todo**.
+- Chủ đề: ngọn hải đăng và mũi đất, gia đình và tuổi thơ, cuộc sống ở Doolin, nỗi sợ và những sinh vật Faery; nhóm câu trùng liên quan hướng dẫn và hồi phục máu. Ghi notes về quan hệ/speaker chưa thể xác minh; giữ khẩu khí tự nhiên mà không thêm tình tiết.
+- QA: chỉ vi/status/notes của đúng 100 ID; source/sha256/offset/source_review/order không thay, NFC, newline, prefix, placeholder và nguồn lặp nhất quán. Mọi entry vẫn candidate/draft; chưa có parser/repacker talk/cmc hay QA RPCS3; Merienda V3/ROM/binary không đổi.
+- Tổng 158 catalog: **7.315/11.886 draft**, còn **4.571 todo** (độ phủ ứng viên, chưa phải patch playable).
+- **Tiếp:** `talk/en/tk205_en.bin_@0000d7d9` (`no matter how hard they're hit...`). CI GitHub Actions validator/unittest sau commit.
