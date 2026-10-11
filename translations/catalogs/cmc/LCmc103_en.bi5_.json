@@ -11,120 +11,120 @@
       "file_offset": 11520,
       "source": "Who is it now?!?",
       "source_sha256": "7479d9dad16557e6818769deb7d8789033b9c7f6438a1f8354ebdef51e40732c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lại ai nữa đây?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002d30",
       "file_offset": 11568,
       "source": "From the magazine.",
       "source_sha256": "9420ee1ed98ecedb750d6706f4410e7838e667fbc8e96d6a9c735b8dc6705294",
-      "vi": "",
-      "status": "todo",
+      "vi": "Từ tòa soạn tạp chí.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002d57",
       "file_offset": 11607,
       "source": "8You speak lucidly for\nfigments of the imagination.",
       "source_sha256": "8f62a5d8ea01570bcf0be932d092f5bf0454b4626abdc13c574da240437c8674",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Ảo ảnh mà lại\nnói năng rành rọt ghê.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002d8f",
       "file_offset": 11663,
       "source": "$Nya ha! No,\nthis is all real!",
       "source_sha256": "6b690af1ec7f4c616675e6bc46093aad4eeb8b897d15e01a0d2e042b93eb9454",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Nha ha! Không,\ntất cả đều là thật!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002dcb",
       "file_offset": 11723,
       "source": " Nice special effects, too.",
       "source_sha256": "0127364318ab16340f0256c53fd5ab6539c86b1db3fbafd1838303b10aef4732",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hiệu ứng đặc biệt cũng khá đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002e1b",
       "file_offset": 11803,
       "source": "4We're here to help\nyou determine your\nrecourse.",
       "source_sha256": "2931bbf928d16b4e0a03d47a968bb77a60388586c26527c5f25f751e23fe5d88",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Chúng tôi đến giúp\nanh tìm ra\ncách giải quyết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002e4f",
       "file_offset": 11855,
       "source": "0Go to the Netherworld\nand seek the dead.",
       "source_sha256": "7112a7b0bf1a0c7ad9795e82642df4820ac29b1f01dbe4de9962c19717cf2965",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Hãy đến Cõi âm\nvà tìm người đã khuất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002e7f",
       "file_offset": 11903,
       "source": ",Your guide awaits\nyou beyond the door.",
       "source_sha256": "387be96b409605385705f60f37d311c972850a2ec3c92201dd62713387cf0b5d",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Người dẫn đường đang chờ\nanh sau cánh cửa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002ec4",
       "file_offset": 11972,
       "source": "A gentleman.",
       "source_sha256": "65c6fc10d5704ca5a204468698fc58cfab00b7c9a42111aaea88e4cd1ea1c87c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Một quý ông.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002ef0",
       "file_offset": 12016,
       "source": "Another visitor!",
       "source_sha256": "3a29db888f164438251d28d4593c29a4bdcbee30c597476f292fad99a235c174",
-      "vi": "",
-      "status": "todo",
+      "vi": "Lại có khách đến!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002f08",
       "file_offset": 12040,
       "source": "Someone phoned him.",
       "source_sha256": "af503f14f9ade7b01e9c29e479781340817d289cfb4b72e74b7635ce1d9d0410",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có người đã gọi cho anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc103_en.bi5_@00002f1f",
       "file_offset": 12063,
       "source": "(An occult magazine?\nWhat nonsense!",
       "source_sha256": "5c1b1c1371878a18567b30f6502c2e965671e3243258da1ce0f69600a553bc68",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Tạp chí huyền bí à?\nVớ vẩn thật!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     }
   ]
 }
