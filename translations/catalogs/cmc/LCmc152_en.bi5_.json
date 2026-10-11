@@ -11,20 +11,20 @@
       "file_offset": 10184,
       "source": "What?",
       "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc152_en.bi5_@000027d4",
       "file_offset": 10196,
       "source": "Why here?",
       "source_sha256": "b0c4fdb8df748ac40b6e824798255db4fd28ed81b74e47d50958e8c6460432a3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sao lại ở đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
