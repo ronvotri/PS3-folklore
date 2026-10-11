@@ -621,10 +621,10 @@
       "file_offset": 16387,
       "source": " business.",
       "source_sha256": "fcaab37e33f2e3d3c3a01e604fecb48c55f843d3a5300908c01187c136e151a4",
-      "vi": " công chuyện.",
+      "vi": " việc.",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Ứng viên ASCII NUL bị cắt mảnh hoặc thiếu vai nói; bản nháp cần ghép cảnh kiểm tra ý và đại từ trước khi duyệt."
+      "notes": "QA từ vựng lượt tk500: sửa bản dịch 'công chuyện' không phù hợp ngữ cảnh nghiêm trang thành 'việc'; nguồn vẫn là mảnh câu thiếu ngữ cảnh."
     },
     {
       "id": "talk/en/tk500_en.bin_@00004092",
@@ -4741,10 +4741,10 @@
       "file_offset": 97143,
       "source": "\nWhat next, vorpal bunnies?",
       "source_sha256": "2b9b3b04205fbcdd32ef49dc941a25343194ce876c5e0f67beb7ddfa829138f5",
-      "vi": "\nTiếp theo là gì, thỏ chém đầu à?",
+      "vi": "\nTiếp theo là gì, thỏ sát thủ à?",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Mảnh ASCII NUL chưa chắc là câu độc lập, cần ghép cảnh và xác minh xưng hô/thuật ngữ trước khi duyệt."
+      "notes": "QA thuật ngữ: vorpal bunnies là nhại truyện tưởng tượng; tạm dịch 'thỏ sát thủ', cần xem tình huống có liên hệ các tác phẩm cổ tích."
     },
     {
       "id": "talk/en/tk500_en.bin_@00017c84",
@@ -5011,280 +5011,280 @@
       "file_offset": 102552,
       "source": "Huh?!?",
       "source_sha256": "2631660e03fbb5dcf58d99bbb39b83f809b998240258afb489da9f5e8f446396",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hả?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@000190e4",
       "file_offset": 102628,
       "source": "Nothing's happened...",
       "source_sha256": "e253fd320f3d86aadf14799210fda79ae9868699e7e6cb0de7521d0667196c34",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chẳng có gì xảy ra cả...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019171",
       "file_offset": 102769,
       "source": "\nAnd my mind's getting foggy...",
       "source_sha256": "9fd1b667b2407cc6418dec9cc746e957340bd8caa2dba711dab0297ca7b6077b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVà đầu óc tôi bắt đầu mơ hồ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@000192b1",
       "file_offset": 103089,
       "source": "\nMy mind's in a fog...",
       "source_sha256": "d4be6a84913beb62733b6a71a12468ae6cd5044138afe7023aeaf91c86014cae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐầu óc tôi mụ mị quá...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@000193ae",
       "file_offset": 103342,
       "source": " is an impostor!",
       "source_sha256": "4741a4c7283af90b5e63517859c1da9936a7c384964e7cffced00571cbae0cc1",
-      "vi": "",
-      "status": "todo",
+      "vi": " là kẻ giả mạo!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001943f",
       "file_offset": 103487,
       "source": "\nthan that!",
       "source_sha256": "4075376da383dfe0f5a76155b4f1a91b6555858cef0175e55efe224c3a1acbe1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn thế!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019497",
       "file_offset": 103575,
       "source": "\nI was well aware she was a fake.",
       "source_sha256": "9136ab74502b8e837d8e971e9e5846cd6b39c9145124e98d8a375e8c6dcbca84",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi biết rõ cô ấy là kẻ giả mạo.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001954d",
       "file_offset": 103757,
       "source": "\nMy memory's getting all hazy...",
       "source_sha256": "0b72767bdf2505c2a689633da99802251aa81ca5b8ab8d9a656fe335162091ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTrí nhớ tôi cứ mờ dần...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@000196d2",
       "file_offset": 104146,
       "source": "\nBespectacled fool!",
       "source_sha256": "20aba3db5f3463c650677838abea8fe3896b93404f4dd3e3a08413b40a5befee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐồ ngốc đeo kính!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019760",
       "file_offset": 104288,
       "source": "\nhands!",
       "source_sha256": "1c4f7843c82fb86682a03a1ee46261da6088c354615db924b2c271a2b3ccef4f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbàn tay!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@000197ac",
       "file_offset": 104364,
       "source": "What? A plot twist?!",
       "source_sha256": "687cbab90a6bf46c74213dc5def129ccf1e514d5f1cdc6ee8e36a22f387e4622",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ? Lại bẻ lái cốt truyện à?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019829",
       "file_offset": 104489,
       "source": "\nwas the Bubble... of Oblivion!",
       "source_sha256": "3a1d91a5b234cc9173683261fdfd814fafbee962f81bf07c11b110ee9726c0e1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchính là Bong bóng... Oblivion!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@000198a0",
       "file_offset": 104608,
       "source": "Bubble? What bubble?",
       "source_sha256": "aac284fcde68015e5cc6b66dfcf7b2d45f0ceb1daf398cb484b1d9af29f100ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bong bóng? Bong bóng nào cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019944",
       "file_offset": 104772,
       "source": "\nFaerys!",
       "source_sha256": "4963ce582863c0755e2ec43acc88e4a1e5d34671e20faf791f493a799c572169",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncác Faery!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@000199ca",
       "file_offset": 104906,
       "source": "\nall your evil knowledge away!",
       "source_sha256": "4d2fd085837993b5053397e29c010b142fe19119993753b8c7e439f9b06967aa",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nxóa sạch mọi tri thức tà ác của ngươi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019a55",
       "file_offset": 105045,
       "source": "\nAnything but that!",
       "source_sha256": "47e4d98496a2e407fe108c7d276ce4d18de82f32b9d564f10debdd32a227e92d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nGì cũng được, trừ việc đó!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019b2c",
       "file_offset": 105260,
       "source": "What a nasty dream.",
       "source_sha256": "f1072a57b744f9c1931eec1c12a30749ca983e8e70e95a98f1ef9f287c1fed9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng là một giấc mơ kinh khủng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019b83",
       "file_offset": 105347,
       "source": "(That's what you get for napping.",
       "source_sha256": "594a72ab7edb3844227dc195b3f86f3baa94fe30b9f5ff5379e2b42ba6fba382",
-      "vi": "",
-      "status": "todo",
+      "vi": "((Ai bảo ngủ gật làm chi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019bec",
       "file_offset": 105452,
       "source": "You? What do you want?",
       "source_sha256": "596a851de30124c3b5d6873baa9b31f7bbe1f349159589653a531f76f3ba67cb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Là bạn à? Bạn muốn gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019c48",
       "file_offset": 105544,
       "source": "I was just thinking...",
       "source_sha256": "034a9a0fd04a634a8b6a9fb83a178770ec6399fc7f1c0b6500525a3cd0e2a54e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi chỉ đang nghĩ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019ccf",
       "file_offset": 105679,
       "source": "\nme wash it for you?",
       "source_sha256": "91f51e148f45aa85597cfdc20e97d501e4bb527d6e9b71b39feb9ceea3be1d56",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể tôi rửa nó giúp nhé?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019d28",
       "file_offset": 105768,
       "source": "That's all right.",
       "source_sha256": "15c51be3e356e27a5e0a75e9629d8d1670fd4d2735007e92ccb965090382bc89",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không sao đâu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019dce",
       "file_offset": 105934,
       "source": "\nNo sarcastic comeback?",
       "source_sha256": "5d86ec63725cd342defb81052f39f3fd5b591b89b3172cf87f21658601395b97",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nKhông đáp trả bằng câu mỉa mai nào sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019e74",
       "file_offset": 106100,
       "source": "Humph. Just forget it.",
       "source_sha256": "d54c9e2d5571e2ccf2fc87e3b254e2680e70f9ae95ccdcec692897fe8f3e6864",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hừ. Thôi, quên đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@00019fd8",
       "file_offset": 106456,
       "source": "\n  [Rannunculus]!",
       "source_sha256": "6082ec13d3a8bbaee5db4753287c94e48b646874b442b126649b9c88a90b3881",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n  [Rannunculus]!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001a094",
       "file_offset": 106644,
       "source": "Looks like it's locked.",
       "source_sha256": "54b6f766b566a53800badac754fbd37a70330fb5f947e596a9461d646641db0c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Có vẻ bị khóa rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001a172",
       "file_offset": 106866,
       "source": "\nand talk a little longer.",
       "source_sha256": "335bb0e29f6a33435b4a1068839fdf21c91709a530537c2f6d1a0762e125d099",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà trò chuyện thêm một chút.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ứng viên ASCII NUL thiếu câu đầy đủ, có thể gồm tên riêng/thuật ngữ Oblivion; cần ráp cảnh và xác minh trước khi duyệt."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001a237",
       "file_offset": 107063,
       "source": "$I have no business this way.",
       "source_sha256": "d2e022c48a297c5871d930e9b089af7914b59c013446506b7602fb5c541ee1c3",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi chẳng có việc gì ở hướng này cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp theo ứng viên ASCII NUL; chưa kiểm chứng speaker, parser hay runtime."
     }
   ]
 }
