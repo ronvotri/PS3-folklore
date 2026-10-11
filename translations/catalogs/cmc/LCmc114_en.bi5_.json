@@ -11,160 +11,160 @@
       "file_offset": 13720,
       "source": "Aw, give me a chance.",
       "source_sha256": "bd7f5742dadd59e215422f6c585176f25ab05f47ec4325cf02c0e42545853942",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ôi, cho tôi một cơ hội đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000035b3",
       "file_offset": 13747,
       "source": "4There are two\nthings that I'm\nwondering about.",
       "source_sha256": "381f346686b0417cfa08f75d0a7c48c29715fd95c27653419b9ca60e6a11b471",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Có hai điều\ntôi đang\nthắc mắc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000035e8",
       "file_offset": 13800,
       "source": "Is this...\nthe pub?",
       "source_sha256": "9f8d5f6a1cff252ed7fe9626f7cfce74b7f87a35a2f5ce874f800b9ef4b7dd04",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây là...\nquán rượu sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@00003607",
       "file_offset": 13831,
       "source": "0And I may even write\nyou up in my magazine.",
       "source_sha256": "295e2dd30953a70c40dec9ebfd2d474a1bc205ef57faa4974d16314f179feece",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Biết đâu tôi còn viết\nvề ông trên tạp chí.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@00003644",
       "file_offset": 13892,
       "source": "(yawn)\nNice nap...!",
       "source_sha256": "a8e53bf42c58bc2b823d8bb58e9de3250a08550fa3233d40762df65e25e945cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "(ngáp)\nNgủ đã thật...!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@00003663",
       "file_offset": 13923,
       "source": " Get lost, chap!\nI'm busy!",
       "source_sha256": "baec6ee7cb761b4f6fe8391a01c0d32bee7813c22440ed6a4b114f09e2ea42cf",
-      "vi": "",
-      "status": "todo",
+      "vi": " Biến đi, anh bạn!\nTôi đang bận!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@00003683",
       "file_offset": 13955,
       "source": ",Oh, this? It's all\nborrowed imagery.",
       "source_sha256": "1469737a2d138a84d1537d927b05d7f5de0c7b0aacae777fd4c89ebf8619a519",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ồ, cái này à? Chỉ là\nhình ảnh mượn lại thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000036af",
       "file_offset": 13999,
       "source": "@If you must meet\nthe dead, might as\nwell do it in comfort!",
       "source_sha256": "20ecaa2f33a8096ec40be4c138e564f88318d08e79c1b3ccee6f0eaa957a0d44",
-      "vi": "",
-      "status": "todo",
+      "vi": "@Đã phải gặp\nngười chết thì cứ\nthoải mái một chút!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000036f0",
       "file_offset": 14064,
       "source": "Blimey!",
       "source_sha256": "3aba38f9f00dc6b61c88deb0e768ef4894eecbc3b136b5ffd5be8ab41e712f1b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trời đất!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000036fb",
       "file_offset": 14075,
       "source": "8Looks like the dead\nwoman Regine has\ndropped in.",
       "source_sha256": "d3cb5e7570fee4cffca2a9a0b982c131de038bf64cc7684cc05330f1c9cb73d9",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Xem ra người phụ nữ\nđã chết, Regine,\nvừa ghé qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@00003744",
       "file_offset": 14148,
       "source": "Hah?!?",
       "source_sha256": "66635b87d5634bf519583a7e0b08e4b083fad86b9e861ad4f6db4cb7ae8e246a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hả?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@0000374f",
       "file_offset": 14159,
       "source": ",One, what's the\nvillage pub\ndoing here?",
       "source_sha256": "691e648117c713d92e04dbe326679f9a2e0c2f535d53323b1f0128f2e6d1e522",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Một là, sao\nquán rượu trong làng\nlại ở đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@0000377b",
       "file_offset": 14203,
       "source": ",And two, can I\nreally meet the\ndead?",
       "source_sha256": "2afae6f5d421332d59ca1e4d813d8008013670561a0043d8dd956f4c0e61dce1",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Hai là, tôi thật sự\ncó thể gặp\nngười chết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000037a7",
       "file_offset": 14247,
       "source": " So, shut up and say thanks!",
       "source_sha256": "08dfb09600c4a7158f71fe69a003eb5dc6ca464fb849810aafaf305270d7bbfe",
-      "vi": "",
-      "status": "todo",
+      "vi": " Vậy im đi và cảm ơn đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000037c7",
       "file_offset": 14279,
       "source": " See the rest for yourself!",
       "source_sha256": "00b6cf0a82d80acd44fddba3f95f33211aff1be1c5cf07f4cbe4a651c3da7844",
-      "vi": "",
-      "status": "todo",
+      "vi": " Còn lại tự xem đi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc114_en.bi5_@000037e8",
       "file_offset": 14312,
       "source": "How chic!",
       "source_sha256": "3f97bc943718423e31b344214be5bb4ab6555cda09d0ad525d4e472930eebd1a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Sang ghê!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
