@@ -2,14 +2,14 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk307_en.bin_.json`: tiếp tục từ mục `talk/en/tk307_en.bin_@0000a8a7`, còn **611** `todo`. Các batch 100 mục được QA và commit riêng; không dịch lại các file trước.
+1. `translations/catalogs/talk/tk307_en.bin_.json`: tiếp tục từ mục `talk/en/tk307_en.bin_@0000fc4e` (xác minh offset mục 301 trước khi dịch), còn **511** `todo`. Các batch 100 mục được QA và commit riêng; không dịch lại các file trước.
 2. Các tệp `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đã đủ **3.273/3.273 mục draft** cộng lại; ba CMC `LCmc000`, `LCmc002`, `LCmc004` có 46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
 3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
 4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
 
 ## Mốc bàn giao
 
-Menu **1.016/1.016 draft**; CMC 46 draft; đã hoàn tất các talk `tk000`, `tk011`, `tk100`–`tk107`, `tk200`–`tk207`, `tk306`; `tk307` đang **200/811 draft**. Tổng toàn repo **8.212/11.886 draft**, còn **3.674 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
+Menu **1.016/1.016 draft**; CMC 46 draft; đã hoàn tất các talk `tk000`, `tk011`, `tk100`–`tk107`, `tk200`–`tk207`, `tk306`; `tk307` đang **300/811 draft**. Tổng toàn repo **8.312/11.886 draft**, còn **3.574 todo** trong 158 catalog. Hội thoại vẫn `candidate`/`draft`, chưa parser/repacker/test.
 Người dùng xác nhận V3 “ok rồi” sau thử sửa khoảng hở sau ấ/ớ.
 Người dùng tự mở game/test/gửi ảnh; không tự điều khiển giả lập.
 
@@ -443,3 +443,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA trước push: đúng 100 ID; chỉ thay `vi/status/notes`, giữ nguồn/hash/offset/source_review/order, NFC, newline, tiền tố `$`, `* `, khoảng trắng và placeholder; đối chiếu source trùng không xung đột. Chưa có parser/repacker hay thử RPCS3; không sửa Merienda V3 hoặc payload.
 - Tổng **8.212/11.886 draft**, còn **3.674 todo** trong 158 catalog ứng viên, không phải tỷ lệ bản vá playable.
 - **Tiếp theo:** `talk/en/tk307_en.bin_@0000a8a7` (mục 201, `hardly failures of yours.`). Xác minh GitHub Actions validator/unittest Windows/Ubuntu sau commit.
+
+## Lượt 030c — 11/10/2026 (100 ứng viên tiếp tk307)
+
+- Từ `talk/en/tk307_en.bin_@0000a8a7` đến `talk/en/tk307_en.bin_@0000fbbc`, chuyển **100 todo→draft**; `tk307` đạt **300/811 draft**, còn 511 todo. Rà 2 source trùng tk101/tk204 và các nguồn lặp trong batch; dùng bản Việt trùng khớp.
+- Nội dung: tiễn biệt người mẹ, lễ tang, câu chuyện gia đình, hung thủ và cuộc điều tra, dân làng sau biến cố, lời hẹn gặp lại, Cõi âm, niềm tin và các ký ức. Nhiều candidate bị cắt mảnh; ghi notes, chưa gán speaker/quan hệ.
+- QA dữ liệu: chỉ sửa `vi/status/notes` cho 100 ID, bất biến English, ID, SHA, offset, source_review, order; NFC/newline/marker/placeholder và source trùng trong tk307 đều hợp lệ. Giữ nguyên font Merienda V3, game binary, trạng thái draft (chưa test RPCS3/repacker).
+- Tổng **8.312/11.886 draft**, **3.574 todo** trong 158 catalog ứng viên, không tương đương game đã playable bằng tiếng Việt.
+- **Tiếp theo:** mục thứ 301 của `tk307` (sau `@0000fbbc`); xác minh offset chính xác trước batch tiếp. GitHub Actions validator + unittest cần kiểm tra kết quả sau push.
