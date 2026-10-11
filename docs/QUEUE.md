@@ -364,3 +364,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA: chỉ vi/status/notes đổi đúng 100 mục; ID, English, source hash, offset, source_review, order bất biến; NFC, newline, prefix, placeholders và duplicate source được soát. Chưa có parser/repacker thoại hoặc test RPCS3; không đụng font Merienda V3/ROM/ISO/binary.
 - Tổng repo **6.392/11.886 draft**, còn **5.494 todo** (độ phủ bản nháp của dữ liệu trích).
 - **Tiếp theo:** `talk/en/tk204_en.bin_@000066b3`; tiếp tục theo cảnh với QA/commit từng phần, CI Windows/Linux validator + unittest chạy sau push.
+
+## Lượt 027b — 11/10/2026 (100 mục tiếp tk204)
+
+- Dịch **100 ứng viên todo→draft** từ `talk/en/tk204_en.bin_@000066b3` đến `talk/en/tk204_en.bin_@0000c3b0`: 4 mảnh tái dùng nguồn trùng, 96 mảnh mới có ghi chú khi chưa rõ chủ thể. `tk204` đạt **200/823 draft**, còn **623 todo**.
+- Nội dung: mộ đá Doolin, cái chết và ký ức, nỗi sợ, tự do ý chí và quan hệ giữa con người với Sứ giả. Tránh áp đặt đại từ vào fragment chưa xác minh; ưu tiên giọng nghiêm trang/u tối, thoại ngắn không cộc.
+- QA: đúng 100 ID theo checkpoint; chỉ vi/status/notes, giữ ID/source/source_sha256/file_offset/source_review/order, NFC, newline, tiền tố và placeholders, không xung đột bản dịch nguồn trùng. Vẫn draft/candidate chưa có parser/repacker talk/cmc hoặc QA runtime RPCS3. Không thay Merienda V3/ROM/ISO/binary.
+- Tổng 158 catalog **6.492/11.886 draft**, còn **5.394 todo** của nguồn đã trích. **Tiếp:** `talk/en/tk204_en.bin_@0000c430`. GitHub Actions Windows/Linux sẽ chạy validator/unittest sau commit.

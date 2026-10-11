@@ -1011,1000 +1011,1000 @@
       "file_offset": 26291,
       "source": "\nvillage, inside and out!",
       "source_sha256": "91ac9d5798a3d2f422dea8993c18f8e712dad1a9f34fa36c0a7461f16e12a4e9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhắp trong ngoài ngôi làng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@000067c1",
       "file_offset": 26561,
       "source": "\nopen it!",
       "source_sha256": "b3ca4e730ef3124a167931d3a3ab295c00c5ac91f1e1e4ab63ea9108c2c9796b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmở nó ra!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000068e4",
       "file_offset": 26852,
       "source": "Speak of the devil.",
       "source_sha256": "a59ca664de142e897edbec5de038b2b0474893c46e549e522f821aa4599b4223",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vừa nhắc là tới ngay.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000693c",
       "file_offset": 26940,
       "source": "What!?!",
       "source_sha256": "f72a46fe7acfd65f4e836fb981f431e7413fe22bd8cbf8613d7842623dbb5582",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái gì cơ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái sử dụng bản dịch từ nguồn trùng các catalog đã hoàn tất, chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000069fb",
       "file_offset": 27131,
       "source": "\nI sense danger.",
       "source_sha256": "d733177a7748e0526312e370a6a33ce563c921461242b3bc43ad84b3065c6354",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi cảm nhận được nguy hiểm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006a50",
       "file_offset": 27216,
       "source": "He's dangerous?",
       "source_sha256": "333254f0852fbf6ae42af7d29c79412ce3fa0a423c85f3574366cdf8a8f599a0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Anh ta nguy hiểm sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006aec",
       "file_offset": 27372,
       "source": "Yes, as are you.",
       "source_sha256": "5f5f1d6b1efbde56040eec35552f5fc9be13f4aae9d772141260c93d6073220b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng, bạn cũng vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006cf5",
       "file_offset": 27893,
       "source": "\nweren't you?",
       "source_sha256": "26445c51fb73075267d43b5b973c806a2adc388abf0e9d09a727ea381d7bd550",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng phải thế sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006d47",
       "file_offset": 27975,
       "source": "$I suppose you could say that.",
       "source_sha256": "358b20374108ed5fcec7806785638da7c4e32a5f78851bcb2baca6001a989824",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có thể nói là vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006dcc",
       "file_offset": 28108,
       "source": "\nthe village dolmen?",
       "source_sha256": "ba3125a771758e1e4e351354c1f699680ce8e3f4e08bf63415fb66c6f7f0b221",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngôi mộ đá ở làng sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006e64",
       "file_offset": 28260,
       "source": "\ndolmen when you were young, and",
       "source_sha256": "41cde3c0931b692477be5f9c5a67ff7ad0587db24284e1d7c2aa4bc8c804d3b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmộ đá khi còn nhỏ, và",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006ecb",
       "file_offset": 28363,
       "source": "(you witnessed something terrible.",
       "source_sha256": "08f8ee39e1d4ade5d692f548f982b04d88e25d287645bf0317c6cc6c8f81750e",
-      "vi": "",
-      "status": "todo",
+      "vi": "(bạn đã chứng kiến một chuyện kinh hoàng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00006ffb",
       "file_offset": 28667,
       "source": "... is you.",
       "source_sha256": "19ad252c56c6a6b2117b4ae535d970b1104c1e730c9cff33cde67cab31545972",
-      "vi": "",
-      "status": "todo",
+      "vi": "... chính là bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000704c",
       "file_offset": 28748,
       "source": "What!?!",
       "source_sha256": "f72a46fe7acfd65f4e836fb981f431e7413fe22bd8cbf8613d7842623dbb5582",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cái gì cơ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái sử dụng bản dịch từ nguồn trùng các catalog đã hoàn tất, chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@000070f5",
       "file_offset": 28917,
       "source": " is not dead.",
       "source_sha256": "8f45a80339eee3c943fd10a6b31b83130489cc0b9cef444e6d51cff8e43753f7",
-      "vi": "",
-      "status": "todo",
+      "vi": " vẫn chưa chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007187",
       "file_offset": 29063,
       "source": "\ncontradiction at all.",
       "source_sha256": "259111b1978d71d2767242fe8edf6c6b791e55dd56c054bec407f8feaceda6e6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng có gì mâu thuẫn cả.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007282",
       "file_offset": 29314,
       "source": "\ncame back.",
       "source_sha256": "dc987f4173d51dfa6be6afaf5bd866e4e1c80af71c4842be98a2c865df718edb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã quay trở lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000072d4",
       "file_offset": 29396,
       "source": "End of story.",
       "source_sha256": "e66d02432a8fcf768f03a3f78b03a267244ba8216b946e7f475c1357f2f78e7a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Câu chuyện chỉ có thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007564",
       "file_offset": 30052,
       "source": "\nshould I do?",
       "source_sha256": "5ceb90f2580bc5969b7de73c1e5b3d81df78345c496d8e9184c2eab06cf68fa0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntôi nên làm gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007666",
       "file_offset": 30310,
       "source": "\nthing, are you?",
       "source_sha256": "6240380fa1911f6bad568f5c6b1605a920c43a034114d263e10ac5c4ade7b783",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện đó, phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@000076bb",
       "file_offset": 30395,
       "source": "$It is not for me to comment.",
       "source_sha256": "45656f8cdafb76be5db1a3b511ede260fcb1ba7da7f7070dbb47fc4409ff0445",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chuyện này tôi không tiện bình luận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000077c4",
       "file_offset": 30660,
       "source": "I was always alone.",
       "source_sha256": "075dd6675012329e516939cd3870f4840ddf90f67f19a2c9e9e6d6d13941724b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi luôn chỉ có một mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000783c",
       "file_offset": 30780,
       "source": "\nfear eating away at my soul.",
       "source_sha256": "202ec87c457c69a99b0250229d71af5c4153f25d452113836ca7b208dd8eb698",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi sợ đang gặm nhấm tâm hồn tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@000078bc",
       "file_offset": 30908,
       "source": "\nburied in a lost past.",
       "source_sha256": "9a4e8cc5c831701097efa83e28158c028a2333fb1b068cb4bc762a1506306a93",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbị chôn vùi trong quá khứ đã mất.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007937",
       "file_offset": 31031,
       "source": "\nto face it.",
       "source_sha256": "f1a826dcc4df62af00ab66101cb4b6a3657c921638e64b684882f49fc56296a9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđối mặt với nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007a4b",
       "file_offset": 31307,
       "source": "\nto know what happened.",
       "source_sha256": "8cc58ffba5d299803ba3a8af27f1d5c4ed6f52f26c0402b89940872a86307107",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn biết chuyện gì đã xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007b0a",
       "file_offset": 31498,
       "source": "\nmisfortune upon these people.",
       "source_sha256": "efdde34c9223c052e8e639d26678e8e177dd807f347238e4346323b3936baa4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ngiáng tai họa xuống những con người này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007bd4",
       "file_offset": 31700,
       "source": "\nopinion on this matter.",
       "source_sha256": "bc25469683a89dbebf4d281742e83a4586cee111ca7d6edf34143e1ae0f53ff4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquan điểm về chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007c53",
       "file_offset": 31827,
       "source": "\nonly natural to seek the truth.",
       "source_sha256": "e6950307e01a3c38c96eb2cd924f01ac3b16f8fcbe1ced87a8cac28ec98ae81e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn tìm sự thật là điều tự nhiên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007cd9",
       "file_offset": 31961,
       "source": "\nto think.",
       "source_sha256": "4082ce3311b61b5cc043d32470ae96000ee254008b94b79a76e638b77f10d866",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy nghĩ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007d70",
       "file_offset": 32112,
       "source": "Thank you. I will do.",
       "source_sha256": "7e617879e05483001dee83731394223dec820668a79c3135edc8f2319512e4cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cảm ơn. Tôi sẽ làm vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00007de9",
       "file_offset": 32233,
       "source": " about the rest.",
       "source_sha256": "d4ed0434a96acbba957d8f80d2b757f6e0dfb2b97524f3f125dc09e4078369d6",
-      "vi": "",
-      "status": "todo",
+      "vi": " về phần còn lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008107",
       "file_offset": 33031,
       "source": "\nspoke of seeing Faerys.",
       "source_sha256": "9460ab9ca13450c802a12f21054ba2abfedd33332d0618648c09be29791a30a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã kể rằng họ trông thấy các Faery.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008185",
       "file_offset": 33157,
       "source": "\nthey may have been wrong.",
       "source_sha256": "7e7f37b33104819f12bce95edc716eb20256e3d50fa6ad2b14cf6d33a5036693",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó lẽ họ đã nhầm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008201",
       "file_offset": 33281,
       "source": "\nthings that we could not.",
       "source_sha256": "5cb4be29dd3b2c4c88ad6abaf0d218f0f0d107706c4373fe505da118d68b2168",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững điều mà chúng ta không thể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008353",
       "file_offset": 33619,
       "source": "\nThe change was unmistakable.",
       "source_sha256": "16c4fd0989093a09f3d5615e143c35cd766819d3845664144d2af0a9fa24700a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSự thay đổi ấy rõ ràng không thể phủ nhận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000084b3",
       "file_offset": 33971,
       "source": "\nThere was, in fact,",
       "source_sha256": "ee47062147dd3b908d38bbcaac811c99dcd77889efea97ccf794374c2fd6e95e",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nThực ra, đã có",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000854c",
       "file_offset": 34124,
       "source": "\nseveral village people.",
       "source_sha256": "d79b411aaf5e9a036832b650ffb51c5b1ab2662cae3364de17b4a60e23a53080",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột vài người dân trong làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000085c4",
       "file_offset": 34244,
       "source": "\nnothing to do with you.",
       "source_sha256": "30f07e18b54f57c904f3d2075329abd86b637647f604a017f262d328c65b73c6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchẳng liên quan gì đến bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008828",
       "file_offset": 34856,
       "source": "\nthe new name, then why?",
       "source_sha256": "df12044c578e315240e6a557712862934eaa00dfe58e8a43c445742e5455b63b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntên mới, vậy tại sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008907",
       "file_offset": 35079,
       "source": " claiming that I had died!?!",
       "source_sha256": "edfb889b77311a8eefc0aac2f82035f7065c0e1bba30b798642e9fc54b36d4ae",
-      "vi": "",
-      "status": "todo",
+      "vi": " lại nói rằng tôi đã chết chứ!?!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000899f",
       "file_offset": 35231,
       "source": "\nStop worrying yourself!",
       "source_sha256": "75b962097efab838e34052eb829e32d4a299d56011f3d0839d93aebfe0c26c62",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐừng lo lắng quá!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008a57",
       "file_offset": 35415,
       "source": " You have a beautiful name.",
       "source_sha256": "3c66fa33a55afbefb082d9efdbf75700654d4f74b6fa4e336bea462f9d082d41",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn có một cái tên thật đẹp.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008b72",
       "file_offset": 35698,
       "source": "\nof time.",
       "source_sha256": "5efa54fbe4841896199f7cb99c46a7b6af6fd0a4d5d91eb3c02bdae53fa47442",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthời gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008e28",
       "file_offset": 36392,
       "source": "\ndeeper inside.",
       "source_sha256": "69f7850d7cf81f654013ab2e873ce82e5da66d4a8ae6f317205403e8b3a6624c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào sâu hơn bên trong.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008eba",
       "file_offset": 36538,
       "source": "\nShould you let this happen?",
       "source_sha256": "24b22d392849dfcf12851d260fa97c6351325feece57de76139faa67d5a25c66",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn định cứ để chuyện này xảy ra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00008f80",
       "file_offset": 36736,
       "source": "\nhis thinking.",
       "source_sha256": "f7a45a42b83633354ac4b0bdd811364ccdc2d2872ba4285818e3106c6dba20a6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsuy nghĩ của anh ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009064",
       "file_offset": 36964,
       "source": "\nthe complexities of things.",
       "source_sha256": "c571a313deb029896fdeadc827d51a749736a22d274e4a6905d63c3f15b5c239",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsự phức tạp của mọi chuyện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000090e8",
       "file_offset": 37096,
       "source": "\ndislike fighting?",
       "source_sha256": "dec951b0a67c87810b91f9c974b9e8d0422f1efc86ad1fd51b5c0f36e0d0a53a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhông thích chiến đấu sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000918d",
       "file_offset": 37261,
       "source": "\nto make anyone hate conflict.",
       "source_sha256": "ca62702b809d6fab656afbdbb8a4e96b11324808b9a96a8feabc8f501c824717",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhiến bất cứ ai cũng phải ghét xung đột.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009230",
       "file_offset": 37424,
       "source": "\nIt only results in suffering.",
       "source_sha256": "1dc60dea031811a9f51fb46ede1a974b80f3d905d0a00b643b07ca4f78744b11",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNó chỉ mang đến đau khổ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000933c",
       "file_offset": 37692,
       "source": "\ntormented, frightful past,",
       "source_sha256": "1bf70f5ffefbce23051820c668c96a5962d07c2573457e1e7dfdd8cf6ce38aee",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nquá khứ đau đớn và đáng sợ,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@000093ba",
       "file_offset": 37818,
       "source": "\nthis fighting in the first place.",
       "source_sha256": "50888fe6c8d8acf34177a93d7a883731e164358b918d016eb46927668d7f624b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncuộc chiến này ngay từ đầu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009476",
       "file_offset": 38006,
       "source": "\nthe same things!",
       "source_sha256": "ab9f5210b6eff64e6a9694e12e6aae59b6d3c63d4776e91be1d89763ca4bf1f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững điều giống hệt nhau!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009591",
       "file_offset": 38289,
       "source": "\novercome your fears.",
       "source_sha256": "e944193ceb6fdd81944903a75fe9773092d6fb4999acef0544fcba8d3d6d6732",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvượt qua nỗi sợ hãi của bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009633",
       "file_offset": 38451,
       "source": "\ndisappeared. Uwee hee hee!",
       "source_sha256": "9501c56f343510d59e43e1578aec4d120ee8ed85370284ab771c701f5a041d54",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã biến mất. Ui hi hi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@000096fc",
       "file_offset": 38652,
       "source": "\nrather important, in fact.",
       "source_sha256": "a583f069dd91aea537252af632ec089d5a87555fd19f5c0801045fb1c610b78c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthật ra còn khá quan trọng đấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@000097e0",
       "file_offset": 38880,
       "source": "\nchurch for the time being.",
       "source_sha256": "31c5abdeab7aa36bd620248afc166cacec0836df5fb614266a1aa4201b31eacd",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhà thờ trong lúc này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009859",
       "file_offset": 39001,
       "source": "\nI don't want to startle them.",
       "source_sha256": "e6fafdbc274d21d3e57dfd5e7139394aeb46baa2bb291b8b18e2481f64858883",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi không muốn làm họ hoảng sợ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009a1a",
       "file_offset": 39450,
       "source": "\nmust have been purged.",
       "source_sha256": "55e781bcd552fda5f0c111ca30e64395731659dfad88c11991d1a3be464da66f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhẳn đã bị thanh tẩy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009a98",
       "file_offset": 39576,
       "source": "\nfear could have been overcome.",
       "source_sha256": "bc06e91e38967b727b5561b9c3276321e9ece51ff38baf802bf9cc6798496d87",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnỗi sợ ấy lẽ ra đã có thể được vượt qua.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009bbc",
       "file_offset": 39868,
       "source": "What is this place?",
       "source_sha256": "4f4ea439797e3337205395d215bbbb4bba99d9367d8a4591a53f4963b70b45f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây là nơi nào?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái sử dụng bản dịch từ nguồn trùng các catalog đã hoàn tất, chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009c14",
       "file_offset": 39956,
       "source": "This is its true form.",
       "source_sha256": "0a153617a457fe0da78b624f46c718a9b690331ed195135d96786db91c2771e2",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây mới là hình dạng thật của nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009cb9",
       "file_offset": 40121,
       "source": "\nWhat terrifying power!",
       "source_sha256": "f354fac950d4ff78dbca649b389feaa4cd8206d14e9a3cb3f35ef5c8dc07b6b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMột sức mạnh thật đáng sợ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@00009ed3",
       "file_offset": 40659,
       "source": "\nus through a terrible ordeal.",
       "source_sha256": "8b276ceb8e4af991118705e5bc77fc64db23616999376a9c9ec57840643dfb5d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhiến chúng tôi trải qua một thử thách kinh hoàng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a17a",
       "file_offset": 41338,
       "source": "\nas a result.",
       "source_sha256": "a011cde5f694c896f46726730c19ffb8bcc04a3030c29509f5ef41c88da847ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkết quả là vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a1df",
       "file_offset": 41439,
       "source": ", it is also for your sake!",
       "source_sha256": "b01afd012da4a5682a5d853eeeb66fcd0444b321ea709358c432024f6d452404",
-      "vi": "",
-      "status": "todo",
+      "vi": ", chuyện này cũng là vì bạn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a343",
       "file_offset": 41795,
       "source": " herself.",
       "source_sha256": "e30d971544557a4a35e7dceebb3a7068c79513cf1e60fde34696b13ddc1af1d2",
-      "vi": "",
-      "status": "todo",
+      "vi": " chính cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a394",
       "file_offset": 41876,
       "source": "But how...?",
       "source_sha256": "2fa5c1b8540b07abb88666657f7dc094af75a9cde49a3194b1c13cefe2afee6c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng làm cách nào...?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a415",
       "file_offset": 42005,
       "source": "\nthe same.",
       "source_sha256": "6a027a17214ffd60c448207ee47a7cfd122d3471fa6c966c81f12413fc153278",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvẫn như nhau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a68b",
       "file_offset": 42635,
       "source": "\nfates after death.",
       "source_sha256": "6e7a447a00f0347640b6360b29a7590a9ffb6929ef8aded68aa2dacf17e5b439",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsố phận sau khi chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a718",
       "file_offset": 42776,
       "source": "\nthis responsibility,",
       "source_sha256": "c7e37434d286707b73122d1bcaf5859e75a6f0e6190ffd6dfee91465d462c06a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrách nhiệm này,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a7e9",
       "file_offset": 42985,
       "source": "\nhuman subconscious.",
       "source_sha256": "0e61919c8790df9a94ec2f5597e8bb998e26d17337f557bfc3117c4b88e8715f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntiềm thức con người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000a976",
       "file_offset": 43382,
       "source": "\npeople in the real world.",
       "source_sha256": "8852cc65eb4ae411aff0c886d1f67a56bf14f7d055d1beadac72e75f9631ee43",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người ở thế giới thực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000aadb",
       "file_offset": 43739,
       "source": " was severed,",
       "source_sha256": "c1b33ea4e17d174aceacc2133b681d917dee5165f59ba710e4d658ab6bf0c0aa",
-      "vi": "",
-      "status": "todo",
+      "vi": " đã bị cắt đứt,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ab9c",
       "file_offset": 43932,
       "source": "\nconnection has been destroyed.",
       "source_sha256": "267788ddfb33fd593cb1c3e4f0f065e20cc885001ed0ce5a797e5d8467813c3f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmối liên kết đã bị phá hủy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000abff",
       "file_offset": 44031,
       "source": "(We cannot allow this to continue.",
       "source_sha256": "8123c183c4b55cd89f6fa9c9a74d7e6bdc89b1cfa292c047183914564a804faf",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Chúng ta không thể để chuyện này tiếp diễn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ad4d",
       "file_offset": 44365,
       "source": "\nher sins!",
       "source_sha256": "02d17f20389d5421de539bdc7b36fce3f0f5671afdc9576ac159cbbb12685581",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntội lỗi của cô ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000aee4",
       "file_offset": 44772,
       "source": "\nthe path shall open.",
       "source_sha256": "0ac17e640878df0b0669d165ebea6d7700f3387e4ba4f7b4f9989304c5255ddf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncon đường sẽ mở ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b07b",
       "file_offset": 45179,
       "source": "\n...has changed?",
       "source_sha256": "b4d8f5a2f8073f9b3734cd440eef011b366c772a61e6236d22e3f8878fba36b4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\n...đã thay đổi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b133",
       "file_offset": 45363,
       "source": "$There's only one thing to do.",
       "source_sha256": "139114b7d3689927d36451e03fb7495433ee728c6fff8d808c484ba9a1009b8e",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chỉ còn một việc phải làm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b29a",
       "file_offset": 45722,
       "source": "\nof your own will?",
       "source_sha256": "90971a4d3dfe86947611bd8a94575add679dc45f3805e296a7e0a135fe157a9b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntheo ý chí của chính bạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b326",
       "file_offset": 45862,
       "source": "\nits present state.",
       "source_sha256": "e67b4776ca178ee78622ff2dd02af3ed590443f49b1c1fb79a2e7098a3ec3308",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrạng thái hiện tại của nó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b3f0",
       "file_offset": 46064,
       "source": "\ndescribes it to you?",
       "source_sha256": "31bcc119af14ea84ab0c4e645c5c68b3238495fd6f969f78b3f3be04b79e64c7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmiêu tả nó cho bạn sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b4cc",
       "file_offset": 46284,
       "source": "\nMessenger, aren't you?",
       "source_sha256": "8237f68a9a3f1b4fc721bc5bfdd4c091b54ecd0b4025b3beac1e9880eb6b80a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nSứ giả, đúng không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b56a",
       "file_offset": 46442,
       "source": "\nby the humans who came after us.",
       "source_sha256": "f6ee5fc6d6a4b54419d7a311c81d8da1abe793530a25d6bc8990e4dcb49b2be5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbởi những con người đến sau chúng tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Tái sử dụng bản dịch từ nguồn trùng các catalog đã hoàn tất, chưa xác minh người nói."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b603",
       "file_offset": 46595,
       "source": "\nrace, the last Messenger.",
       "source_sha256": "1c7ed6ae52a443eb5e6d2af178ee0696a62b0cbb750f878468a7afc226a92617",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchủng tộc, Sứ giả cuối cùng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b873",
       "file_offset": 47219,
       "source": "\ndriving force behind human action.",
       "source_sha256": "9f2a15315cf360081964fa1c4979797ea140760edeee49f9854d367856efd41c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđộng lực đằng sau hành động của con người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b91b",
       "file_offset": 47387,
       "source": "\nand spiritual achievement.",
       "source_sha256": "1729a853ee8649a9125422da7ec956dadf44722d44c4bca8db747f9d9ef3ca8f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà những thành tựu tinh thần.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000b99c",
       "file_offset": 47516,
       "source": "\nand dear.",
       "source_sha256": "3c98575fc48c33fffbfb19c6434113f0cb4e12efef0e321c7515c820124e13b4",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà trân quý.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000ba2f",
       "file_offset": 47663,
       "source": "\nworld outside a small boundary.",
       "source_sha256": "180705087b677c24cf21053882e33f6f84792498f4bdc124aff382d842642aa0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthế giới bên ngoài một ranh giới nhỏ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000bab0",
       "file_offset": 47792,
       "source": "\ninside yourself.",
       "source_sha256": "606fa96fb3ec219d513775b0392bc6fc50dc45835d3cac1356d4def7ab2a202f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbên trong chính bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000bb29",
       "file_offset": 47913,
       "source": "\nable to sort this out.",
       "source_sha256": "1032e26ecd00a7f0e43d53421617f5d29e273673ed60530f8f05471bdaff8e2a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể giải quyết chuyện này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000bb9b",
       "file_offset": 48027,
       "source": "$My actions were not a mistake!",
       "source_sha256": "68e065c5156bd3bb17fa2f68959dd6729da1fd65c0987fd977ce0366fdf424de",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Những việc tôi làm không phải sai lầm!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000bcd8",
       "file_offset": 48344,
       "source": "\nappearance soon.",
       "source_sha256": "c326642c56219acdf1a7c78f52c5f3f5fcf06b8782cb6f058acac5173d3a9977",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsớm xuất hiện.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000bd30",
       "file_offset": 48432,
       "source": "I'll stay here.",
       "source_sha256": "474ed9d74763e617d7e7e3a73058399022a6246c5f66156c5971c57e6d071bfd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi sẽ ở lại đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000bde8",
       "file_offset": 48616,
       "source": "I'm back.",
       "source_sha256": "ef2d0e459c169c2da39abbb801472ae3e6da803f8d3133f583607dfe15b4d6f3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi về rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c184",
       "file_offset": 49540,
       "source": "\nat night.",
       "source_sha256": "343a7db6c11672e03654a4ebd338fac56b6f1e4937f6c5a9e35e3899cc2f3c83",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvào ban đêm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c25f",
       "file_offset": 49759,
       "source": "$Perhaps she is trapped inside.",
       "source_sha256": "7dac094a9b34fa23c14a4c3a4cac0e4393bf57df721f4f6067571b7611073b28",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có lẽ cô ấy đang mắc kẹt bên trong.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c3b0",
       "file_offset": 50096,
       "source": "\nwanted from these ruins?",
       "source_sha256": "46bd9b2b49b3040a07c32563408d98593a28293b90418ed59d231ddfc30b5586",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmuốn gì từ những tàn tích này?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên hội thoại ASCII NUL; chưa có parser nên chỉ dịch phần ý có thể xác nhận. Nghĩa cụm từ hoặc xưng hô phụ thuộc ngữ cảnh chưa ghép, cần rà tiếp."
     },
     {
       "id": "talk/en/tk204_en.bin_@0000c430",
