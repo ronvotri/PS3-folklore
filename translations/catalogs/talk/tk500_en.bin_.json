@@ -3011,1000 +3011,1000 @@
       "file_offset": 61149,
       "source": "\nonce their doubt clears...",
       "source_sha256": "cb92840277fc1302483492f5b444579aec27dce530583e499c2d4712358f3227",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột khi những nghi ngờ của họ tan biến...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f182",
       "file_offset": 61826,
       "source": "\nyou must protect that seal.",
       "source_sha256": "8c0f96ec339ae091354b4299a544e7c00d922dc7164f019b5af1e173738d5c1f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn phải bảo vệ phong ấn đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f209",
       "file_offset": 61961,
       "source": "\nI cannot do anything.",
       "source_sha256": "edd03eff47cf7743ca3e53e44052be88aef637a59c84b1161eb72f8fc0b46fcb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi chẳng thể làm gì được.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f27f",
       "file_offset": 62079,
       "source": "\nthrough that despair, alone?",
       "source_sha256": "e88091dd914d6e911e2b4fa25d2256d07bcb90be22accf53c056f86596809010",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột mình vượt qua nỗi tuyệt vọng ấy sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f2e4",
       "file_offset": 62180,
       "source": "Do not die!",
       "source_sha256": "753ad79c44fdac42171df547db07ff4aabdbe8e8802366482d0b8644b1623847",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đừng chết!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f418",
       "file_offset": 62488,
       "source": "\nI am grateful.",
       "source_sha256": "018d9e60b76fe14e0ea63447e426cc8f8057a75f30040bea52550804cc23f218",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi rất biết ơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f4ae",
       "file_offset": 62638,
       "source": "\nThis land is safe in your hands.",
       "source_sha256": "cdd25e0e6add2ee831b6d80bc85a7b86c0bc441900b6819ceb0265f53edfdcae",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nVùng đất này được an toàn khi giao cho bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f513",
       "file_offset": 62739,
       "source": " And you will not be alone.",
       "source_sha256": "c1ceb1c6ac9ffba3901f0a16fcadbbf6b23dd9abf8bce20e9a6afbc31e8bbc13",
-      "vi": "",
-      "status": "todo",
+      "vi": " Và bạn sẽ không đơn độc.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f591",
       "file_offset": 62865,
       "source": "\nall your might. Wish for me...",
       "source_sha256": "d7214e3ebcbe82106a96360e3fbb2f29f6696bb757bc030935ad28a0714f7252",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbằng tất cả sức lực. Hãy ước nguyện cho tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f65d",
       "file_offset": 63069,
       "source": "\nwith you in the living world.",
       "source_sha256": "ea57217f60089cdcbcf09fccc6cdc92ece013ac335768d6c41f9d8c635614faf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncùng bạn ở thế giới người sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f6d7",
       "file_offset": 63191,
       "source": "\nDo not squander this chance.",
       "source_sha256": "181257fd3db73b05cb8df72fd1530feb409ec1afeba78b6f478f0df92e92a044",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐừng lãng phí cơ hội này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f75b",
       "file_offset": 63323,
       "source": "\nwill appear again before you,",
       "source_sha256": "a7220b72e71cf73744e452818754f1cbdde39a0dc395a19875c6638c4e82dff6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ lại xuất hiện trước mặt bạn,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f7e0",
       "file_offset": 63456,
       "source": "\nstrength for the rest of time.",
       "source_sha256": "53c30f08b7f03cb9ded0cbe81fbf3be213841e5a1d4a23ce67c8b56a519d7df8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsức mạnh cho đến tận cùng thời gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f870",
       "file_offset": 63600,
       "source": "\nevery wish...",
       "source_sha256": "7fb8cc85d2f3bcdebd3ec6b8b9a737aaeadfe9a630880bf0d8d1f173c546fc3c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmọi điều ước...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f946",
       "file_offset": 63814,
       "source": "\nGood to see you made it.",
       "source_sha256": "134b3853588d0dff6e7a870e3eb56c8c8a1f57f72125d20dd93a25bc4efa24eb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMừng vì bạn đã đến được đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000f9dd",
       "file_offset": 63965,
       "source": "\nplace like this!",
       "source_sha256": "1d53824e0b899a9ebeb9701597351b4ba653251d8660f9842dacc5eee989b254",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột nơi như thế này!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fa3d",
       "file_offset": 64061,
       "source": "\nWhat happened to the warrior?",
       "source_sha256": "f88d87fdf7617e39a93974835db2bd8b65b206efe06be169bb086c06d897020a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nChuyện gì đã xảy ra với chiến binh ấy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fae7",
       "file_offset": 64231,
       "source": "(You were young when it happened?",
       "source_sha256": "7cafac48afd1bef087b2ae294476884ecfaf2e2b1491698069617837809ebe3b",
-      "vi": "",
-      "status": "todo",
+      "vi": "((Khi chuyện đó xảy ra, bạn còn nhỏ sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fbb8",
       "file_offset": 64440,
       "source": "\nto hardly anything at all.",
       "source_sha256": "51acfacdf9992bb2f2e17c0bf065fc360b07e4b55565185b4c4eae13a090b322",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchỉ còn lại chút ít.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fc37",
       "file_offset": 64567,
       "source": "\nat any time. Even you.",
       "source_sha256": "8d7a2475ea754a562fffef563d2ef35b253cab8f845accda4566535a7bd6eeb0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbất cứ lúc nào. Kể cả bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fcb5",
       "file_offset": 64693,
       "source": "\nMatters beyond our control.",
       "source_sha256": "80697a301e250f63171b848e4cd1858b959fa41257a5c14c1b81cc96ba269b36",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐó là những chuyện ngoài tầm kiểm soát.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fd37",
       "file_offset": 64823,
       "source": "\ndespair does not lead to regret.",
       "source_sha256": "cdd490a971f1ff6a37b9fb35e9ca9fcc828d4a0dd37ad29ef774de227cc58383",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntuyệt vọng không dẫn đến hối hận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fda0",
       "file_offset": 64928,
       "source": "True enough.",
       "source_sha256": "d09ec38ec8b05af150f4705cab496dd2fb84a253c60577d1ba152c3c5a4b741a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng thế.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000fe22",
       "file_offset": 65058,
       "source": "\nbehind me ages ago.",
       "source_sha256": "4c061f411de146da70eb67fcd3d8969f7272f1bc8bf5e3fd65e9f940914f4be8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã bỏ lại phía sau từ lâu rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0000feb9",
       "file_offset": 65209,
       "source": "\nnever happened at all.",
       "source_sha256": "95390f2069cdc5afe0f30f8e5bff669a4e600f9f9c3bd78f79441f7873faa56b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncứ như chưa từng xảy ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010024",
       "file_offset": 65572,
       "source": "\nWhat does your name mean?",
       "source_sha256": "fe51afc1fea64a73fb000115057c7887a63b2f758c35ac904a17db4179739506",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTên bạn có ý nghĩa gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010133",
       "file_offset": 65843,
       "source": "$Seems like an odd fit for you.",
       "source_sha256": "e1e6b194765b2ee23719c418458c89693efb9e30c4649369012ebedcad94fc95",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Có vẻ cái tên không hợp với bạn lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000101bb",
       "file_offset": 65979,
       "source": "\nfrom the very beginning.",
       "source_sha256": "6ae12b66675bb279a822a02eace939247b8e8bf280c3e1d9fa92e778ccf50c33",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nngay từ lúc bắt đầu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001025f",
       "file_offset": 66143,
       "source": "\nI really am...",
       "source_sha256": "301bb73042335b54465f1460debe6463cc7c3ad7bde52d87b9720dd6846b5c6a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTôi thực sự là...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000102ea",
       "file_offset": 66282,
       "source": "\nindividuality left to me.",
       "source_sha256": "596092a3beb08bcee3060293b8971f774fe6a7ac7033e51c15806e592782ada0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchút bản sắc riêng còn sót lại của tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001034c",
       "file_offset": 66380,
       "source": "Of course.",
       "source_sha256": "404cba15a4acdcfea85caa97d009b1042d20f0967c26f9a1abf59aecbeddf9bd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Dĩ nhiên rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000103d4",
       "file_offset": 66516,
       "source": "\nabout me?",
       "source_sha256": "f4d12adb660619c43aff3e2830b82bd7e952fc9d1a78c920c6cbafb9189463b3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvề tôi sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng catalog đã dịch: giữ đúng bản Việt, chưa duyệt bối cảnh/speaker."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010463",
       "file_offset": 66659,
       "source": "\nwith you long enough to ask.",
       "source_sha256": "8aad3b6c35125f629bdfa21fb1c8a6698ab7b21ce264b7481823b4e834f646ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nở cạnh bạn đủ lâu để hỏi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000104c8",
       "file_offset": 66760,
       "source": "Ha ha ha... I see.",
       "source_sha256": "b945d773107f9c01578fe39d14f4ffe794d2e799cea0d3e5bf6af15cc45296b5",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ha ha ha... tôi hiểu rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001055a",
       "file_offset": 66906,
       "source": "\nBut there's hope for you yet.",
       "source_sha256": "7b49c2e3ac84fee07cc0b7734de8ba67f3722187dad5d17293cc2d77818bda92",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng bạn vẫn còn hy vọng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010761",
       "file_offset": 67425,
       "source": "\nfeel like telling...",
       "source_sha256": "473b224f6ba7ea8aba29da0e8bc2f15db94a0f6ce2929597d89d63b0ea350fef",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncảm thấy muốn kể...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000107f5",
       "file_offset": 67573,
       "source": "\nyou would just make up.",
       "source_sha256": "46dba7212082ea532d84fd6f43aacbc071473235d4205ff4d9b9d7a67979e75b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbạn sẽ tự bịa ra thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000108c9",
       "file_offset": 67785,
       "source": "\nhad an advanced civilization.",
       "source_sha256": "a505f6ac94fb03d80a82fbf485d99481f2b618b605385abda4df43d7e8aae23a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđã có một nền văn minh phát triển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010948",
       "file_offset": 67912,
       "source": "\naround the world.",
       "source_sha256": "682b70bd39f004250e2cc4416ff3d9b778e0f4873355c4312e3beed21205d6e1",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkhắp thế giới.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000109bc",
       "file_offset": 68028,
       "source": "\nJapanese as well.",
       "source_sha256": "9bdbcc5239df8cc65746253e474cda4e30767a986df26d3b85505953452eb107",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncả người Nhật nữa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010a55",
       "file_offset": 68181,
       "source": "\nwished to commune with the dead.",
       "source_sha256": "66014c895541502635dc80ac2182d50436cae8fb49bb9f4c2fc5b70a486b7106",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmong được giao tiếp với người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010af9",
       "file_offset": 68345,
       "source": "\nhigher knowledge.",
       "source_sha256": "1a7fdcafb4925d1e9fcb431d1c004fda59e61e01e9b6fdecb5d5a8d61a6864d0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntri thức cao siêu hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010b6f",
       "file_offset": 68463,
       "source": "\nwhat the dead know.",
       "source_sha256": "f65da9b56fd4ab0c305bde4970d9d8f9801f20b0b188bf43600a504bd348ba59",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững điều người chết biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010cb7",
       "file_offset": 68791,
       "source": "\nsomehow? It's an idea, but...",
       "source_sha256": "54b5a38921ededaba08fead5c89c9fca2589f8bca9650bf02d5524713aefadbf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbằng cách nào đó sao? Cũng là một ý, nhưng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00010df9",
       "file_offset": 69113,
       "source": "\ndreams of finding those answers.",
       "source_sha256": "216351566069162ec408ff7e0427572d2b63ae1cc7cd10b0a1371cfb18c040f7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmơ tìm được những lời giải đáp ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001123a",
       "file_offset": 70202,
       "source": "\nlife are scattered around.",
       "source_sha256": "5826cdeb1b1b7893d0cf421ab159c4798233415c546a86aa63b460ba7e08324a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncủa sự sống nằm rải rác khắp nơi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000112e2",
       "file_offset": 70370,
       "source": "\ndarkness within her.",
       "source_sha256": "bb0e4d54c54926b2155c8548cdeb0848cf57a906149d5bf34b0daec39bec43cb",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nbóng tối trong lòng cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000113ea",
       "file_offset": 70634,
       "source": "\nbe found wandering its reaches.",
       "source_sha256": "ba0ad43502fa961235ea2586f9519ff13fa8a9385411810b6ac7004caae5e822",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể bắt gặp đang lang thang khắp nơi ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000114d4",
       "file_offset": 70868,
       "source": "\nbe hell!",
       "source_sha256": "ea22539d24ab2c319030235fc3f97dd87ac395fe22aee2a97f7759260aaf3709",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ là địa ngục!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011567",
       "file_offset": 71015,
       "source": "\nlike that?",
       "source_sha256": "65fabff9027435556bbd57d05311abe5c0384b78e32eb305f8cac86f809baffe",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhư thế sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng catalog đã dịch: giữ đúng bản Việt, chưa duyệt bối cảnh/speaker."
     },
     {
       "id": "talk/en/tk500_en.bin_@000115b8",
       "file_offset": 71096,
       "source": "That's no way to die...",
       "source_sha256": "766bcbd4d5e600d105d5e38b7314e971d9a678b99766bd7dfb282b7e53e8cb90",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chết như thế thì thật không đáng...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001163f",
       "file_offset": 71231,
       "source": "\nWhy did they die?",
       "source_sha256": "21eb75f13410a054804df1a913df6eed3e5de9f0624183bffce52a92e6b00530",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nTại sao họ chết?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011704",
       "file_offset": 71428,
       "source": "\nWhat is she up to?",
       "source_sha256": "1014a5a28fa87fd66b77fffeed32897af03711c514ea2b94a9d77150ce8a62e5",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCô ấy đang toan tính gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011779",
       "file_offset": 71545,
       "source": "\nshe was looking for.",
       "source_sha256": "9adf1182227d5926aeda435be43b23ebb2582c803d0a0897d2f56e92b02ed03c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncô ấy đang tìm kiếm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000117ec",
       "file_offset": 71660,
       "source": "\nBut... to whom?",
       "source_sha256": "d37b524fe272a4622b39f07985f0d19b9f708100d9e55da4f2eeb98b1efa475a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng... nói với ai?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000118d4",
       "file_offset": 71892,
       "source": "\ncan meet the dead?",
       "source_sha256": "c787fd4c83c8e410448e975c7555fd9004ac1b9b29e9bf87649d6b81900aeba3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó thể gặp người chết sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng catalog đã dịch: giữ đúng bản Việt, chưa duyệt bối cảnh/speaker."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001198a",
       "file_offset": 72074,
       "source": "\nShe's up to something.",
       "source_sha256": "bc7e262b9f8a19d86018392c251b1d26b5d5266fc636053a5c752116a82bef50",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCô ấy đang mưu tính gì đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011a02",
       "file_offset": 72194,
       "source": "\nMy mother...",
       "source_sha256": "d7b1fa193941f2546e330302ee6f593c9ed0ceb58994c03a58fbea394afdda8f",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nMẹ tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011a6f",
       "file_offset": 72303,
       "source": "\nThat's where she's headed...",
       "source_sha256": "7002e9a4535d8a7c9ffbe21617c13f08ad683baf63fd687163adf5df4d383f34",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐó là nơi cô ấy đang đến...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011af2",
       "file_offset": 72434,
       "source": "\napart must be hidden there.",
       "source_sha256": "98b740efbe518a4178e22499cb2ee1fdfd66f88bae127f55d1ca7f3ef26a1b77",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững gì đã chia cắt họ hẳn được giấu ở đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011bb7",
       "file_offset": 72631,
       "source": "(I haven't seen all the memories.",
       "source_sha256": "8b5f5224ccb237803e70823768e13b8cc01745c468549d0466aa23e37b287e22",
-      "vi": "",
-      "status": "todo",
+      "vi": "((Tôi vẫn chưa xem hết những ký ức.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011e6e",
       "file_offset": 73326,
       "source": "\nWho is she waiting for?!?",
       "source_sha256": "da3669ed291ae238c08235ba95d517a0e3c77d8060289ad4ed91d003f48aa173",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nCô ấy đang đợi ai cơ?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011f4e",
       "file_offset": 73550,
       "source": "\nThat's why she was at the beach.",
       "source_sha256": "e385b87b72d9778fc3e4f5a952c1209d5dbb377b2f1d15e47bf1752d3cef9ca9",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nĐó là lý do cô ấy có mặt ở bãi biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00011fd9",
       "file_offset": 73689,
       "source": "\nfollowed by me.",
       "source_sha256": "a70971afb3905365b9b82dbcd72b36b17572b1b3484394c372a0efe5fd358e56",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvà tôi đi theo sau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012094",
       "file_offset": 73876,
       "source": "Who are you?",
       "source_sha256": "80495816f7f221579a472ca05647122a046f90846f2531202061c7eb7e7a8c8c",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn là ai?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000121bf",
       "file_offset": 74175,
       "source": "\ngrip on her.",
       "source_sha256": "2c1765109c5c423aff5fa3253ba8d9f705260bb8734698d9dfecfb5bb2b7ed5a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nkiểm soát cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001224f",
       "file_offset": 74319,
       "source": ", if you have to.",
       "source_sha256": "b65a7ac6833e0459869f99a9136fef11cf5bec31690abdc67e3f11b3e2f1c781",
-      "vi": "",
-      "status": "todo",
+      "vi": ",nếu buộc phải vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001239a",
       "file_offset": 74650,
       "source": "\nBut she seems less pale.",
       "source_sha256": "0eeaa49723b33b1ebfea2879fa7c4bb5f876d7286715acf24250199435b62bbf",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nNhưng trông cô ấy đỡ tái hơn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000123f7",
       "file_offset": 74743,
       "source": " It's only a matter of time.",
       "source_sha256": "88f89f06e88e49eebdbfa97a29d4fc030e72553b8b829e5913888688221a795e",
-      "vi": "",
-      "status": "todo",
+      "vi": " Chỉ còn là vấn đề thời gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012480",
       "file_offset": 74880,
       "source": "\nwakes or not?",
       "source_sha256": "bfa0d14f446adf32805360c63779c66138d9b2d41060812415dcd8a2e03e6928",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncó tỉnh lại hay không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000124f1",
       "file_offset": 74993,
       "source": "\nwhat befell the doctor.",
       "source_sha256": "77fd9f7bc8b75dcf2d87a2840f59bbd3680435bb5bbb08a88540f42d8cdfcd9c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nchuyện gì đã xảy ra với vị bác sĩ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000125b8",
       "file_offset": 75192,
       "source": "\na sick patient no matter what.",
       "source_sha256": "e763253ea81024928aa60d0438339705419557a59c2387e7e9728bf59a5e0172",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmột bệnh nhân đau ốm, bất kể thế nào.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000127a7",
       "file_offset": 75687,
       "source": "\nin Ellen's adventure.",
       "source_sha256": "08447217df4961371f709105dbf94c91ebc1f93b87edbe42ab0469f70d078cc6",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrong chuyến phiêu lưu của Ellen.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001299a",
       "file_offset": 76186,
       "source": "\nmother, are you?",
       "source_sha256": "6049f6ce2c53f4f1e29ea012cb8626951e4e88978d7094577ac4efd6b74a5f2b",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nmẹ, phải không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000129ef",
       "file_offset": 76271,
       "source": "$Purely to sate my curiosity.",
       "source_sha256": "6c50eef8746f26f4233416e70f03c2496113beb3e5dc8c737003ce2ee72d5ae2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Chỉ để thỏa trí tò mò của tôi thôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012a71",
       "file_offset": 76401,
       "source": "\nsolved, after all.",
       "source_sha256": "0c4f5d1d8f5bad84bf614f53c228386dc13809dc8dbd81f2fc534ee266c3ed5c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nrốt cuộc cũng đã được giải quyết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012b43",
       "file_offset": 76611,
       "source": "$I'll be waiting in the village.",
       "source_sha256": "ac7f127c404aed06fa4edb3dde8ab4ff99d74968953dca92335e195bfa2bc0d7",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi sẽ đợi ở làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012cae",
       "file_offset": 76974,
       "source": "\nfor you.",
       "source_sha256": "66b149a1fd0ba6f2f87d6e937ac0f85345a8ba219e0dc4bc351278aea573a39c",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nvì bạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012d7c",
       "file_offset": 77180,
       "source": "\nentire life for her daughter.",
       "source_sha256": "b86461d401309e653335d4eddbb095eaecd8ebe61e7efc90568ba825c7ad8a1a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ncả cuộc đời vì con gái.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012ddf",
       "file_offset": 77279,
       "source": " May she rest in peace...",
       "source_sha256": "810bc5273703d8ea9dc08f430aca012a0881b1a0fbfc538c5252eb2c3c348769",
-      "vi": "",
-      "status": "todo",
+      "vi": " Mong bà ấy được yên nghỉ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012ec5",
       "file_offset": 77509,
       "source": "\nto say,",
       "source_sha256": "340fa1de726fb74b99606cadb11a973d202b6fa74a52354a43ca533140876c05",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nđể nói,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00012f33",
       "file_offset": 77619,
       "source": "\nwell, living... to notice.",
       "source_sha256": "0df96e62ea77e4f416580744fb669604cf977a6e7c072f5ce09fdab2207980e0",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nờ, còn sống... để nhận ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001314d",
       "file_offset": 78157,
       "source": "\nwill sink into utter oblivion.",
       "source_sha256": "4b4dc3139ff6c6bb4eb3ba97794879b84b83053c0f841e237799a871470e1d5d",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nsẽ chìm vào quên lãng hoàn toàn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000131d0",
       "file_offset": 78288,
       "source": "\nflights of fancy...",
       "source_sha256": "4cbec8783f3e90a653db9c3f3c8e606056e72ed2224270421428eb27d27bf6bc",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững tưởng tượng viển vông...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000132bd",
       "file_offset": 78525,
       "source": "\ninto being, no doubt.",
       "source_sha256": "b9dd739038440f283f80dda2d7ee0af996d8a430498ead8dde34be9e4c6eaf40",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nthành hiện thực, hẳn là vậy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@000133cd",
       "file_offset": 78797,
       "source": "\nthose in the world of the living.",
       "source_sha256": "707644d16d7c280cedbf1a5165c0920f11de6054936685159d2dd9c7aca9a692",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững người ở thế giới người sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013433",
       "file_offset": 78899,
       "source": " Deep must their guilt run.",
       "source_sha256": "bb9fbd3431aeccce8491274ffa2bd2ad7f02c89f780a298a315a379bd590235a",
-      "vi": "",
-      "status": "todo",
+      "vi": " Hẳn tội lỗi của họ nặng nề lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001350f",
       "file_offset": 79119,
       "source": "\nYou must go to her!",
       "source_sha256": "b2365a3e15a3b0589c11f9b61e42e9c7a750869ae9350e815c6f01daa55cdbe8",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nBạn phải đến chỗ cô ấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000135f7",
       "file_offset": 79351,
       "source": "\nafter my daughter.",
       "source_sha256": "96dc153893244f6640c83d5ea14494fac4a6515e89bc815076f5fcb67af97bc3",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrông nom con gái tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@0001364f",
       "file_offset": 79439,
       "source": " She looked after herself.",
       "source_sha256": "ded128e96af9afb203f35e013b17976425b5dc2c50768b3ec8b256807ae4d70e",
-      "vi": "",
-      "status": "todo",
+      "vi": " Cô ấy đã tự chăm sóc được mình.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000136d0",
       "file_offset": 79568,
       "source": "\nthan people give her credit for.",
       "source_sha256": "04b5d670a2f1896a1c42546be728018fed180a0c6ae5cbf908a8ae370084a313",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nhơn mọi người vẫn tưởng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013738",
       "file_offset": 79672,
       "source": "I can die happy now.",
       "source_sha256": "bbd0653e7d114f9fc4728ba9ea54e5f4a40c5220cc4958d569c5232242e2e04b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giờ tôi có thể nhắm mắt thanh thản.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000137b1",
       "file_offset": 79793,
       "source": "\nreveal the truth before I go.",
       "source_sha256": "de5e2c1dd5dffe2ccbd0126660cdf8bae765d4c0b84eb29304a2d51492bd8074",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnói ra sự thật trước khi tôi đi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000138c7",
       "file_offset": 80071,
       "source": "\nLooks like I can't go that way.",
       "source_sha256": "6d05d31c4538b4aee0f39ee41fac519fa58caeaedc58e6d2320cbd257d57dfc7",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nXem ra tôi không thể đi lối đó.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên ASCII NUL: bản nháp nghĩa nguồn, chưa xác minh speaker/metadata."
     },
     {
       "id": "talk/en/tk500_en.bin_@000139b1",
       "file_offset": 80305,
       "source": "\npublic roads closed.",
       "source_sha256": "6e37538bd27a7e7c6373428fb10d130a474f98e81868ae5f2c37a7943a7ad02a",
-      "vi": "",
-      "status": "todo",
+      "vi": "\nnhững con đường công cộng bị đóng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013a66",
       "file_offset": 80486,
       "source": " will stay away.",
       "source_sha256": "d819c7e6a6b2d50823ea5dbe6a6edec5aafdb8a5a2795fc707c48d76b60b5602",
-      "vi": "",
-      "status": "todo",
+      "vi": " sẽ tránh xa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013b04",
       "file_offset": 80644,
       "source": "What?",
       "source_sha256": "a4949e2c96de26681c9519749e57bfb362bbac2a8f40c89b24c35d1de111336d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Gì cơ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nguồn trùng catalog đã dịch: giữ đúng bản Việt, chưa duyệt bối cảnh/speaker."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013be3",
       "file_offset": 80867,
       "source": "\nto the village!",
       "source_sha256": "1beec06066102ceac09f6b5112ea29fa5ca65682ba68bdf21f33796eeba951ea",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrở về làng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013c60",
       "file_offset": 80992,
       "source": "\nbefore it's too late!",
       "source_sha256": "a19dbe4d5f0b1c0998c96a7dbc4418c6cdff619796b625d354a883163ad41328",
-      "vi": "",
-      "status": "todo",
+      "vi": "\ntrước khi quá muộn!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013d54",
       "file_offset": 81236,
       "source": " ambushes her.",
       "source_sha256": "668ccb2a4e0d9156e57da332c53b70e887f59e38ae0b7938263e226b02e07312",
-      "vi": "",
-      "status": "todo",
+      "vi": " phục kích cô ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Mảnh ASCII NUL chưa đủ cảnh hoặc thiếu vai nói; bản nháp cần ghép lại câu và xét xưng hô."
     },
     {
       "id": "talk/en/tk500_en.bin_@00013e22",
