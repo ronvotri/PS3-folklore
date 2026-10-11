@@ -11,150 +11,150 @@
       "file_offset": 11127,
       "source": "@Humans view their\nlives within the\nparadigm of mortality.",
       "source_sha256": "30f8ad5a38a2b123d396bfc528872a0628dc1393347c5957522d5c3fd7372f7f",
-      "vi": "",
-      "status": "todo",
+      "vi": "@Con người nhìn nhận\ncuộc đời qua lăng kính\ncủa sự hữu hạn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002bb7",
       "file_offset": 11191,
       "source": "LFor generations, they\nhave created legacies\naffirming their existence.",
       "source_sha256": "b3e96bdc490caeeed8c4620370abc45e83ce7507187bc03e84989ea784bc0967",
-      "vi": "",
-      "status": "todo",
+      "vi": "LQua bao thế hệ, họ\nđể lại di sản\nkhẳng định mình từng tồn tại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002c03",
       "file_offset": 11267,
       "source": "0The ephemerality of\nlife makes it precious.",
       "source_sha256": "9565de0388c923e2cfa57762fea33fc1b1e47dcbe72dbac3eb94c857cf6693dc",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Chính sự ngắn ngủi\nkhiến đời sống quý giá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002c33",
       "file_offset": 11315,
       "source": "TOur people, in contrast, were\nassured of peace in death,\nand created nothing.",
       "source_sha256": "d84d7868c14b6a5d0167b959cb9aa2212489839ed477b964698b1be75ac453bb",
-      "vi": "",
-      "status": "todo",
+      "vi": "TTrái lại, giống loài chúng ta\nđã yên lòng với cái chết,\nnên chẳng tạo ra điều gì.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002c87",
       "file_offset": 11399,
       "source": "LAnd when we do, we\nfeel alive. Our vitality\nis fuelled by curiosity.",
       "source_sha256": "2441a624cb65e4b62ba5093f67bc12ffc6d162cc01a35fba919c7b158ea7e4c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "LVà khi làm vậy, ta\ncảm thấy mình đang sống.\nHiếu kỳ nuôi dưỡng sinh lực.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002cd3",
       "file_offset": 11475,
       "source": "<Only mortal men are driven\nto create things eternal.",
       "source_sha256": "e06f06fe993e2a5fa708dd2b1015ecf0b0a82c655f6637d702bb92beeed39a36",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Chỉ kẻ hữu hạn đời mình\nmới khao khát tạo nên điều vĩnh cửu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002d18",
       "file_offset": 11544,
       "source": "That was a mouthful.",
       "source_sha256": "373fc62e4eaa53224577f25d3239d9d9e1e027e2c2af7d2f70de6a9367a13e37",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đúng là một tràng dài.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002d50",
       "file_offset": 11600,
       "source": " How\nis the world now?",
       "source_sha256": "07839bf19482a17fc6a8e59f3757232896e9305e4e7d03c9c004200ecad05d0a",
-      "vi": "",
-      "status": "todo",
+      "vi": " Thế giới\nbây giờ ra sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002d6c",
       "file_offset": 11628,
       "source": "...Not bad",
       "source_sha256": "2c2a6ec36399a2f351760ed350a59f6cfaecf8861799fe143254a43b77a885a8",
-      "vi": "",
-      "status": "todo",
+      "vi": "...Không tệ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002d7b",
       "file_offset": 11643,
       "source": "HWe are immature, for\ncertain, but we make\nour share of discoveries.",
       "source_sha256": "80d2d31ff15ee899b164f7976523dc1953782b0a0332b7407cd80f24fc537e9c",
-      "vi": "",
-      "status": "todo",
+      "vi": "HChúng ta còn non trẻ,\nđúng vậy, nhưng cũng\ncó những khám phá riêng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002dcb",
       "file_offset": 11723,
       "source": "4Livane, what you did \nlong ago\nwas not wrong.",
       "source_sha256": "f422900a69114ea0cb7822052f809b3b77e622882ff79162a68cd2fde6c825f1",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Livane, điều anh làm \ntừ rất lâu trước đây\nkhông phải là sai.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002e00",
       "file_offset": 11776,
       "source": "Excuse me...",
       "source_sha256": "eda3c1ae9bfefe04a1591876619670cc5d70bd632707b624d5c63faef9588d67",
-      "vi": "",
-      "status": "todo",
+      "vi": "Xin phép...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002e13",
       "file_offset": 11795,
       "source": ",Please allow me to\ngreet the guests.",
       "source_sha256": "7f0464155a0a52028cc754b644a30e244f89bce54c35c881a152ac0b28e960cc",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Cho phép tôi\nchào đón các vị khách.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002e40",
       "file_offset": 11840,
       "source": "Go to the village.",
       "source_sha256": "869d88d406e0c0ec0d7fd2708d9517ff90241d5c4e25ab05bf7ea32046928ae0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hãy đến ngôi làng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc153_en.bi5_@00002e58",
       "file_offset": 11864,
       "source": "Don't go over the top.",
       "source_sha256": "9c0d2009fdb4861c58aefc582504a6121c3e6bb1bdc885ca8f9db994cb0a18b8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đừng làm quá lên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
