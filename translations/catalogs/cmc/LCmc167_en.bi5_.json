@@ -11,50 +11,50 @@
       "file_offset": 9591,
       "source": "<That song that\nCecilia mumbled is\nthe key to the door.",
       "source_sha256": "6bb59387dc09034d7939675be23619197f098996d0d5cd2930bbaf6db1b35b5f",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Bài hát Cecilia\nlẩm nhẩm chính là\nchìa khóa mở cửa.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc167_en.bi5_@000025b3",
       "file_offset": 9651,
       "source": "DIt's been passed down\nthrough generations as\na nursery rhyme.",
       "source_sha256": "fd53965ed61f4dc1dcd8f05dfefbbee17fd0d34187a29e981e657dc3af9d06dc",
-      "vi": "",
-      "status": "todo",
+      "vi": "DNó được truyền lại\nqua nhiều thế hệ như\nmột bài đồng dao.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc167_en.bi5_@000025f8",
       "file_offset": 9720,
       "source": "Veil of time\ndescend.",
       "source_sha256": "9284f40754950dd27f8dc84d0ce5445bbcc1937c8d22436d43ad570b380562ad",
-      "vi": "",
-      "status": "todo",
+      "vi": "Màn thời gian,\nhãy buông xuống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc167_en.bi5_@00002613",
       "file_offset": 9747,
       "source": "8Atop the ash tree wend.\nLight of the stars portend.",
       "source_sha256": "777c1f8a744c378cb301e425dd09f3702d13bb0220b1e6f5ad81ffaf2bdeec6e",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Qua ngọn tần bì mà lên.\nÁnh sao báo trước điềm lành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc167_en.bi5_@0000264b",
       "file_offset": 9803,
       "source": "$The feather shalt transcend.",
       "source_sha256": "43ca2d3581536c37740d0ab6c1058ad5123cfcd9945900f840bdcc751b983aa5",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Lông vũ vượt thoát trần gian.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
