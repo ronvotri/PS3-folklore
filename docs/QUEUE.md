@@ -2,10 +2,10 @@
 
 ## Bắt đầu ngay
 
-1. `translations/catalogs/talk/tk600_en.bin_.json`: bắt đầu tại `talk/en/tk600_en.bin_@00001158` (`To Netherworld`); **544 todo, 0 draft**. `tk500` đã hoàn tất 528/528 draft. Dịch source mới theo cảnh, tái dùng nguồn trùng, QA/commit từng nhóm an toàn.
-2. Các tệp `tk000`, `tk011`, `tk100`–`tk107`, `tk206`, `tk207` đã đủ **3.273/3.273 mục draft** cộng lại; ba CMC `LCmc000`, `LCmc002`, `LCmc004` có 46 `draft`. Chưa có repacker hội thoại hoặc kiểm thử runtime.
-3. Trước khi build talk/cmc: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md`; khảo sát vùng byte trước/sau string và bảng con trỏ ở local (nguyên bản), phân định prefix text/control/metadata; chưa có repacker an toàn.
-4. Menu `lang_en.bi5_`: 1.016/1.016 `draft`; cần QA độ dài/glyph/alias và hiển thị RPCS3. Tiếp tục các catalog theo `translations/index.json`; ID tệp không nhất thiết là thứ tự truyện.
+1. **ƯU TIÊN KỸ THUẬT (theo xác nhận của người dùng ngày 11/10/2026):** nghiên cứu và hoàn thiện parser/repacker talk/CMC trước khi xem % draft là tiến độ game. Đã có công cụ khảo sát nhị phân chỉ đọc `tools/dialogue_probe.py`, hướng dẫn `docs/DIALOGUE_BINARY_PROBE.md` và 6 unit test tổng hợp; **chưa chạy trên game binary gốc, chưa có parser/repacker**. Bước tiếp: kiểm chứng SHA, source/NUL, prefix và tham chiếu từ bản gốc local, xác định opcode/speaker, làm parse→serialize byte-for-byte rồi mới đề xuất dry-run repacker.
+2. **Việc dịch nháp còn lại (thứ yếu cho đến khi hiểu format):** `tk600` 544 todo, tiếp tại `talk/en/tk600_en.bin_@00001158`; sau đó `tk700` 242 todo và các CMC chưa xong. Không xưng đã hoàn thiện game khi chỉ mới có text ở catalog.
+3. Trước khi build talk/CMC: đọc `docs/DIALOGUE_CANDIDATE_AUDIT.md` và `docs/DIALOGUE_BINARY_PROBE.md`. Chạy probe với archive nguồn **chỉ ở máy local**; báo cáo nằm trong `local-data/`, không push lên GitHub. Các mẫu u32 chỉ là giả thuyết, không cho phép ghi patch.
+4. Menu `lang_en.bi5_` đã 1.016/1.016 bản nháp; cần QA glyph/alias, độ dài và hiển thị thực tế. ID tệp và ID offset **không quyết định** thứ tự hội thoại.
 
 ## Mốc bàn giao
 
@@ -467,3 +467,10 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - QA từng batch: chỉ sửa `vi/status/notes` của ứng viên mới, thêm **2 chỉnh sửa từ vựng** tại mục 61 và 473; ID/source/SHA/offset/source_review/thứ tự bất biến; Unicode NFC, newline, prefix `$`, `(`, space và các placeholder được soát, không có nguồn trùng mâu thuẫn trong tk500. Đây là QA cấu trúc trên dữ liệu GitHub, **chưa chạy xác minh được** `python tools/catalog.py validate` và unittest Windows/Linux trong môi trường hiện tại; cần đối chiếu CI.
 - Tổng **9.351/11.886 draft, còn 2.535 todo** của ứng viên đã trích, không phải tỷ lệ bản vá có thể chơi được. Chưa có parser/repacker talk/cmc hay kiểm tra RPCS3; giữ font Merienda V3, game binary, ROM/ISO và payload nguyên vẹn.
 - **Tiếp theo:** `talk/en/tk600_en.bin_@00001158` (544 todo); sau tk600 đến `tk700` (242 todo), rồi các CMC còn lại. Không cần user cung cấp ROM để dịch dữ liệu catalog.
+
+## Lượt 032 — 11/10/2026 (đổi ưu tiên từ đếm câu sang parser/repacker)
+
+- Người dùng xác nhận cần ưu tiên đưa tiếng Việt vào game, hạn chế dịch nháp lại theo cảm giác. **Không thay đổi các catalog hoặc trạng thái** trong lượt này; mốc vẫn **9.351/11.886 draft, 2.535 todo**.
+- Đưa `tools/dialogue_probe.py`, `tests/test_dialogue_probe.py` (6 synthetic unittest) và `docs/DIALOGUE_BINARY_PROBE.md` vào repo. QA tổng hợp chạy 6/6; **không** thay thế kiểm thử với binary gốc hay CI.
+- Công cụ **chỉ đọc**, đối chiếu hash và toàn bộ candidate tại offset, báo lỗi nếu lệch nguồn, lấy mẫu byte quanh chuỗi và dò *khả năng* u32 references; không đóng gói, vá, sửa font, cập nhật ISO hoặc tự gán speaker. Báo cáo chỉ ở `local-data/` hoặc `dist/` đã gitignore.
+- **Checkpoint tiếp:** (1) chạy probe ở local trên bản gốc 2 talk + 1 CMC; (2) so byte/offset/section; (3) xác định cấu trúc opcode/pointer; (4) parser/serializer roundtrip lossless; (5) repacker dry-run/backup/rollback rồi mới thử một vài lời thoại. Trong khi đó `tk600` vẫn còn 544 mục dịch nháp khi có thời gian.
