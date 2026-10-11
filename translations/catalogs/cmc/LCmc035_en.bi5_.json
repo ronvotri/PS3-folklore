@@ -11,160 +11,160 @@
       "file_offset": 12000,
       "source": "What happened here?",
       "source_sha256": "4161bec1ff4100ae4cb58db686aeecba55f4842d77a0470ecea117fbd907886b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Chuyện gì xảy ra ở đây?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00002ef7",
       "file_offset": 12023,
       "source": "4Go and see him. He is\nsure to show a reaction.",
       "source_sha256": "1eed162d5c38bb0d89023160d572e0970436827770153c213c3b53f5e04b31fd",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Hãy đi gặp ông ấy.\nChắc chắn ông ấy sẽ phản ứng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00002f2b",
       "file_offset": 12075,
       "source": "$He asked me here\n17 years ago.",
       "source_sha256": "9db889d048beb1de66e2b0fa3eb4b68ea5f41402c0ec4b8755a81eb4920d32cf",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ông ấy hẹn tôi đến\n17 năm trước.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00002f57",
       "file_offset": 12119,
       "source": " On the night of\nSamhain.",
       "source_sha256": "5ff27b09562ec9c31a89137e92a888f8ce5a3a3aa247962cb270252f77462f1c",
-      "vi": "",
-      "status": "todo",
+      "vi": " Vào đêm\nlễ Samhain.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00002f77",
       "file_offset": 12151,
       "source": "0Even after death,\nhe still cares about me.",
       "source_sha256": "5566dede9e9aae2e22d3a115f58761972b3678ff5f03d20952130f098db339fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Ngay cả khi đã chết,\nông ấy vẫn quan tâm đến tôi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00002faf",
       "file_offset": 12207,
       "source": ",Flowers blooming at\nnight? Is it Ryan?",
       "source_sha256": "2723a866914713cfee30059ec41ef9e0ca2adb39681e55125b5b940ff0f98684",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Hoa nở ban đêm ư?\nCó phải Ryan không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00002ffb",
       "file_offset": 12283,
       "source": "PWhat folly it is to\npresume that a few flowers\nare a sign from the dead.",
       "source_sha256": "9e9f33c56080d9afc3bfe7e5ef2308c92dede03fb89e4dbe54cb37d2df0a0852",
-      "vi": "",
-      "status": "todo",
+      "vi": "PThật hồ đồ khi nghĩ\nvài bông hoa có thể là\ntín hiệu từ người chết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@0000304b",
       "file_offset": 12363,
       "source": ",Ellen, may I ask...\nDid he despise me?",
       "source_sha256": "8505d8ceba3d1512aab0e96c49c3be8016735ee9b66e1714c3726c1f01ee0ff9",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ellen, cho tôi hỏi...\nÔng ấy có ghét tôi không?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00003078",
       "file_offset": 12408,
       "source": "No, he did not.",
       "source_sha256": "f3872c0b8564a9bf7cf5a1c961772070e9c9ce23c1fad0cb5167bfdabdb0d69b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không, ông ấy không ghét.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00003093",
       "file_offset": 12435,
       "source": " To stop groping\nin the dark",
       "source_sha256": "d1ee734cf17e96956f392f7bf177fb3bcdc48c24513671f39d812ff94cff5040",
-      "vi": "",
-      "status": "todo",
+      "vi": " Đừng cứ lần mò\ntrong bóng tối nữa",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@000030b3",
       "file_offset": 12467,
       "source": "(and to focus on\nthe joys of living.",
       "source_sha256": "2633484ea960b6521a47911d1de93a49e4d5ab18a8131a9544b967cfc74e924c",
-      "vi": "",
-      "status": "todo",
+      "vi": "(mà hãy hướng về\nniềm vui của cuộc sống.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@000030e3",
       "file_offset": 12515,
       "source": "(Would you meet\nRyan if you could?",
       "source_sha256": "d68e233b1845fe5a21e982889fb834df657fb5c4219a342f41019c5cc2f0b839",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Nếu có thể,\nbạn muốn gặp Ryan chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@00003114",
       "file_offset": 12564,
       "source": "... Yes...\nI would.",
       "source_sha256": "69756ef3865dc0f6d5dee62900019c4d487381832306997f5728d43e7d3f4bac",
-      "vi": "",
-      "status": "todo",
+      "vi": "... Có...\nTôi muốn.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@0000312b",
       "file_offset": 12587,
       "source": ",My obsession with myth\nruined his life.",
       "source_sha256": "d1c0a5a2a9e688a257b4be4765d1c11236f780b8848ce2668abbdaa31441c5f9",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Nỗi ám ảnh thần thoại\nđã hủy hoại đời ông ấy.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@0000316f",
       "file_offset": 12655,
       "source": ",What happened that\nnight at the church?",
       "source_sha256": "bb3faa64aa61b5bb3c1d4772d37256bad61c5a9574c44a659abaa555fe25e0f5",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Đêm đó ở nhà thờ\nđã xảy ra chuyện gì?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc035_en.bi5_@0000319c",
       "file_offset": 12700,
       "source": "In time,\nI will speak.",
       "source_sha256": "16cb358283cc4a1820223f32b6f6169449d9ee2f36670b4cec73b3da0a199463",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đến lúc thích hợp,\ntôi sẽ kể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     }
   ]
 }

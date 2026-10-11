@@ -11,30 +11,30 @@
       "file_offset": 9952,
       "source": "Wait!",
       "source_sha256": "34621f0d50c83c4de241348b5c775b75e0ba31c149df2d2b6ac0decc370fccfb",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khoan đã!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc039_en.bi5_@000026ec",
       "file_offset": 9964,
       "source": "Dr... Dr. Lester!",
       "source_sha256": "f8425dcb068f681e203443497bd09141755c56cc5b2218ff4b81a68babc027a1",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bác... bác sĩ Lester!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc039_en.bi5_@00002704",
       "file_offset": 9988,
       "source": "But why\nhere?!?",
       "source_sha256": "0da96cfce94297160650bb59103b86ab60dd8ba635e63b06d1bd55174ed0f238",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng tại sao\nlại ở đây?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     }
   ]
 }

@@ -11,130 +11,130 @@
       "file_offset": 12952,
       "source": "The Hag?",
       "source_sha256": "4a5c67315c0169f69c8938d3ecaa1c21fef9843c64d198994f7d13be61882e92",
-      "vi": "",
-      "status": "todo",
+      "vi": "Mụ phù thủy già sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@000032a7",
       "file_offset": 12967,
       "source": ",You've read one too many\nfairy tales.",
       "source_sha256": "4335ad1ad5ae9384fcd31bc3998581742ddbd9f357d1789503326e6473870c9d",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Bạn đọc quá nhiều\ntruyện cổ tích rồi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@000032d3",
       "file_offset": 13011,
       "source": "<No, it's true,\na strange woman has\nbeen lurking around.",
       "source_sha256": "3990e38622f7a9fa2945369dd89a43adfd433e9df46bf62d88bd8b54a09d86f4",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Không, thật đấy,\ncó một người đàn bà lạ\nlảng vảng quanh đây.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@00003310",
       "file_offset": 13072,
       "source": "Yes, it could be us...",
       "source_sha256": "78af38f9ecd3eabe4a8eb09df5acac414a7d6262b5ec9e6b2ac5e5a212b278fc",
-      "vi": "",
-      "status": "todo",
+      "vi": "Phải, cũng có thể là chúng ta...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@0000332c",
       "file_offset": 13100,
       "source": "Or perhaps it is\nfate.",
       "source_sha256": "f1eec2e9fa4ceb60456ddd6afc7ef70630faff17dcdae037d598305d8b8585e3",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hoặc có lẽ đó là\nsố phận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@00003347",
       "file_offset": 13127,
       "source": "DEllen, perhaps your\ncoming has triggered\nall of this madness?",
       "source_sha256": "dd9dbe14294d968ccf36565ef33667b743ce6dae6f14153fd9a7a54e972f1707",
-      "vi": "",
-      "status": "todo",
+      "vi": "DEllen, có thể sự xuất hiện\ncủa bạn đã châm ngòi\ncho mọi chuyện điên rồ này?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@00003398",
       "file_offset": 13208,
       "source": "Dr. Lester!",
       "source_sha256": "3cfbfd93b88b9a5190b761cb5e6740420019d6b4fbff67acee72f9c8bca59bba",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bác sĩ Lester!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@000033b0",
       "file_offset": 13232,
       "source": "He was murdered.",
       "source_sha256": "63874e8fc4f344b93d1daf864fb5bbe56b84aa526dd85f328de29fc4ee2697a7",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ông ấy bị sát hại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@000033c8",
       "file_offset": 13256,
       "source": "By whom,\nI don't know.",
       "source_sha256": "681803f4621b462b0bdd93a91d85f9e14cbce981d12ab53a289c3d9f4665bff2",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ai đã ra tay,\ntôi không biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@000033e3",
       "file_offset": 13283,
       "source": " The Hag!\nIt must be her!",
       "source_sha256": "efa4c9dd6f46cced545e81f453314f2c3697229f0e8097238d920925ac69f658",
-      "vi": "",
-      "status": "todo",
+      "vi": " Mụ phù thủy già!\nChắc chắn là mụ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@0000340c",
       "file_offset": 13324,
       "source": "Could be you, Keats.",
       "source_sha256": "cbb0c80333abde4ca11eaa19b43b5ff287bd77fc48ac7a0a7d3fc2da89c95ce7",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cũng có thể là bạn, Keats.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@00003430",
       "file_offset": 13360,
       "source": "Keh heh heh...",
       "source_sha256": "25409589c32f58d0cb2e54759354fb9ad582a80e1c30c39bfa5c7a61250a775d",
-      "vi": "",
-      "status": "todo",
+      "vi": "Khà khà khà...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     },
     {
       "id": "cmc/en/LCmc040_en.bi5_@00003443",
       "file_offset": 13379,
       "source": "$My goodness!\nWhat happened?!?",
       "source_sha256": "4ed8713c93e7823cfb81bb1180850b6248761b9838a1a3a51131499174def338",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Trời đất ơi!\nChuyện gì xảy ra vậy?!?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản nháp ứng viên CMC ASCII-NUL: chưa xác minh người nói, cảnh và các tiền tố điều khiển; cần QA theo cảnh và thử trong game sau khi có parser."
     }
   ]
 }
