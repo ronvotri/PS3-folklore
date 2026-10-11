@@ -11,110 +11,110 @@
       "file_offset": 11912,
       "source": "You're mistaken!",
       "source_sha256": "b981225ddbc3e398505c223189950e2210eccf30b2c2cbd81ae437e0ca496eca",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn nhầm rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00002f7c",
       "file_offset": 12156,
       "source": "I... I understand.",
       "source_sha256": "6b0aaff3969ffff736536839c474b0891cde6b73c6d970585be0138d693bbe13",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi... Tôi hiểu.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00002fa4",
       "file_offset": 12196,
       "source": "Yes, let me see.",
       "source_sha256": "9718ead24df1e301d50e75b0e8c0e654df752ebf20ee30148db6301a71414921",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vâng, cho tôi xem.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00002fbc",
       "file_offset": 12220,
       "source": "He went back.",
       "source_sha256": "81d4200f57bae585c06e16f721f457fe268d3c112407b8998c1f035ecbcf7848",
-      "vi": "",
-      "status": "todo",
+      "vi": "Anh ấy đã trở lại.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00002fdf",
       "file_offset": 12255,
       "source": " What are you\ntrying to do?",
       "source_sha256": "1902e698c92f7eb55d3837883ab79634b022e646199e4f5d8b3191acd007ec08",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bạn đang cố\nlàm gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00003000",
       "file_offset": 12288,
       "source": "This is Ryan's\nmemory.",
       "source_sha256": "941a32be631e42e5e03a9c2966b1fa83b93038990c252a61b806feb27a8d129a",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đây là ký ức\ncủa Ryan.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@0000301c",
       "file_offset": 12316,
       "source": "I... I'm sorry.",
       "source_sha256": "0b8e35d4a5749254dc845228663d31242b234994864ff1077f176d737dbd6490",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi... Tôi xin lỗi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00003030",
       "file_offset": 12336,
       "source": "You want me to\nask her?",
       "source_sha256": "08e00982652842f756a291ee55c97a888f08c438c6024bee00ca8d067d522690",
-      "vi": "",
-      "status": "todo",
+      "vi": "Bạn muốn tôi\nhỏi cô ấy sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@0000305c",
       "file_offset": 12380,
       "source": "Please\nTell me.",
       "source_sha256": "6427cc9fd7a78b89a5ce9754adb6947ab978265326964d608d1e37af28c280f8",
-      "vi": "",
-      "status": "todo",
+      "vi": "Làm ơn\nnói tôi biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@00003070",
       "file_offset": 12400,
       "source": "Hrg!",
       "source_sha256": "0c1457542a0651858070d825dfe5f609ced3f9ccd298a864dae775710397217e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hự!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     },
     {
       "id": "cmc/en/LCmc027_en.bi5_@0000307c",
       "file_offset": 12412,
       "source": "But...\nthis photo...",
       "source_sha256": "518a3f7b6d4d9d17dda7efdb50142c219241d24a3d4f1f5cdf4288f6968642b9",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nhưng...\nbức ảnh này...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Ứng viên CMC ASCII-NUL; chưa phân tích cấu trúc command/speaker, cần QA theo cảnh. Giữ tiền tố/ngắt dòng gốc."
     }
   ]
 }
