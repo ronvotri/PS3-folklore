@@ -385,3 +385,11 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - QA theo nhóm: chỉ `vi/status/notes` của 244 ID được sửa; id, source/source_sha256, offset, source_review, thứ tự giữ nguyên; NFC, newline, mã đầu/placeholder, 0 xung đột khi bản nguồn lặp. Tệp `tk306` **244/244 draft**. Chưa parser/repacker talk/cmc, chưa test RPCS3 hoặc sửa font Merienda V3/ROM/ISO/binary.
 - Toàn repo **8.012/11.886 draft**, còn **3.874 todo**; chỉ phản ánh độ phủ nháp nguồn trích, không phải tỷ lệ bản vá chơi được.
 - **Tiếp theo:** `talk/en/tk307_en.bin_@00001158` (nguồn `To Netherworld`), tk307 có 811 mục; CI GitHub Actions validator/unittest sau commit.
+
+## Lượt 030a — 11/10/2026 (100 mục đầu tk307)
+
+- Tiếp theo HEAD `3f4f5aeaa5b7`, không dịch lại tk204–206/tk306. Từ `talk/en/tk307_en.bin_@00001158` đến `talk/en/tk307_en.bin_@00005ecf`: chuyển **100 todo→draft**, gồm 21 mục trùng nguồn cũ và 79 câu/mảnh mới. `tk307` đạt **100/811 draft**, còn 711 todo.
+- Nhóm nội dung: ký ức quá khứ, người mẹ/con, bí mật bác sĩ Doolin, Herve và Faery. `Pre-rendered movie 4` và `Play Movie 23` có thể là nhãn nội bộ, vẫn draft và notes; không xác minh được speaker/quan hệ từ mảnh ASCII.
+- QA nội bộ: đúng 100 ID, chỉ vi/status/notes thay đổi; ID, source, SHA-256, file_offset, source_review, thứ tự, NFC, số newline, tiền tố điều khiển và placeholder giữ nguyên. Không sửa Merienda V3/ISO/ROM/binary; chưa parser/repacker và chưa test RPCS3.
+- Tổng 158 catalog **8.112/11.886 draft**, còn **3.774 todo** của dữ liệu trích (không phải tỷ lệ bản vá chơi được).
+- **Tiếp theo:** `talk/en/tk307_en.bin_@0000605c`; validator + unittest chạy qua GitHub Actions sau push.
