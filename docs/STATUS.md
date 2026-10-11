@@ -13,8 +13,8 @@
 ## Sẵn sàng dịch trên cloud
 
 158 catalog / 11.886 mục văn bản: 1.016 menu đã đọc bảng con trỏ, 10.870 ứng
-viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **8.823 draft / 11.886** catalog entries, còn **3.063 todo** (10.870 mục dialogue/candidate tổng); chỉ là tiến độ bản nháp ứng viên, chưa phải bản vá chạy game.
-Đã có 46 câu CMC draft; các tệp talk tk000/tk011, tk100–tk107, tk200–tk207, tk306 hoàn tất draft; tk307 đã hoàn tất 811/811 draft. Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
+viên hội thoại/tương tác/cảnh. Có 1.016 mục menu `draft`, 0 menu `todo`; 46 mục CMC `draft`; talk tk000, tk011, tk100–tk107, tk206, tk207 có tổng 3.273/3.273 `draft`. Toàn bộ **9.351 draft / 11.886** catalog entries, còn **2.535 todo** (10.870 mục dialogue/candidate tổng); chỉ là tiến độ bản nháp ứng viên, chưa phải bản vá chạy game.
+Đã có 46 câu CMC draft; các tệp talk tk000/tk011, tk100–tk107, tk200–tk207, tk306 hoàn tất draft; tk307 và tk500 đã hoàn tất (811/811 và 528/528 draft). Speaker/metadata/parser/repacker chưa xác minh; tất cả vẫn chỉ draft.
 Các catalog có ID theo tệp/offset, nguồn/hash, bản dịch/trạng thái/ghi chú.
 Không cần ROM để dịch hoặc kiểm tra catalog. Cloud không truy cập ổ E:.
 
@@ -411,3 +411,10 @@ ban đầu/menu không dấu. Giữ toàn bộ gói. Không đưa payload lên G
 - Đã chuyển 511 mục còn lại của `tk307` thành draft trong 5 commit, từ `@0000fc5d` đến `@0002bea7`. Tổng **8.823/11.886 draft**, **3.063 todo**; `tk307` **811/811 draft**.
 - Phân loại 511 mục: 442 dùng lại nguồn trùng có bản Việt đã xác lập, 7 bản lặp trong batch, 62 nguồn mới. Rà bất biến source/ID/hash/offset/source_review, Unicode NFC, newline, tiền tố và bản dịch giống nguồn; các trường được thay đổi chỉ `vi/status/notes`.
 - Chưa kiểm chứng runtime/đóng gói talk/cmc, cần parser, glyph/alias còn thiếu, giới hạn vùng và thử trong RPCS3; Merienda V3, payload và game binary không đổi. Không khẳng định CI PASS khi chưa đọc được kết quả workflow. Tệp tiếp theo `tk500` có 528 todo, bắt đầu `@00001158`.
+
+## Lượt 031 — 11/10/2026 (hoàn tất talk tk500)
+
+- `tk500` tăng **0→528/528 draft** trong 6 commit, từ `@00001158` đến `@0001a237`. Phân loại: 29 nguồn trùng được tái sử dụng, 5 bản lặp trong batch và 494 nguồn mới được dịch. Tổng **9.351/11.886 draft**, còn **2.535 todo**.
+- Nội dung người cha/con trai, tạp chí UNKNOWN REALMS, linh hồn, vụ mất tích ở Doolin, chiến binh cổ, Ethersword và giấc mơ truyện cổ Faery đã có bản nháp, nhưng speaker/fragment chưa xác minh; tạm giữ các tên riêng/ký hiệu đặc thù. Có 2 mục cũ được QA lại về từ vựng trong đợt cuối.
+- QA đối chiếu bất biến nguồn/ID/hash/offset/source_review/thứ tự, NFC/newline/prefix/placeholder/nguồn trùng trên dữ liệu qua GitHub; không sửa font V3 hoặc binary. **Chưa thực thi/xác minh** validator/unittest đầy đủ hoặc thử trong RPCS3, không coi dữ liệu nháp là patch chơi được.
+- Bàn giao `tk600` tại `talk/en/tk600_en.bin_@00001158` (544 todo), kế đó `tk700` (242 todo). Xem `docs/QUEUE.md`.
