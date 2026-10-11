@@ -11,110 +11,110 @@
       "file_offset": 11848,
       "source": "Herve... you...",
       "source_sha256": "8f77bde71eeca45c3db8359920443b18ff09cf734232ea8cd4eadd2acd44beca",
-      "vi": "",
-      "status": "todo",
+      "vi": "Herve... cậu...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00002e5b",
       "file_offset": 11867,
       "source": ",Cecilia gave me hope\nat the very end.",
       "source_sha256": "a843a79c410eefaadcc7a13e67c2a0ba92c4b222d861095aa6966add5d2aee09",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Cecilia đã cho tôi hy vọng\nvào những phút cuối cùng.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00002e87",
       "file_offset": 11911,
       "source": "0You'll grow up to be\nas handsome as this!",
       "source_sha256": "409db56e52dfe22557941d94e4547817bc9833222267b1aefbf022fa80351b8d",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Lớn lên, con sẽ\nđẹp trai thế này đấy!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00002f80",
       "file_offset": 12160,
       "source": "Don't you look nice?",
       "source_sha256": "0b55ec1b8733e0cab7ce9ac8afdd31a00d0ab71ac8a8dbc04948db0f2d380bbd",
-      "vi": "",
-      "status": "todo",
+      "vi": "Trông con bảnh quá nhỉ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00002f9b",
       "file_offset": 12187,
       "source": "8I'm sorry...\nYou drew such a\nnice picture, but I...",
       "source_sha256": "a19427c25d8000152eefd9d9cd4fad8a4d7e94e12bb8137ca9ca95d8c07a9196",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Tôi xin lỗi...\nCô đã vẽ một bức tranh\nđẹp đến vậy, mà tôi...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00002fec",
       "file_offset": 12268,
       "source": "I...\ndon't regret it.",
       "source_sha256": "f88c256388780ebea7bbf014d24af6653a5e328e70919ebc24592d6a4d1b21b0",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tôi...\nkhông hối hận.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00003010",
       "file_offset": 12304,
       "source": "You're an artist.",
       "source_sha256": "4dab6875e03a71404342cb9584016a7ec981ff46fad042edd478e820ac9ef88e",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô đúng là họa sĩ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00003030",
       "file_offset": 12336,
       "source": "Great!",
       "source_sha256": "3765ea16037b1bc3a463f8fe8b02e133ab6d3eb72d7cb4748dacec664684bc1f",
-      "vi": "",
-      "status": "todo",
+      "vi": "Tuyệt quá!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@0000303c",
       "file_offset": 12348,
       "source": "Make it nice.",
       "source_sha256": "20435c11c8c4979fe932a6389b9e5884b6c76cd3831eafd79b5b3fa3ffa859af",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vẽ cho đẹp nhé.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00003060",
       "file_offset": 12384,
       "source": "It's of the sea.",
       "source_sha256": "963e9ee5802a8aecbe7967e49fff0baf1db266c6187fde53ad6fabd545e24a14",
-      "vi": "",
-      "status": "todo",
+      "vi": "Đó là bức tranh về biển.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc237_en.bi5_@00003078",
       "file_offset": 12408,
       "source": "It was beautiful.",
       "source_sha256": "6e5797f446ef581a6b1e5b77458e46d38bf73371dfca4e2910d296167fcc973b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nó đẹp lắm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
