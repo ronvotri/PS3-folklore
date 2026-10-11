@@ -445,3 +445,12 @@ parser/serializer/repacker. Các catalog không đổi: **9.351 draft / 11.886**
 Đây chỉ là **opaque container roundtrip**, không phải parser lệnh hay repacker
 hội thoại. Chưa thử trên binary thật tại E:\\Game\\Folklore và không có patch
 mới. Số mục dịch nháp giữ 9.351/11.886, còn 2.535 todo.
+
+## Lượt 035 — 11/10/2026: tiếp tục tk600 ở mức bản nháp
+
+`tk600` đạt **110/544 draft**, **434 todo** sau lượt dịch 110 mục; gồm 23
+bản dịch nguồn trùng được tái sử dụng và 87 bản nháp mới. Rà prefix/Newline,
+NFC và metadata bất biến. Các mảnh ASCII-NUL chưa có speaker/scene xác minh,
+không đánh dấu reviewed/tested. Tổng catalog hiện **9.461/11.886 draft**,
+**2.425 todo**. Chưa có patch hội thoại playable, font Merienda V3/binary
+gốc không đổi. Parser/repacker vẫn là ưu tiên chính sau khi có báo cáo local.

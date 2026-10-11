@@ -488,3 +488,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Đưa cờ `opaque_cmc_container_roundtrip` vào report khi đọc CMC; riêng talk raw là `null`. Thêm kiểm thử synthetic gồm byte chưa hiểu, độ dài section/padding sai và header count sai; không suy đoán opcode/speaker.
 - Chỉ nâng an toàn khảo sát, **không phải parser command/message hoặc repacker**, chưa có file nhị phân gốc trong cloud để xác minh. Tiến độ catalog vẫn 9.351/11.886 draft, 2.535 todo; Merienda V3 và game không thay đổi.
 - **Tiếp theo:** xác minh `--all-dialogue --verify-only` trên bản sao `etc.bin_` + `etc.fht_` tại local; phân tích chính xác command stream trong CMC và raw talk, rồi kiểm tra roundtrip đến cấp thông điệp trước khi viết patch.
+
+## Lượt 035 — 11/10/2026 (110 ứng viên đầu tk600)
+
+- Tiếp từ checkpoint parser-first lượt 034, dịch **110 todo→draft** trong `translations/catalogs/talk/tk600_en.bin_.json`, ID `@00001158` tới `@0000692c`; `tk600` có **110/544 draft, 434 todo**. Tái dùng **23** nguồn tiếng Anh trùng đã có bản dịch thống nhất ở tk100/101/204/205/307/500; **87** mục mới có bản nháp tiếng Việt.
+- Nội dung gồm 19 nhãn địa điểm/di chuyển, mảnh thoại về Cõi âm, người vô hình, Guardian, công việc và âm nhạc quán rượu (lưỡi gà làm từ gỗ Faery). Không đoán ai đang nói hoặc tự nối những mảnh rời thành câu đầy đủ; note ở từng mục ứng viên mới.
+- Rà bất biến 110 ID/source/SHA-256/offset/source_review/thứ tự; chỉ sửa `vi/status/notes`, giữ tiền tố, số ngắt dòng, NFC và bản Việt trùng nguồn. **Chưa thử game** hoặc xác nhận parser/repacker; Merienda V3 và binary/payload giữ nguyên.
+- Tổng bản nháp **9.461/11.886**, còn **2.425 todo**; đây không phải phần trăm game đã Việt hóa chạy được.
+- **Tiếp theo (dịch):** `talk/en/tk600_en.bin_@0000699d` (`\nyou for your trouble.`), tiếp tục đối chiếu nguồn trùng và xử lý các mảnh mới theo QA. **Ưu tiên kỹ thuật chính:** chạy probe trên archive gốc, xác định command/pointer, rồi lossless message roundtrip trước khi thử patch.
