@@ -11,40 +11,40 @@
       "file_offset": 10007,
       "source": "(No! I don't know!\nI don't remember!",
       "source_sha256": "5592ecdaff870dd46b83dd5544e21d23ac498cfbc3def5abe4b575fa0588d8c0",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Không! Tôi không biết!\nTôi không nhớ!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc074_en.bi5_@00002740",
       "file_offset": 10048,
       "source": "Hrgg!",
       "source_sha256": "f8f94d144f6afd1637457736152408988fba2bf64cb6650008170d9cee9156be",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ưgh!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc074_en.bi5_@0000275c",
       "file_offset": 10076,
       "source": "C'mon, you can tell me.",
       "source_sha256": "5781f7b41244fd978fc0fbfc9d09d181e5fd9695c3028e62c3cc934a18c75317",
-      "vi": "",
-      "status": "todo",
+      "vi": "Nào, cứ nói cho tôi biết.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     },
     {
       "id": "cmc/en/LCmc074_en.bi5_@00002777",
       "file_offset": 10103,
       "source": "(How did you get\ninside the ruins?",
       "source_sha256": "d04d8b7b20953b1505ee2ca04dc99fc88a8859be9ab8265519723f6143744d06",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Làm sao cô vào được\nbên trong phế tích?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
     }
   ]
 }
