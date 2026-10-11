@@ -503,3 +503,11 @@ thiếu, kết quả kiểm tra, việc kế tiếp. Giữ lại mốc font V3 k
 - Giữ các mẫu vị trí tham chiếu u32 ở dạng **dấu vết byte**, chưa coi là pointer thật; chỉ chấp nhận đầu vào read-only đúng `BCUS98147` và đường dẫn output trong `local-data/` hoặc `dist/`.
 - Cung cấp thao tác local trong `docs/DIALOGUE_BINARY_PROBE.md` để sau này có thể rà cấu trúc mà không cần đưa ROM/ISO lên cloud. Không can thiệp game, font V3 hoặc catalog trong lượt kỹ thuật này.
 - **Tiếp theo:** chạy probe thực trên bản gốc và đọc JSON tóm tắt; sau khi có đủ chứng cứ mới thiết kế parser lệnh thoại, lossless roundtrip cấp message và repacker an toàn. Mốc bản dịch vẫn 9.461/11.886 draft, 2.425 todo.
+
+## Lượt 037 — 11/10/2026 (220 mục tiếp theo tk600)
+
+- Tiếp đúng sau lượt 036 ở `talk/en/tk600_en.bin_@0000699d`; dịch **220 todo → draft** đến `talk/en/tk600_en.bin_@0001297d`. Hai commit kiểm soát rủi ro: 100 + 120 mục. **tk600 đạt 330/544 draft**, còn **214 todo**.
+- Chủ đề: lời cầu nguyện, sự thật về tai nạn/sát hại, Cõi âm và ký ức, giả thuyết về linh hồn/hạt vật chất, hai anh em và điều ước để họ ngừng đánh nhau, người mẹ và lời từ biệt. Giữ Faery/Oblivion làm tên riêng; không bịa speaker hoặc quan hệ từ các mảnh quét bị cắt.
+- Mục có `source_review=candidate` vẫn chỉ `draft`; từng câu mới đều có ghi chú về nguy cơ thiếu scene/speaker. Hai nguồn lặp trong khối 120 được tái sử dụng nguyên bản dịch đã có. Không thay metadata/offset/ID/source/hash hay font V3; bảo toàn Unicode NFC, ký hiệu đầu chuỗi và số xuống dòng.
+- **Tổng 9.681/11.886 draft, còn 2.205 todo** từ dữ liệu quét, KHÔNG phải tỉ lệ bản vá game chạy được. Hội thoại chưa thể đóng gói nếu chưa xác thực binary/command/pointer và lossless roundtrip.
+- **Tiếp theo:** `talk/en/tk600_en.bin_@00012a71` (`\\nto get work.`), còn 214 ứng viên của `tk600`; sau đó `tk700`, CMC và QA theo cảnh. Ưu tiên kỹ thuật độc lập: chạy `dialogue_probe.py` thật và dùng `dialogue_summary.py` để gửi báo cáo cấu trúc đã lọc.

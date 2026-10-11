@@ -462,3 +462,13 @@ chứa nguyên văn câu thoại, các cửa sổ byte, hay dữ liệu binary g
 chỉ giữ offset/ranh giới và mẫu u32, chưa xác nhận là pointer. Kiểm thử chỉ
 bằng synthetic fixtures; **chưa chạy local trên game gốc**, chưa có message
 parser hoặc repacker. Tổng bản nháp 9.461/11.886, còn 2.425 todo.
+
+## Lượt 037 — 11/10/2026: 220 bản nháp tiếp theo trong tk600
+
+Chuyển thêm 220 mục `tk600` từ todo→draft theo hai commit 100+120:
+`@0000699d` → `@0001297d`. **tk600 330/544 draft, 214 todo**; tổng
+catalog **9.681/11.886 draft, 2.205 todo**. Không gán speaker hay dựng
+thứ tự câu từ offset quét; chỉ QA bản dịch nháp/ngắt dòng/prefix/NFC và
+bảo toàn id/source/hash/offset/source_review. Font Merienda V3, dữ liệu
+game, ISO và patch local không thay đổi. Chưa thể xác nhận lời thoại hiển thị
+trong RPCS3 hay parser/repacker; lần tới tiếp `tk600@00012a71`.
