@@ -11,160 +11,160 @@
       "file_offset": 12152,
       "source": "You're mistaken!",
       "source_sha256": "b981225ddbc3e398505c223189950e2210eccf30b2c2cbd81ae437e0ca496eca",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ông nhầm rồi!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00002f97",
       "file_offset": 12183,
       "source": "$I don't know what\nyou're after,",
       "source_sha256": "c44bb0149269f67355b873eba31b3ae5126f1153afb65faaa3eee4d4d33ea437",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Tôi không biết\nông đang mưu tính gì,",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00002fbb",
       "file_offset": 12219,
       "source": "$Dr. Lester has a\nheart of gold!",
       "source_sha256": "ac678b4f1d1ad7034ccd716673068eb9a7e23cc3666feb842e10d4b72e758cb7",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Bác sĩ Lester là\nngười tốt bụng!",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00002fec",
       "file_offset": 12268,
       "source": " Your\nprecious photo...",
       "source_sha256": "ebf0eb394ed411115a8e5f805e10cdcef36b221172b36bb89bff65d2e31c7098",
-      "vi": "",
-      "status": "todo",
+      "vi": " Bức ảnh\nquý giá của cô...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003007",
       "file_offset": 12295,
       "source": ",Don't worry. It was\nmy fault, as well.",
       "source_sha256": "15f04cdcdba85baf5d49071090633560434b45b3c06fc98af5d5d11b256be55e",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Đừng lo. Tôi\ncũng có lỗi mà.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003033",
       "file_offset": 12339,
       "source": "$Ryan, I have an\nidea for you.",
       "source_sha256": "6cd59072051f804dcc791c1d2974bc8d7329e9acbddbe33e3545fa42f5448435",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Ryan, tôi có\nmột ý này.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003057",
       "file_offset": 12375,
       "source": ",Children have always\nliked you, yes?",
       "source_sha256": "d72a3f26c4cefaaaaee8f1913fb7076b0374fbf3edca053ee76773b5fbb559d4",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Trẻ con trước giờ\nđều quý anh, phải chứ?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003083",
       "file_offset": 12419,
       "source": ",I want you to get\nthe truth out of her.",
       "source_sha256": "c9c0a4df03b3d94cd5d51bc03e224d55ca2af150a5c4973f187c7f1bd3c9b566",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Tôi muốn anh khiến\ncô bé nói ra sự thật.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@000030b0",
       "file_offset": 12464,
       "source": "You want me to\nask her?",
       "source_sha256": "08e00982652842f756a291ee55c97a888f08c438c6024bee00ca8d067d522690",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô muốn tôi\nhỏi cô bé sao?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@000030d6",
       "file_offset": 12502,
       "source": " I will. If it'll\nconvince you.",
       "source_sha256": "9a8acc82e058e1dd4913d6450beee844dc2d87c30f34f9f06b8764a5ce9b6d2d",
-      "vi": "",
-      "status": "todo",
+      "vi": " Tôi sẽ làm, nếu điều đó\nkhiến cô tin.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@000030fb",
       "file_offset": 12539,
       "source": "0but I don't want you\nto dishonor yourself.",
       "source_sha256": "cafaba03349984fbe48b47b8377063ab7b7e5c5929cd134addfb289aab6283c9",
-      "vi": "",
-      "status": "todo",
+      "vi": "0nhưng tôi không muốn anh\nlàm điều trái lương tâm.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003134",
       "file_offset": 12596,
       "source": "Thank you.",
       "source_sha256": "8569efc4ed5a6273140c2b6ec0ab8d99f4398210808fbb7c0cbbae4fbcc21350",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cảm ơn anh.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003143",
       "file_offset": 12611,
       "source": "8But be careful. She\nmay have a Faery\nguardian...",
       "source_sha256": "0fe0799a9e2b47db7d655f48d21b5e5244e89dd827eed9fee7aee9b24fafeb72",
-      "vi": "",
-      "status": "todo",
+      "vi": "8Nhưng cẩn thận. Có thể\ncô bé được một Faery\nbảo vệ...",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@00003188",
       "file_offset": 12680,
       "source": "Now, please,\nlet go.",
       "source_sha256": "881073b629dbc66fb38f52a812d38e29c95b9de243768490a5ffbc79e9df56b6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Giờ thì làm ơn,\nbuông ra.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@000031a4",
       "file_offset": 12708,
       "source": "No, I cannot.",
       "source_sha256": "e34f4bc9ed699098120919a1cb2ff745b49d2627a7436b9d34196a38b7f0fa15",
-      "vi": "",
-      "status": "todo",
+      "vi": "Không, tôi không thể.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     },
     {
       "id": "cmc/en/LCmc129_en.bi5_@0000335a",
       "file_offset": 13146,
       "source": " What are\nyou trying to do?",
       "source_sha256": "dfcbfabd4de09628e774cad95883bceacffd137c18fe1b5e9cc7d3c1a5433038",
-      "vi": "",
-      "status": "todo",
+      "vi": " Anh đang\nđịnh làm gì vậy?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
     }
   ]
 }
