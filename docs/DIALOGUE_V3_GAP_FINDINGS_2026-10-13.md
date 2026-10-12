@@ -55,3 +55,14 @@ Công cụ so hai báo cáo JSON, không cần truy cập file game gốc, khôn
 4. Dùng `python tools/catalog.py validate`, unit tests đầy đủ và UI QA trong RPCS3 với font Merienda V3 sau khi có thử nghiệm an toàn.
 
 **Tình trạng:** Toàn repo có **11.886/11.886 câu nháp**; vẫn **không có parser message đã xác minh hoặc repacker**; không có thay đổi game binary.
+
+## Điều tra V4 — thống kê giá trị control byte (không đọc lại game)
+
+Mã nguồn: `tools/dialogue_control_stats.py`, unit tests: `tests/test_dialogue_control_stats.py` (**4/4 PASS fixture**; 8/8 PASS nếu tính cả kiểm tra chéo V3). Công cụ chỉ đọc tệp riêng tư `local-data/dialogue-probe.json` do V3 tạo trên máy người dùng. Chỉ thống kê những gap dài **1–8 byte** và toàn bộ byte trong gap thuộc `0x00..0x1f`: cho ra **tần suất code control dạng số thập phân**, quan hệ khoảng cách tới text tiếp theo, phân bố số lượng control/độ dài gap. Không xuất nguyên dãy byte, hex, lời thoại, offset game, hay file game.
+
+Tệp xuất **đã lọc**: `local-data/dialogue-control-stats.json` hoặc bản sao `GUI_CHO_CHATGPT_dialogue-control-stats.json`. Công cụ này **chưa được chạy trên dữ liệu raw gốc của người dùng**; hiện chỉ có kết quả V3 đã lọc ở cloud, không thể dựng lại giá trị byte control bằng cách đoán.
+
+Gói V4 1-click đã chuẩn bị để tự tìm raw V3 còn trên PC trong thư mục `Folklore-Source-v3\PS3-folklore-main\local-data`; **không đọc lại game**, không Internet, không thay đổi file game. Launcher PowerShell cần được thử trên Windows thực tế và có thể phải chọn đúng báo cáo raw nếu vị trí đã đổi.
+
+Chỉ từ tần suất mã điều khiển vẫn **chưa** thể xác nhận speaker/record grammar: cần soi tương quan các khoảng ngắn và kiểm thử parser byte-for-byte trước khi repack.
+
