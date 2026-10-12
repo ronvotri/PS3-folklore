@@ -45,6 +45,23 @@ class DialogueSummaryTests(unittest.TestCase):
         self.assertEqual(out["files"][0]["samples"][0]["u32_pattern_sightings"][0]
                          ["matches"][0]["locations"][0]["at"], 64)
 
+    def test_empty_cmc_sections_can_be_redacted_without_leaking_data(self):
+        data = source_probe()
+        data['reports'][0]['sections'] = [
+            {'name': 'SECRET_EMPTY_TALK_SECTION', 'start': 128,
+             'end': 128, 'is_talk': True},
+            {'name': 'talk1', 'start': 128, 'end': 240, 'is_talk': True},
+        ]
+        summary = dialogue_summary.summarize(data)
+        self.assertEqual(summary['files'][0]['sections'][0]['start'], 128)
+        self.assertEqual(summary['files'][0]['sections'][0]['end'], 128)
+        self.assertEqual(summary['files'][0]['samples'][0]['section_index'], 1)
+        self.assertNotIn('SECRET_EMPTY_TALK_SECTION', json.dumps(summary))
+
+        data['reports'][0]['sections'][0]['start'] = 129
+        with self.assertRaisesRegex(ValueError, 'Invalid section bounds'):
+            dialogue_summary.summarize(data)
+
     def test_verify_only_empty_samples_supported(self):
         data = source_probe()
         data["reports"][0]["samples"] = []
