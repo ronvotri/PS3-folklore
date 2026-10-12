@@ -1,3 +1,14 @@
+## Mốc binary gốc và chẩn đoán V3 (12/10/2026)
+
+- Đã nhận báo cáo thật `GUI_CHO_CHATGPT_dialogue-structure-summary.json` cho 4 tệp: `tk100` (314), `tk101` (447), `LCmc000` (11), `LCmc004` (24), tổng **796 nguồn ASCII-NUL**; báo cáo chỉ có metadata, không chứa hex/text.
+- Hai CMC có lần lượt 16 và 21 section, mỗi tệp gồm 6 section rỗng ở cuối; lỗi V1 đã được sửa. Bộ dò U32 chưa cho phép xác nhận pointer/message grammar.
+- Tạo công cụ `tools/dialogue_gap_fingerprint.py` chỉ đọc probe local và xuất `local-data/dialogue-gap-fingerprint.json` (độ dài/nhóm byte xen giữa, không dữ liệu text/hex), 4 unit test synthetic đã đạt.
+- `RUN_DIALOGUE_DIAGNOSE.cmd` hiện chạy thêm công cụ V3; đã đóng gói launcher tự tải mã mới, trả về hai summary đã lọc. Chưa chạy V3 trên máy người dùng.
+- Nghiên cứu: `docs/DIALOGUE_REAL_PROBE_FINDINGS_2026-10-12.md`, hướng dẫn `docs/DIALOGUE_LOCAL_QUICKSTART.md`. Bước tiếp: phân tích gap fingerprint, giả thuyết grammar; message parse→serialize byte-perfect trước khi cho phép repacker.
+- **Không đổi game, font Merienda V3, save, catalog status. 11.886/11.886 bản nháp vẫn không đồng nghĩa patch playable.**
+
+---
+
 ## Chẩn đoán CMC — 12/10/2026 (khắc phục lỗi người dùng)
 
 - Người dùng chạy bộ chẩn đoán 1-click trên bản game local; công cụ dừng với `Diagnosis refused: Invalid CMC section bounds`. **Không có thay đổi lên file game**.
