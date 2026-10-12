@@ -71,10 +71,10 @@
       "file_offset": 11767,
       "source": "\n who wander this battlefield,",
       "source_sha256": "474a37fd0e362cf5b860c1d94f31aaaf3d7155b9571e19f4d713b269af6b3831",
-      "vi": "\n đang lang thang trên chiến trường này,",
+      "vi": "\n lang thang trên chiến trường này,",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime. Rà độ dài dòng tiếng Việt; câu dịch vẫn là bản nháp và cần thử hiển thị trong game."
     },
     {
       "id": "cmc/en/LCmc801_en.bi5_@00002e1b",
