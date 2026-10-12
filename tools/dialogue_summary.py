@@ -46,7 +46,8 @@ def summarize(payload: dict) -> dict:
         for i, section in enumerate(report["sections"]):
             start = checked_int(section["start"], "section start")
             end = checked_int(section["end"], "section end")
-            if start >= end or type(section["is_talk"]) is not bool:
+            # Empty sections are valid; a sample must still lie in a nonempty talk section.
+            if start > end or type(section["is_talk"]) is not bool:
                 raise ValueError("Invalid section bounds/type")
             sections.append({"index": i, "start": start, "end": end,
                              "is_talk": section["is_talk"]})
