@@ -1,3 +1,15 @@
+## Mốc 13/10/2026 — V3 thực đo trên game, mẫu gap CMC, V4 nhanh
+
+- Người dùng gửi **hai JSON V3 đã lọc**. Chạy chéo `tools/dialogue_gap_crosscheck.py` trên dữ liệu thực: **PASS 127/127 cặp mẫu**, 4/4 test synthetic PASS.
+- **26/26 gap ngắn ≤8 byte trong CMC000/004** chỉ gồm zero + control; đúng quy luật: 13 gap có 1 control byte, text tiếp theo ở `offset % 4 == 3`; 13 gap có 2 control byte, text tiếp theo ở `offset % 4 == 0`. Đây chỉ là dấu hiệu header/căn chỉnh, **không phải parser hay pointer đã xác minh**.
+- 31/33 gap CMC ≤32 byte: 28 chỉ zero/control, **3 còn byte printable/space** (gap 23, 31 ở CMC000 và 19 ở CMC004), cần khảo sát trước khi khẳng định catalog có hết mọi văn bản người chơi thấy.
+- `tk100/101` mới chọn 48 mẫu mỗi file, không thể suy ra khoảng cách mọi candidate/record từ các cặp mẫu này.
+- Tạo công cụ V4 `tools/dialogue_control_stats.py` (4/4 unit tests synthetic PASS; chung hai tool mới 8/8 PASS) đọc **báo cáo raw đã lưu cục bộ từ V3**, chỉ xuất tần suất numeric control byte trong gap ngắn, không ghi game. Bản ZIP Windows một-click sử dụng cache V3 được chuẩn bị; **chưa thử launcher trên máy người dùng**.
+- Báo cáo chứng cứ: `docs/DIALOGUE_V3_GAP_FINDINGS_2026-10-13.md`. Điều kiện viết repacker không đổi: message parser grammar + byte-perfect roundtrip trên binary thật trước khi thay chuỗi UTF-8.
+- **Còn 11.886/11.886 mục nháp, chưa có bản dịch hội thoại playable; giữ nguyên font Merienda V3.**
+
+---
+
 ## Mốc binary gốc và chẩn đoán V3 (12/10/2026)
 
 - Đã nhận báo cáo thật `GUI_CHO_CHATGPT_dialogue-structure-summary.json` cho 4 tệp: `tk100` (314), `tk101` (447), `LCmc000` (11), `LCmc004` (24), tổng **796 nguồn ASCII-NUL**; báo cáo chỉ có metadata, không chứa hex/text.
