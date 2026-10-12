@@ -14,6 +14,16 @@ công cụ hiện có:
 **Không có game binary hoặc ROM nào được chỉnh sửa; không có bước upload tự động.**
 Không dùng các report này làm bằng chứng rằng parser/repacker đã hoàn thiện.
 
+## Cách dễ nhất (Windows, không cần gõ lệnh)
+
+Trong bản repo mới nhất, nhấp đúp `RUN_DIALOGUE_DIAGNOSE.cmd` ở thư mục gốc. Launcher mặc định tìm game tại `E:\Game\Folklore`, rồi chạy công cụ đọc-only với tối đa 48 mẫu mỗi tệp. Nếu game đặt ở nơi khác, có thể kéo-thả **thư mục game** lên tệp `.cmd`. Không chạy khi đang ghi/sửa bản game; giữ backup nguyên gốc.
+
+Launcher chỉ đọc `etc.bin_` và `etc.fht_`, tạo hai file trong `local-data/`:
+- `dialogue-structure-summary.json`: bản cấu trúc đã lọc để xem trước khi chia sẻ.
+- `dialogue-probe.json`: dữ liệu/hex thô **chỉ giữ riêng trên máy**; không đăng công khai.
+
+Nếu PowerShell/Windows hiện lỗi thiếu Python, cài Python 3.10+ rồi chạy lại. Đây chỉ là **chẩn đoán**, không cài tiếng Việt hay thay đổi tệp game.
+
 ## Cách chạy nhanh
 
 Cần Python 3.10+, mã nguồn repo mới nhất và thư mục game đã giải nén với
