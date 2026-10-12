@@ -1,3 +1,13 @@
+## Chẩn đoán CMC — 12/10/2026 (khắc phục lỗi người dùng)
+
+- Người dùng chạy bộ chẩn đoán 1-click trên bản game local; công cụ dừng với `Diagnosis refused: Invalid CMC section bounds`. **Không có thay đổi lên file game**.
+- Mã `tools/catalog.py` cho phép hai offset CMC bằng nhau (section rỗng), trong khi `tools/dialogue_probe.py` trước đó lại cấm. Sửa cho phép `start == end`, vẫn chặn đầu section đè bảng tên, offset giảm hoặc vượt file; `tools/dialogue_summary.py` cũng chấp nhận section rỗng. Lỗi kế tiếp (nếu có) sẽ kèm tên file CMC và chi tiết ranh giới.
+- Thêm unit test hồi quy ở `tests/test_dialogue_probe.py`, `tests/test_dialogue_summary.py`. Đã xác minh 4 tình huống kiểm tra biên trên fixture tổng hợp; **chưa có xác nhận chạy lại trên binary game thật hoặc full suite checkout mới**.
+- Launcher ZIP 1-click tải mã nguồn `main.zip` mỗi lượt nên sẽ nhận fix. Chạy lại; nếu vẫn lỗi, gửi đầy đủ dòng lỗi chi tiết. Không upload game/hex thô, không thay font Merienda V3.
+- Tài liệu: `docs/DIALOGUE_LOCAL_QUICKSTART.md`.
+
+---
+
 ## QA2 — 12/10/2026
 
 - Đã đối chiếu 1.162 bản nháp CMC mới trong gói tích lũy, phát hiện 6 nhóm cùng nguồn có cách dịch khác nhau; chỉnh 2 câu cùng bối cảnh hồi tưởng Cecilia/Herve, **giữ những khác biệt có lý do ngữ cảnh** (đặc biệt lời tìm Cecilia ở CMC206 so với đe dọa ở CMC212).
