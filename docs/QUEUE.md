@@ -1,3 +1,13 @@
+## 13/10/2026 — V5 xác nhận frame 26/26, V6 audit toàn bộ CMC
+
+- **Dữ liệu thật V5:** `GUI_CHO_CHATGPT_dialogue-frame-hypothesis.json` báo `LCmc000` khớp 6/6, `LCmc004` khớp 20/20 chữ ký `00 04 00 XX` tại candidate gần nhau (≤8 byte), 13 marker printable tại vị trí mod4=3, 13 marker control ngay trước text mod4=0; **không lỗi trong tập đã khảo sát**, song còn 7 gap CMC dài hơn 8 byte chưa kiểm tra.
+- Hai `tk100/101` không áp dụng V5, không có bằng chứng frame của script talk. Giả thuyết metadata prefix `$/(,0,8...` đáng chú ý nhưng chưa biết speaker/command grammar; **giữ nguyên dữ liệu dịch nháp và font Merienda V3**.
+- **Bước kiểm tra chính:** `tools/cmc_frame_audit.py` đọc nguyên bản `etc.bin_`/`etc.fht_`, kiểm chứng 134 catalog CMC / 1.795 candidate SHA/source/NUL trước khi thống kê frame toàn CMC. Fail-closed trên nguồn sai, báo lý do khung không khớp, chỉ xuất metadata. 4/4 unit test fixture PASS. Chưa chạy trên PC người dùng, không có parser message hoặc repacker.
+- ZIP Windows chạy một lần `Folklore-V6-KiemChung-ToanBo-CMC.zip`: giải nén, chạy `CHAY_KIEM_TRA_FOLKLORE_V6.cmd`, trả `GUI_CHO_CHATGPT_cmc-frame-audit.json`. Code/README `docs/DIALOGUE_V5_FRAME_RESULTS_2026-10-13.md`.
+- Sau V6: nghiên cứu quy luật trên CMC bất thường, thiết kế parser read-only cho từng record, đối chiếu grammar với lựa chọn/speaker rồi mới làm byte-perfect parse→serialize và repacker. Không tuyên bố 11.886 mục bản nháp đã playable.
+
+---
+
 ## 13/10/2026 — V4 control-values & V5 giả thuyết khung CMC
 
 - Đã nhận báo cáo `GUI_CHO_CHATGPT_dialogue-control-stats.json` từ người dùng: ở CMC000/004, **26/26 gap ngắn** có đúng một byte giá trị 4; 13 gap có thêm byte control 12/16/20/24/28, 13 gap không thêm control. Tương quan vị trí text theo mod4 và tiền tố lạ rất mạnh.
