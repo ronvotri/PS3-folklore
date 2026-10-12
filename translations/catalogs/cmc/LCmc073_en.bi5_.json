@@ -31,10 +31,10 @@
       "file_offset": 12856,
       "source": "What...\nshould I do?",
       "source_sha256": "4ac85aac0c0c0405527a2e2bdbe4213378ba480b350af71d93457b9a68960812",
-      "vi": "Tôi phải...\nlàm gì đây?",
+      "vi": "Tôi...\nphải làm gì?",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime."
+      "notes": "Bản dịch nháp, chưa xác minh đầy đủ speaker/metadata và game runtime. Thống nhất câu hồi tưởng Cecilia/Herve ở CMC073 và CMC235; vẫn chờ QA ngữ cảnh trong game."
     },
     {
       "id": "cmc/en/LCmc073_en.bi5_@00003264",
