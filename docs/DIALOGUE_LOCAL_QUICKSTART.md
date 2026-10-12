@@ -14,6 +14,18 @@ công cụ hiện có:
 **Không có game binary hoặc ROM nào được chỉnh sửa; không có bước upload tự động.**
 Không dùng các report này làm bằng chứng rằng parser/repacker đã hoàn thiện.
 
+## Sửa lỗi chẩn đoán CMC — 12/10/2026
+
+Khi chạy launcher trước đây, một bản game gốc đã báo `Diagnosis refused: Invalid CMC section bounds`. Đây là **lỗi từ logic khảo sát, không có bằng chứng rằng game/ISO hỏng**. Công cụ `tools/dialogue_probe.py` trước đó yêu cầu các offset section tăng *nghiêm ngặt*; trong khi bộ trích xuất catalog `tools/catalog.py` vốn chấp nhận hai offset bằng nhau (section rỗng). Bản sửa:
+
+- Cho phép section có `start == end` nhưng tiếp tục **từ chối** offset giảm ngược, chồng bảng tên hoặc vượt kích thước file.
+- Cho phép tái tạo lossless section rỗng và xuất metadata tương ứng trong báo cáo lọc.
+- Khi còn lỗi CMC khác, báo `cmc/en/LCmc...: Invalid CMC section bounds: ...` với vị trí và độ dài cụ thể; **không bỏ qua file lỗi, không ghi patch**.
+- Thêm bài test section rỗng, negative test vượt/đảo offset, và kiểm tra báo cáo chỉ chứa cấu trúc.
+- Đã chạy 4 trường hợp thử ranh giới trên dữ liệu tổng hợp; **chưa kiểm thử lại trên bản game thật**.
+
+Bản launcher 1-click tải `main.zip` mỗi lần nên tự nhận mã mới. Nếu vẫn lỗi, gửi nguyên dòng có `LCmc...` và chi tiết offset; không cần gửi file game `etc.bin_` hoặc `etc.fht_`.
+
 ## Cách dễ nhất (Windows, không cần gõ lệnh)
 
 Trong bản repo mới nhất, nhấp đúp `RUN_DIALOGUE_DIAGNOSE.cmd` ở thư mục gốc. Launcher mặc định tìm game tại `E:\Game\Folklore`, rồi chạy công cụ đọc-only với tối đa 48 mẫu mỗi tệp. Nếu game đặt ở nơi khác, có thể kéo-thả **thư mục game** lên tệp `.cmd`. Không chạy khi đang ghi/sửa bản game; giữ backup nguyên gốc.
