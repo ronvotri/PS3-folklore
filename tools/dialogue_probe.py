@@ -44,10 +44,21 @@ def cmc_sections(data: bytes) -> list[dict]:
     if name_end > len(data):
         raise ValueError('CMC section names outside file')
     edges = struct.unpack_from(f'>{count + 1}I', data, 0x30)
-    if edges[0] < name_end or edges[-1] > len(data) or any(
-        x >= y for x, y in zip(edges, edges[1:])
-    ):
-        raise ValueError('Invalid CMC section bounds')
+    # Zero-length CMC sections are legal (and were accepted by catalog.py).
+    # Only descending, overlapping or out-of-file boundaries are invalid.
+    if edges[0] < name_end:
+        raise ValueError(
+            f'Invalid CMC section bounds: first edge 0x{edges[0]:x} '
+            f'overlaps section-name table ending at 0x{name_end:x}')
+    if edges[-1] > len(data):
+        raise ValueError(
+            f'Invalid CMC section bounds: last edge 0x{edges[-1]:x} '
+            f'exceeds file length 0x{len(data):x}')
+    for i, (start, end) in enumerate(zip(edges, edges[1:])):
+        if start > end:
+            raise ValueError(
+                f'Invalid CMC section bounds: section {i} descends '
+                f'from 0x{start:x} to 0x{end:x}')
     result = []
     for i in range(count):
         raw = data[table_end + i * 24:table_end + (i + 1) * 24]
@@ -81,7 +92,7 @@ class OpaqueCMCContainer:
         if name_end + len(self.padding) != self.edges[0]:
             raise ValueError('CMC first section boundary changed')
         for i, payload in enumerate(self.payloads):
-            if self.edges[i + 1] <= self.edges[i] or len(payload) != self.edges[i + 1] - self.edges[i]:
+            if self.edges[i + 1] < self.edges[i] or len(payload) != self.edges[i + 1] - self.edges[i]:
                 raise ValueError('CMC section payload length changed')
         body = (self.header + struct.pack(f'>{count + 1}I', *self.edges)
                 + self.name_table + self.padding + b''.join(self.payloads)
@@ -304,8 +315,12 @@ def run(bin_dir: Path, names: tuple[str, ...], out: Path, *,
             catalog = folklore.read_json(ROOT / 'translations' / spec['catalog'])
             if catalog['file'] != name or catalog['file_sha256'] != spec['source_sha256']:
                 raise ValueError(f'Index/catalog mismatch for {name}')
-            report = probe_binary(data, catalog, radius=radius, max_samples=max_samples,
-                                  verify_only=verify_only)
+            try:
+                report = probe_binary(data, catalog, radius=radius,
+                                      max_samples=max_samples,
+                                      verify_only=verify_only)
+            except (ValueError, UnicodeError, struct.error) as exc:
+                raise ValueError(f'{name}: {exc}') from exc
             report['archive_offset'] = location['offset']
             reports.append(report)
     payload = {'schema': 1, 'game_id': 'BCUS98147', 'mode': 'READ_ONLY_FORENSICS',
