@@ -1,3 +1,14 @@
+# Trạng thái mới nhất — 12/10/2026
+
+- **Bản dịch nháp:** 1.162 mục CMC từng còn `todo` đã commit lên GitHub tại 90 catalog. Theo baseline 10.724/11.886, tổng **dự kiến 11.886/11.886 bản nháp** và 0 todo; cần kiểm kê/validator thật trên checkout mới để xác nhận độc lập.
+- **QA tĩnh:** gói tích lũy không có lỗi số dòng / chuẩn NFC / các tiền tố đã rà; chưa chứng minh đúng thứ tự người nói hoặc hội thoại nối đoạn. 6 nhóm nguồn trùng khác bản dịch và CMC 800/801 cần rà cảnh.
+- **Tích hợp playable:** Chưa có parser/repacker message đã xác minh trên binary gốc; chưa thử thoại Việt RPCS3. Đây là **0% xác nhận runtime mới** cho hệ thống hội thoại, không lấy độ phủ nháp làm tỷ lệ game hoàn tất.
+- **Điểm nghẽn:** Chạy `tools/dialogue_diagnose.py` chỉ đọc trên máy có `E:\Game\Folklore`, thu summary đã lọc, giải mã metadata/speaker/pointer và chứng minh byte-exact parse→serialize.
+- **Đã bảo toàn:** Font Merienda Regular 400 V3 (25 alias) và mọi file game gốc. Không có write-capable binary patch nào được sử dụng.
+- **Checkpoint:** `docs/CMC_SYNC_CHECKPOINT_2026-10-12.md` và `docs/QUEUE.md` phần đầu. Kiểm thử đầy đủ repo/CI **chưa được xác nhận** trong lượt này.
+
+---
+
 # Tiến độ — cập nhật 11/10/2026
 
 ## Đã xác nhận
