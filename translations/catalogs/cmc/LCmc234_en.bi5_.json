@@ -11,170 +11,170 @@
       "file_offset": 12691,
       "source": "(Why endanger your\nlife for Ellen?",
       "source_sha256": "529fdeba69954a34559479abb74a21582b265c1d6540fd5e98cee7138f1382ef",
-      "vi": "",
-      "status": "todo",
+      "vi": "(Sao ngươi lại liều\nmạng vì Ellen?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@000031bb",
       "file_offset": 12731,
       "source": "$My final destination awaits.",
       "source_sha256": "b805832f36e87e735351dd18ca4f7a7115291c9189e2c5f0e8553efaf0c192c2",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Điểm đến cuối cùng đang đợi ta.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@000031df",
       "file_offset": 12767,
       "source": "$My mission here\nis complete.",
       "source_sha256": "3ea9b108e174b76063434b2153e85e602ca5777187d259cb11833ca60c67b364",
-      "vi": "",
-      "status": "todo",
+      "vi": "$Sứ mệnh của ta ở đây\nđã hoàn thành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003204",
       "file_offset": 12804,
       "source": "Rest in peace.",
       "source_sha256": "1fa105badc66a9e6be18ddca3c3d2efd74b9a844a986da51ce2d4bd90c725f76",
-      "vi": "",
-      "status": "todo",
+      "vi": "Hãy yên nghỉ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003217",
       "file_offset": 12823,
       "source": " I didn't do this\nfor you.",
       "source_sha256": "f60e07629a59fa6734f0531924836b28a9b27e5895f77a80e8c70280ee655b24",
-      "vi": "",
-      "status": "todo",
+      "vi": " Ta không làm thế\nvì ngươi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003237",
       "file_offset": 12855,
       "source": ",This is farewell,\nfor all of eternity.",
       "source_sha256": "c135569dca903935a86351dea78bad11545d2c1e5aeb50b1bf47740ec68e8241",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Đây là lời vĩnh biệt,\nmãi mãi về sau.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003263",
       "file_offset": 12899,
       "source": "<Keats... I am grateful\nthat destiny put you\non my side.",
       "source_sha256": "57c6ac43b624ab9946dcf82cbcb3d2a6fbfcac0a1bddfc380a45448544f1f3ec",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Keats... Ta biết ơn\nđịnh mệnh đã đưa ngươi\nvề phe ta.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@000032a8",
       "file_offset": 12968,
       "source": "Ha ha... I know, Keats.",
       "source_sha256": "c9d00a934c12ae214e086d2fbcc14beb1cc6e90e94162a09a0d36d7349a6da13",
-      "vi": "",
-      "status": "todo",
+      "vi": "Ha ha... Ta biết mà, Keats.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@000032cb",
       "file_offset": 13003,
       "source": "0That's why I thanked\ndestiny, and not you.",
       "source_sha256": "c60e3cb8be2d97179d6cb79bac5c6671a54856b7fd205ea7f8d578c19af8bf70",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Bởi vậy ta mới cảm ơn\nđịnh mệnh, chứ đâu phải ngươi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@000032fc",
       "file_offset": 13052,
       "source": "That's very kind.",
       "source_sha256": "2706afd973e0a39960b099656c6898a3dcd15f1f17729e5bb9e38575c41ccd4b",
-      "vi": "",
-      "status": "todo",
+      "vi": "Thật tử tế quá.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@0000331b",
       "file_offset": 13083,
       "source": "0Belgae, you have been\na most loyal servant.",
       "source_sha256": "13f62ebd1a0989b9665ae3477b225e951e8fc2485166c40f8415caa1e807a66c",
-      "vi": "",
-      "status": "todo",
+      "vi": "0Belgae, ngươi đã là\nmột bề tôi hết mực trung thành.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@0000334b",
       "file_offset": 13131,
       "source": ",I have changed...\nSince meeting you.",
       "source_sha256": "9da60c524d52cea1d5692d6d875d4dc41c143333e273a7c520c22641376c3181",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ta đã thay đổi...\nKể từ khi gặp ngươi.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003377",
       "file_offset": 13175,
       "source": "<In life, a warrior who\nsacrificed himself to save me.",
       "source_sha256": "53c7ff938bec0d77f3cd749930d6cf1006801e1b21755cfd5690021cd16497c5",
-      "vi": "",
-      "status": "todo",
+      "vi": "<Thuở còn sống, chàng chiến binh ấy\nđã hy sinh để cứu ta.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@000033d3",
       "file_offset": 13267,
       "source": ",It pleased me to\nhave you by my side.",
       "source_sha256": "344a7afc892c63bc144c21d66fbd7e6867e569b2c7901579a0c3f235ec3f1b13",
-      "vi": "",
-      "status": "todo",
+      "vi": ",Ta rất vui vì\ncó ngươi kề bên.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003400",
       "file_offset": 13312,
       "source": "Goodbye...\nBoth of you",
       "source_sha256": "57c07be8012b608c77e816c098fa899b2cffc3404bb5ab57994210bbfe6f3dc2",
-      "vi": "",
-      "status": "todo",
+      "vi": "Vĩnh biệt...\nCả hai người.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@0000343b",
       "file_offset": 13371,
       "source": "4Livane's life has\nexpired. Now,\nshe shall rest.",
       "source_sha256": "de1d13073db40f194c2bab19886c76938c13bba9ce39e8f556e0c91125951af8",
-      "vi": "",
-      "status": "todo",
+      "vi": "4Sinh mệnh Livane\nđã cạn. Giờ đây,\nnàng sẽ yên nghỉ.",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     },
     {
       "id": "cmc/en/LCmc234_en.bi5_@00003470",
       "file_offset": 13424,
       "source": "Where has she gone?",
       "source_sha256": "014b3ca358a858fad69a7a09c4f526140dfc8378798def594adfdf90b00f8ce6",
-      "vi": "",
-      "status": "todo",
+      "vi": "Cô ấy đi đâu rồi?",
+      "status": "draft",
       "source_review": "candidate",
-      "notes": ""
+      "notes": "Nháp ứng viên; cần QA speaker/metadata và thử bản game."
     }
   ]
 }
