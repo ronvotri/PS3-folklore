@@ -1,6 +1,6 @@
 # Ưu tiên hiện tại — 12/10/2026 (mốc mới nhất)
 
-**Mốc mới:** Đã đồng bộ 1.162/1.162 mục CMC còn thiếu lên GitHub; gói 90 catalog giờ toàn bộ là `draft`. Theo số liệu trước đó, tổng dự kiến 11.886/11.886 bản nháp. **Không đồng nghĩa game playable.** Xem `docs/CMC_SYNC_CHECKPOINT_2026-10-12.md`.
+**Mốc mới:** Đã đồng bộ 1.162/1.162 mục CMC còn thiếu lên GitHub; gói 90 catalog giờ toàn bộ là `draft`. Đã đọc lại toàn bộ 158 catalog từ GitHub và xác nhận 11.886/11.886 mục có bản nháp, 0 todo. **Không đồng nghĩa game playable.** Xem `docs/CMC_SYNC_CHECKPOINT_2026-10-12.md`.
 
 1. **Chặn kỹ thuật thực sự:** cần khảo sát `etc.bin_` + `etc.fht_` gốc từ máy người dùng bằng `python tools/dialogue_diagnose.py --game-root "E:\Game\Folklore" --verify-all`. Chỉ chia sẻ báo cáo cấu trúc đã lọc, không đưa file binary/hex thô lên GitHub.
 2. Xác định speaker/opcode/pointer/định dạng message, chứng minh serialize byte-perfect trước khi viết repacker và thử RPCS3. Không dùng phép gán offset cũ để ghi câu Việt dài tùy ý.
