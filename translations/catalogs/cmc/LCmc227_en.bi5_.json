@@ -81,10 +81,10 @@
       "file_offset": 16971,
       "source": " Saddled by culture and war.",
       "source_sha256": "f8ea12158ed375e407edc4cfd1054dc1191cd2392d83b007843888118579e8fb",
-      "vi": " Bị trói buộc bởi văn hóa và chiến tranh.",
+      "vi": " Bị văn hóa và chiến tranh đè nặng.",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime. Rà độ dài dòng tiếng Việt; câu dịch vẫn là bản nháp và cần thử hiển thị trong game."
     },
     {
       "id": "cmc/en/LCmc227_en.bi5_@0000426c",
