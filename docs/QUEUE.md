@@ -1,3 +1,13 @@
+## QA2 — 12/10/2026
+
+- Đã đối chiếu 1.162 bản nháp CMC mới trong gói tích lũy, phát hiện 6 nhóm cùng nguồn có cách dịch khác nhau; chỉnh 2 câu cùng bối cảnh hồi tưởng Cecilia/Herve, **giữ những khác biệt có lý do ngữ cảnh** (đặc biệt lời tìm Cecilia ở CMC206 so với đe dọa ở CMC212).
+- Đã rút ngắn 4 câu tiềm ẩn tràn khung (CMC116, CMC227, CMC800, CMC801); chưa thử trên giao diện thật.
+- Tạo `tools/dialogue_draft_qa.py` báo cáo QA chỉ đọc, gồm bản dịch trùng/xưng hô, độ dài dòng, mảnh câu, marker, SHA ID và xuống dòng; tạo 4 unit test, **4/4 đạt trên dữ liệu mô phỏng**. Chạy bằng `python tools/dialogue_draft_qa.py`, report nằm `local-data/dialogue-draft-qa.json`.
+- Hướng dẫn/ngoại lệ tại `docs/DIALOGUE_QA_REVIEW.md`. **Không** đánh dấu reviewed/tested. Chưa chạy full suite trên checkout mới, chưa có dữ liệu binary thực, chưa có parser/repacker hội thoại.
+- Cần báo cáo chẩn đoán game gốc sau `RUN_DIALOGUE_DIAGNOSE.cmd` để bắt đầu giải mã command stream và chứng minh roundtrip message.
+
+---
+
 # Ưu tiên hiện tại — 12/10/2026 (mốc mới nhất)
 
 **Mốc mới:** Đã đồng bộ 1.162/1.162 mục CMC còn thiếu lên GitHub; gói 90 catalog giờ toàn bộ là `draft`. Đã đọc lại toàn bộ 158 catalog từ GitHub và xác nhận 11.886/11.886 mục có bản nháp, 0 todo. **Không đồng nghĩa game playable.** Xem `docs/CMC_SYNC_CHECKPOINT_2026-10-12.md`.
