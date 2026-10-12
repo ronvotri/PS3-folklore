@@ -30,7 +30,17 @@ python "tools\dialogue_diagnose.py" --game-root "%GAME_ROOT%" --max-samples 48
 :checked
 if errorlevel 1 goto failed
 echo.
+echo Building redacted control-gap statistics (no game writes)...
+where py >nul 2>nul
+if not errorlevel 1 (
+  py -3 "tools\dialogue_gap_fingerprint.py"
+) else (
+  python "tools\dialogue_gap_fingerprint.py"
+)
+if errorlevel 1 goto failed
+echo.
 echo DONE: local-data\dialogue-structure-summary.json
+echo DONE: local-data\dialogue-gap-fingerprint.json
 echo PRIVATE: local-data\dialogue-probe.json
 echo Only share the structure summary after reviewing it.
 echo Never upload the private raw probe or game archives.
