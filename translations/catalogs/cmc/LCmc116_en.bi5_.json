@@ -71,10 +71,10 @@
       "file_offset": 11783,
       "source": "LI await you on November 2,\nat Samhain, on the Cliff of Sidhe, Doolin.",
       "source_sha256": "5122e958c86cef904b9730cf66cdb9adddd31996f9cb59b211ad4afac7d01058",
-      "vi": "LMẹ đợi con ngày 2 tháng 11,\nvào lễ Samhain, tại Vách đá Sidhe, Doolin.",
+      "vi": "LMẹ đợi con ngày 2 tháng 11,\nlễ Samhain, tại Vách đá Sidhe ở Doolin.",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime. Rà độ dài dòng tiếng Việt; câu dịch vẫn là bản nháp và cần thử hiển thị trong game."
     },
     {
       "id": "cmc/en/LCmc116_en.bi5_@00002e54",
