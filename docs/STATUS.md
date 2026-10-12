@@ -1,3 +1,13 @@
+## 13/10/2026 — V4 control-values & V5 giả thuyết khung CMC
+
+- Đã nhận báo cáo `GUI_CHO_CHATGPT_dialogue-control-stats.json` từ người dùng: ở CMC000/004, **26/26 gap ngắn** có đúng một byte giá trị 4; 13 gap có thêm byte control 12/16/20/24/28, 13 gap không thêm control. Tương quan vị trí text theo mod4 và tiền tố lạ rất mạnh.
+- **Giả thuyết đang kiểm chứng, KHÔNG phải kết luận:** một trường aligned 4 byte `00 04 00 XX`; nếu `XX` là ký tự ASCII, bộ trích xuất có thể đã gom byte metadata vào text. Chưa biết `XX` là speaker, opcode hay tham số nào; chưa sửa catalog để bỏ prefix.
+- Tạo `tools/dialogue_frame_hypothesis.py` và `tests/test_dialogue_frame_hypothesis.py` (4/4 unit test mô phỏng PASS). Bộ V5 1-click chỉ đọc `local-data/dialogue-probe.json` private cache từ V3, xuất thống kê `dialogue-frame-hypothesis.json` đã lọc, không đụng game/font.
+- Báo cáo chi tiết `docs/DIALOGUE_V4_FRAME_HYPOTHESIS_2026-10-13.md`. Cần chạy V5 thật, rồi xác minh nhiều CMC / command grammar / message roundtrip trước khi viết repacker.
+- Tổng repo 11.886 mục có bản nháp vẫn không đồng nghĩa game playable.
+
+---
+
 ## Mốc 13/10/2026 — V3 thực đo trên game, mẫu gap CMC, V4 nhanh
 
 - Người dùng gửi **hai JSON V3 đã lọc**. Chạy chéo `tools/dialogue_gap_crosscheck.py` trên dữ liệu thực: **PASS 127/127 cặp mẫu**, 4/4 test synthetic PASS.
