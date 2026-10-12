@@ -11,10 +11,10 @@
       "file_offset": 13975,
       "source": "$Can you really\ngrant my wish?",
       "source_sha256": "027160264f8668c90417ae8199fb49a5c169036fc8f1890e2bacad4a014914e0",
-      "vi": "$Ngươi thật sự\nthực hiện được điều ước sao?",
+      "vi": "$Ngươi thật sự có thể\nthực hiện điều ước sao?",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime. Thống nhất câu hồi tưởng Cecilia/Herve ở CMC073 và CMC235; vẫn chờ QA ngữ cảnh trong game."
     },
     {
       "id": "cmc/en/LCmc235_en.bi5_@000036bc",
