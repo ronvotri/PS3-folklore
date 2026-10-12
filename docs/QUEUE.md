@@ -1,3 +1,15 @@
+# Ưu tiên hiện tại — 12/10/2026 (mốc mới nhất)
+
+**Mốc mới:** Đã đồng bộ 1.162/1.162 mục CMC còn thiếu lên GitHub; gói 90 catalog giờ toàn bộ là `draft`. Theo số liệu trước đó, tổng dự kiến 11.886/11.886 bản nháp. **Không đồng nghĩa game playable.** Xem `docs/CMC_SYNC_CHECKPOINT_2026-10-12.md`.
+
+1. **Chặn kỹ thuật thực sự:** cần khảo sát `etc.bin_` + `etc.fht_` gốc từ máy người dùng bằng `python tools/dialogue_diagnose.py --game-root "E:\Game\Folklore" --verify-all`. Chỉ chia sẻ báo cáo cấu trúc đã lọc, không đưa file binary/hex thô lên GitHub.
+2. Xác định speaker/opcode/pointer/định dạng message, chứng minh serialize byte-perfect trước khi viết repacker và thử RPCS3. Không dùng phép gán offset cũ để ghi câu Việt dài tùy ý.
+3. Chạy lại `python tools/catalog.py validate` và `python -m unittest discover -s tests -v` trên checkout mới; chưa có kết quả CI được xác nhận.
+4. QA 6 xung đột nguồn trùng, câu tách mảnh ở CMC 800/801, xưng hô, độ dài UI; chỉ đánh dấu reviewed/tested khi có chứng cứ phù hợp.
+5. Giữ nguyên Merienda V3, 25 alias, dữ liệu game gốc và cách người dùng tự điều khiển RPCS3.
+
+---
+
 # Hàng đợi — cập nhật 11/10/2026
 
 ## Bắt đầu ngay
