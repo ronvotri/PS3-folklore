@@ -121,10 +121,10 @@
       "file_offset": 12935,
       "source": "$Take these trusty companions...",
       "source_sha256": "c23450867497bb758f08581cdddfe9fe8b2c5702d18f856cc0cdf228d73ed05b",
-      "vi": "$Hãy mang theo những bạn đồng hành đáng tin cậy...",
+      "vi": "$Hãy nhận những người bạn tin cậy...",
       "status": "draft",
       "source_review": "candidate",
-      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime."
+      "notes": "Nháp ứng viên; chưa QA speaker/metadata/runtime. Rà độ dài dòng tiếng Việt; câu dịch vẫn là bản nháp và cần thử hiển thị trong game."
     },
     {
       "id": "cmc/en/LCmc800_en.bi5_@000032f7",
