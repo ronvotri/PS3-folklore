@@ -72,6 +72,34 @@ class DialogueProbeTests(unittest.TestCase):
         self.assertEqual(patterns['kind'], 'section_relative_offset')
         self.assertTrue(any(x['locations'][0]['at'] == 0x70 for x in patterns['candidates']))
 
+    def test_empty_cmc_talk_section_is_valid_and_roundtrips_losslessly(self):
+        original, catalog = cmc_fixture()
+        data = bytearray(original)
+        # talk0 is genuinely empty, talk1 begins at that same offset.
+        struct.pack_into('>3I', data, 0x30, 0x80, 0x80, 0x120)
+        data[0x54:0x54 + 5] = b'talk1'
+        rebuilt = bytes(data)
+        catalog['entries'] = [row(catalog['file'], 0xa0, 'Hello there!')]
+        catalog['file_sha256'] = probe.sha256(rebuilt)
+
+        sections = probe.cmc_sections(rebuilt)
+        self.assertEqual([(x['start'], x['end']) for x in sections],
+                         [(0x80, 0x80), (0x80, 0x120)])
+        self.assertEqual(probe.parse_opaque_cmc(rebuilt).serialize(), rebuilt)
+        report = probe.probe_binary(rebuilt, catalog, verify_only=True)
+        self.assertEqual(report['stats']['entries_verified'], 1)
+        self.assertTrue(report['opaque_cmc_container_roundtrip'])
+
+        # Only bad boundaries (descending/out of file) are rejected.
+        bad = bytearray(rebuilt)
+        struct.pack_into('>3I', bad, 0x30, 0x80, 0x70, 0x120)
+        with self.assertRaisesRegex(ValueError, 'section 0 descends'):
+            probe.cmc_sections(bytes(bad))
+        bad = bytearray(rebuilt)
+        struct.pack_into('>3I', bad, 0x30, 0x80, 0x80, 0x121)
+        with self.assertRaisesRegex(ValueError, 'exceeds file length'):
+            probe.cmc_sections(bytes(bad))
+
     def test_source_only_audit_checks_bytes_without_pointer_search(self):
         original, cat = talk_fixture()
         with mock.patch.object(probe, 'hits_for_u32', side_effect=AssertionError('no scans')):
