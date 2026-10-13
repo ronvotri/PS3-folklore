@@ -9,6 +9,10 @@ Font **Merienda Regular 400 V3** được người dùng xác nhận sửa kho�
 chữ có dấu. Đây là bản menu mẫu đã thử trong RPCS3; chưa xác minh toàn game,
 PS3 thật hoặc Steam Deck.
 
+## Bàn giao cho Codex — hoàn thiện bản FULL
+
+**[Bắt đầu tại CODEX_START_HERE.md](CODEX_START_HERE.md)** → [bản kỹ thuật đầy đủ](docs/CODEX_FULL_HANDOFF_2026-10-14.md). Đã lưu riêng [51 ID ngoại lệ CMC V7](docs/CMC_V7_EXCEPTION_IDS_REDACTED.json) để Codex không phải hỏi lại lịch sử và báo cáo người dùng. Font Merienda V3 đã xác nhận ở menu; ưu tiên variable-length CMC/talk repacker. Bản nháp 11.886 câu **chưa phải patch full có thể chơi**.
+
 ## Bắt đầu
 
 Đọc AGENTS.md, docs/STATUS.md, docs/QUEUE.md và docs/TRANSLATION.md.
