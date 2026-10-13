@@ -1,3 +1,15 @@
+## 14/10/2026 — Alpha 0.1: bản vá TEST một câu ở CMC000 (chưa kiểm chứng RPCS3)
+
+- Ưu tiên **bản vá thử có tiếng Việt trong game**, ngưng vòng chỉ xuất báo cáo thống kê V8/V9. Từ V7: toàn bộ 134 CMC được tái tạo nguyên byte với 1.744 khung ứng viên được nhận diện, 51 vùng vẫn opaque; đây **không chứng minh thay câu dài/ngắn an toàn**.
+- Đã triển khai `tools/cmc_alpha01.py` và `CHAY_PATCH_ALPHA01.cmd`, bộ ZIP phát cho Windows `Folklore-VietHoa-Alpha-0.1-CMC000-1cau-TEST.zip`.
+- **Chỉ một vị trí source tại CMC000 file offset 12780**: `Say something...` (**16 byte ASCII**) → `Lên tiếng đi!` (**16 byte UTF-8 theo Merienda V3 alias**, dấu ế là U+0508 alias). Giữ nguyên 4 byte CMC ở trước, NUL ở sau, vị trí dữ liệu, file/section/FHT size; **không di dời pointer hay cho phép thay câu dài hơn**.
+- Ứng viên `...My mother...` → `...Mẹ tôi...` được loại khỏi thử nghiệm vì glyph `ẹ` chưa có trong 25 alias đã xác nhận; không tự ép dùng 3-byte khi chưa thử đúng đường render hội thoại.
+- `--action check`: read-only SHA file và nguồn. `--action apply`: chỉ sau full preflight, tạo sao lưu **vùng nguyên bản CMC000** `Folklore-Alpha01-Backup/CMC000_original_BCUS98147.bin`, rồi ghi vùng text khác byte, đọc lại kiểm chứng. `--action restore`: chỉ khôi phục nếu hiện tại chính xác là Alpha01 tương ứng; từ chối patch game có CMC000 khác SHA gốc. Khuyên dùng **bản sao thư mục game, đóng RPCS3**.
+- Đã chạy **4/4 unittest mô phỏng PASS** cho độ dài/alias/NUL, SHA/header sai, check→apply→restore, chống sửa file lạ & backup hỏng. Đã tạo và kiểm ZIP CRC; **KHÔNG có file game thật trong môi trường, CHƯA TEST trên RPCS3**. Không khẳng định patch playable.
+- Hướng dẫn và mã: `docs/ALPHA01_CMC000_TEST.md`. Sau khi test màn hình thực tế, nếu game không gọi CMC000 hoặc lỗi font, hồi phục rồi tìm đúng luồng chữ; nếu hoạt động, tiếp tục nhân rộng phương pháp cố định độ dài trước khi giải pointer/grammar.
+
+---
+
 ## 13/10/2026 — V7: roundtrip ứng viên + ID ngoại lệ, chờ thử local
 
 - Xác nhận mốc V6 thật: **134 CMC, 1.795 ứng viên; 1.744 frame khớp (97,16%), 51 chưa khớp**. Bộ tokenizer trước đã giữ opaque, nhưng chưa công bố được ID lỗi tương ứng.
