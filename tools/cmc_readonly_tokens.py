@@ -25,16 +25,18 @@ class Opaque:
 
 @dataclass(frozen=True)
 class FrameCandidate:
-    # This is a candidate *record prefix*, not confirmed dialogue semantics.
-    selector: int
-    text_ascii: bytes
-    # The source scanner sometimes counted selector as the first ASCII char.
-    selector_in_source: bool
+    # This is a four-byte boundary candidate, not proven semantic metadata.
+    # DO NOT strip the fourth byte when generating visible dialogue without proof.
+    # Neutral names: no speaker/metadata/display semantics have been proven.
+    fourth_byte: int
+    remaining_ascii: bytes
+    # The scanner sometimes included the fourth byte as its first character.
+    fourth_byte_in_source: bool
 
     def serialize(self) -> bytes:
-        if not 0 <= self.selector <= 127 or b'\0' in self.text_ascii:
+        if not 0 <= self.fourth_byte <= 127 or b'\0' in self.remaining_ascii:
             raise ValueError('Invalid frame token')
-        return b'\0\x04\0' + bytes([self.selector]) + self.text_ascii + b'\0'
+        return b'\0\x04\0' + bytes([self.fourth_byte]) + self.remaining_ascii + b'\0'
 
 
 @dataclass(frozen=True)
@@ -61,15 +63,15 @@ def tokenize(data: bytes, catalog: dict, expected_sha: str) -> Tokenization:
             start = at - 3
             if not 32 <= source[0] <= 126:
                 continue
-            selector = source[0]
+            fourth_byte = source[0]
             text = source[1:]
             from_source = True
         elif mod == 0:
             start = at - 4
             if start < 0:
                 continue
-            selector = data[at-1]
-            if not 1 <= selector <= 31:
+            fourth_byte = data[at-1]
+            if not 1 <= fourth_byte <= 31:
                 continue
             text = source
             from_source = False
@@ -77,7 +79,7 @@ def tokenize(data: bytes, catalog: dict, expected_sha: str) -> Tokenization:
             continue
         if start < 0 or data[start:start+3] != b'\0\x04\0':
             continue
-        frame = FrameCandidate(selector, text, from_source)
+        frame = FrameCandidate(fourth_byte, text, from_source)
         end = at + len(source) + 1
         if data[start:end] != frame.serialize():
             raise ValueError('Unexpected candidate frame byte mismatch')
