@@ -1,3 +1,7 @@
+## Codex FULL handoff (priority, 14/10/2026)
+
+For any request to continue or finish the Folklore localization, **FIRST READ** `CODEX_START_HERE.md` and `docs/CODEX_FULL_HANDOFF_2026-10-14.md`. Verified V7 exception IDs are now committed in `docs/CMC_V7_EXCEPTION_IDS_REDACTED.json`. Do not ask the user to repeat V1–V7 or re-confirm Merienda V3 accent support. Focus on safe variable-length CMC and raw talk message serializers rather than more same-byte-length micro-patches. All game assets remain local. 
+
 # Folklore translation workspace
 
 Read README.md, docs/STATUS.md, docs/TRANSLATION.md, docs/QUEUE.md and docs/CLOUD.md first.
