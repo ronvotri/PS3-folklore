@@ -22,10 +22,19 @@ original binary/sections/pointer hypotheses on local backups, then prove a
 lossless parse→serialize roundtrip BEFORE implementing a write-capable repacker.
 Do not treat `draft` count as game-completion percentage. Keep translation
 work as a secondary track, and NEVER overwrite original dialogue offsets with
-UTF-8 variable-length strings. There are no original game binaries in the
-GitHub repo, so the forensic probe has only synthetic test coverage so far.
+UTF-8 variable-length strings. Original binary files remain local (not in GitHub). The user has run V2-V7
+read-only tools on actual game assets; individual decoder tests remain synthetic.
 Do not mark dialogue `reviewed`/`tested` from heuristic string order/speaker.
 Preserve confirmed Merienda V3 assets and all local patches.
+
+## Priority from 14/10/2026 — full repacker, not more one-line diagnostics
+
+- User has ALREADY confirmed **Merienda V3 Vietnamese accented menu glyphs** on RPCS3. Stop requesting font proof unless a distinct dialogue glyph is missing. Preserve 25 aliases exactly.
+- User local reports V6/V7 established **134 CMC catalog sources**, 1,744/1,795 candidate signature matches and **byte-exact CMC reconstruction with 51 opaque exceptions**. This proves candidate layout, NOT editable message structure.
+- `tools/cmc_batch_fixed.py` provides a **guarded same-byte-length multi-line CMC TEST patch**, full archive SHA preflight and restore. Only a small fraction of Vietnamese drafts can fit exact original encoded lengths. **DO NOT treat this as the full solution** or ask for serial microtest ZIPs as routine work.
+- The actual priority is **variable-length CMC message grammar/serialization and separately 23 talk/en scripts**, plus movie/RTD later. Build on source/probe evidence, fail closed on unknown records, establish byte-perfect parse/serialize with relocated fields before an unrestricted patch.
+- External technical precedent: Alliance's 2013 Russian Folklore localization for **BCES00050**, programmer RangerRus; see `docs/FOLKLORE_ALLIANCE_FORMAT_LEAD_2026-10-14.md`. Investigate only legitimate public standalone tools/notes; do not assume BCES offsets match **BCUS98147**.
+- Preserve all draft entries, source byte offsets/IDs and existing Merienda V3 patches. Never describe the 11,886 drafts as a playable completed patch.
 
 ## Default translation work
 
@@ -61,8 +70,8 @@ python -m unittest discover -s tests -v
 Run both after relevant changes. Optional font tools need Pillow/fonttools;
 do not install those for plain translation. Legacy tools/folklore.py supports
 ASCII only and must not build or apply V3 accented translations.
-Dialogue repacking is not implemented. Never overwrite catalog offsets with
-variable-length text. Preserve alias assignments when adding glyph coverage;
+Full dialogue repacking is not implemented. A test-copy-only fixed-byte CMC
+patch builder exists, but NEVER overwrite catalog offsets with variable-length text. Preserve alias assignments when adding glyph coverage;
 reject missing glyphs, occupied slots and incorrect source hashes.
 
 ## Local/cloud boundary
