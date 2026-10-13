@@ -1,3 +1,13 @@
+## 14/10/2026 — CMC batch 0.2 committed, prioritize FULL format now
+
+- `tools/cmc_batch_fixed.py` + `tests/test_cmc_batch_fixed.py` have been committed, with 5/5 locally passing synthetic tests. Windows launcher `CHAY_FOLKLORE_CMC_BATCH_02.cmd` and pinned `CHAY_CMC_BATCH_02.ps1` delivered as `Folklore-CMC-Batch-0.2-TEST.zip`; byte length cannot change, original SHA checked and CMC backups preserved. This is **not** the full patch and has not been run on actual user game.
+- **Coverage reality:** independent source-data calculation using actual current GitHub drafts for the **first 30/134 CMC catalogs**: only **4/437** candidate rows qualify for exact-byte translation given frame exceptions, newline/tokens and the current 25 aliases. Other rows mostly fail due to missing aliases or unequal byte length. This is a **partial audit of 30 catalogs**, not a full-file estimate. **Stop investing primarily in same-length micro-patches**; safe batch engine serves as verified I/O/backup substrate.
+- **New external lead:** Alliance localized Folklore on European **BCES00050** with text/subtitles and resource programming by RangerRus; see `docs/FOLKLORE_ALLIANCE_FORMAT_LEAD_2026-10-14.md` (RGdb and 2013 announcement sources). Investigate only legitimately published translation tools/documentation; no confirmed portable Folklore repacker obtained, no assumption of BCUS/BCES binary equivalence.
+- **Next actual engineering priority:** prove variable-length CMC command/message serializer/record boundaries/pointer rules and build separately for 23 `talk/en` scripts; inventory missing glyphs and extend V3 *without undoing user's confirmed font*. No need to ask user to prove accents again.
+- User's objective remains **full playable Vietnamese Folklore**, not sample-frame diagnostics or one-line alpha iterations.
+
+---
+
 ## 14/10/2026 — CMC Fixed Batch 0.2: multi-line builder, chưa phải full
 
 - Đã triển khai **`tools/cmc_batch_fixed.py`**: đọc toàn bộ **134 catalog CMC** và archive gốc BCUS98147; kiểm SHA gốc, ASCII+NUL, section, frame; mã hóa bản dịch theo Merienda V3; chỉ chọn hàng có số byte bản dịch **bằng nguyên bản**, token/newline giống và không sửa ký tự đầu thuộc frame còn mơ hồ.
