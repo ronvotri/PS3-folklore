@@ -1,3 +1,11 @@
+## V6 QA — 13/10/2026: review prefix trên toàn bộ 134 CMC
+
+- Đã rà trên GitHub toàn bộ 134 CMC: với candidate ở offset mod4=3 có ký tự đầu ASCII in được, so sánh ký tự đầu của `source` và `vi`. **Một ngoại lệ duy nhất**: CMC800 decimal offset **12071**, `beautiful...` / `đẹp...`. Không sửa vì chưa chứng minh byte thứ 4 là ký tự hiển thị hay metadata.
+- Chỉnh `tools/cmc_readonly_tokens.py` dùng **`fourth_byte`** và **`remaining_ascii`** (trung tính), giữ nguyên byte thay vì mặc định đó là speaker/selector; 4/4 unit test tổng hợp chạy đạt trong môi trường mô phỏng. Chưa có kết quả chạy tokenizer trên game gốc, không có binary patch.
+- Báo cáo: `docs/DIALOGUE_V6_FULL_AUDIT_RESULTS_2026-10-13.md`. Ưu tiên vẫn là 51 trường hợp ngoài khung và xác minh parser thật, không tiếp tục yêu cầu người dùng chạy công cụ chỉ để tăng số lần probe.
+
+---
+
 ## Checkpoint 13/10/2026 — V6 full CMC frame audit & safe tokenizer
 
 - Người dùng cung cấp V6 report thật: **134 CMC files, 1.795 source candidates đã kiểm tra**, 1.744 khớp khung `00 04 00 XX` (**97,16%**), 51 không khớp ở 27 files; 107/134 files khớp hết. Đã phân loại: 24 `not_000400_frame`, 12 `unexpected_mod1`, 12 `unexpected_mod2`, 3 `mod3_nonprintable_source_prefix`.
