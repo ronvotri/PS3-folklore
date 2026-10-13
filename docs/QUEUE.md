@@ -1,3 +1,14 @@
+## 14/10/2026 — CMC Fixed Batch 0.2: multi-line builder, chưa phải full
+
+- Đã triển khai **`tools/cmc_batch_fixed.py`**: đọc toàn bộ **134 catalog CMC** và archive gốc BCUS98147; kiểm SHA gốc, ASCII+NUL, section, frame; mã hóa bản dịch theo Merienda V3; chỉ chọn hàng có số byte bản dịch **bằng nguyên bản**, token/newline giống và không sửa ký tự đầu thuộc frame còn mơ hồ.
+- Không tự bỏ dấu, không cắt/gọt/padding, không tự dời pointer hay sửa FHT. Câu không đủ điều kiện **skip có thống kê lý do**; 23 file talk/en và RTD/movie vẫn chưa có repacker. **Không suy từ 11.886 draft rằng full done.**
+- CLI `--action plan` read-only xuất thống kê eligible; `--action apply --confirm-test-copy` chỉ cho bản sao, preflight đủ file, sao lưu nguyên bản từng CMC + manifest SHA rồi ghi các byte thay đổi; `--action restore --confirm-test-copy` đòi backup và byte patch chính xác. Chặn khi RPCS3 đang chạy Windows. Sao lưu không tự xóa.
+- Đã chạy **5/5 unittest mô phỏng đạt** (lõi vá nhiều câu, frame mod0/mod3, skip độ dài/font/format, source SHA, apply→restore và checksum backup). Toàn bộ test repo và runtime trên game thật **chưa được chạy ở cloud**.
+- Gói ZIP Windows `Folklore-CMC-Batch-0.2-TEST.zip` kèm .cmd/.ps1 và README, bootstrap mã pinned từ GitHub. Hướng dẫn `docs/CMC_FIXED_BATCH_02_2026-10-14.md`. Đây là patch TEST từng phần, không cam kết số câu eligible hoặc hoạt động trong RPCS3 trước khi đọc archive game thật.
+- Hướng tiếp để đạt FULL: giải mã record relocation/length/alignment CMC rồi làm serializer hỗ trợ độ dài mới; song song giải định dạng riêng của 23 talk scripts; không quay lại thử font V3 từ đầu.
+
+---
+
 ## 14/10/2026 — Alpha 0.1: bản vá TEST một câu ở CMC000 (chưa kiểm chứng RPCS3)
 
 - Ưu tiên **bản vá thử có tiếng Việt trong game**, ngưng vòng chỉ xuất báo cáo thống kê V8/V9. Từ V7: toàn bộ 134 CMC được tái tạo nguyên byte với 1.744 khung ứng viên được nhận diện, 51 vùng vẫn opaque; đây **không chứng minh thay câu dài/ngắn an toàn**.
