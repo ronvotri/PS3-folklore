@@ -1,3 +1,13 @@
+## 13/10/2026 — V7: roundtrip ứng viên + ID ngoại lệ, chờ thử local
+
+- Xác nhận mốc V6 thật: **134 CMC, 1.795 ứng viên; 1.744 frame khớp (97,16%), 51 chưa khớp**. Bộ tokenizer trước đã giữ opaque, nhưng chưa công bố được ID lỗi tương ứng.
+- Đã viết `tools/cmc_exception_ids.py`: kiểm SHA/source/NUL/talk bounds, byte-exact khung+opaque trên từng CMC, kiểm chéo số lượng/lý do với `cmc_frame_audit.py`; chỉ **sau khi toàn bộ 134 tệp hợp lệ** mới xuất báo cáo chỉ tên file/ID/offset/lý do, KHÔNG có text/hex/byte nguyên gốc.
+- Unit test `tests/test_cmc_exception_ids.py` **4/4 PASS trên fixture mô phỏng**; chưa chạy trên game thật hoặc toàn bộ CI. ZIP V7 one-click đã tạo và kiểm CRC; launcher Windows chưa chạy thử trên máy người dùng.
+- Bước sau: lấy **một** báo cáo đã lọc `GUI_CHO_CHATGPT_cmc-exception-ids.json` khi người dùng tiện chạy V7, rồi phân loại chính xác từng trường hợp (đặc biệt CMC800/801). Tránh vòng lặp quét/thay nhiều công cụ nếu không có bước chứng minh grammar mới.
+- Checkpoint kỹ thuật: `docs/DIALOGUE_V7_ROUNDTRIP_EXCEPTION_HANDOFF_2026-10-13.md`. **Không có message parser/repacker**. 11.886 mục chỉ là bản nháp; giữ Merienda V3 và game gốc.
+
+---
+
 ## V6 QA — 13/10/2026: review prefix trên toàn bộ 134 CMC
 
 - Đã rà trên GitHub toàn bộ 134 CMC: với candidate ở offset mod4=3 có ký tự đầu ASCII in được, so sánh ký tự đầu của `source` và `vi`. **Một ngoại lệ duy nhất**: CMC800 decimal offset **12071**, `beautiful...` / `đẹp...`. Không sửa vì chưa chứng minh byte thứ 4 là ký tự hiển thị hay metadata.
