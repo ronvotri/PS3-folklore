@@ -34,15 +34,15 @@ def example():
 
 
 class TokenizationTests(unittest.TestCase):
-    def test_parse_serialize_byte_identical_and_separate_selector(self):
+    def test_parse_serialize_byte_identical_and_separate_fourth_byte(self):
         raw,cat=example()
         result=target.tokenize(raw,cat,target.audit.digest(raw))
         self.assertEqual(result.serialize(),raw)
         self.assertEqual(result.matched_candidates,2)
         frames=[t for t in result.tokens if isinstance(t,target.FrameCandidate)]
-        self.assertEqual([f.selector for f in frames],[24,36])
-        self.assertEqual([f.text_ascii for f in frames],[b'HEY!',b'HELLO!'])
-        self.assertEqual([f.selector_in_source for f in frames],[False,True])
+        self.assertEqual([f.fourth_byte for f in frames],[24,36])
+        self.assertEqual([f.remaining_ascii for f in frames],[b'HEY!',b'HELLO!'])
+        self.assertEqual([f.fourth_byte_in_source for f in frames],[False,True])
         self.assertTrue(any(isinstance(t,target.Opaque) for t in result.tokens))
 
     def test_nonmatching_candidate_remains_opaque(self):
