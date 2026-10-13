@@ -1,3 +1,13 @@
+## Checkpoint 13/10/2026 — V6 full CMC frame audit & safe tokenizer
+
+- Người dùng cung cấp V6 report thật: **134 CMC files, 1.795 source candidates đã kiểm tra**, 1.744 khớp khung `00 04 00 XX` (**97,16%**), 51 không khớp ở 27 files; 107/134 files khớp hết. Đã phân loại: 24 `not_000400_frame`, 12 `unexpected_mod1`, 12 `unexpected_mod2`, 3 `mod3_nonprintable_source_prefix`.
+- CMC800 (10/14 bất thường) và CMC801 (6/18 bất thường) chiếm **16/51** ngoại lệ, ưu tiên rà mảnh câu. Không xóa/kéo offset, không tự sửa tiền tố. Chứng cứ đầy đủ: `docs/DIALOGUE_V6_FULL_AUDIT_RESULTS_2026-10-13.md`, gồm 24 offset mod1/mod2 xác định từ catalog GitHub.
+- Đã tạo `tools/cmc_readonly_tokens.py` và `tests/test_cmc_readonly_tokens.py`: phân rã các frame ứng viên khớp và giữ byte opaque cho các vùng còn lại; kiểm byte-exact tái tạo, kiểm SHA/source. **4/4 test fixture tổng hợp PASS** (kiểm thử cục bộ với shim xác thực tương thích V6); **chưa chạy trên 134 CMC thực của user**, chưa có parser/speaker/opcode/pointer và không có chức năng ghi bản vá.
+- Bước tới: byte-exact roundtrip toàn bộ CMC trên máy có bản gốc, chứng minh metadata/selector thực sự và xử lý 51 ngoại lệ; giải mã talk/en riêng. Sau đó mới cân nhắc repacker an toàn, thử RPCS3.
+- **11.886/11.886 mục ở mức bản nháp trên repo**, KHÔNG phải game Việt hóa playable. Giữ nguyên Merienda V3.
+
+---
+
 ## 13/10/2026 — V5 xác nhận frame 26/26, V6 audit toàn bộ CMC
 
 - **Dữ liệu thật V5:** `GUI_CHO_CHATGPT_dialogue-frame-hypothesis.json` báo `LCmc000` khớp 6/6, `LCmc004` khớp 20/20 chữ ký `00 04 00 XX` tại candidate gần nhau (≤8 byte), 13 marker printable tại vị trí mod4=3, 13 marker control ngay trước text mod4=0; **không lỗi trong tập đã khảo sát**, song còn 7 gap CMC dài hơn 8 byte chưa kiểm tra.
