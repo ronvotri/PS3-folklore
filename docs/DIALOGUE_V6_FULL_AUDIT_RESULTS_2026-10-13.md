@@ -2,6 +2,12 @@
 
 **Input:** user-provided, redacted `GUI_CHO_CHATGPT_cmc-frame-audit.json` generated on original BCUS98147 archive. The report contains aggregate classifications, not bytes or dialogue text. This is evidence of candidate framing, **not** proof of message grammar, script control flow, speaker IDs, pointer relocation or a working dialogue repacker.
 
+## Marker parity check across all 134 catalogs
+
+Readback via connected GitHub checked every candidate with an ASCII-printable first character at file offset `mod4=3` against its draft Vietnamese first character. **Exactly one mismatch was found:** CMC800 at decimal offset `12071`, English source begins `beautiful...` but Vietnamese begins `đẹp...`. This is *not* automatically an error: if the first letter is on-screen text, forcing the letter `b` into the Vietnamese draft would corrupt the translation. If it is an engine field, it needs to be preserved out of band by a proven serializer. **No translation was changed.**
+
+In response, the experimental tokenizer uses neutral names `fourth_byte`, `remaining_ascii`, `fourth_byte_in_source`, not `speaker`, `selector` or `visible_text`. It reconstructs original bytes only. This avoids prematurely declaring that the fourth byte is invisible metadata.
+
 ## Verified observations
 
 - **134/134 CMC catalog files were source-verified by V6** before the redacted report was written. The tool checks archive size, per-CMC SHA, catalog IDs, ASCII source and NUL at each catalog offset.
@@ -72,7 +78,7 @@ The other 24 `not_000400_frame` mismatches cannot be localized precisely from th
 
 ## Experimental code (read-only, no patch functionality)
 
-- `tools/cmc_readonly_tokens.py` classifies **only confidently matching** candidate frame spans as tentative selector plus ASCII payload, retains *all other byte ranges* in opaque chunks and reassembles them byte-for-byte. It fails closed on any source SHA or reconstructed-byte mismatch.
+- `tools/cmc_readonly_tokens.py` classifies **only confidently matching** candidate frame spans as a neutral fourth byte plus remaining ASCII bytes, retains *all other byte ranges* in opaque chunks and reassembles them byte-for-byte. It fails closed on any source SHA or reconstructed-byte mismatch.
 - `tests/test_cmc_readonly_tokens.py` covers synthetic mod0/mod3 framing, opaque exception preservation, source mismatches and invalid NUL tokens. New tokenizer tests ran **4/4 PASS on synthetic fixtures**; no original game archive was present in this environment. Tokenization must not be described as a complete message parser.
 - A real full-archive tokenizer run (when ready) should require original local `etc.bin_` and `etc.fht_`, process all 134 catalogs, and report only counts. No support for Vietnamese replacements, archive writes, or pointer updates is included.
 
