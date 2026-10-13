@@ -1,3 +1,11 @@
+## Tiếp theo cho Codex — bàn giao 14/10/2026
+
+**BẮT ĐẦU:** `CODEX_START_HERE.md` → `docs/CODEX_FULL_HANDOFF_2026-10-14.md`. Báo cáo V7 thật 51 ID đã có tại `docs/CMC_V7_EXCEPTION_IDS_REDACTED.json`.
+
+**Việc ngay:** chạy validator/tests, tận dụng `tools/cmc_readonly_tokens.py`/`cmc_frame_audit.py`, phát triển grammar/serializer **CMC biến độ dài** với roundtrip và fixups có kiểm chứng; sau đó nghiên cứu 23 `talk/en` khác cấu trúc. Test bản sao ở local, có restore. Không quay lại kiểm tra Merienda V3 có dấu hoặc ép các bản dịch cùng độ dài. Giữ nguồn/ID và 25 alias; bổ sung glyph chưa có khi thực tế cần. Mỗi lượt commit + cập nhật checkpoint, ưu tiên đầu ra patch có thể chơi.
+
+---
+
 ## 14/10/2026 — CMC batch 0.2 committed, prioritize FULL format now
 
 - `tools/cmc_batch_fixed.py` + `tests/test_cmc_batch_fixed.py` have been committed, with 5/5 locally passing synthetic tests. Windows launcher `CHAY_FOLKLORE_CMC_BATCH_02.cmd` and pinned `CHAY_CMC_BATCH_02.ps1` delivered as `Folklore-CMC-Batch-0.2-TEST.zip`; byte length cannot change, original SHA checked and CMC backups preserved. This is **not** the full patch and has not been run on actual user game.
