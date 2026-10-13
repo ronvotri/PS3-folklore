@@ -1,0 +1,276 @@
+{
+  "schema": 1,
+  "game_id": "BCUS98147",
+  "kind": "REDACTED_CMC_BYTE_EXACT_ROUNDTRIP_AND_EXCEPTION_IDS",
+  "contains_game_bytes_or_source_text": false,
+  "scope": "Cataloged frame spans only; not parsed messages or all game text.",
+  "files_roundtripped": 134,
+  "candidates_verified": 1795,
+  "candidate_frames_recognized": 1744,
+  "candidates_opaque": 51,
+  "exception_reasons": {
+    "mod3_nonprintable_source_prefix": 3,
+    "not_000400_frame": 24,
+    "unexpected_mod1": 12,
+    "unexpected_mod2": 12
+  },
+  "exceptions": [
+    {
+      "id": "cmc/en/LCmc008_en.bi5_@0000309c",
+      "file_offset": 12444,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc020_en.bi5_@000035a6",
+      "file_offset": 13734,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc020_en.bi5_@00003645",
+      "file_offset": 13893,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc021_en.bi5_@000039ad",
+      "file_offset": 14765,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc021_en.bi5_@000039d6",
+      "file_offset": 14806,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc032_en.bi5_@00002c19",
+      "file_offset": 11289,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc042_en.bi5_@00004c48",
+      "file_offset": 19528,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc050_en.bi5_@000024c6",
+      "file_offset": 9414,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc104_en.bi5_@00002d55",
+      "file_offset": 11605,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc113_en.bi5_@00003aff",
+      "file_offset": 15103,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002d4a",
+      "file_offset": 11594,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc116_en.bi5_@00002e70",
+      "file_offset": 11888,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc128_en.bi5_@0000296e",
+      "file_offset": 10606,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc129_en.bi5_@00002fec",
+      "file_offset": 12268,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc129_en.bi5_@000030d6",
+      "file_offset": 12502,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc129_en.bi5_@0000335a",
+      "file_offset": 13146,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc130_en.bi5_@00002bfc",
+      "file_offset": 11260,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc131_en.bi5_@00003d78",
+      "file_offset": 15736,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc132_en.bi5_@00002bfe",
+      "file_offset": 11262,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc138_en.bi5_@000042b8",
+      "file_offset": 17080,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc139_en.bi5_@00003288",
+      "file_offset": 12936,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc139_en.bi5_@00003432",
+      "file_offset": 13362,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003aae",
+      "file_offset": 15022,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003b84",
+      "file_offset": 15236,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc140_en.bi5_@00003cdc",
+      "file_offset": 15580,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002dd9",
+      "file_offset": 11737,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00002ff9",
+      "file_offset": 12281,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc143_en.bi5_@00003063",
+      "file_offset": 12387,
+      "reason": "mod3_nonprintable_source_prefix"
+    },
+    {
+      "id": "cmc/en/LCmc146_en.bi5_@00003504",
+      "file_offset": 13572,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc153_en.bi5_@00002d50",
+      "file_offset": 11600,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc163_en.bi5_@00003d04",
+      "file_offset": 15620,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc203_en.bi5_@00002d1d",
+      "file_offset": 11549,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc208_en.bi5_@00003203",
+      "file_offset": 12803,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc210_en.bi5_@00003e5c",
+      "file_offset": 15964,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc213_en.bi5_@00002c06",
+      "file_offset": 11270,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00002f27",
+      "file_offset": 12071,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00002f9f",
+      "file_offset": 12191,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00002fdd",
+      "file_offset": 12253,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@0000300b",
+      "file_offset": 12299,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003094",
+      "file_offset": 12436,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@000030f2",
+      "file_offset": 12530,
+      "reason": "unexpected_mod2"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003174",
+      "file_offset": 12660,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@000031ef",
+      "file_offset": 12783,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003225",
+      "file_offset": 12837,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc800_en.bi5_@00003354",
+      "file_offset": 13140,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002c99",
+      "file_offset": 11417,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002ce3",
+      "file_offset": 11491,
+      "reason": "not_000400_frame"
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002df7",
+      "file_offset": 11767,
+      "reason": "mod3_nonprintable_source_prefix"
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002e9d",
+      "file_offset": 11933,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002ee9",
+      "file_offset": 12009,
+      "reason": "unexpected_mod1"
+    },
+    {
+      "id": "cmc/en/LCmc801_en.bi5_@00002fc3",
+      "file_offset": 12227,
+      "reason": "mod3_nonprintable_source_prefix"
+    }
+  ],
+  "message_parser_proven": false,
+  "repacker_available": false
+}
